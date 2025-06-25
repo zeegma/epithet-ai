@@ -2,7 +2,7 @@ import pandas as pd
 import random
 
 # GA parameters
-POPULATION_SIZE = 80
+POPULATION_SIZE = 100
 GENERATIONS = 100
 TOURNAMENT_SIZE = 3
 NUM_PARENTS = 10
@@ -56,7 +56,7 @@ def get_NN_personality():
     return chosen_trait
     
 # Initialize Population
-def initialize_population(word_pool, trait, NUM_PARENTS):
+def initialize_population(word_pool, trait):
     if trait not in word_pool:
         raise ValueError(f"trait '{trait}' not found in word pool")
     
@@ -66,7 +66,7 @@ def initialize_population(word_pool, trait, NUM_PARENTS):
 
     population = []
     for _ in range(POPULATION_SIZE):
-        individual = [random.choice(selected_words) for _ in range(NUM_PARENTS)] 
+        individual = [random.choice(selected_words) for _ in range(2)] 
         population.append(individual)
     return population
 
@@ -95,10 +95,10 @@ if __name__ == "__main__":
     trait = get_NN_personality()
 
     # Initialize population
-    population = initialize_population(word_pool, trait, NUM_PARENTS)
+    population = initialize_population(word_pool, trait)
 
     # Print initial population
     print("\nSample of initialized population:")
-    for i, individual in enumerate(population[:10]):
+    for i, individual in enumerate(population):
         print(f"Individual {i + 1}: {individual}")
     
