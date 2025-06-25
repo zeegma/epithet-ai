@@ -72,8 +72,10 @@ def initialize_population(word_pool, trait):
 
 # Fitness Function
 def fitness():
-    print("For fitness function")
-    # return fitness_score
+    # Return fitness score as basis of selection
+    # Replace fitness score (creativity score) once Creativity NN is done
+    # Import Creativity NN and use its function
+    return random.random()
 
 # Parent Selection
 def tournament_selection():
