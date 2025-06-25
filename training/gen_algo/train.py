@@ -5,7 +5,7 @@ import random
 POPULATION_SIZE = 100
 GENERATIONS = 100
 TOURNAMENT_SIZE = 3
-NUM_PARENTS = 10
+NUM_PARENTS = 50
 MUTATION_RATE = 0.1
 CROSSOVER_RATE = 0.8
 
@@ -71,15 +71,24 @@ def initialize_population(word_pool, trait):
     return population
 
 # Fitness Function
-def fitness():
+def fitness(individual):
     # Return fitness score as basis of selection
     # Replace fitness score (creativity score) once Creativity NN is done
     # Import Creativity NN and use its function
     return random.random()
 
 # Parent Selection
-def tournament_selection():
-    print("For parent selection")
+def tournament_selection(population):
+    parents = []
+    for _ in range(NUM_PARENTS):
+        # Select a subset of the population for tournament
+        tournament_group = random.sample(population, TOURNAMENT_SIZE)
+
+        # Determine the winner of each tournament_group based on fitness score
+        winner = max(tournament_group, key=fitness)
+        parents.append(winner)
+    return parents
+
 
 # Crossover Technique
 def uniform_crossover():
@@ -104,3 +113,8 @@ if __name__ == "__main__":
     for i, individual in enumerate(population):
         print(f"Individual {i + 1}: {individual}")
     
+    # Print sample selected parents
+    parents = tournament_selection(population)
+    print("\nSample of selected parents:")
+    for i, parent in enumerate(parents):
+        print(f"Parent {i + 1}: {parent}")
