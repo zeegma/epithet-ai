@@ -112,9 +112,23 @@ if __name__ == "__main__":
     print("\nSample of initialized population:")
     for i, individual in enumerate(population):
         print(f"Individual {i + 1}: {individual}")
+
+    # Enter the main GA loop
+    for generation in range(GENERATIONS):
+        print(f"\nGeneration {generation + 1}/{GENERATIONS}")
+
+        # [1] Selection
+        parents = tournament_selection(population)
+        
+        # [2] Mutation
+        # [3] Mutation
+        # Crossover and mutation create the next population
+        # Parents set as next population for now for testing purposes
+        population = parents
+
+    # End the GA loop
+    print("\nGA PROCESS COMPLETE")
     
-    # Print sample selected parents
-    parents = tournament_selection(population)
-    print("\nSample of selected parents:")
-    for i, parent in enumerate(parents):
-        print(f"Parent {i + 1}: {parent}")
+    # Find and display the best individual from the final population
+    best_individual = max(population, key=fitness)
+    print(f"Best Username Found: {''.join(best_individual)}")
