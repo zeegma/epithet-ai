@@ -13,7 +13,7 @@ def initialize_word_pool():
     try:
         print("\nParsing word_pool.xlsx...")
 
-        df = pd.read_excel('training\gen_algo\word_pool.xlsx')
+        df = pd.read_excel('data\word_pool.xlsx')
         df = df.map(lambda x: str(x).strip().replace('\xa0', '') if pd.notnull(x) else x)
         print("Successfully read word_pool.xlsx")
         word_categories = {}
