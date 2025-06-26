@@ -1,5 +1,6 @@
 import pandas as pd
 import random
+import os
 
 # GA parameters
 POPULATION_SIZE = 100
@@ -13,11 +14,11 @@ CROSSOVER_RATE = 0.8
 
 def initialize_word_pool():
     try:
-        print("\nParsing word_pool.xlsx...")
+        print("\n[PROCESS] Parsing word_pool.xlsx...")
 
         df = pd.read_excel('data\word_pool.xlsx')
         df = df.map(lambda x: str(x).strip().replace('\xa0', '') if pd.notnull(x) else x)
-        print("Successfully read word_pool.xlsx")
+        print("[STATUS] Successfully read word_pool.xlsx")
         word_categories = {}
 
         # For each column, extract trait and corresponding word list
@@ -32,7 +33,7 @@ def initialize_word_pool():
         return word_categories
 
     except FileNotFoundError:
-        raise FileNotFoundError("Error: word_pool.xlsx not found.")
+        raise FileNotFoundError("[ERROR] word_pool.xlsx not found.")
     
 # Print word pool table (For checking only)
 def print_word_table(df):
@@ -60,11 +61,11 @@ def get_NN_personality():
 # Initialize Population
 def initialize_population(word_pool, trait):
     if trait not in word_pool:
-        raise ValueError(f"trait '{trait}' not found in word pool")
+        raise ValueError(f"[ERROR] trait '{trait}' not found in word pool")
     
     # Words from the returned trait 
     selected_words = word_pool[trait]
-    print(f"\nUsing words from trait: {trait}")
+    print(f"\n[INFO] Using words from trait: {trait}")
 
     population = []
     for _ in range(POPULATION_SIZE):
@@ -164,47 +165,65 @@ def uniform_crossover(parents, CROSSOVER_RATE):
 
     for i in range(0, len(parents), 2):
         parent1 = parents[i]
-        parent2 = parents[i + 1]
-        
-        if random.random() < CROSSOVER_RATE:
-            child1 = []
-            child2 = []
-            for gene1, gene2 in zip(parent1, parent2):
-                if random.random() < 0.5:
-                    child1.append(gene1)
-                    child2.append(gene2)
-                else:
-                    child1.append(gene2)
-                    child2.append(gene1)
-            crossover_count += 1
-        else:
-            child1, child2 = parent1[:], parent2[:]
-            no_crossover_count += 1
+        # Ensure there is a second parent to pair with
+        if i + 1 < len(parents):
+            parent2 = parents[i + 1]
+            
+            if random.random() < CROSSOVER_RATE:
+                child1 = []
+                child2 = []
+                for gene1, gene2 in zip(parent1, parent2):
+                    if random.random() < 0.5:
+                        child1.append(gene1)
+                        child2.append(gene2)
+                    else:
+                        child1.append(gene2)
+                        child2.append(gene1)
+                crossover_count += 1
+            else:
+                child1, child2 = parent1[:], parent2[:]
+                no_crossover_count += 1
 
-        offsprings.extend([child1, child2])
+            offsprings.extend([child1, child2])
     
-    print(f"\nCrossover pairs: {crossover_count}")
-    print(f"No crossover pairs: {no_crossover_count}\n")
-
-    return offsprings
+    return offsprings, crossover_count, no_crossover_count
 
 # Mutation Technique
 def mutate(offsprings, selected_words, MUTATION_RATE):
-   
-    # Perform word replacement mutation
     mutated_offsprings = []
+    mutation_count = 0
     for individual in offsprings:
-        mutated_individual = individual[:]
-
+        mutated_individual = individual[:]  # Create a copy to modify
         for i in range(len(mutated_individual)):
+            # Check if mutation should occur for this word
             if random.random() < MUTATION_RATE:
                 # Replace the word with a new random word from the pool
                 mutated_individual[i] = random.choice(selected_words)
+                mutation_count += 1
         mutated_offsprings.append(mutated_individual)
-    return mutated_offsprings
-   
+    return mutated_offsprings, mutation_count
+
+def get_next_log_filename(log_dir):
+    os.makedirs(log_dir, exist_ok=True)  # Ensure the directory exists
+    base_name = "ga_log"
+    counter = 1
+    while True:
+        log_file = f"{base_name}_{counter}.txt"
+        log_path = os.path.join(log_dir, log_file)
+        if not os.path.exists(log_path):
+            return log_path
+        counter += 1
+
+def log_section(file, title, items):
+    file.write(f"[{title}]\n")
+    for i, item in enumerate(items):
+        file.write(f"{i + 1: >3}. {''.join(item)}\n")
+    file.write("\n")
 
 if __name__ == "__main__":
+    LOG_DIR = os.path.join("training", "gen_algo")
+    LOG_FILE = get_next_log_filename(LOG_DIR)
+
     # Load word pool
     word_pool = initialize_word_pool()
 
@@ -213,43 +232,49 @@ if __name__ == "__main__":
 
     # Initialize population
     population = initialize_population(word_pool, trait)
+    
+    # Get the word list for the chosen trait for mutation
     selected_words = word_pool[trait]
 
-    max_possible_distance = 2
-
-    # Print initial population
-    # print("\nSample of initialized population:")
-    # for i, individual in enumerate(population):
-    #   print(f"Individual {i + 1}: {individual}")
-
-    # Enter the main GA loop
-    for generation in range(GENERATIONS):
-
-        # [1] Selection
-        parents = tournament_selection(population)
+    with open(LOG_FILE, 'w') as f:
+        print(f"[PROCESS] GA running... Log will be saved to {LOG_FILE}")
         
-        # [2] Crossover
+        f.write("Epithet AI - Genetic Algorithm Log\n")
+        f.write("="*40 + "\n\n")
+        
+        log_section(f, "Initial Population", population)
 
-        # Get crossover_rate
-        # crossover_rate = get_adaptive_crossover_rate(generation, GENERATIONS)
+        # Enter the main GA loop
+        for generation in range(GENERATIONS):
+            f.write(f"========== Generation {generation + 1}/{GENERATIONS} ==========\n\n")
 
-        # Get diversity of current population + crossover_rate
-        # diversity = population_diversity(parents)
-        # crossover_rate = get_diversity_based_crossover_rate(diversity, max_possible_distance)
+            # [1] Selection
+            parents = tournament_selection(population)
+            f.write("SELECTION\n")
+            log_section(f, "Selected Parents", parents)
+            
+            # [2] Crossover
+            offsprings, crossover_count, no_crossover_count = uniform_crossover(parents, CROSSOVER_RATE)
+            f.write("CROSSOVER\n")
+            f.write("[Crossover Info]\n")
+            f.write(f"Crossover pairs: {crossover_count}\n")
+            f.write(f"No crossover pairs: {no_crossover_count}\n\n")
+            log_section(f, "Offspring after Crossover", offsprings)
 
-        offsprings = uniform_crossover(parents, CROSSOVER_RATE)
+            # [3] Mutation
+            population, mutation_count = mutate(offsprings, selected_words, MUTATION_RATE)
+            f.write("MUTATION\n")
+            f.write("[Mutation Info]\n")
+            f.write(f"Total mutations: {mutation_count}\n\n")
+            log_section(f, "New Population after Mutation", population)
 
-        print(f"Generation {generation + 1}/{GENERATIONS}: Crossover Rate = {CROSSOVER_RATE:.2f}")
-
-        # [3] Mutation
-        # Crossover and mutation create the next population
-        # Mutate offsprings for next population
-        population = mutate(offsprings, selected_words, MUTATION_RATE)
-        print(population)
-
-    # End the GA loop
-    print("\nGA PROCESS COMPLETE")
-    
-    # Find and display the best individual from the final population
-    best_individual = max(population, key=fitness)
-    print(f"Best Username Found: {''.join(best_individual)}")
+        # End the GA loop
+        f.write("="*40 + "\n")
+        f.write("GA PROCESS COMPLETE\n")
+        
+        # Find and display the best individual from the final population
+        best_individual = max(population, key=fitness)
+        result_message = f"Best Username Found: {''.join(best_individual)}\n"
+        
+        f.write(result_message)
+        print(f"\n{result_message}")
