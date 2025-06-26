@@ -1,9 +1,7 @@
 import streamlit as st
 import base64
 
-# Function to set the background image and bubble
 def set_bg_with_floating_bubble():
-    # Used to load and encode images
     try:
         with open("assets/background-photo.png", "rb") as image_file:
             bg_encoded = base64.b64encode(image_file.read()).decode()
@@ -23,7 +21,6 @@ def set_bg_with_floating_bubble():
         <style>
         @import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
 
-        /* Setting the background image */
         .stApp {{
             background-image: url(data:image/png;base64,{bg_encoded});
             background-size: cover;
@@ -38,7 +35,6 @@ def set_bg_with_floating_bubble():
             max-width: 100%;
         }}
 
-        /* Centering the bubble */
         .floating-container {{
             display: flex;
             justify-content: center;
@@ -52,7 +48,6 @@ def set_bg_with_floating_bubble():
             overflow: hidden;
         }}
 
-        /* Bubble styling and animation */
         .floating-bubble {{
             position: relative;
             width: 700px;
@@ -77,7 +72,6 @@ def set_bg_with_floating_bubble():
             }}
         }}
 
-        /* Text styling inside the bubble */
         .bubble-text {{
             font-family: 'Luckiest Guy', cursive;
             color: #E72B29;
@@ -88,28 +82,37 @@ def set_bg_with_floating_bubble():
             text-shadow: 4px 4px 8px rgba(0,0,0,0.5);
         }}
 
-        /* Quiz button styling */
-        .quiz-button {{
-            font-family: 'Luckiest Guy', cursive;
-            background-color: #E72B29;
-            color: white;
-            border: none;
-            padding: 20px 40px;
-            font-size: 1.8rem;
-            border-radius: 30px;
-            cursor: pointer;
-            box-shadow: 4px 4px 12px rgba(0,0,0,0.4);
-            transition: all 0.3s ease;
-            text-transform: uppercase;
+        /* Updated button styling */
+        div.stButton > button {{
+            font-family: 'Luckiest Guy', cursive !important;
+            background-color: #E72B29 !important;
+            color: white !important;
+            border: 3px solid #E72B29 !important;
+            padding: 15px 35px !important;
+            font-size: 1.5rem !important;
+            border-radius: 25px !important;
+            cursor: pointer !important;
+            box-shadow: 3px 3px 10px rgba(0,0,0,0.3) !important;
+            transition: all 0.3s ease !important;
+            text-transform: uppercase !important;
+            font-weight: normal !important;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3) !important;
         }}
 
-        .quiz-button:hover {{
-            background-color: #C6241F;
-            transform: translateY(-2px);
-            box-shadow: 6px 6px 16px rgba(0,0,0,0.5);
+        div.stButton > button:hover {{
+            background-color: white !important;
+            color: #E72B29 !important;
+            transform: translateY(-2px) !important;
+            box-shadow: 4px 4px 12px rgba(0,0,0,0.4) !important;
         }}
 
-        /* Responsive styling */
+        .stButton {{
+            display: flex !important;
+            justify-content: center !important;
+            align-items: center !important;
+            margin-top: 330px !important;
+        }}
+
         @media (max-width: 768px) {{
             .floating-bubble {{
                 width: 500px;
@@ -118,9 +121,9 @@ def set_bg_with_floating_bubble():
             .bubble-text {{
                 font-size: 2.5rem;
             }}
-            .quiz-button {{
-                font-size: 1.3rem;
-                padding: 15px 30px;
+            div.stButton > button {{
+                font-size: 1.2rem !important;
+                padding: 12px 25px !important;
             }}
         }}
         </style>
@@ -128,11 +131,10 @@ def set_bg_with_floating_bubble():
         unsafe_allow_html=True
     )
 
-# Function to render the landing page
 def show():
     set_bg_with_floating_bubble()
 
-    # HTML content for the title and button
+    # Layout the container
     st.markdown(
         """
         <div class="floating-container">
@@ -142,13 +144,12 @@ def show():
                     PERSONALITY<br>
                     GAME
                 </div>
-                <form action="?page=quiz" method="get">
-                    <button class="quiz-button" type="submit">
-                        Go to Quiz
-                    </button>
-                </form>
-            </div>
-        </div>
         """,
         unsafe_allow_html=True
     )
+
+    # Button with full styling - positioned within the bubble
+    if st.button("GO TO QUIZ", key="go_to_quiz_button"):
+        st.session_state.page = "quiz"
+        st.rerun()  
+    st.markdown("</div></div>", unsafe_allow_html=True)
