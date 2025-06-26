@@ -1,8 +1,9 @@
 import streamlit as st
 import base64
-import os
 
+# Function to set the background image and bubble
 def set_bg_with_floating_bubble():
+    # Used to load and encode images
     try:
         with open("assets/background-photo.png", "rb") as image_file:
             bg_encoded = base64.b64encode(image_file.read()).decode()
@@ -22,6 +23,7 @@ def set_bg_with_floating_bubble():
         <style>
         @import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
 
+        /* Setting the background image */
         .stApp {{
             background-image: url(data:image/png;base64,{bg_encoded});
             background-size: cover;
@@ -36,6 +38,7 @@ def set_bg_with_floating_bubble():
             max-width: 100%;
         }}
 
+        /* Centering the bubble */
         .floating-container {{
             display: flex;
             justify-content: center;
@@ -49,6 +52,7 @@ def set_bg_with_floating_bubble():
             overflow: hidden;
         }}
 
+        /* Bubble styling and animation */
         .floating-bubble {{
             position: relative;
             width: 700px;
@@ -73,6 +77,7 @@ def set_bg_with_floating_bubble():
             }}
         }}
 
+        /* Text styling inside the bubble */
         .bubble-text {{
             font-family: 'Luckiest Guy', cursive;
             color: #E72B29;
@@ -83,6 +88,7 @@ def set_bg_with_floating_bubble():
             text-shadow: 4px 4px 8px rgba(0,0,0,0.5);
         }}
 
+        /* Quiz button styling */
         .quiz-button {{
             font-family: 'Luckiest Guy', cursive;
             background-color: #E72B29;
@@ -103,6 +109,7 @@ def set_bg_with_floating_bubble():
             box-shadow: 6px 6px 16px rgba(0,0,0,0.5);
         }}
 
+        /* Responsive styling */
         @media (max-width: 768px) {{
             .floating-bubble {{
                 width: 500px;
@@ -121,9 +128,11 @@ def set_bg_with_floating_bubble():
         unsafe_allow_html=True
     )
 
+# Function to render the landing page
 def show():
     set_bg_with_floating_bubble()
 
+    # HTML content for the title and button
     st.markdown(
         """
         <div class="floating-container">
