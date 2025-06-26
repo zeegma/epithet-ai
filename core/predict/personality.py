@@ -24,6 +24,8 @@ def predict_personality(answers):
 
     # Convert and scale input using the saved scaler
     X = np.array([answers])
+
+    # Call preprocess correctly for prediction
     X_scaled = preprocess(X, scaler)
     X_tensor = torch.tensor(X_scaled, dtype=torch.float32)
 
@@ -35,8 +37,10 @@ def predict_personality(answers):
 
     # Predict using model
     with torch.no_grad():
-        output = model(X_tensor)
-        output = output.numpy().flatten()
+        logits = model(X_tensor)
+        # Apply softmax to convert logits to probabilities
+        probabilities = torch.softmax(logits, dim=1)
+        output = probabilities.numpy().flatten()
 
     # Map output to personality label
     result = dict(zip(personality_labels, output))
