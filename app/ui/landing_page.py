@@ -110,7 +110,7 @@ def set_bg_with_floating_bubble():
             display: flex !important;
             justify-content: center !important;
             align-items: center !important;
-            margin-top: 330px !important;
+            margin-top: 310px !important;
         }}
 
         @media (max-width: 768px) {{
