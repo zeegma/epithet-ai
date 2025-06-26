@@ -7,8 +7,10 @@ POPULATION_SIZE = 100
 GENERATIONS = 100
 TOURNAMENT_SIZE = 3
 NUM_PARENTS = 50
-MUTATION_RATE = 0.1
 CROSSOVER_RATE = 0.8
+MIN_MUTATION_RATE = 0.05
+MAX_MUTATION_RATE = 0.1
+
 # MIN_CROSSOVER_RATE = 0.4 (For Levenshtein)
 # MAX_CROSSOVER_RATE = 0.9
 
@@ -91,6 +93,57 @@ def tournament_selection(population):
         winner = max(tournament_group, key=fitness)
         parents.append(winner)
     return parents
+
+# Levenshtein Distance: Measures the difference between two strings
+def levenshtein_distance(s1, s2):
+    len1, len2 = len(s1), len(s2)
+    dp = [[0] * (len2 + 1) for _ in range(len1 + 1)]
+
+    for i in range(len1 + 1):
+        dp[i][0] = i
+    for j in range(len2 + 1):
+        dp[0][j] = j
+
+    for i in range(1, len1 + 1):
+        for j in range(1, len2 + 1):
+            cost = 0 if s1[i - 1] == s2[j - 1] else 1
+            dp[i][j] = min(
+                dp[i - 1][j] + 1,     # Deletion
+                dp[i][j - 1] + 1,     # Insertion
+                dp[i - 1][j - 1] + cost  # Substitution
+            )
+
+    return dp[len1][len2]
+
+
+# Population Diversity thru Levenshtein
+def population_diversity(population):
+    total_distance = 0
+    count = 0
+
+    for i in range(len(population)):
+        for j in range(i + 1, len(population)):
+            # Join the words to form a single string for comparison
+            ind1_str = "".join(population[i])
+            ind2_str = "".join(population[j])
+            total_distance += levenshtein_distance(ind1_str, ind2_str)
+            count += 1
+    return total_distance / count if count > 0 else 0
+
+# Mutation Rate changes based on diversity thru Levenshtein
+def get_adaptive_mutation_rate(diversity_score, max_possible_distance):
+
+    # Normalize the diversity score to a value between 0 and 1
+    if max_possible_distance > 0:
+        normalized_diversity = diversity_score / max_possible_distance
+    else: 
+        normalized_diversity = 0
+    
+    # Calculate the mutation rate using an inverse relationship to diversity
+    mutation_rate = MAX_MUTATION_RATE - (normalized_diversity * (MAX_MUTATION_RATE - MIN_MUTATION_RATE))
+    
+    # Ensure the rate is within the defined min/max bounds
+    return max(MIN_MUTATION_RATE, min(mutation_rate, MAX_MUTATION_RATE))
 
 '''
 # Adaptive Crossover Rate
@@ -236,6 +289,11 @@ if __name__ == "__main__":
     # Get the word list for the chosen trait for mutation
     selected_words = word_pool[trait]
 
+    # Calculate the max possible Levenshtein distance for normalization
+    # Rough estimation only for normalization purposes
+    longest_word_len = len(max(selected_words, key=len))
+    max_possible_distance = longest_word_len * 2 # Usernames are two words long
+
     with open(LOG_FILE, 'w') as f:
         print(f"[PROCESS] GA running... Log will be saved to {LOG_FILE}")
         
@@ -257,15 +315,22 @@ if __name__ == "__main__":
             offsprings, crossover_count, no_crossover_count = uniform_crossover(parents, CROSSOVER_RATE)
             f.write("CROSSOVER\n")
             f.write("[Crossover Info]\n")
-            f.write(f"Crossover pairs: {crossover_count}\n")
-            f.write(f"No crossover pairs: {no_crossover_count}\n\n")
+            f.write(f"Crossover Pairs: {crossover_count}\n")
+            f.write(f"No Crossover Pairs: {no_crossover_count}\n\n")
             log_section(f, "Offspring after Crossover", offsprings)
 
             # [3] Mutation
-            population, mutation_count = mutate(offsprings, selected_words, MUTATION_RATE)
+            # First, calculate the diversity of the current population of offspring
+            diversity = population_diversity(offsprings)
+            # Next, get the adaptive mutation rate based on this diversity
+            adaptive_mutation_rate = get_adaptive_mutation_rate(diversity, max_possible_distance)
+
+            population, mutation_count = mutate(offsprings, selected_words, adaptive_mutation_rate)
             f.write("MUTATION\n")
             f.write("[Mutation Info]\n")
-            f.write(f"Total mutations: {mutation_count}\n\n")
+            f.write(f"Population Diversity: {diversity:.4f}\n")
+            f.write(f"Adaptive Mutation Rate: {adaptive_mutation_rate:.4f}\n")
+            f.write(f"Total Mutations: {mutation_count}\n\n")
             log_section(f, "New Population after Mutation", population)
 
         # End the GA loop
