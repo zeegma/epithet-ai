@@ -14,25 +14,28 @@ def do_train():
 def do_predict():
     # Sample quiz input
     # Acelle
-    # answers = [4, 4, 2, 3, 2, 3, 4, 3, 1, 1, 2, 3, 4, 3, 1]
+    # answers = [1, 2, 1, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 4]
 
     # Ti met
-    # answers = [2, 3, 3, 1, 1, 3, 1, 3, 1, 3, 1, 2, 4, 4, 1]
+    # answers = [1, 1, 4, 4, 4, 1, 4, 1, 2, 2, 4, 4, 1, 4, 4]
 
     # Syruz Ken
-    # answers = [4, 3, 4, 1, 4, 2, 2, 2, 3, 1, 3, 2, 2, 4, 2]
+    # answers = [3, 1, 3, 4, 2, 4, 4, 2, 3, 2, 3, 4, 4, 1, 3]
 
     # Chrysler
-    # answers = [2, 3, 1, 1, 4, 4, 1, 1, 4, 1, 2, 3, 3, 4, 2]
+    # answers = [1, 2, 3, 4, 2, 2, 4, 3, 1, 4, 1, 3, 4, 4, 1]
 
     # Fervicmar
     # answers = [2, 4, 2, 3, 2, 3, 3, 2, 4, 1, 2, 2, 4, 3, 2]
 
     # Henry
-    # answers = [2, 2, 2, 1, 3, 1, 4, 1, 3, 1, 2, 1, 3, 1, 2]
+    # answers = [1, 4, 4, 2. 3, 1, 2, 4, 3, 2, 2, 1, 2, 3, 3, 3]
 
     # Princess Jane
-    answers = [4, 3, 2, 1, 2, 3, 3, 2, 3, 1, 2, 4, 2, 3, 2]
+    # answers = [3, 1, 1, 4, 1, 1, 3, 2, 3, 1, 1, 2, 1, 1, 3]
+
+    # Hands
+    answers = [3, 1, 1, 1, 1, 1, 3, 2, 1, 2, 1, 3, 4, 1, 1]
 
     # Predict using imported predict function
     _ = predict_personality(answers)
