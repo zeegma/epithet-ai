@@ -8,7 +8,7 @@ from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics import mean_squared_error
 from keras.callbacks import EarlyStopping
 
-TRAINED_MODEL = "../../models/creativity_model.keras"
+TRAINED_MODEL = "../../models/creativity_model256.keras"
 
 def train_creativity(X, y):
 
