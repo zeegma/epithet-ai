@@ -10,10 +10,12 @@ def load_data():
     )
     df = pd.read_csv(path)
 
+    # Remove any rows with missing values
+    df = df.dropna()
+
     # Inputs: Q1 to Q15 answers
     X = df[[f"Q{i}" for i in range(1, 16)]].values
 
-    # Encode class labels (Artista, Diva, etc.) to integers 0–7
-    y = LabelEncoder().fit_transform(df["Highest Category"])
+    y = LabelEncoder().fit_transform(df["Personality"])
 
     return X, y
