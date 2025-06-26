@@ -5,9 +5,9 @@ import joblib
 from keras.models import load_model
 
 # Path directories
-TRAINED_MODEL = "../models/creativity_model.keras"
+TRAINED_MODEL = "../models/creativity_model256.keras"
 WORD_VECTOR_PATH = "../training/nn_creativity/vectors/word_vectors.npz"
-SCALER = "../training/nn_creativity/scaler.save"
+SCALER = "../training/nn_creativity/data/scaler.save"
 
 
 # Main function that takes in the two words and the loaded model
@@ -31,9 +31,7 @@ def get_embeddings(input_username: list):
     alliteration_score = 1 if word1[0] == word2[0] else 0
 
     X = []
-    features = [cosine_score, alliteration_score]
-    features.extend(vec[0])
-    features.extend(vec[1])
+    features = [cosine_score]
     features.extend(mean_embedding)
     X.append(features)
 
@@ -59,7 +57,7 @@ def cosine_similarity(vec1, vec2):
 
 if __name__ == "__main__":
     model = load_model(TRAINED_MODEL)
-    creativity_nn(['Dancerist', 'Boom'], model)
-    creativity_nn(['Verse', 'Rainbow'], model)
-    creativity_nn(['Regine', 'Backstage'], model)
-    creativity_nn(['Poetic', 'Soloist'], model)
+    creativity_nn(['Baby','Creamy'], model)
+    creativity_nn(['Tinky', 'Blinky'], model)
+    creativity_nn(['Lily', 'Butter'], model)
+    creativity_nn(['Creamy', 'Pixie'], model)
