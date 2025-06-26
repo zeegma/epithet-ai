@@ -6,7 +6,7 @@ from train import train_creativity
 from numpy.linalg import norm
 
 MODEL_PATH = "creativity_embedded_dataset.npz"
-WORD_VECTOR_PATH = "word_vectors.npz"
+WORD_VECTOR_PATH = "vectors/word_vectors.npz"
 USERNAME_DATA = "username_data.csv"
 
 
