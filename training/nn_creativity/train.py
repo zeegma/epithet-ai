@@ -6,6 +6,7 @@ from keras.layers import Dense
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics import mean_squared_error
+from keras.callbacks import EarlyStopping
 
 TRAINED_MODEL = "../../models/creativity_model.keras"
 
@@ -16,7 +17,7 @@ def train_creativity(X, y):
     X_scaled = scaler.fit_transform(X)
 
     # Save the scaler to use for predicction
-    joblib.dump(scaler, "scaler.save")
+    joblib.dump(scaler, "data/scaler.save")
 
     # Split data into train and test
     X_train, X_test, y_train, y_test = train_test_split(
@@ -24,6 +25,7 @@ def train_creativity(X, y):
     )
 
     model = None
+    history = None
 
     # Check if model exists or not
     try:
@@ -33,22 +35,34 @@ def train_creativity(X, y):
 
         # Build a basic feedforward neural network
         model = Sequential([
-            Dense(64, input_dim=X.shape[1], activation='relu'),
+            Dense(64, input_dim=101, activation='relu'),
             Dense(32, activation='relu'),
-            Dense(1)  # Output layer for regression
+            Dense(1)
         ])
 
+
         # Compile model
-        model.compile(optimizer='adam', loss='mse', metrics=['mae'])
+        model.compile(optimizer='adam', loss='mse', metrics=['mae', 'root_mean_squared_error'])
+
+        early_stop = EarlyStopping(
+            monitor='val_loss',    
+            patience=100,           
+            restore_best_weights=True 
+        )
 
         # Train model with the following validation
-        model.fit(X_train, y_train, epochs=100, validation_split=0.1, batch_size=16)
+        history = model.fit(X_train, y_train, epochs=1000, validation_split=0.1, batch_size=16, callbacks=[early_stop])
 
         # Save the trained model
         model.save(TRAINED_MODEL)
 
     # Predict and evaluate using the testing split
     predictions = model.predict(X_test).flatten()
-
     mse = mean_squared_error(y_test, predictions)
-    print(f"\nMean Squared Error on test set: {mse:.4f}\n")
+    print(f"MSE: {mse}")
+
+    if history:
+        print("Final training MAE:", history.history['mae'][-1])
+        print("Final validation MAE:", history.history['val_mae'][-1])
+        print("Final training loss (MSE):", history.history['loss'][-1])
+        print("Final validation loss (MSE):", history.history['val_loss'][-1])
