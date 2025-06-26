@@ -1,3 +1,5 @@
+#1
+
 import pandas as pd
 import random
 import os
@@ -7,7 +9,8 @@ POPULATION_SIZE = 100
 GENERATIONS = 100
 TOURNAMENT_SIZE = 3
 NUM_PARENTS = 50
-CROSSOVER_RATE = 0.8
+INITIAL_CROSSOVER_RATE = 0.9
+DECAY_FACTOR = 0.5
 MIN_MUTATION_RATE = 0.05
 MAX_MUTATION_RATE = 0.1
 
@@ -27,32 +30,11 @@ def initialize_word_pool():
         for column in df.columns:
             word_list = df[column].dropna().tolist()
             word_categories[column] = word_list
-
-        # Print word pool
-        # print("\nWord Pool: \n")
-        # print_word_table(df)
         
         return word_categories
 
     except FileNotFoundError:
         raise FileNotFoundError("[ERROR] word_pool.xlsx not found.")
-    
-# Print word pool table (For checking only)
-def print_word_table(df):
-    # Headers
-    headers = list(df.columns)
-    row_data = df.fillna('').values.tolist()
-
-    # Print header
-    col_widths = [max(len(str(item)) for item in [header] + [row[i] for row in row_data]) for i, header in enumerate(headers)]
-    header_line = " | ".join(header.ljust(col_widths[i]) for i, header in enumerate(headers))
-    divider = "-+-".join('-' * col_widths[i] for i in range(len(headers)))
-    print(header_line)
-    print(divider)
-
-    # Print rows
-    for row in row_data:
-        print(" | ".join(str(row[i]).ljust(col_widths[i]) for i in range(len(headers))))
 
 # NN output (For checking only)
 def get_NN_personality():
@@ -145,70 +127,14 @@ def get_adaptive_mutation_rate(diversity_score, max_possible_distance):
     # Ensure the rate is within the defined min/max bounds
     return max(MIN_MUTATION_RATE, min(mutation_rate, MAX_MUTATION_RATE))
 
-'''
-# Adaptive Crossover Rate
-
 # Crossover Rate decreases each generation
 def get_adaptive_crossover_rate(current_generation, max_generations):
- # 0.9 as the INITIAL_CROSSOVER_RATE and 0.5 as the DECAY FACTOR
- return 0.9 - (0.5 * (current_generation / max_generations))
 
-
-# --- OR ---
-
-# Hamming Distance
-def hamming_distance(ind1, ind2):
-    return sum(g1 != g2 for g1, g2 in zip(ind1, ind2))
-
-# Crossover Rate changes based on diversity (Hamming)
-def get_adaptive_crossover_rate(diversity):
-    if diversity < 3:  # Too similar
-        return 0.9  # High crossover to introduce more variety
-    elif diversity > 6:  # Too diverse
-        return 0.5  # More stable recombination
-    else:
-        return 0.7  # Balanced crossover
-
-# --- OR ---
-
-# Levenshtein Distance
-def levenshtein_distance(s1, s2):
-    len1, len2 = len(s1), len(s2)
-    dp = [[0] * (len2 + 1) for _ in range(len1 + 1)]
-
-    for i in range(len1 + 1):
-        dp[i][0] = i
-    for j in range(len2 + 1):
-        dp[0][j] = j
-
-    for i in range(1, len1 + 1):
-        for j in range(1, len2 + 1):
-            cost = 0 if s1[i - 1] == s2[j - 1] else 1
-            dp[i][j] = min(
-                dp[i - 1][j] + 1,     # Deletion
-                dp[i][j - 1] + 1,     # Insertion
-                dp[i - 1][j - 1] + cost  # Substitution
-            )
-
-    return dp[len1][len2]
-
-
-# Population Diversity using Levenshtein
-def population_diversity(population):
-    total_distance = 0
-    count = 0
-    for i in range(len(population)):
-        for j in range(i + 1, len(population)):
-            total_distance += levenshtein_distance(population[i], population[j])
-            count += 1
-    return total_distance / count if count > 0 else 0
-
-# Crossover Rate changes based on diversity (Levenshtein)
-def get_diversity_based_crossover_rate(diversity_score, max_possible_distance):
-    normalized = diversity_score / max_possible_distance if max_possible_distance > 0 else 0
-    # High diversity = less crossover, Low diversity = more crossover
-    return MIN_CROSSOVER_RATE + (MAX_CROSSOVER_RATE - MIN_CROSSOVER_RATE) * (1 - normalized)
-'''
+    # Calculate how much the crossover rate should decrease based on the current generation
+    decay = (INITIAL_CROSSOVER_RATE - DECAY_FACTOR) * (current_generation / max_generations)
+    
+    # Ensure that the crossover rate does not fall below the DECAY_FACTOR
+    return max(DECAY_FACTOR, INITIAL_CROSSOVER_RATE - decay)
 
 # Crossover Technique
 def uniform_crossover(parents, CROSSOVER_RATE):
@@ -312,9 +238,12 @@ if __name__ == "__main__":
             log_section(f, "Selected Parents", parents)
             
             # [2] Crossover
-            offsprings, crossover_count, no_crossover_count = uniform_crossover(parents, CROSSOVER_RATE)
+            # Get the adaptive crossover rate
+            adaptive_crossover_rate = get_adaptive_crossover_rate(generation, GENERATIONS)
+            offsprings, crossover_count, no_crossover_count = uniform_crossover(parents, adaptive_crossover_rate)
             f.write("CROSSOVER\n")
             f.write("[Crossover Info]\n")
+            f.write(f"Adaptive Crossover Rate: {adaptive_crossover_rate:.4f}\n")
             f.write(f"Crossover Pairs: {crossover_count}\n")
             f.write(f"No Crossover Pairs: {no_crossover_count}\n\n")
             log_section(f, "Offspring after Crossover", offsprings)
