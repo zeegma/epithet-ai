@@ -189,8 +189,20 @@ def uniform_crossover(parents, CROSSOVER_RATE):
     return offsprings
 
 # Mutation Technique
-def mutate():
-    print("For mutation technique")
+def mutate(offsprings, selected_words, MUTATION_RATE):
+   
+    # Perform word replacement mutation
+    mutated_offsprings = []
+    for individual in offsprings:
+        mutated_individual = individual[:]
+
+        for i in range(len(mutated_individual)):
+            if random.random() < MUTATION_RATE:
+                # Replace the word with a new random word from the pool
+                mutated_individual[i] = random.choice(selected_words)
+        mutated_offsprings.append(mutated_individual)
+    return mutated_offsprings
+   
 
 if __name__ == "__main__":
     # Load word pool
@@ -201,6 +213,7 @@ if __name__ == "__main__":
 
     # Initialize population
     population = initialize_population(word_pool, trait)
+    selected_words = word_pool[trait]
 
     max_possible_distance = 2
 
@@ -230,8 +243,9 @@ if __name__ == "__main__":
 
         # [3] Mutation
         # Crossover and mutation create the next population
-        # Offsprings set as next population for now for testing purposes
-        population = offsprings
+        # Mutate offsprings for next population
+        population = mutate(offsprings, selected_words, MUTATION_RATE)
+        print(population)
 
     # End the GA loop
     print("\nGA PROCESS COMPLETE")
