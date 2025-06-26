@@ -1,5 +1,6 @@
 import pandas as pd
 import os
+from sklearn.preprocessing import LabelEncoder
 
 
 def load_data():
@@ -12,9 +13,7 @@ def load_data():
     # Inputs: Q1 to Q15 answers
     X = df[[f"Q{i}" for i in range(1, 16)]].values
 
-    # Targets: 8 softmax outputs per row
-    y = df[
-        ["Artista", "Diva", "OA", "Wildcard", "Achiever", "EMO", "Gamer", "Softie"]
-    ].values
+    # Encode class labels (Artista, Diva, etc.) to integers 0–7
+    y = LabelEncoder().fit_transform(df["Highest Category"])
 
     return X, y
