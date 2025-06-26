@@ -1,5 +1,5 @@
 
-import os
+import joblib
 
 from keras.models import Sequential, load_model
 from keras.layers import Dense
@@ -14,6 +14,9 @@ def train_creativity(X, y):
     # Normalize features for the model
     scaler = MinMaxScaler()
     X_scaled = scaler.fit_transform(X)
+
+    # Save the scaler to use for predicction
+    joblib.dump(scaler, "scaler.save")
 
     # Split data into train and test
     X_train, X_test, y_train, y_test = train_test_split(
