@@ -41,7 +41,7 @@ def initialize_word_pool():
 # Personality NN output 
 def get_NN_personality():
     traits = ["artista" , "diva", "oa", "wildcard", "achiever", "emo", "gamer", "softie"]
-    chosen_trait = "artista"
+    chosen_trait = random.choice(traits)
     return chosen_trait
     
 # Initialize Population
