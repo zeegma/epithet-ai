@@ -55,4 +55,4 @@ def predict_personality(answers):
         f"\nDominant personality: {max_personality[0]} (score: {max_personality[1]:.4f})"
     )
 
-    return max_personality
+    return max_personality[0]
