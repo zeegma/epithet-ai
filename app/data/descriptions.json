@@ -1,10 +1,34 @@
 {
-  "Diva": "Ikaw ang reyna ng eksena—pag pumasok ka, lahat napapalingon. Sobrang Latina! Kumukutitap kahit walang ilaw!",
-  "Artista": "Puno ng emosyon, parang teleserye sa bawat galaw. Laging may soundtrack sa utak!",
-  "OA": "Extra sa lahat ng bagay—kung tatawa, may echo; kung malungkot, pang-MMK. Literal na party in human form!",
-  "Wildcard": "Hindi mo alam kung anong aasahan—ngayon chill, bukas rockstar. Parang surprise egg ng buhay, laging may paandar!",
-  "Achiever": "Pressure is life, pahinga is weakness. Ikaw yung may 5-year plan at backup plan sa backup plan. Palaban, kahit pagod na!",
-  "EMO": "Tahimik pero malalim, parang spoken poetry sa ulan. Minsan dark, minsan dreamy—pero laging feels trip.",
-  "Gamer": "Laging on strat mode, clutch kung clutch. Ayaw matalo, galit sa lag, at may sariling leaderboard sa utak.",
-  "Softie": "Parang yakap sa tag-ulan—mabait, tahimik, at puno ng warm fuzzies. Ikaw yung friend na laging may baong hug."
+  "Diva": {
+    "description": "Ikaw ang reyna ng eksena—pag pumasok ka, lahat napapalingon. Sobrang Latina! Kumukutitap kahit walang ilaw!",
+    "audio": "assets/audio/Diva.mp3"
+  },
+  "Artista": {
+    "description": "Puno ng emosyon, parang teleserye sa bawat galaw. Laging may soundtrack sa utak!",
+    "audio": "assets/audio/Artista.mp3"
+  },
+  "OA": {
+    "description": "Extra sa lahat ng bagay—kung tatawa, may echo; kung malungkot, pang-MMK. Literal na party in human form!",
+    "audio": "assets/audio/OA.mp3"
+  },
+  "Wildcard": {
+    "description": "Hindi mo alam kung anong aasahan—ngayon chill, bukas rockstar. Parang surprise egg ng buhay, laging may paandar!",
+    "audio": "assets/audio/Wildcard.mp3"
+  },
+  "Achiever": {
+    "description": "Pressure is life, pahinga is weakness. Ikaw yung may 5-year plan at backup plan sa backup plan. Palaban, kahit pagod na!",
+    "audio": "assets/audio/Achiever.mp3"
+  },
+  "EMO": {
+    "description": "Tahimik pero malalim, parang spoken poetry sa ulan. Minsan dark, minsan dreamy—pero laging feels trip.",
+    "audio": "assets/audio/EMO.mp3"
+  },
+  "Gamer": {
+    "description": "Laging on strat mode, clutch kung clutch. Ayaw matalo, galit sa lag, at may sariling leaderboard sa utak.",
+    "audio": "assets/audio/Gamer.mp3"
+  },
+  "Softie": {
+    "description": "Parang yakap sa tag-ulan—mabait, tahimik, at puno ng warm fuzzies. Ikaw yung friend na laging may baong hug.",
+    "audio": "assets/audio/Softie.mp3"
+  }
 }

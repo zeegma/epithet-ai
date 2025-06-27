@@ -16,7 +16,7 @@ window.onload = async function () {
     const urlUsername = urlParams.get("username");
     const urlType = urlParams.get("type");
 
-    let username, personality_type, description;
+    let username, personality_type;
 
     if (urlUsername && urlType) {
       console.log("Live Mode - URL params");
@@ -32,10 +32,8 @@ window.onload = async function () {
         personality_type = parsed.personality_type;
         const generatedUsernameRaw = parsed.username;
 
-        // Capitalize & split
         const prettyUsername = splitAndCapitalize(generatedUsernameRaw);
 
-        // Compose with real name
         if (realName) {
           username =
             Math.random() < 0.5
@@ -55,7 +53,7 @@ window.onload = async function () {
     const res = await fetch("data/descriptions.json");
     if (!res.ok) throw new Error("Failed to load description file");
     const descriptions = await res.json();
-    description = descriptions[personality_type];
+    const { description, audio: audioPath } = descriptions[personality_type];
 
     // Apply results to page
     const imagePath = `assets/results/${personality_type.toLowerCase()}.png`;
@@ -63,11 +61,18 @@ window.onload = async function () {
     usernameDisplay.textContent = username;
     const article = /^[aeiou]/i.test(personality_type) ? "an" : "a";
     resultDisplay.textContent = `You are ${article} ${personality_type}! ${description}`;
+
+    // Play looping audio
+    const audio = new Audio(audioPath);
+    audio.loop = true;
+    audio.play().catch((err) => {
+      console.warn("Autoplay failed:", err);
+    });
+
   } catch (error) {
     console.error("Result display error:", error);
     bodyElement.style.backgroundColor = "#111";
-    document.getElementById("username-display").textContent = "ERROR";
-    document.getElementById("result-display").textContent =
-      error.message || "Unexpected error.";
+    usernameDisplay.textContent = "ERROR";
+    resultDisplay.textContent = error.message || "Unexpected error.";
   }
 };
