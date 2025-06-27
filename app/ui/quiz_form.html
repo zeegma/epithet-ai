@@ -101,10 +101,16 @@
       }
 
       .nav-buttons button {
-        padding: 10px 20px;
-        font-size: 16px;
+        background-color: #ff9900;
+        color: black;
+        border: none;
+        font-weight: bold;
+        font-family: "Comic Sans MS", cursive, sans-serif;
+        font-size: 18px;
+        padding: 10px 30px;
         cursor: pointer;
-        transition: transform 0.15s ease;
+        box-shadow: 4px 4px 0px #000000;
+        transition: transform 0.15s ease, box-shadow 0.15s ease;
       }
 
       .nav-buttons button:hover {
@@ -202,7 +208,7 @@
 
         const nextBtn = document.getElementById("nextBtn");
         nextBtn.textContent =
-          index === questions.length - 1 ? "SUBMIT" : "NEXT ➡";
+          index === questions.length - 1 ? "SUBMIT" : "NEXT";
       }
 
       function nextQuestion() {
