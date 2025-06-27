@@ -1,0 +1,4757 @@
+Epithet AI - Genetic Algorithm Log
+========================================
+
+[Initial Population]
+  1. PlasmaSynth
+  2. QuantumEpic
+  3. LovelyBrutal
+  4. VoidMellow
+  5. VoidKinetic
+  6. PreciseShadow
+  7. PatientStrategic
+  8. PhantomRetro
+  9. SleekPeachy
+ 10. VoidVelvet
+ 11. NoirChrome
+ 12. BinaryIntuitive
+ 13. TechnicalElite
+ 14. PreciseGlitchy
+ 15. PatientFatal
+ 16. PatientShadow
+ 17. DynamicLethal
+ 18. ViciousSystematic
+ 19. CalculatedMidnight
+ 20. AnalyticalTechnical
+ 21. RelentlessFocused
+ 22. AdaptiveUnstoppable
+ 23. PlasmaFluid
+ 24. BinaryReactive
+ 25. CoordinatedInvincible
+ 26. CleanQuantum
+ 27. VoidPeachy
+ 28. CerebralVolt
+ 29. BrutalTactical
+ 30. NoirClever
+ 31. RelentlessDreamy
+ 32. TwinklySparkly
+ 33. AlphaVapor
+ 34. PreciseUnstoppable
+ 35. FatalQuantum
+ 36. LethalSharp
+ 37. ViciousPhantom
+ 38. FatalSleek
+ 39. MethodicalGlitchy
+ 40. GlitchyFierce
+ 41. VenomousPrecise
+ 42. BrilliantNoir
+ 43. NeuralLethal
+ 44. SystematicSparkly
+ 45. MastermindBrilliant
+ 46. FatalPeachy
+ 47. StrategicTechnical
+ 48. CerebralObsidian
+ 49. VenomousBinary
+ 50. AnalyticalQuantum
+
+========== Generation 1/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CerebralObsidian
+  2. ViciousPhantom
+  3. FatalSleek
+  4. AlphaVapor
+  5. CerebralObsidian
+  6. AlphaVapor
+  7. CerebralVolt
+  8. NoirClever
+  9. AlphaVapor
+ 10. VenomousBinary
+ 11. VoidVelvet
+ 12. NoirClever
+ 13. PatientStrategic
+ 14. NeuralLethal
+ 15. VoidVelvet
+ 16. BrilliantNoir
+ 17. NoirClever
+ 18. PatientStrategic
+ 19. RelentlessFocused
+ 20. CerebralVolt
+ 21. NeuralLethal
+ 22. DynamicLethal
+ 23. TechnicalElite
+ 24. CerebralObsidian
+ 25. TechnicalElite
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. ViciousObsidian
+  2. CerebralPhantom
+  3. AlphaVapor
+  4. FatalSleek
+  5. CerebralObsidian
+  6. AlphaVapor
+  7. CerebralVolt
+  8. NoirClever
+  9. AlphaBinary
+ 10. VenomousVapor
+ 11. VoidClever
+ 12. NoirVelvet
+ 13. NeuralStrategic
+ 14. PatientLethal
+ 15. BrilliantVelvet
+ 16. VoidNoir
+ 17. NoirStrategic
+ 18. PatientClever
+ 19. CerebralFocused
+ 20. RelentlessVolt
+ 21. DynamicLethal
+ 22. NeuralLethal
+ 23. CerebralElite
+ 24. TechnicalObsidian
+
+MUTATION
+[Mutation Info]
+Population Diversity: 11.5145
+Adaptive Mutation Rate: 0.0738
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. ViciousObsidian
+  2. CerebralPhantom
+  3. AlphaVapor
+  4. FatalSleek
+  5. PlasmaObsidian
+  6. AlphaBinary
+  7. CerebralVolt
+  8. NoirClever
+  9. AlphaBinary
+ 10. VenomousVapor
+ 11. VoidClever
+ 12. NoirVelvet
+ 13. NeuralStrategic
+ 14. PatientLethal
+ 15. BrilliantVelvet
+ 16. VoidNoir
+ 17. NoirStrategic
+ 18. PatientClever
+ 19. CerebralFocused
+ 20. RelentlessVolt
+ 21. DynamicLethal
+ 22. NeuralLethal
+ 23. CerebralElite
+ 24. TechnicalObsidian
+
+========== Generation 2/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. VenomousVapor
+  2. NoirClever
+  3. DynamicLethal
+  4. CerebralVolt
+  5. CerebralPhantom
+  6. NeuralLethal
+  7. NeuralStrategic
+  8. CerebralPhantom
+  9. CerebralElite
+ 10. NoirClever
+ 11. NoirClever
+ 12. CerebralVolt
+ 13. AlphaVapor
+ 14. NeuralStrategic
+ 15. AlphaVapor
+ 16. AlphaVapor
+ 17. CerebralPhantom
+ 18. TechnicalObsidian
+ 19. PatientLethal
+ 20. NoirClever
+ 21. CerebralVolt
+ 22. PlasmaObsidian
+ 23. DynamicLethal
+ 24. PlasmaObsidian
+ 25. AlphaVapor
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. NoirClever
+  2. VenomousVapor
+  3. CerebralLethal
+  4. DynamicVolt
+  5. NeuralLethal
+  6. CerebralPhantom
+  7. CerebralStrategic
+  8. NeuralPhantom
+  9. NoirClever
+ 10. CerebralElite
+ 11. CerebralClever
+ 12. NoirVolt
+ 13. NeuralStrategic
+ 14. AlphaVapor
+ 15. AlphaVapor
+ 16. AlphaVapor
+ 17. CerebralPhantom
+ 18. TechnicalObsidian
+ 19. PatientClever
+ 20. NoirLethal
+ 21. CerebralVolt
+ 22. PlasmaObsidian
+ 23. PlasmaLethal
+ 24. DynamicObsidian
+
+MUTATION
+[Mutation Info]
+Population Diversity: 10.9239
+Adaptive Mutation Rate: 0.0752
+Total Mutations: 1
+
+[New Population after Mutation]
+  1. MellowClever
+  2. VenomousVapor
+  3. CerebralLethal
+  4. DynamicVolt
+  5. NeuralLethal
+  6. CerebralPhantom
+  7. CerebralStrategic
+  8. NeuralPhantom
+  9. NoirClever
+ 10. CerebralElite
+ 11. CerebralClever
+ 12. NoirVolt
+ 13. NeuralStrategic
+ 14. AlphaVapor
+ 15. AlphaVapor
+ 16. AlphaVapor
+ 17. CerebralPhantom
+ 18. TechnicalObsidian
+ 19. PatientClever
+ 20. NoirLethal
+ 21. CerebralVolt
+ 22. PlasmaObsidian
+ 23. PlasmaLethal
+ 24. DynamicObsidian
+
+========== Generation 3/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CerebralPhantom
+  2. NoirClever
+  3. NoirClever
+  4. VenomousVapor
+  5. CerebralPhantom
+  6. CerebralPhantom
+  7. AlphaVapor
+  8. CerebralVolt
+  9. CerebralPhantom
+ 10. AlphaVapor
+ 11. CerebralPhantom
+ 12. NeuralPhantom
+ 13. CerebralPhantom
+ 14. AlphaVapor
+ 15. AlphaVapor
+ 16. AlphaVapor
+ 17. NoirClever
+ 18. CerebralPhantom
+ 19. NoirLethal
+ 20. NoirLethal
+ 21. NeuralStrategic
+ 22. VenomousVapor
+ 23. VenomousVapor
+ 24. CerebralPhantom
+ 25. NoirLethal
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. NoirClever
+  2. CerebralPhantom
+  3. VenomousClever
+  4. NoirVapor
+  5. CerebralPhantom
+  6. CerebralPhantom
+  7. CerebralVapor
+  8. AlphaVolt
+  9. AlphaVapor
+ 10. CerebralPhantom
+ 11. NeuralPhantom
+ 12. CerebralPhantom
+ 13. AlphaVapor
+ 14. CerebralPhantom
+ 15. AlphaVapor
+ 16. AlphaVapor
+ 17. NoirClever
+ 18. CerebralPhantom
+ 19. NoirLethal
+ 20. NoirLethal
+ 21. NeuralStrategic
+ 22. VenomousVapor
+ 23. VenomousVapor
+ 24. CerebralPhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 9.0072
+Adaptive Mutation Rate: 0.0795
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. NoirClever
+  2. CerebralPhantom
+  3. VenomousClever
+  4. NoirVapor
+  5. CerebralPrecise
+  6. CerebralPhantom
+  7. StrategicVapor
+  8. AlphaVolt
+  9. AlphaVapor
+ 10. CerebralPhantom
+ 11. NeuralPhantom
+ 12. CerebralPhantom
+ 13. AlphaVapor
+ 14. CerebralPhantom
+ 15. AlphaVapor
+ 16. AlphaVapor
+ 17. NoirClever
+ 18. CerebralPhantom
+ 19. NoirLethal
+ 20. NoirClean
+ 21. NeuralStrategic
+ 22. VenomousVapor
+ 23. VenomousVapor
+ 24. CerebralPhantom
+
+========== Generation 4/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CerebralPhantom
+  2. CerebralPhantom
+  3. CerebralPhantom
+  4. CerebralPhantom
+  5. CerebralPhantom
+  6. CerebralPhantom
+  7. NeuralPhantom
+  8. NeuralPhantom
+  9. CerebralPhantom
+ 10. CerebralPhantom
+ 11. NoirClever
+ 12. NoirClever
+ 13. VenomousVapor
+ 14. CerebralPhantom
+ 15. NoirClever
+ 16. NoirClever
+ 17. CerebralPhantom
+ 18. CerebralPhantom
+ 19. CerebralPhantom
+ 20. CerebralPhantom
+ 21. CerebralPhantom
+ 22. CerebralPhantom
+ 23. CerebralPhantom
+ 24. AlphaVapor
+ 25. CerebralPhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. CerebralPhantom
+  2. CerebralPhantom
+  3. CerebralPhantom
+  4. CerebralPhantom
+  5. CerebralPhantom
+  6. CerebralPhantom
+  7. NeuralPhantom
+  8. NeuralPhantom
+  9. CerebralPhantom
+ 10. CerebralPhantom
+ 11. NoirClever
+ 12. NoirClever
+ 13. VenomousPhantom
+ 14. CerebralVapor
+ 15. NoirClever
+ 16. NoirClever
+ 17. CerebralPhantom
+ 18. CerebralPhantom
+ 19. CerebralPhantom
+ 20. CerebralPhantom
+ 21. CerebralPhantom
+ 22. CerebralPhantom
+ 23. CerebralPhantom
+ 24. AlphaVapor
+
+MUTATION
+[Mutation Info]
+Population Diversity: 5.6377
+Adaptive Mutation Rate: 0.0872
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. CerebralPhantom
+  2. CerebralPhantom
+  3. CerebralPhantom
+  4. CerebralPhantom
+  5. CerebralPhantom
+  6. CerebralPhantom
+  7. NeuralSleek
+  8. NeuralPhantom
+  9. CerebralPhantom
+ 10. CerebralPhantom
+ 11. NoirClever
+ 12. NoirClever
+ 13. VenomousPhantom
+ 14. CerebralVapor
+ 15. NoirCoordinated
+ 16. NoirClever
+ 17. CerebralPhantom
+ 18. CerebralPhantom
+ 19. CerebralPhantom
+ 20. CerebralPhantom
+ 21. CerebralPhantom
+ 22. CerebralPhantom
+ 23. CerebralPhantom
+ 24. AlphaVapor
+
+========== Generation 5/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CerebralPhantom
+  2. CerebralPhantom
+  3. CerebralPhantom
+  4. CerebralPhantom
+  5. CerebralPhantom
+  6. CerebralVapor
+  7. CerebralPhantom
+  8. NeuralSleek
+  9. CerebralPhantom
+ 10. CerebralPhantom
+ 11. CerebralPhantom
+ 12. CerebralPhantom
+ 13. CerebralPhantom
+ 14. CerebralPhantom
+ 15. CerebralPhantom
+ 16. CerebralPhantom
+ 17. CerebralPhantom
+ 18. CerebralPhantom
+ 19. CerebralPhantom
+ 20. CerebralPhantom
+ 21. CerebralPhantom
+ 22. CerebralPhantom
+ 23. CerebralPhantom
+ 24. CerebralPhantom
+ 25. CerebralPhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. CerebralPhantom
+  2. CerebralPhantom
+  3. CerebralPhantom
+  4. CerebralPhantom
+  5. CerebralPhantom
+  6. CerebralVapor
+  7. CerebralPhantom
+  8. NeuralSleek
+  9. CerebralPhantom
+ 10. CerebralPhantom
+ 11. CerebralPhantom
+ 12. CerebralPhantom
+ 13. CerebralPhantom
+ 14. CerebralPhantom
+ 15. CerebralPhantom
+ 16. CerebralPhantom
+ 17. CerebralPhantom
+ 18. CerebralPhantom
+ 19. CerebralPhantom
+ 20. CerebralPhantom
+ 21. CerebralPhantom
+ 22. CerebralPhantom
+ 23. CerebralPhantom
+ 24. CerebralPhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.3080
+Adaptive Mutation Rate: 0.0970
+Total Mutations: 1
+
+[New Population after Mutation]
+  1. CerebralPhantom
+  2. CerebralPhantom
+  3. CerebralPhantom
+  4. CerebralPhantom
+  5. CerebralPhantom
+  6. CerebralVapor
+  7. CerebralPhantom
+  8. SupremeSleek
+  9. CerebralPhantom
+ 10. CerebralPhantom
+ 11. CerebralPhantom
+ 12. CerebralPhantom
+ 13. CerebralPhantom
+ 14. CerebralPhantom
+ 15. CerebralPhantom
+ 16. CerebralPhantom
+ 17. CerebralPhantom
+ 18. CerebralPhantom
+ 19. CerebralPhantom
+ 20. CerebralPhantom
+ 21. CerebralPhantom
+ 22. CerebralPhantom
+ 23. CerebralPhantom
+ 24. CerebralPhantom
+
+========== Generation 6/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CerebralPhantom
+  2. CerebralPhantom
+  3. CerebralPhantom
+  4. CerebralPhantom
+  5. CerebralPhantom
+  6. CerebralPhantom
+  7. CerebralPhantom
+  8. CerebralPhantom
+  9. CerebralPhantom
+ 10. CerebralPhantom
+ 11. CerebralPhantom
+ 12. CerebralPhantom
+ 13. CerebralPhantom
+ 14. CerebralPhantom
+ 15. CerebralPhantom
+ 16. CerebralPhantom
+ 17. CerebralPhantom
+ 18. CerebralPhantom
+ 19. CerebralPhantom
+ 20. CerebralPhantom
+ 21. CerebralPhantom
+ 22. CerebralPhantom
+ 23. CerebralPhantom
+ 24. CerebralPhantom
+ 25. CerebralPhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. CerebralPhantom
+  2. CerebralPhantom
+  3. CerebralPhantom
+  4. CerebralPhantom
+  5. CerebralPhantom
+  6. CerebralPhantom
+  7. CerebralPhantom
+  8. CerebralPhantom
+  9. CerebralPhantom
+ 10. CerebralPhantom
+ 11. CerebralPhantom
+ 12. CerebralPhantom
+ 13. CerebralPhantom
+ 14. CerebralPhantom
+ 15. CerebralPhantom
+ 16. CerebralPhantom
+ 17. CerebralPhantom
+ 18. CerebralPhantom
+ 19. CerebralPhantom
+ 20. CerebralPhantom
+ 21. CerebralPhantom
+ 22. CerebralPhantom
+ 23. CerebralPhantom
+ 24. CerebralPhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. CerebralPhantom
+  2. CerebralPhantom
+  3. CerebralPhantom
+  4. CerebralPhantom
+  5. CerebralSleek
+  6. CerebralPhantom
+  7. CerebralPhantom
+  8. CerebralPhantom
+  9. CrimsonPhantom
+ 10. CerebralPhantom
+ 11. CerebralPhantom
+ 12. CerebralPhantom
+ 13. CerebralPhantom
+ 14. AdaptivePhantom
+ 15. CerebralPhantom
+ 16. CerebralPhantom
+ 17. CerebralPhantom
+ 18. CerebralPhantom
+ 19. CerebralPhantom
+ 20. CerebralPhantom
+ 21. CerebralPhantom
+ 22. CerebralPhantom
+ 23. CerebralPhantom
+ 24. ChromePhantom
+
+========== Generation 7/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. AdaptivePhantom
+  2. CerebralPhantom
+  3. CerebralPhantom
+  4. CerebralPhantom
+  5. CerebralPhantom
+  6. CerebralPhantom
+  7. CerebralPhantom
+  8. CerebralPhantom
+  9. CerebralPhantom
+ 10. CerebralPhantom
+ 11. AdaptivePhantom
+ 12. CerebralPhantom
+ 13. CerebralPhantom
+ 14. CerebralPhantom
+ 15. AdaptivePhantom
+ 16. CerebralPhantom
+ 17. CerebralPhantom
+ 18. CerebralPhantom
+ 19. CerebralPhantom
+ 20. AdaptivePhantom
+ 21. CerebralPhantom
+ 22. CerebralPhantom
+ 23. CerebralPhantom
+ 24. CerebralPhantom
+ 25. CerebralPhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. CerebralPhantom
+  2. AdaptivePhantom
+  3. CerebralPhantom
+  4. CerebralPhantom
+  5. CerebralPhantom
+  6. CerebralPhantom
+  7. CerebralPhantom
+  8. CerebralPhantom
+  9. CerebralPhantom
+ 10. CerebralPhantom
+ 11. CerebralPhantom
+ 12. AdaptivePhantom
+ 13. CerebralPhantom
+ 14. CerebralPhantom
+ 15. CerebralPhantom
+ 16. AdaptivePhantom
+ 17. CerebralPhantom
+ 18. CerebralPhantom
+ 19. CerebralPhantom
+ 20. AdaptivePhantom
+ 21. CerebralPhantom
+ 22. CerebralPhantom
+ 23. CerebralPhantom
+ 24. CerebralPhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 2.3188
+Adaptive Mutation Rate: 0.0947
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. CerebralPhantom
+  2. AdaptivePhantom
+  3. CerebralPhantom
+  4. CerebralInvincible
+  5. CerebralFatal
+  6. CerebralPhantom
+  7. CerebralVenomous
+  8. CerebralPhantom
+  9. CerebralPhantom
+ 10. CerebralPhantom
+ 11. CerebralPhantom
+ 12. AdaptivePhantom
+ 13. CerebralPhantom
+ 14. CerebralPhantom
+ 15. CerebralPhantom
+ 16. AdaptivePhantom
+ 17. CerebralPhantom
+ 18. CerebralPhantom
+ 19. CerebralTwinkly
+ 20. AdaptivePhantom
+ 21. CerebralPhantom
+ 22. CerebralPhantom
+ 23. CerebralPhantom
+ 24. CerebralPhantom
+
+========== Generation 8/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CerebralPhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. CerebralPhantom
+  5. AdaptivePhantom
+  6. CerebralPhantom
+  7. CerebralPhantom
+  8. CerebralPhantom
+  9. CerebralPhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. CerebralPhantom
+ 14. AdaptivePhantom
+ 15. CerebralPhantom
+ 16. CerebralPhantom
+ 17. CerebralPhantom
+ 18. AdaptivePhantom
+ 19. CerebralPhantom
+ 20. CerebralPhantom
+ 21. CerebralPhantom
+ 22. AdaptivePhantom
+ 23. CerebralPhantom
+ 24. CerebralPhantom
+ 25. AdaptivePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. CerebralPhantom
+  2. AdaptivePhantom
+  3. CerebralPhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. CerebralPhantom
+  7. CerebralPhantom
+  8. CerebralPhantom
+  9. CerebralPhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. CerebralPhantom
+ 15. CerebralPhantom
+ 16. CerebralPhantom
+ 17. AdaptivePhantom
+ 18. CerebralPhantom
+ 19. CerebralPhantom
+ 20. CerebralPhantom
+ 21. CerebralPhantom
+ 22. AdaptivePhantom
+ 23. CerebralPhantom
+ 24. CerebralPhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 3.9130
+Adaptive Mutation Rate: 0.0911
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. CerebralPhantom
+  2. NoirMidnight
+  3. CerebralPhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. CerebralPhantom
+  7. CerebralPhantom
+  8. CerebralPhantom
+  9. CerebralPhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. CerebralPhantom
+ 15. CerebralPhantom
+ 16. CerebralPhantom
+ 17. AdaptivePhantom
+ 18. CerebralPhantom
+ 19. CerebralMidnight
+ 20. CerebralPhantom
+ 21. CerebralPhantom
+ 22. AdaptivePhantom
+ 23. CerebralPhantom
+ 24. CerebralPhantom
+
+========== Generation 9/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. AdaptivePhantom
+  2. CerebralPhantom
+  3. AdaptivePhantom
+  4. CerebralPhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. CerebralPhantom
+ 10. AdaptivePhantom
+ 11. CerebralPhantom
+ 12. AdaptivePhantom
+ 13. CerebralPhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. CerebralPhantom
+ 17. AdaptivePhantom
+ 18. CerebralPhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. CerebralPhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+ 25. AdaptivePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AdaptivePhantom
+  2. CerebralPhantom
+  3. AdaptivePhantom
+  4. CerebralPhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. CerebralPhantom
+ 11. AdaptivePhantom
+ 12. CerebralPhantom
+ 13. CerebralPhantom
+ 14. AdaptivePhantom
+ 15. CerebralPhantom
+ 16. AdaptivePhantom
+ 17. CerebralPhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. CerebralPhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 3.7101
+Adaptive Mutation Rate: 0.0916
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. AdaptivePhantom
+  2. BrilliantPhantom
+  3. AdaptiveFierce
+  4. CerebralPhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. CerebralUnstoppable
+ 11. AdaptivePhantom
+ 12. CerebralPhantom
+ 13. CerebralPhantom
+ 14. DominantStrategic
+ 15. CerebralPhantom
+ 16. AdaptivePhantom
+ 17. CerebralPhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. CerebralPhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+
+========== Generation 10/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. AdaptivePhantom
+  2. CerebralPhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. CerebralPhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. CerebralPhantom
+ 24. AdaptivePhantom
+ 25. AdaptivePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AdaptivePhantom
+  2. CerebralPhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. CerebralPhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. CerebralPhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.8261
+Adaptive Mutation Rate: 0.0958
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. AdaptivePhantom
+  2. CerebralPhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptiveTactical
+ 11. CerebralPhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptiveGlitchy
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptiveRelentless
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. CerebralPhantom
+
+========== Generation 11/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+ 25. AdaptivePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. AdaptivePhantom
+  2. BinaryPhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. VenomousPhantom
+  9. AdaptivePhantom
+ 10. AlphaPhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptiveDigital
+ 19. CrimsonPhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptiveClean
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+
+========== Generation 12/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+ 25. AdaptivePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. AdaptiveLethal
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptiveElectric
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. DreamyPhantom
+ 18. AdaptivePhantom
+ 19. AdaptiveBrilliant
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptiveVolt
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+
+========== Generation 13/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+ 25. AdaptivePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. VirtuaPhantom
+  5. AdaptiveVapor
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. LegendaryStrategic
+ 16. DreamyPhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+
+========== Generation 14/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+ 25. AdaptivePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. AdaptiveQuantum
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptiveTactical
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. ShadowElectric
+ 22. AdaptivePhantom
+ 23. AdaptiveVenomous
+ 24. AdaptivePhantom
+
+========== Generation 15/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+ 25. AdaptivePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 9
+
+[New Population after Mutation]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptiveSleek
+  4. ElitePhantom
+  5. AdaptivePhantom
+  6. TechnicalPhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptiveSweet
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptiveRuthless
+ 15. AdaptivePrecise
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. KineticPhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptiveBrilliant
+ 24. StrategicPhantom
+
+========== Generation 16/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptiveSleek
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. TechnicalPhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+ 25. AdaptivePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptiveSleek
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. TechnicalPhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.2500
+Adaptive Mutation Rate: 0.0972
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptiveSleek
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. DynamicPhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. BlushyPhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptiveGodlike
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. MethodicalPhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptiveUnstoppable
+ 24. AdaptivePhantom
+
+========== Generation 17/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+ 25. AdaptivePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptiveApex
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptiveCoordinated
+ 11. AdaptivePhantom
+ 12. AdaptiveFocused
+ 13. RelentlessPhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptiveVolt
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptiveFocused
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+
+========== Generation 18/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+ 25. AdaptivePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. AdaptiveSleek
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptiveVelvet
+ 14. AdaptivePhantom
+ 15. AdaptiveVenomous
+ 16. AdaptiveReactive
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. MellowPhantom
+ 22. FatalPhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+
+========== Generation 19/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+ 25. AdaptivePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptiveRuthless
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptiveSystematic
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. PatientPhantom
+
+========== Generation 20/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+ 25. AdaptivePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. VirtuaVicious
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptiveKinetic
+
+========== Generation 21/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+ 25. AdaptivePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AnalyticalPhantom
+  4. ObsidianPhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptiveCoordinated
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. VaporPhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptiveRuthless
+ 19. AdaptivePhantom
+ 20. AdaptiveRelentless
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+
+========== Generation 22/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+ 25. AdaptivePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptiveUnstoppable
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. CalculatedPhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. LegendaryPhantom
+ 14. AdaptivePhantom
+ 15. DreamyPhantom
+ 16. AdaptivePhantom
+ 17. AdaptiveIntuitive
+ 18. CyberPhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptiveSystematic
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+
+========== Generation 23/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. LegendaryPhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. CyberPhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. CyberPhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. CyberPhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. CyberPhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+ 25. AdaptivePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AdaptivePhantom
+  2. LegendaryPhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. CyberPhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. CyberPhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. CyberPhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. CyberPhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 2.9239
+Adaptive Mutation Rate: 0.0934
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. AdaptivePhantom
+  2. LegendaryPhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. CyberPhantom
+  7. AdaptiveAlpha
+  8. AdaptivePhantom
+  9. CyberPhantom
+ 10. AdaptivePhantom
+ 11. FatalPhantom
+ 12. AdaptiveObsidian
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. CyberPhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. UnstoppablePhantom
+ 20. CyberRetro
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptiveStrategic
+ 24. AdaptivePhantom
+
+========== Generation 24/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CyberPhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. CyberPhantom
+  8. CyberPhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. CyberPhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. CyberRetro
+ 16. CyberPhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. CyberPhantom
+ 21. CyberPhantom
+ 22. CyberPhantom
+ 23. AdaptivePhantom
+ 24. CyberPhantom
+ 25. AdaptivePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 8
+No Crossover Pairs: 4
+
+[Offspring after Crossover]
+  1. AdaptivePhantom
+  2. CyberPhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. CyberPhantom
+  8. CyberPhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. CyberPhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. CyberPhantom
+ 16. CyberRetro
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. CyberPhantom
+ 21. CyberPhantom
+ 22. CyberPhantom
+ 23. AdaptivePhantom
+ 24. CyberPhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 4.5072
+Adaptive Mutation Rate: 0.0898
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. AdaptivePhantom
+  2. CyberPhantom
+  3. SharpPhantom
+  4. AdaptivePhantom
+  5. AdaptiveBlushy
+  6. AdaptivePhantom
+  7. CyberPhantom
+  8. CyberBrutal
+  9. AdaptivePhantom
+ 10. LethalPhantom
+ 11. CyberPhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePrime
+ 14. AdaptivePhantom
+ 15. CyberPhantom
+ 16. CyberRetro
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. CyberPhantom
+ 21. CyberPhantom
+ 22. CyberPhantom
+ 23. AdaptivePhantom
+ 24. CyberPhantom
+
+========== Generation 25/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CyberPhantom
+  2. AdaptivePhantom
+  3. CyberPhantom
+  4. CyberPhantom
+  5. CyberPhantom
+  6. CyberPhantom
+  7. CyberPhantom
+  8. CyberPhantom
+  9. CyberPhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. CyberPhantom
+ 13. CyberPhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. CyberPhantom
+ 18. CyberPhantom
+ 19. CyberPhantom
+ 20. CyberPhantom
+ 21. LethalPhantom
+ 22. AdaptivePhantom
+ 23. CyberPhantom
+ 24. AdaptivePhantom
+ 25. CyberPhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. CyberPhantom
+  2. AdaptivePhantom
+  3. CyberPhantom
+  4. CyberPhantom
+  5. CyberPhantom
+  6. CyberPhantom
+  7. CyberPhantom
+  8. CyberPhantom
+  9. CyberPhantom
+ 10. AdaptivePhantom
+ 11. CyberPhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. CyberPhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. CyberPhantom
+ 18. CyberPhantom
+ 19. CyberPhantom
+ 20. CyberPhantom
+ 21. AdaptivePhantom
+ 22. LethalPhantom
+ 23. CyberPhantom
+ 24. AdaptivePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 4.0072
+Adaptive Mutation Rate: 0.0909
+Total Mutations: 1
+
+[New Population after Mutation]
+  1. CyberPhantom
+  2. AdaptivePhantom
+  3. CyberPhantom
+  4. CyberPhantom
+  5. CyberPhantom
+  6. CyberPhantom
+  7. CyberPhantom
+  8. CyberPhantom
+  9. CyberPhantom
+ 10. AdaptivePhantom
+ 11. CyberPhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. CyberPhantom
+ 15. AdaptivePhantom
+ 16. AdaptiveCoordinated
+ 17. CyberPhantom
+ 18. CyberPhantom
+ 19. CyberPhantom
+ 20. CyberPhantom
+ 21. AdaptivePhantom
+ 22. LethalPhantom
+ 23. CyberPhantom
+ 24. AdaptivePhantom
+
+========== Generation 26/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CyberPhantom
+  2. CyberPhantom
+  3. CyberPhantom
+  4. CyberPhantom
+  5. CyberPhantom
+  6. CyberPhantom
+  7. CyberPhantom
+  8. CyberPhantom
+  9. CyberPhantom
+ 10. CyberPhantom
+ 11. CyberPhantom
+ 12. CyberPhantom
+ 13. LethalPhantom
+ 14. CyberPhantom
+ 15. CyberPhantom
+ 16. LethalPhantom
+ 17. CyberPhantom
+ 18. CyberPhantom
+ 19. CyberPhantom
+ 20. LethalPhantom
+ 21. CyberPhantom
+ 22. CyberPhantom
+ 23. CyberPhantom
+ 24. CyberPhantom
+ 25. CyberPhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. CyberPhantom
+  2. CyberPhantom
+  3. CyberPhantom
+  4. CyberPhantom
+  5. CyberPhantom
+  6. CyberPhantom
+  7. CyberPhantom
+  8. CyberPhantom
+  9. CyberPhantom
+ 10. CyberPhantom
+ 11. CyberPhantom
+ 12. CyberPhantom
+ 13. LethalPhantom
+ 14. CyberPhantom
+ 15. CyberPhantom
+ 16. LethalPhantom
+ 17. CyberPhantom
+ 18. CyberPhantom
+ 19. LethalPhantom
+ 20. CyberPhantom
+ 21. CyberPhantom
+ 22. CyberPhantom
+ 23. CyberPhantom
+ 24. CyberPhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.3696
+Adaptive Mutation Rate: 0.0969
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. CyberPhantom
+  2. CyberPhantom
+  3. CyberMidnight
+  4. CyberTactical
+  5. CyberPhantom
+  6. GhostPhantom
+  7. CyberPhantom
+  8. CyberPhantom
+  9. CyberPhantom
+ 10. CyberPhantom
+ 11. CyberPhantom
+ 12. CyberPhantom
+ 13. LethalLegendary
+ 14. CyberPhantom
+ 15. CyberPhantom
+ 16. LethalPhantom
+ 17. CyberPhantom
+ 18. CyberPhantom
+ 19. LethalPhantom
+ 20. CyberPhantom
+ 21. CyberPhantom
+ 22. GeniusPhantom
+ 23. CyberSystematic
+ 24. CyberPhantom
+
+========== Generation 27/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CyberPhantom
+  2. CyberPhantom
+  3. CyberPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. CyberPhantom
+ 11. LethalPhantom
+ 12. CyberPhantom
+ 13. CyberPhantom
+ 14. CyberPhantom
+ 15. CyberPhantom
+ 16. CyberPhantom
+ 17. CyberPhantom
+ 18. CyberPhantom
+ 19. CyberPhantom
+ 20. CyberPhantom
+ 21. CyberPhantom
+ 22. CyberPhantom
+ 23. CyberPhantom
+ 24. CyberPhantom
+ 25. LethalPhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. CyberPhantom
+  2. CyberPhantom
+  3. CyberPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. CyberPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. CyberPhantom
+ 13. CyberPhantom
+ 14. CyberPhantom
+ 15. CyberPhantom
+ 16. CyberPhantom
+ 17. CyberPhantom
+ 18. CyberPhantom
+ 19. CyberPhantom
+ 20. CyberPhantom
+ 21. CyberPhantom
+ 22. CyberPhantom
+ 23. CyberPhantom
+ 24. CyberPhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 2.5870
+Adaptive Mutation Rate: 0.0941
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. CyberPhantom
+  2. CyberPhantom
+  3. CyberPhantom
+  4. BlushyPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. CyberPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. FluidElite
+ 13. CyberPhantom
+ 14. CyberPhantom
+ 15. CyberPhantom
+ 16. CyberPhantom
+ 17. CyberPhantom
+ 18. CyberPhantom
+ 19. CyberPhantom
+ 20. CyberPhantom
+ 21. InvinciblePhantom
+ 22. CyberPhantom
+ 23. CyberPhantom
+ 24. CyberPhantom
+
+========== Generation 28/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. CyberPhantom
+  4. CyberPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. CyberPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. CyberPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. CyberPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. CyberPhantom
+ 20. CyberPhantom
+ 21. CyberPhantom
+ 22. CyberPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+ 25. CyberPhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. CyberPhantom
+  4. CyberPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. CyberPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. CyberPhantom
+ 13. CyberPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. CyberPhantom
+ 20. CyberPhantom
+ 21. CyberPhantom
+ 22. CyberPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 2.9348
+Adaptive Mutation Rate: 0.0933
+Total Mutations: 1
+
+[New Population after Mutation]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. CyberPhantom
+  4. CyberPhantom
+  5. LethalInvincible
+  6. LethalPhantom
+  7. CyberPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. CyberPhantom
+ 13. CyberPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. CyberPhantom
+ 20. CyberPhantom
+ 21. CyberPhantom
+ 22. CyberPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+
+========== Generation 29/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+ 25. LethalPhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPlasma
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalDreamy
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. TwinklyPhantom
+ 24. LethalPhantom
+
+========== Generation 30/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. TwinklyPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+ 25. LethalPhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. TwinklyPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5000
+Adaptive Mutation Rate: 0.0989
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. TwinklySleek
+  7. VoltPhantom
+  8. CrimsonPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. GhostPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. AdaptivePhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+
+========== Generation 31/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+ 25. LethalPhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. GeniusPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. GhostPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. FatalPhantom
+ 16. LethalPhantom
+ 17. LethalSystematic
+ 18. LethalStrategic
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+
+========== Generation 32/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+ 25. LethalPhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. LethalPhantom
+  2. FatalPhantom
+  3. LethalPhantom
+  4. LethalLovely
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalBinary
+ 24. LethalMethodical
+
+========== Generation 33/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+ 25. LethalPhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. LethalInvincible
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. EpicPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. BrilliantPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalDynamic
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalTactical
+ 23. LethalPhantom
+ 24. LethalPhantom
+
+========== Generation 34/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+ 25. LethalPhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalLethal
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. UnstoppablePhantom
+ 10. LethalPhantom
+ 11. SynthPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. InvinciblePhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+
+========== Generation 35/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+ 25. LethalPhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. GlitchyPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalDynamic
+  5. MethodicalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalClever
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalAlpha
+ 24. LethalPhantom
+
+========== Generation 36/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+ 25. LethalPhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. LethalGhost
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. TwinklyPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+
+========== Generation 37/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+ 25. LethalPhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. StrategicPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalRelentless
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalInvincible
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. PrecisePhantom
+ 20. ClutchPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalVelvet
+ 24. LethalPhantom
+
+========== Generation 38/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+ 25. LethalPhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. DigitalPlasma
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. DigitalPhantom
+ 12. LethalPhantom
+ 13. FatalBrutal
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalBinary
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+
+========== Generation 39/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+ 25. LethalPhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. TechnicalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. NoirPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalGhost
+ 18. LethalTechnical
+ 19. LethalPhantom
+ 20. LethalAdaptive
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalVapor
+ 24. LethalPhantom
+
+========== Generation 40/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. TechnicalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+ 25. LethalPhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. TechnicalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.4167
+Adaptive Mutation Rate: 0.0991
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. TechnicalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. BlushyPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalElite
+ 16. LethalPhantom
+ 17. FluidPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+
+========== Generation 41/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+ 25. LethalPhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalVirtua
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. VirtuaPhantom
+ 20. SparklyPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+
+========== Generation 42/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+ 25. LethalPhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. PrimePhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalFierce
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalFluid
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+
+========== Generation 43/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+ 25. LethalPhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalLovely
+  7. LethalPhantom
+  8. LethalPhantom
+  9. InvinciblePhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+
+========== Generation 44/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+ 25. LethalPhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. VoltClever
+  5. LethalPhantom
+  6. LethalPeachy
+  7. LethalPhantom
+  8. LethalPhantom
+  9. QuantumPhantom
+ 10. LethalGlitchy
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalQuantum
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalTactical
+
+========== Generation 45/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalQuantum
+ 23. LethalPhantom
+ 24. LethalPhantom
+ 25. LethalPhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalQuantum
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.2500
+Adaptive Mutation Rate: 0.0994
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. LethalSupreme
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalEclipse
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalDynamic
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalQuantum
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+
+========== Generation 46/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+ 25. LethalPhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalFocused
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalVirtua
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+
+========== Generation 47/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+ 25. LethalPhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. LethalPhantom
+  2. RetroPhantom
+  3. BlushyPhantom
+  4. LethalPhantom
+  5. VoidPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. GhostPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. CyberPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+
+========== Generation 48/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+ 25. LethalPhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. GeniusPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. GeniusPhantom
+ 11. LethalPhantom
+ 12. LethalAlpha
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. DreamyPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalClutch
+
+========== Generation 49/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+ 25. LethalPhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalObsidian
+  8. LethalTactical
+  9. LethalPhantom
+ 10. ApexPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalCalculated
+ 15. LethalPhantom
+ 16. EclipsePhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalSleek
+ 23. AdaptivePhantom
+ 24. LethalPhantom
+
+========== Generation 50/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+ 25. LethalPhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. LethalPhantom
+  2. LethalPhantom
+  3. LethalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalPhantom
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. LethalPhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalPhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. LethalPhantom
+  2. FatalPhantom
+  3. FatalPhantom
+  4. LethalPhantom
+  5. LethalPhantom
+  6. LethalPhantom
+  7. LethalPhantom
+  8. LethalPhantom
+  9. LethalPhantom
+ 10. LethalPhantom
+ 11. LethalPhantom
+ 12. LethalPhantom
+ 13. LethalPhantom
+ 14. LethalPhantom
+ 15. LethalPhantom
+ 16. LethalPhantom
+ 17. LethalAnalytical
+ 18. LethalPhantom
+ 19. LethalPhantom
+ 20. EclipsePhantom
+ 21. LethalPhantom
+ 22. LethalPhantom
+ 23. LethalPhantom
+ 24. LethalBlushy
+
+========================================
+GA PROCESS COMPLETE

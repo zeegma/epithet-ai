@@ -1,0 +1,4757 @@
+Epithet AI - Genetic Algorithm Log
+========================================
+
+[Initial Population]
+  1. EclipseAlpha
+  2. FatalApex
+  3. FatalTwinkly
+  4. MidnightSynth
+  5. TwinklyTactical
+  6. LethalSparkly
+  7. KineticEpic
+  8. StrategicClutch
+  9. LethalVirtua
+ 10. TacticalApex
+ 11. ShadowCrimson
+ 12. CoordinatedFocused
+ 13. PixelatedGlitchy
+ 14. NoirDominant
+ 15. NeuralFluid
+ 16. KineticSavage
+ 17. ApexVenomous
+ 18. LegendaryMastermind
+ 19. FocusedBrilliant
+ 20. FluidFierce
+ 21. RetroPeachy
+ 22. KineticTactical
+ 23. CerebralGodlike
+ 24. VoltDreamy
+ 25. BrilliantSystematic
+ 26. RelentlessPlasma
+ 27. PrimeApex
+ 28. GhostPatient
+ 29. ChromeIntuitive
+ 30. PrimeBlushy
+ 31. SynthSweet
+ 32. AnalyticalClean
+ 33. BlushySavage
+ 34. EpicMidnight
+ 35. CoordinatedBlushy
+ 36. BinaryPixelated
+ 37. EpicVolt
+ 38. ObsidianLovely
+ 39. InvincibleNoir
+ 40. VenomousVelvet
+ 41. ObsidianBinary
+ 42. CoordinatedDominant
+ 43. MidnightMellow
+ 44. BrilliantCrimson
+ 45. VenomousSweet
+ 46. RelentlessInvincible
+ 47. VelvetGenius
+ 48. EliteBinary
+ 49. ObsidianMidnight
+ 50. PhantomReactive
+
+========== Generation 1/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. TwinklyTactical
+  2. EpicVolt
+  3. VelvetGenius
+  4. EliteBinary
+  5. ChromeIntuitive
+  6. MidnightSynth
+  7. InvincibleNoir
+  8. BrilliantCrimson
+  9. EliteBinary
+ 10. VelvetGenius
+ 11. VoltDreamy
+ 12. VoltDreamy
+ 13. FatalTwinkly
+ 14. PixelatedGlitchy
+ 15. ChromeIntuitive
+ 16. TwinklyTactical
+ 17. VenomousSweet
+ 18. TacticalApex
+ 19. EliteBinary
+ 20. ApexVenomous
+ 21. ChromeIntuitive
+ 22. PrimeApex
+ 23. VenomousSweet
+ 24. PhantomReactive
+ 25. ChromeIntuitive
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. TwinklyVolt
+  2. EpicTactical
+  3. VelvetGenius
+  4. EliteBinary
+  5. ChromeIntuitive
+  6. MidnightSynth
+  7. BrilliantNoir
+  8. InvincibleCrimson
+  9. VelvetGenius
+ 10. EliteBinary
+ 11. VoltDreamy
+ 12. VoltDreamy
+ 13. PixelatedGlitchy
+ 14. FatalTwinkly
+ 15. ChromeTactical
+ 16. TwinklyIntuitive
+ 17. TacticalSweet
+ 18. VenomousApex
+ 19. ApexVenomous
+ 20. EliteBinary
+ 21. ChromeApex
+ 22. PrimeIntuitive
+ 23. VenomousSweet
+ 24. PhantomReactive
+
+MUTATION
+[Mutation Info]
+Population Diversity: 11.6014
+Adaptive Mutation Rate: 0.0736
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. TwinklyVolt
+  2. EpicTactical
+  3. TacticalGenius
+  4. EliteBinary
+  5. ChromeIntuitive
+  6. MidnightSynth
+  7. BrilliantDreamy
+  8. InvincibleCrimson
+  9. VelvetGenius
+ 10. EliteBinary
+ 11. VoltRuthless
+ 12. VoltDreamy
+ 13. PixelatedGlitchy
+ 14. FatalTwinkly
+ 15. ChromeTactical
+ 16. EclipseIntuitive
+ 17. TacticalSweet
+ 18. VenomousApex
+ 19. ApexVenomous
+ 20. EliteBinary
+ 21. ChromeApex
+ 22. PrimeIntuitive
+ 23. VenomousSweet
+ 24. PhantomReactive
+
+========== Generation 2/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. ChromeApex
+  2. VoltDreamy
+  3. MidnightSynth
+  4. EliteBinary
+  5. MidnightSynth
+  6. MidnightSynth
+  7. ApexVenomous
+  8. MidnightSynth
+  9. EliteBinary
+ 10. ChromeApex
+ 11. EliteBinary
+ 12. PixelatedGlitchy
+ 13. EclipseIntuitive
+ 14. PrimeIntuitive
+ 15. MidnightSynth
+ 16. VelvetGenius
+ 17. ChromeApex
+ 18. VelvetGenius
+ 19. InvincibleCrimson
+ 20. VelvetGenius
+ 21. EliteBinary
+ 22. BrilliantDreamy
+ 23. EliteBinary
+ 24. BrilliantDreamy
+ 25. EliteBinary
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. ChromeApex
+  2. VoltDreamy
+  3. MidnightBinary
+  4. EliteSynth
+  5. MidnightSynth
+  6. MidnightSynth
+  7. ApexVenomous
+  8. MidnightSynth
+  9. EliteApex
+ 10. ChromeBinary
+ 11. PixelatedBinary
+ 12. EliteGlitchy
+ 13. PrimeIntuitive
+ 14. EclipseIntuitive
+ 15. MidnightSynth
+ 16. VelvetGenius
+ 17. VelvetApex
+ 18. ChromeGenius
+ 19. VelvetCrimson
+ 20. InvincibleGenius
+ 21. BrilliantBinary
+ 22. EliteDreamy
+ 23. EliteDreamy
+ 24. BrilliantBinary
+
+MUTATION
+[Mutation Info]
+Population Diversity: 10.7391
+Adaptive Mutation Rate: 0.0756
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. TwinklyApex
+  2. VoltDreamy
+  3. MidnightBinary
+  4. EliteMethodical
+  5. MidnightSynth
+  6. MidnightSynth
+  7. ApexVenomous
+  8. MidnightSynth
+  9. EliteApex
+ 10. ChromeBinary
+ 11. PixelatedBinary
+ 12. EliteGlitchy
+ 13. PrimeIntuitive
+ 14. EclipseGlitchy
+ 15. MidnightSynth
+ 16. VelvetGenius
+ 17. VelvetApex
+ 18. ChromeGenius
+ 19. VelvetCrimson
+ 20. FluidGenius
+ 21. BrilliantBinary
+ 22. EliteDreamy
+ 23. ReactiveDreamy
+ 24. BrilliantBinary
+
+========== Generation 3/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. EclipseGlitchy
+  2. MidnightSynth
+  3. VoltDreamy
+  4. MidnightSynth
+  5. TwinklyApex
+  6. MidnightSynth
+  7. MidnightSynth
+  8. MidnightSynth
+  9. MidnightSynth
+ 10. EliteDreamy
+ 11. MidnightSynth
+ 12. MidnightSynth
+ 13. MidnightSynth
+ 14. EliteDreamy
+ 15. MidnightSynth
+ 16. MidnightSynth
+ 17. EliteGlitchy
+ 18. ChromeGenius
+ 19. MidnightSynth
+ 20. VoltDreamy
+ 21. VelvetGenius
+ 22. EclipseGlitchy
+ 23. MidnightSynth
+ 24. TwinklyApex
+ 25. ChromeGenius
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. EclipseGlitchy
+  2. MidnightSynth
+  3. VoltSynth
+  4. MidnightDreamy
+  5. MidnightApex
+  6. TwinklySynth
+  7. MidnightSynth
+  8. MidnightSynth
+  9. MidnightSynth
+ 10. EliteDreamy
+ 11. MidnightSynth
+ 12. MidnightSynth
+ 13. EliteDreamy
+ 14. MidnightSynth
+ 15. MidnightSynth
+ 16. MidnightSynth
+ 17. EliteGlitchy
+ 18. ChromeGenius
+ 19. VoltDreamy
+ 20. MidnightSynth
+ 21. VelvetGenius
+ 22. EclipseGlitchy
+ 23. MidnightApex
+ 24. TwinklySynth
+
+MUTATION
+[Mutation Info]
+Population Diversity: 8.1159
+Adaptive Mutation Rate: 0.0816
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. InvincibleGlitchy
+  2. MidnightSynth
+  3. VoltSynth
+  4. MidnightVenomous
+  5. MidnightSweet
+  6. TwinklySynth
+  7. MidnightSynth
+  8. MidnightSynth
+  9. MidnightSynth
+ 10. EliteStrategic
+ 11. MidnightSynth
+ 12. MidnightSynth
+ 13. EliteDreamy
+ 14. MidnightSynth
+ 15. MidnightSynth
+ 16. MidnightSynth
+ 17. EliteGlitchy
+ 18. ReactiveGenius
+ 19. VoltDreamy
+ 20. MidnightRetro
+ 21. VelvetGlitchy
+ 22. EclipseGlitchy
+ 23. MidnightApex
+ 24. TwinklyLegendary
+
+========== Generation 4/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. MidnightSynth
+  2. TwinklyLegendary
+  3. MidnightSynth
+  4. TwinklySynth
+  5. MidnightSynth
+  6. MidnightSynth
+  7. MidnightSynth
+  8. MidnightSynth
+  9. MidnightSynth
+ 10. MidnightSynth
+ 11. MidnightSynth
+ 12. MidnightSynth
+ 13. MidnightSynth
+ 14. TwinklyLegendary
+ 15. TwinklySynth
+ 16. VoltSynth
+ 17. MidnightSynth
+ 18. MidnightSynth
+ 19. MidnightSynth
+ 20. TwinklyLegendary
+ 21. MidnightSynth
+ 22. MidnightSynth
+ 23. VoltDreamy
+ 24. TwinklySynth
+ 25. MidnightSynth
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. TwinklyLegendary
+  2. MidnightSynth
+  3. MidnightSynth
+  4. TwinklySynth
+  5. MidnightSynth
+  6. MidnightSynth
+  7. MidnightSynth
+  8. MidnightSynth
+  9. MidnightSynth
+ 10. MidnightSynth
+ 11. MidnightSynth
+ 12. MidnightSynth
+ 13. MidnightLegendary
+ 14. TwinklySynth
+ 15. VoltSynth
+ 16. TwinklySynth
+ 17. MidnightSynth
+ 18. MidnightSynth
+ 19. MidnightSynth
+ 20. TwinklyLegendary
+ 21. MidnightSynth
+ 22. MidnightSynth
+ 23. TwinklySynth
+ 24. VoltDreamy
+
+MUTATION
+[Mutation Info]
+Population Diversity: 5.5833
+Adaptive Mutation Rate: 0.0873
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. TwinklyLegendary
+  2. MidnightSynth
+  3. MidnightSynth
+  4. TwinklySynth
+  5. MidnightSynth
+  6. MidnightSynth
+  7. MidnightAlpha
+  8. MidnightSynth
+  9. MidnightSynth
+ 10. MidnightSynth
+ 11. MidnightSynth
+ 12. MidnightElite
+ 13. MidnightLegendary
+ 14. TwinklySynth
+ 15. VoltSynth
+ 16. TwinklySynth
+ 17. MidnightSynth
+ 18. MidnightSynth
+ 19. MidnightSynth
+ 20. TwinklyLegendary
+ 21. MidnightSynth
+ 22. MidnightSynth
+ 23. TwinklySynth
+ 24. VoltDreamy
+
+========== Generation 5/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. MidnightSynth
+  2. TwinklyLegendary
+  3. TwinklySynth
+  4. MidnightSynth
+  5. TwinklyLegendary
+  6. MidnightSynth
+  7. TwinklySynth
+  8. MidnightSynth
+  9. TwinklySynth
+ 10. MidnightSynth
+ 11. TwinklySynth
+ 12. MidnightSynth
+ 13. TwinklySynth
+ 14. TwinklyLegendary
+ 15. TwinklyLegendary
+ 16. TwinklyLegendary
+ 17. MidnightSynth
+ 18. TwinklySynth
+ 19. TwinklyLegendary
+ 20. TwinklySynth
+ 21. MidnightSynth
+ 22. TwinklySynth
+ 23. TwinklySynth
+ 24. MidnightSynth
+ 25. MidnightSynth
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. TwinklySynth
+  2. MidnightLegendary
+  3. TwinklySynth
+  4. MidnightSynth
+  5. MidnightLegendary
+  6. TwinklySynth
+  7. TwinklySynth
+  8. MidnightSynth
+  9. MidnightSynth
+ 10. TwinklySynth
+ 11. MidnightSynth
+ 12. TwinklySynth
+ 13. TwinklyLegendary
+ 14. TwinklySynth
+ 15. TwinklyLegendary
+ 16. TwinklyLegendary
+ 17. TwinklySynth
+ 18. MidnightSynth
+ 19. TwinklySynth
+ 20. TwinklyLegendary
+ 21. MidnightSynth
+ 22. TwinklySynth
+ 23. MidnightSynth
+ 24. TwinklySynth
+
+MUTATION
+[Mutation Info]
+Population Diversity: 6.4529
+Adaptive Mutation Rate: 0.0853
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. TwinklyCerebral
+  2. MidnightLegendary
+  3. TwinklySynth
+  4. MidnightSynth
+  5. MidnightLegendary
+  6. TwinklySynth
+  7. TwinklySynth
+  8. SleekSynth
+  9. MidnightSynth
+ 10. TwinklySynth
+ 11. MidnightSynth
+ 12. TwinklySynth
+ 13. TwinklyLegendary
+ 14. TwinklySynth
+ 15. TwinklyLegendary
+ 16. TwinklyLegendary
+ 17. TwinklyAdaptive
+ 18. MidnightCyber
+ 19. TwinklySynth
+ 20. TwinklyLegendary
+ 21. MidnightSynth
+ 22. TwinklySynth
+ 23. MidnightSynth
+ 24. TwinklySynth
+
+========== Generation 6/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. TwinklySynth
+  2. TwinklySynth
+  3. TwinklySynth
+  4. MidnightSynth
+  5. TwinklySynth
+  6. TwinklySynth
+  7. TwinklySynth
+  8. TwinklySynth
+  9. TwinklySynth
+ 10. TwinklyCerebral
+ 11. TwinklySynth
+ 12. TwinklySynth
+ 13. TwinklySynth
+ 14. TwinklySynth
+ 15. TwinklySynth
+ 16. TwinklyAdaptive
+ 17. TwinklySynth
+ 18. TwinklySynth
+ 19. TwinklySynth
+ 20. TwinklyLegendary
+ 21. TwinklySynth
+ 22. TwinklyLegendary
+ 23. TwinklyAdaptive
+ 24. TwinklySynth
+ 25. TwinklySynth
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. TwinklySynth
+  2. TwinklySynth
+  3. TwinklySynth
+  4. MidnightSynth
+  5. TwinklySynth
+  6. TwinklySynth
+  7. TwinklySynth
+  8. TwinklySynth
+  9. TwinklySynth
+ 10. TwinklyCerebral
+ 11. TwinklySynth
+ 12. TwinklySynth
+ 13. TwinklySynth
+ 14. TwinklySynth
+ 15. TwinklyAdaptive
+ 16. TwinklySynth
+ 17. TwinklySynth
+ 18. TwinklySynth
+ 19. TwinklyLegendary
+ 20. TwinklySynth
+ 21. TwinklySynth
+ 22. TwinklyLegendary
+ 23. TwinklyAdaptive
+ 24. TwinklySynth
+
+MUTATION
+[Mutation Info]
+Population Diversity: 3.4130
+Adaptive Mutation Rate: 0.0922
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. TwinklySynth
+  2. TwinklySynth
+  3. TwinklySynth
+  4. MidnightSynth
+  5. TwinklySynth
+  6. TwinklySynth
+  7. TwinklySynth
+  8. TwinklySynth
+  9. TwinklyMellow
+ 10. TwinklyCerebral
+ 11. TwinklyBlushy
+ 12. TwinklySynth
+ 13. CerebralSynth
+ 14. TwinklySynth
+ 15. TwinklyAdaptive
+ 16. TwinklySynth
+ 17. TwinklySynth
+ 18. TwinklySynth
+ 19. TwinklyLegendary
+ 20. TwinklySynth
+ 21. TwinklySynth
+ 22. TwinklyLegendary
+ 23. TwinklyAdaptive
+ 24. TwinklySynth
+
+========== Generation 7/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. TwinklySynth
+  2. TwinklySynth
+  3. TwinklySynth
+  4. TwinklySynth
+  5. TwinklySynth
+  6. TwinklySynth
+  7. TwinklySynth
+  8. TwinklySynth
+  9. TwinklySynth
+ 10. TwinklySynth
+ 11. TwinklySynth
+ 12. TwinklySynth
+ 13. TwinklySynth
+ 14. TwinklySynth
+ 15. TwinklySynth
+ 16. TwinklyLegendary
+ 17. TwinklySynth
+ 18. TwinklySynth
+ 19. TwinklySynth
+ 20. TwinklySynth
+ 21. TwinklySynth
+ 22. TwinklySynth
+ 23. TwinklySynth
+ 24. TwinklySynth
+ 25. TwinklySynth
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. TwinklySynth
+  2. TwinklySynth
+  3. TwinklySynth
+  4. TwinklySynth
+  5. TwinklySynth
+  6. TwinklySynth
+  7. TwinklySynth
+  8. TwinklySynth
+  9. TwinklySynth
+ 10. TwinklySynth
+ 11. TwinklySynth
+ 12. TwinklySynth
+ 13. TwinklySynth
+ 14. TwinklySynth
+ 15. TwinklyLegendary
+ 16. TwinklySynth
+ 17. TwinklySynth
+ 18. TwinklySynth
+ 19. TwinklySynth
+ 20. TwinklySynth
+ 21. TwinklySynth
+ 22. TwinklySynth
+ 23. TwinklySynth
+ 24. TwinklySynth
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.6667
+Adaptive Mutation Rate: 0.0985
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. TwinklySynth
+  2. TwinklySynth
+  3. TwinklySynth
+  4. TwinklySynth
+  5. TwinklySynth
+  6. TwinklySynth
+  7. TwinklySynth
+  8. TwinklySynth
+  9. TwinklySynth
+ 10. TwinklySynth
+ 11. TwinklyVicious
+ 12. TwinklySynth
+ 13. TwinklySynth
+ 14. TwinklySynth
+ 15. TwinklyLegendary
+ 16. TwinklySynth
+ 17. TwinklySynth
+ 18. IntuitiveSynth
+ 19. TwinklySynth
+ 20. TwinklySynth
+ 21. TwinklySynth
+ 22. TwinklyCrimson
+ 23. TwinklySynth
+ 24. TwinklySynth
+
+========== Generation 8/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. TwinklySynth
+  2. TwinklySynth
+  3. TwinklySynth
+  4. TwinklySynth
+  5. TwinklySynth
+  6. TwinklySynth
+  7. TwinklySynth
+  8. TwinklySynth
+  9. TwinklySynth
+ 10. TwinklySynth
+ 11. TwinklySynth
+ 12. TwinklySynth
+ 13. TwinklySynth
+ 14. TwinklySynth
+ 15. TwinklySynth
+ 16. TwinklySynth
+ 17. TwinklySynth
+ 18. TwinklySynth
+ 19. TwinklySynth
+ 20. TwinklySynth
+ 21. TwinklySynth
+ 22. TwinklySynth
+ 23. TwinklySynth
+ 24. TwinklySynth
+ 25. TwinklySynth
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. TwinklySynth
+  2. TwinklySynth
+  3. TwinklySynth
+  4. TwinklySynth
+  5. TwinklySynth
+  6. TwinklySynth
+  7. TwinklySynth
+  8. TwinklySynth
+  9. TwinklySynth
+ 10. TwinklySynth
+ 11. TwinklySynth
+ 12. TwinklySynth
+ 13. TwinklySynth
+ 14. TwinklySynth
+ 15. TwinklySynth
+ 16. TwinklySynth
+ 17. TwinklySynth
+ 18. TwinklySynth
+ 19. TwinklySynth
+ 20. TwinklySynth
+ 21. TwinklySynth
+ 22. TwinklySynth
+ 23. TwinklySynth
+ 24. TwinklySynth
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. TwinklySynth
+  2. TwinklySleek
+  3. TwinklySynth
+  4. TwinklySynth
+  5. GodlikeSynth
+  6. TwinklySynth
+  7. TwinklySynth
+  8. TwinklySynth
+  9. TwinklySynth
+ 10. TwinklySynth
+ 11. TwinklySynth
+ 12. CleanSynth
+ 13. TwinklyVelvet
+ 14. TwinklySynth
+ 15. CalculatedSynth
+ 16. TwinklySynth
+ 17. TwinklySynth
+ 18. TwinklySynth
+ 19. TwinklySynth
+ 20. TwinklySynth
+ 21. TwinklySynth
+ 22. TwinklySynth
+ 23. TwinklySynth
+ 24. TwinklyCrimson
+
+========== Generation 9/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. TwinklySynth
+  2. TwinklySynth
+  3. TwinklySynth
+  4. TwinklySynth
+  5. TwinklySynth
+  6. TwinklySynth
+  7. TwinklySynth
+  8. TwinklySynth
+  9. TwinklySynth
+ 10. TwinklySynth
+ 11. TwinklySynth
+ 12. TwinklySynth
+ 13. TwinklySynth
+ 14. TwinklySynth
+ 15. TwinklySynth
+ 16. TwinklySynth
+ 17. TwinklySynth
+ 18. TwinklySynth
+ 19. TwinklySynth
+ 20. TwinklySynth
+ 21. TwinklySynth
+ 22. TwinklySynth
+ 23. TwinklySynth
+ 24. TwinklySynth
+ 25. TwinklySynth
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. TwinklySynth
+  2. TwinklySynth
+  3. TwinklySynth
+  4. TwinklySynth
+  5. TwinklySynth
+  6. TwinklySynth
+  7. TwinklySynth
+  8. TwinklySynth
+  9. TwinklySynth
+ 10. TwinklySynth
+ 11. TwinklySynth
+ 12. TwinklySynth
+ 13. TwinklySynth
+ 14. TwinklySynth
+ 15. TwinklySynth
+ 16. TwinklySynth
+ 17. TwinklySynth
+ 18. TwinklySynth
+ 19. TwinklySynth
+ 20. TwinklySynth
+ 21. TwinklySynth
+ 22. TwinklySynth
+ 23. TwinklySynth
+ 24. TwinklySynth
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. TwinklySynth
+  2. TwinklySynth
+  3. TwinklySynth
+  4. TwinklySynth
+  5. TwinklySynth
+  6. TwinklySynth
+  7. TwinklySynth
+  8. TwinklySynth
+  9. TwinklySynth
+ 10. TwinklySynth
+ 11. TwinklySynth
+ 12. TwinklyVirtua
+ 13. TwinklySynth
+ 14. ElectricSynth
+ 15. TwinklySynth
+ 16. TwinklySynth
+ 17. TwinklySynth
+ 18. TwinklySynth
+ 19. TwinklySynth
+ 20. TwinklySynth
+ 21. TwinklySynth
+ 22. TwinklySynth
+ 23. TwinklySynth
+ 24. TwinklySynth
+
+========== Generation 10/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. TwinklySynth
+  2. TwinklySynth
+  3. TwinklySynth
+  4. TwinklySynth
+  5. TwinklySynth
+  6. TwinklySynth
+  7. TwinklySynth
+  8. TwinklySynth
+  9. TwinklySynth
+ 10. TwinklySynth
+ 11. TwinklySynth
+ 12. TwinklySynth
+ 13. TwinklySynth
+ 14. TwinklySynth
+ 15. TwinklySynth
+ 16. TwinklySynth
+ 17. TwinklySynth
+ 18. TwinklySynth
+ 19. TwinklySynth
+ 20. TwinklySynth
+ 21. TwinklySynth
+ 22. TwinklySynth
+ 23. TwinklySynth
+ 24. TwinklySynth
+ 25. TwinklySynth
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. TwinklySynth
+  2. TwinklySynth
+  3. TwinklySynth
+  4. TwinklySynth
+  5. TwinklySynth
+  6. TwinklySynth
+  7. TwinklySynth
+  8. TwinklySynth
+  9. TwinklySynth
+ 10. TwinklySynth
+ 11. TwinklySynth
+ 12. TwinklySynth
+ 13. TwinklySynth
+ 14. TwinklySynth
+ 15. TwinklySynth
+ 16. TwinklySynth
+ 17. TwinklySynth
+ 18. TwinklySynth
+ 19. TwinklySynth
+ 20. TwinklySynth
+ 21. TwinklySynth
+ 22. TwinklySynth
+ 23. TwinklySynth
+ 24. TwinklySynth
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. PreciseMethodical
+  2. TwinklySynth
+  3. TwinklySynth
+  4. TwinklySweet
+  5. TwinklySynth
+  6. TwinklySynth
+  7. TwinklySynth
+  8. TwinklySynth
+  9. TwinklySynth
+ 10. TwinklySynth
+ 11. TwinklySynth
+ 12. ApexIntuitive
+ 13. TwinklySynth
+ 14. TwinklySynth
+ 15. TwinklyFocused
+ 16. TwinklySynth
+ 17. TwinklySynth
+ 18. TwinklySynth
+ 19. TwinklySynth
+ 20. TwinklySynth
+ 21. MellowSynth
+ 22. TwinklySynth
+ 23. TwinklySynth
+ 24. TwinklyCyber
+
+========== Generation 11/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. TwinklySynth
+  2. TwinklySynth
+  3. TwinklySynth
+  4. TwinklySynth
+  5. TwinklySynth
+  6. TwinklySynth
+  7. TwinklySynth
+  8. TwinklySynth
+  9. TwinklySynth
+ 10. TwinklySynth
+ 11. TwinklySynth
+ 12. TwinklySynth
+ 13. TwinklySynth
+ 14. TwinklySynth
+ 15. TwinklySynth
+ 16. TwinklySynth
+ 17. TwinklySynth
+ 18. TwinklySynth
+ 19. TwinklySynth
+ 20. TwinklySynth
+ 21. TwinklySynth
+ 22. TwinklySynth
+ 23. TwinklySynth
+ 24. TwinklySynth
+ 25. TwinklySynth
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. TwinklySynth
+  2. TwinklySynth
+  3. TwinklySynth
+  4. TwinklySynth
+  5. TwinklySynth
+  6. TwinklySynth
+  7. TwinklySynth
+  8. TwinklySynth
+  9. TwinklySynth
+ 10. TwinklySynth
+ 11. TwinklySynth
+ 12. TwinklySynth
+ 13. TwinklySynth
+ 14. TwinklySynth
+ 15. TwinklySynth
+ 16. TwinklySynth
+ 17. TwinklySynth
+ 18. TwinklySynth
+ 19. TwinklySynth
+ 20. TwinklySynth
+ 21. TwinklySynth
+ 22. TwinklySynth
+ 23. TwinklySynth
+ 24. TwinklySynth
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 1
+
+[New Population after Mutation]
+  1. TwinklySynth
+  2. TwinklySynth
+  3. TwinklySynth
+  4. TwinklySynth
+  5. TwinklySynth
+  6. TwinklySynth
+  7. TwinklySynth
+  8. TwinklySynth
+  9. TwinklySynth
+ 10. TwinklySynth
+ 11. GodlikeSynth
+ 12. TwinklySynth
+ 13. TwinklySynth
+ 14. TwinklySynth
+ 15. TwinklySynth
+ 16. TwinklySynth
+ 17. TwinklySynth
+ 18. TwinklySynth
+ 19. TwinklySynth
+ 20. TwinklySynth
+ 21. TwinklySynth
+ 22. TwinklySynth
+ 23. TwinklySynth
+ 24. TwinklySynth
+
+========== Generation 12/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. TwinklySynth
+  2. TwinklySynth
+  3. TwinklySynth
+  4. TwinklySynth
+  5. TwinklySynth
+  6. TwinklySynth
+  7. TwinklySynth
+  8. TwinklySynth
+  9. TwinklySynth
+ 10. TwinklySynth
+ 11. TwinklySynth
+ 12. TwinklySynth
+ 13. TwinklySynth
+ 14. TwinklySynth
+ 15. TwinklySynth
+ 16. TwinklySynth
+ 17. TwinklySynth
+ 18. TwinklySynth
+ 19. TwinklySynth
+ 20. TwinklySynth
+ 21. TwinklySynth
+ 22. TwinklySynth
+ 23. TwinklySynth
+ 24. TwinklySynth
+ 25. TwinklySynth
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. TwinklySynth
+  2. TwinklySynth
+  3. TwinklySynth
+  4. TwinklySynth
+  5. TwinklySynth
+  6. TwinklySynth
+  7. TwinklySynth
+  8. TwinklySynth
+  9. TwinklySynth
+ 10. TwinklySynth
+ 11. TwinklySynth
+ 12. TwinklySynth
+ 13. TwinklySynth
+ 14. TwinklySynth
+ 15. TwinklySynth
+ 16. TwinklySynth
+ 17. TwinklySynth
+ 18. TwinklySynth
+ 19. TwinklySynth
+ 20. TwinklySynth
+ 21. TwinklySynth
+ 22. TwinklySynth
+ 23. TwinklySynth
+ 24. TwinklySynth
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. TwinklySynth
+  2. TwinklySynth
+  3. TwinklySynth
+  4. BrilliantSynth
+  5. TwinklySynth
+  6. TwinklySynth
+  7. TwinklySynth
+  8. TwinklySynth
+  9. TwinklySynth
+ 10. TwinklySynth
+ 11. TwinklySynth
+ 12. TwinklySynth
+ 13. TwinklySynth
+ 14. TwinklySynth
+ 15. TwinklySynth
+ 16. TwinklySynth
+ 17. SynthSynth
+ 18. TwinklySynth
+ 19. TwinklySynth
+ 20. TwinklySynth
+ 21. TwinklySynth
+ 22. TwinklySynth
+ 23. TwinklySynth
+ 24. TwinklySynth
+
+========== Generation 13/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. TwinklySynth
+  2. TwinklySynth
+  3. TwinklySynth
+  4. TwinklySynth
+  5. TwinklySynth
+  6. TwinklySynth
+  7. TwinklySynth
+  8. TwinklySynth
+  9. TwinklySynth
+ 10. TwinklySynth
+ 11. TwinklySynth
+ 12. TwinklySynth
+ 13. TwinklySynth
+ 14. TwinklySynth
+ 15. TwinklySynth
+ 16. TwinklySynth
+ 17. TwinklySynth
+ 18. TwinklySynth
+ 19. TwinklySynth
+ 20. TwinklySynth
+ 21. TwinklySynth
+ 22. TwinklySynth
+ 23. TwinklySynth
+ 24. TwinklySynth
+ 25. TwinklySynth
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. TwinklySynth
+  2. TwinklySynth
+  3. TwinklySynth
+  4. TwinklySynth
+  5. TwinklySynth
+  6. TwinklySynth
+  7. TwinklySynth
+  8. TwinklySynth
+  9. TwinklySynth
+ 10. TwinklySynth
+ 11. TwinklySynth
+ 12. TwinklySynth
+ 13. TwinklySynth
+ 14. TwinklySynth
+ 15. TwinklySynth
+ 16. TwinklySynth
+ 17. TwinklySynth
+ 18. TwinklySynth
+ 19. TwinklySynth
+ 20. TwinklySynth
+ 21. TwinklySynth
+ 22. TwinklySynth
+ 23. TwinklySynth
+ 24. TwinklySynth
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. TwinklySynth
+  2. TwinklySynth
+  3. TwinklySynth
+  4. TwinklySynth
+  5. TwinklySynth
+  6. TwinklySynth
+  7. TwinklySynth
+  8. TwinklyVoid
+  9. TwinklySynth
+ 10. TwinklySynth
+ 11. TwinklySynth
+ 12. TwinklySynth
+ 13. TwinklySynth
+ 14. TwinklySynth
+ 15. TwinklySynth
+ 16. TwinklySynth
+ 17. TwinklySynth
+ 18. TwinklySynth
+ 19. TwinklySynth
+ 20. SupremeSynth
+ 21. TwinklyAlpha
+ 22. TwinklySynth
+ 23. TwinklySynth
+ 24. TwinklySynth
+
+========== Generation 14/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. TwinklySynth
+  2. TwinklySynth
+  3. TwinklySynth
+  4. TwinklySynth
+  5. SupremeSynth
+  6. TwinklySynth
+  7. TwinklySynth
+  8. TwinklySynth
+  9. SupremeSynth
+ 10. TwinklySynth
+ 11. TwinklySynth
+ 12. TwinklySynth
+ 13. TwinklySynth
+ 14. TwinklySynth
+ 15. SupremeSynth
+ 16. TwinklySynth
+ 17. TwinklySynth
+ 18. TwinklySynth
+ 19. TwinklySynth
+ 20. TwinklySynth
+ 21. TwinklySynth
+ 22. TwinklySynth
+ 23. TwinklySynth
+ 24. SupremeSynth
+ 25. TwinklySynth
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. TwinklySynth
+  2. TwinklySynth
+  3. TwinklySynth
+  4. TwinklySynth
+  5. TwinklySynth
+  6. SupremeSynth
+  7. TwinklySynth
+  8. TwinklySynth
+  9. TwinklySynth
+ 10. SupremeSynth
+ 11. TwinklySynth
+ 12. TwinklySynth
+ 13. TwinklySynth
+ 14. TwinklySynth
+ 15. SupremeSynth
+ 16. TwinklySynth
+ 17. TwinklySynth
+ 18. TwinklySynth
+ 19. TwinklySynth
+ 20. TwinklySynth
+ 21. TwinklySynth
+ 22. TwinklySynth
+ 23. TwinklySynth
+ 24. SupremeSynth
+
+MUTATION
+[Mutation Info]
+Population Diversity: 2.0290
+Adaptive Mutation Rate: 0.0954
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. TwinklySynth
+  2. TwinklySynth
+  3. TwinklySynth
+  4. TwinklySynth
+  5. TwinklySynth
+  6. SupremeSynth
+  7. TwinklySynth
+  8. TwinklyObsidian
+  9. TwinklySynth
+ 10. SupremeSynth
+ 11. TwinklySynth
+ 12. TwinklySynth
+ 13. TwinklySynth
+ 14. GlitchySynth
+ 15. SupremeSynth
+ 16. SweetChrome
+ 17. TwinklySynth
+ 18. TwinklySynth
+ 19. TwinklySynth
+ 20. TwinklySynth
+ 21. KineticSynth
+ 22. TwinklySynth
+ 23. TwinklySynth
+ 24. AdaptiveSynth
+
+========== Generation 15/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. TwinklySynth
+  2. TwinklySynth
+  3. TwinklySynth
+  4. TwinklySynth
+  5. TwinklySynth
+  6. TwinklySynth
+  7. TwinklySynth
+  8. SupremeSynth
+  9. TwinklySynth
+ 10. TwinklySynth
+ 11. SupremeSynth
+ 12. TwinklySynth
+ 13. SupremeSynth
+ 14. TwinklySynth
+ 15. TwinklySynth
+ 16. TwinklySynth
+ 17. TwinklySynth
+ 18. SupremeSynth
+ 19. TwinklySynth
+ 20. TwinklySynth
+ 21. SupremeSynth
+ 22. TwinklySynth
+ 23. TwinklySynth
+ 24. TwinklySynth
+ 25. SupremeSynth
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. TwinklySynth
+  2. TwinklySynth
+  3. TwinklySynth
+  4. TwinklySynth
+  5. TwinklySynth
+  6. TwinklySynth
+  7. SupremeSynth
+  8. TwinklySynth
+  9. TwinklySynth
+ 10. TwinklySynth
+ 11. SupremeSynth
+ 12. TwinklySynth
+ 13. SupremeSynth
+ 14. TwinklySynth
+ 15. TwinklySynth
+ 16. TwinklySynth
+ 17. SupremeSynth
+ 18. TwinklySynth
+ 19. TwinklySynth
+ 20. TwinklySynth
+ 21. SupremeSynth
+ 22. TwinklySynth
+ 23. TwinklySynth
+ 24. TwinklySynth
+
+MUTATION
+[Mutation Info]
+Population Diversity: 2.4094
+Adaptive Mutation Rate: 0.0945
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. TwinklySynth
+  2. TwinklySynth
+  3. TwinklySharp
+  4. TwinklySynth
+  5. TwinklySynth
+  6. TwinklySynth
+  7. SupremeSynth
+  8. TwinklyTactical
+  9. UnstoppableNoir
+ 10. TwinklySynth
+ 11. SupremeSynth
+ 12. TwinklySynth
+ 13. SupremeSynth
+ 14. TwinklySynth
+ 15. TwinklySynth
+ 16. TwinklySynth
+ 17. SupremeSynth
+ 18. TwinklySynth
+ 19. TwinklyLegendary
+ 20. TwinklySynth
+ 21. SupremeSynth
+ 22. TwinklySynth
+ 23. TwinklySynth
+ 24. TwinklySynth
+
+========== Generation 16/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSynth
+  2. TwinklySynth
+  3. TwinklySynth
+  4. TwinklySynth
+  5. TwinklySynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. TwinklySynth
+  9. SupremeSynth
+ 10. TwinklySynth
+ 11. TwinklySynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. TwinklySynth
+ 17. TwinklySynth
+ 18. SupremeSynth
+ 19. TwinklySynth
+ 20. TwinklySynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. TwinklySynth
+ 24. SupremeSynth
+ 25. TwinklySynth
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. TwinklySynth
+  2. SupremeSynth
+  3. TwinklySynth
+  4. TwinklySynth
+  5. TwinklySynth
+  6. SupremeSynth
+  7. TwinklySynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. TwinklySynth
+ 11. TwinklySynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. TwinklySynth
+ 17. SupremeSynth
+ 18. TwinklySynth
+ 19. TwinklySynth
+ 20. TwinklySynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. TwinklySynth
+
+MUTATION
+[Mutation Info]
+Population Diversity: 3.6522
+Adaptive Mutation Rate: 0.0917
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. TwinklySynth
+  2. SupremeSynth
+  3. TwinklySynth
+  4. SupremeSynth
+  5. TwinklySynth
+  6. SupremeSynth
+  7. TwinklySynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. TwinklySynth
+ 11. TwinklyVolt
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. PreciseSynth
+ 15. SupremeSynth
+ 16. TwinklySynth
+ 17. SupremeSynth
+ 18. TwinklySynth
+ 19. TwinklyLegendary
+ 20. TwinklySynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. ShadowSynth
+ 24. TwinklySynth
+
+========== Generation 17/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. TwinklySynth
+  9. SupremeSynth
+ 10. TwinklySynth
+ 11. TwinklySynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+ 25. SupremeSynth
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. TwinklySynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. TwinklySynth
+ 11. SupremeSynth
+ 12. TwinklySynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.5978
+Adaptive Mutation Rate: 0.0964
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SparklySynth
+  6. SupremeSynth
+  7. TwinklySynth
+  8. SupremeSynth
+  9. SupremeCoordinated
+ 10. TwinklySynth
+ 11. SupremeSynth
+ 12. TwinklySynth
+ 13. SupremeSynth
+ 14. VoidSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. NeuralClutch
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeVicious
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+
+========== Generation 18/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+ 25. SupremeSynth
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. DigitalSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. MidnightSynth
+  8. SupremeSynth
+  9. CyberSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. ObsidianSynth
+ 14. SupremeSynth
+ 15. MidnightSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeVelvet
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+
+========== Generation 19/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+ 25. SupremeSynth
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeElectric
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeQuantum
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. CleverSynth
+
+========== Generation 20/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+ 25. SupremeSynth
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeElite
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. VoltSynth
+ 14. SupremeSynth
+ 15. BrilliantSynth
+ 16. SupremeStrategic
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. VoidSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeMellow
+
+========== Generation 21/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+ 25. SupremeSynth
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SleekSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. TwinklySynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SweetSynth
+ 18. SupremeSynth
+ 19. SupremeUnstoppable
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeBrilliant
+
+========== Generation 22/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+ 25. SupremeSynth
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. ChromeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. PhantomSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeLegendary
+
+========== Generation 23/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+ 25. SupremeSynth
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. AdaptiveSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeFluid
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeMellow
+ 15. SupremeSynth
+ 16. SupremeElectric
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. CalculatedSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+
+========== Generation 24/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+ 25. SupremeSynth
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SupremeMastermind
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SparklySynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeVolt
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. AlphaSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. DominantSynth
+ 24. SupremeSynth
+
+========== Generation 25/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+ 25. SupremeSynth
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. SupremeSynth
+  2. ViciousMellow
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SharpSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSystematic
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSoft
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeAlpha
+ 24. SupremeSynth
+
+========== Generation 26/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+ 25. SupremeSynth
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. UnstoppableSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeFocused
+ 12. SupremeSynth
+ 13. QuantumSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. MidnightSynth
+ 19. SupremeDynamic
+ 20. SupremeSynth
+ 21. SupremeChrome
+ 22. SupremeSynth
+ 23. SupremeCoordinated
+ 24. SupremeSynth
+
+========== Generation 27/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+ 25. SupremeSynth
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SavageSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeVelvet
+ 10. SupremeSynth
+ 11. PixelatedSynth
+ 12. SupremeSynth
+ 13. PeachySynth
+ 14. SupremeSynth
+ 15. RuthlessSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. CleanSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeTechnical
+
+========== Generation 28/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+ 25. SupremeSynth
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. NoirSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. CrimsonSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+
+========== Generation 29/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+ 25. SupremeSynth
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. SupremeKinetic
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. CalculatedSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. PlasmaSynth
+  9. SupremeSynth
+ 10. CalculatedLovely
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeCyber
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+
+========== Generation 30/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+ 25. SupremeSynth
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeEpic
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremePixelated
+ 13. SupremeGlitchy
+ 14. SupremeSynth
+ 15. CleverAdaptive
+ 16. SupremeSynth
+ 17. SupremeVapor
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. CleanMellow
+ 24. SupremeSynth
+
+========== Generation 31/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+ 25. SupremeSynth
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeCoordinated
+  6. FierceSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeGlitchy
+ 10. SupremeSynth
+ 11. SupremeCerebral
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. VoidSynth
+ 18. SupremeCrimson
+ 19. DigitalSynth
+ 20. SupremeSynth
+ 21. SupremeVirtua
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+
+========== Generation 32/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. DigitalSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+ 25. SupremeSynth
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. DigitalSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5833
+Adaptive Mutation Rate: 0.0987
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. SupremeSynth
+  2. SupremeRetro
+  3. SupremeSynth
+  4. DigitalSynth
+  5. MastermindSynth
+  6. SupremeSynth
+  7. ReactiveSynth
+  8. SupremeSynth
+  9. SupremeObsidian
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. CleverSynth
+ 17. SupremeFatal
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. FierceSynth
+ 24. SupremeSynth
+
+========== Generation 33/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+ 25. SupremeSynth
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeStrategic
+  7. QuantumSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. PhantomSynth
+ 11. SupremeSynth
+ 12. PrimeSoft
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. FierceSynth
+ 17. SupremeBrutal
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+
+========== Generation 34/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+ 25. SupremeSynth
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. VenomousSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremePrecise
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+
+========== Generation 35/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+ 25. SupremeSynth
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. NoirSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeBrutal
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+
+========== Generation 36/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+ 25. SupremeSynth
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. GlitchySynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. TechnicalSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. AdaptiveSynth
+
+========== Generation 37/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. AdaptiveSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+ 25. SupremeSynth
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. AdaptiveSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5000
+Adaptive Mutation Rate: 0.0989
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeEclipse
+  7. SupremeSynth
+  8. SupremeCyber
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeUnstoppable
+ 13. AdaptiveSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SleekSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+
+========== Generation 38/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+ 25. SupremeSynth
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. ObsidianSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeDigital
+ 11. AlphaSynth
+ 12. SupremeSynth
+ 13. SupremePatient
+ 14. SupremeSynth
+ 15. SupremeChrome
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremePeachy
+ 21. SupremeSoft
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. CalculatedSynth
+
+========== Generation 39/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeChrome
+ 24. SupremeSynth
+ 25. SupremeSynth
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeChrome
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5000
+Adaptive Mutation Rate: 0.0989
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. SupremeSynth
+  2. SupremeVicious
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremePeachy
+  7. SupremeSynth
+  8. SupremePhantom
+  9. SupremeSynth
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremeSynth
+ 21. SupremeSynth
+ 22. SupremeSleek
+ 23. SupremeSynth
+ 24. SupremeChrome
+
+========== Generation 40/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremePhantom
+ 10. SupremeSynth
+ 11. SupremePhantom
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremePhantom
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremePhantom
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremePhantom
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremePhantom
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremeSynth
+ 24. SupremeSynth
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.9565
+Adaptive Mutation Rate: 0.0956
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. SupremeSynth
+  2. SupremeSynth
+  3. SupremeSystematic
+  4. SupremeVirtua
+  5. SupremeSynth
+  6. SupremeSynth
+  7. SupremeSynth
+  8. SupremeSynth
+  9. SupremeSynth
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. SupremeSynth
+ 15. SupremePhantom
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremeSynth
+ 19. SupremePrime
+ 20. SupremePhantom
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. IntuitiveSynth
+ 24. SupremeSynth
+
+========== Generation 41/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremeSynth
+  3. SupremePhantom
+  4. SupremeSynth
+  5. SupremeSynth
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremeSynth
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremePhantom
+ 19. SupremeSynth
+ 20. SupremePhantom
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremeSynth
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremePhantom
+  5. SupremeSynth
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremeSynth
+ 10. SupremePhantom
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremePhantom
+ 19. SupremeSynth
+ 20. SupremePhantom
+ 21. SupremeSynth
+ 22. SupremeSynth
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 2.6087
+Adaptive Mutation Rate: 0.0941
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremeSynth
+  3. SupremeSynth
+  4. SupremePhantom
+  5. SupremeSynth
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. VaporSynth
+ 10. SupremeUnstoppable
+ 11. SupremeSynth
+ 12. SupremeSynth
+ 13. SupremeSupreme
+ 14. SupremePhantom
+ 15. SupremeSynth
+ 16. SupremeSynth
+ 17. SupremeSynth
+ 18. SupremePhantom
+ 19. SupremeSynth
+ 20. SupremePhantom
+ 21. PatientSynth
+ 22. SupremeSynth
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 42/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremeSynth
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremeSynth
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremeSynth
+  4. SupremeSynth
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremeSynth
+ 19. SupremeSynth
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.4493
+Adaptive Mutation Rate: 0.0967
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. SupremeSynth
+  2. SupremeVelvet
+  3. SupremeSynth
+  4. SupremeShadow
+  5. FluidPhantom
+  6. SupremePhantom
+  7. CrimsonPhantom
+  8. SupremeEpic
+  9. TwinklyPhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremeSynth
+ 19. ElectricSynth
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 43/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremeShadow
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. ElectricSynth
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremeShadow
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. ElectricSynth
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.3225
+Adaptive Mutation Rate: 0.0970
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. CleverSavage
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. PrimeSystematic
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. ElectricVelvet
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 44/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. BinaryPhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremeFocused
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. GlitchyPhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. RelentlessPhantom
+ 23. SupremeGlitchy
+ 24. SupremePhantom
+
+========== Generation 45/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremeVicious
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremeFierce
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremeChrome
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. DreamyPhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 46/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 8
+No Crossover Pairs: 4
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. SupremeFocused
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremeInvincible
+  5. SupremePhantom
+  6. GodlikePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremeCrimson
+ 11. ElitePhantom
+ 12. SupremePhantom
+ 13. SupremeGlitchy
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremeEpic
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 47/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. FocusedPhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePeachy
+  5. SupremePhantom
+  6. SupremeGhost
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremeBinary
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. RetroPhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 48/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremeGenius
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. MastermindPhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremeTactical
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. ApexPhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 49/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremeSystematic
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. VelvetPhantom
+  8. CleanPhantom
+  9. SupremeAdaptive
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. CrimsonPatient
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. CoordinatedPhantom
+ 24. SupremeMidnight
+
+========== Generation 50/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. VelvetPhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. CrimsonPatient
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. VelvetPhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. CrimsonPatient
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.5616
+Adaptive Mutation Rate: 0.0965
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. VelvetPhantom
+  7. SupremeCalculated
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremeElectric
+ 16. SupremePhantom
+ 17. CrimsonPatient
+ 18. SupremePhantom
+ 19. ReactiveFierce
+ 20. SupremeCerebral
+ 21. SupremePixelated
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========================================
+GA PROCESS COMPLETE

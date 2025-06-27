@@ -1,0 +1,9458 @@
+Epithet AI - Genetic Algorithm Log
+========================================
+
+[Initial Population]
+  1. AnalyticalVicious
+  2. PhantomSupreme
+  3. UnstoppableCalculated
+  4. GlitchySparkly
+  5. SleekFierce
+  6. EpicGhost
+  7. CrimsonPlasma
+  8. FluidSleek
+  9. PeachyLovely
+ 10. EclipseVirtua
+ 11. ReactiveMethodical
+ 12. ShadowPlasma
+ 13. GhostSoft
+ 14. AlphaGodlike
+ 15. BinaryFatal
+ 16. ViciousPhantom
+ 17. AnalyticalRetro
+ 18. PatientGlitchy
+ 19. SoftLegendary
+ 20. ClutchAlpha
+ 21. AdaptiveBrutal
+ 22. FluidRuthless
+ 23. CrimsonVelvet
+ 24. VenomousMidnight
+ 25. PrimeTactical
+ 26. SystematicBrutal
+ 27. SynthPlasma
+ 28. PreciseSavage
+ 29. BinaryMellow
+ 30. PixelatedApex
+ 31. SoftRuthless
+ 32. InvincibleIntuitive
+ 33. SystematicRelentless
+ 34. SupremeVolt
+ 35. KineticSystematic
+ 36. ReactiveCoordinated
+ 37. MellowVicious
+ 38. GeniusSharp
+ 39. FierceAlpha
+ 40. PreciseSupreme
+ 41. SoftMethodical
+ 42. ReactiveMellow
+ 43. MidnightVoid
+ 44. SparklySystematic
+ 45. KineticDigital
+ 46. CalculatedClever
+ 47. FierceElite
+ 48. CyberPlasma
+ 49. ApexLegendary
+ 50. FluidSavage
+
+========== Generation 1/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. EclipseVirtua
+  2. PhantomSupreme
+  3. GlitchySparkly
+  4. CrimsonPlasma
+  5. AdaptiveBrutal
+  6. SupremeVolt
+  7. SupremeVolt
+  8. CrimsonVelvet
+  9. PhantomSupreme
+ 10. ReactiveCoordinated
+ 11. GhostSoft
+ 12. PreciseSupreme
+ 13. ClutchAlpha
+ 14. SupremeVolt
+ 15. GhostSoft
+ 16. ViciousPhantom
+ 17. VenomousMidnight
+ 18. ReactiveCoordinated
+ 19. PatientGlitchy
+ 20. ReactiveMellow
+ 21. PhantomSupreme
+ 22. GlitchySparkly
+ 23. SupremeVolt
+ 24. SupremeVolt
+ 25. KineticDigital
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PhantomVirtua
+  2. EclipseSupreme
+  3. CrimsonSparkly
+  4. GlitchyPlasma
+  5. AdaptiveVolt
+  6. SupremeBrutal
+  7. SupremeVolt
+  8. CrimsonVelvet
+  9. ReactiveCoordinated
+ 10. PhantomSupreme
+ 11. GhostSupreme
+ 12. PreciseSoft
+ 13. ClutchVolt
+ 14. SupremeAlpha
+ 15. GhostSoft
+ 16. ViciousPhantom
+ 17. VenomousCoordinated
+ 18. ReactiveMidnight
+ 19. PatientMellow
+ 20. ReactiveGlitchy
+ 21. GlitchySupreme
+ 22. PhantomSparkly
+ 23. SupremeVolt
+ 24. SupremeVolt
+
+MUTATION
+[Mutation Info]
+Population Diversity: 11.7065
+Adaptive Mutation Rate: 0.0734
+Total Mutations: 1
+
+[New Population after Mutation]
+  1. PhantomVirtua
+  2. EclipseSupreme
+  3. CrimsonSparkly
+  4. GlitchyPlasma
+  5. AdaptiveVolt
+  6. SupremeBrutal
+  7. SupremeVolt
+  8. CrimsonVelvet
+  9. ReactiveAdaptive
+ 10. PhantomSupreme
+ 11. GhostSupreme
+ 12. PreciseSoft
+ 13. ClutchVolt
+ 14. SupremeAlpha
+ 15. GhostSoft
+ 16. ViciousPhantom
+ 17. VenomousCoordinated
+ 18. ReactiveMidnight
+ 19. PatientMellow
+ 20. ReactiveGlitchy
+ 21. GlitchySupreme
+ 22. PhantomSparkly
+ 23. SupremeVolt
+ 24. SupremeVolt
+
+========== Generation 2/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. EclipseSupreme
+  2. EclipseSupreme
+  3. GlitchyPlasma
+  4. GhostSupreme
+  5. SupremeAlpha
+  6. SupremeAlpha
+  7. PhantomSupreme
+  8. SupremeAlpha
+  9. SupremeVolt
+ 10. PhantomSparkly
+ 11. SupremeVolt
+ 12. GhostSupreme
+ 13. SupremeVolt
+ 14. VenomousCoordinated
+ 15. GhostSoft
+ 16. GhostSupreme
+ 17. PhantomSupreme
+ 18. VenomousCoordinated
+ 19. GhostSupreme
+ 20. SupremeAlpha
+ 21. SupremeVolt
+ 22. VenomousCoordinated
+ 23. SupremeAlpha
+ 24. GhostSupreme
+ 25. SupremeVolt
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. EclipseSupreme
+  2. EclipseSupreme
+  3. GlitchyPlasma
+  4. GhostSupreme
+  5. SupremeAlpha
+  6. SupremeAlpha
+  7. SupremeAlpha
+  8. PhantomSupreme
+  9. PhantomVolt
+ 10. SupremeSparkly
+ 11. SupremeVolt
+ 12. GhostSupreme
+ 13. VenomousVolt
+ 14. SupremeCoordinated
+ 15. GhostSoft
+ 16. GhostSupreme
+ 17. PhantomCoordinated
+ 18. VenomousSupreme
+ 19. GhostAlpha
+ 20. SupremeSupreme
+ 21. VenomousCoordinated
+ 22. SupremeVolt
+ 23. SupremeAlpha
+ 24. GhostSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 10.1993
+Adaptive Mutation Rate: 0.0768
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. EclipseApex
+  2. EclipseSupreme
+  3. GlitchyPlasma
+  4. GhostSupreme
+  5. SupremeAlpha
+  6. ElectricAlpha
+  7. SupremeAlpha
+  8. PhantomSupreme
+  9. PhantomVolt
+ 10. SupremeSparkly
+ 11. SupremeVolt
+ 12. GhostSupreme
+ 13. VenomousVolt
+ 14. SupremeBrilliant
+ 15. GhostKinetic
+ 16. GhostSupreme
+ 17. PhantomCoordinated
+ 18. VenomousSupreme
+ 19. GhostAlpha
+ 20. SupremeSupreme
+ 21. VenomousCoordinated
+ 22. SupremeVolt
+ 23. SupremeAlpha
+ 24. GhostSupreme
+
+========== Generation 3/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. VenomousSupreme
+  2. VenomousCoordinated
+  3. GhostSupreme
+  4. GhostSupreme
+  5. GhostSupreme
+  6. SupremeVolt
+  7. PhantomSupreme
+  8. GhostSupreme
+  9. GhostSupreme
+ 10. PhantomSupreme
+ 11. GhostSupreme
+ 12. SupremeAlpha
+ 13. GhostSupreme
+ 14. SupremeAlpha
+ 15. SupremeVolt
+ 16. SupremeAlpha
+ 17. EclipseSupreme
+ 18. SupremeAlpha
+ 19. SupremeVolt
+ 20. GhostSupreme
+ 21. EclipseSupreme
+ 22. PhantomVolt
+ 23. GhostSupreme
+ 24. SupremeAlpha
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. VenomousCoordinated
+  2. VenomousSupreme
+  3. GhostSupreme
+  4. GhostSupreme
+  5. SupremeSupreme
+  6. GhostVolt
+  7. PhantomSupreme
+  8. GhostSupreme
+  9. GhostSupreme
+ 10. PhantomSupreme
+ 11. SupremeSupreme
+ 12. GhostAlpha
+ 13. GhostSupreme
+ 14. SupremeAlpha
+ 15. SupremeVolt
+ 16. SupremeAlpha
+ 17. EclipseSupreme
+ 18. SupremeAlpha
+ 19. SupremeVolt
+ 20. GhostSupreme
+ 21. EclipseSupreme
+ 22. PhantomVolt
+ 23. SupremeAlpha
+ 24. GhostSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 8.2717
+Adaptive Mutation Rate: 0.0812
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. VenomousCoordinated
+  2. VenomousSupreme
+  3. GhostSupreme
+  4. GhostSupreme
+  5. SupremeSupreme
+  6. GhostVolt
+  7. PhantomSupreme
+  8. GhostSupreme
+  9. GhostFierce
+ 10. PhantomSupreme
+ 11. SupremeGenius
+ 12. GhostAlpha
+ 13. GhostSupreme
+ 14. LethalAlpha
+ 15. SupremeVolt
+ 16. ElectricAlpha
+ 17. KineticSupreme
+ 18. SupremeAlpha
+ 19. SupremeVolt
+ 20. GhostSupreme
+ 21. EclipseSupreme
+ 22. PhantomVolt
+ 23. SupremeAlpha
+ 24. GhostSupreme
+
+========== Generation 4/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeVolt
+  2. EclipseSupreme
+  3. SupremeVolt
+  4. SupremeAlpha
+  5. PhantomSupreme
+  6. GhostSupreme
+  7. SupremeGenius
+  8. GhostSupreme
+  9. PhantomSupreme
+ 10. GhostSupreme
+ 11. GhostSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. GhostSupreme
+ 15. SupremeAlpha
+ 16. SupremeVolt
+ 17. PhantomSupreme
+ 18. SupremeAlpha
+ 19. GhostSupreme
+ 20. EclipseSupreme
+ 21. VenomousCoordinated
+ 22. GhostSupreme
+ 23. PhantomSupreme
+ 24. SupremeAlpha
+ 25. LethalAlpha
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. SupremeVolt
+  2. EclipseSupreme
+  3. SupremeVolt
+  4. SupremeAlpha
+  5. PhantomSupreme
+  6. GhostSupreme
+  7. GhostSupreme
+  8. SupremeGenius
+  9. GhostSupreme
+ 10. PhantomSupreme
+ 11. GhostSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. GhostSupreme
+ 15. SupremeAlpha
+ 16. SupremeVolt
+ 17. PhantomSupreme
+ 18. SupremeAlpha
+ 19. EclipseSupreme
+ 20. GhostSupreme
+ 21. VenomousSupreme
+ 22. GhostCoordinated
+ 23. SupremeAlpha
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 7.7935
+Adaptive Mutation Rate: 0.0823
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. SupremeVolt
+  2. BlushySupreme
+  3. SupremeVolt
+  4. SupremeAlpha
+  5. PhantomSupreme
+  6. GhostSupreme
+  7. EclipseSupreme
+  8. SupremeBrilliant
+  9. GhostSupreme
+ 10. PhantomSupreme
+ 11. GhostSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. GhostSupreme
+ 15. SupremeAlpha
+ 16. SupremeVolt
+ 17. PhantomUnstoppable
+ 18. RuthlessAlpha
+ 19. EclipseSupreme
+ 20. GhostSupreme
+ 21. VenomousSupreme
+ 22. GhostCoordinated
+ 23. SupremeSynth
+ 24. PhantomSupreme
+
+========== Generation 5/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. SupremeSynth
+  3. SupremeAlpha
+  4. PhantomSupreme
+  5. GhostSupreme
+  6. PhantomSupreme
+  7. GhostSupreme
+  8. SupremeSynth
+  9. SupremeVolt
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. SupremeAlpha
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. EclipseSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. SupremeSynth
+ 22. PhantomSupreme
+ 23. GhostSupreme
+ 24. GhostSupreme
+ 25. GhostSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. SupremeSynth
+  2. PhantomSupreme
+  3. PhantomAlpha
+  4. SupremeSupreme
+  5. PhantomSupreme
+  6. GhostSupreme
+  7. GhostSupreme
+  8. SupremeSynth
+  9. PhantomSupreme
+ 10. SupremeVolt
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. SupremeAlpha
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. EclipseSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. SupremeSupreme
+ 22. PhantomSynth
+ 23. GhostSupreme
+ 24. GhostSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 6.1920
+Adaptive Mutation Rate: 0.0859
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. SupremeSynth
+  2. PhantomSupreme
+  3. PhantomAlpha
+  4. SupremeSupreme
+  5. PhantomRelentless
+  6. GhostSupreme
+  7. GhostSupreme
+  8. SupremeSynth
+  9. PhantomSupreme
+ 10. SupremeVolt
+ 11. PhantomSupreme
+ 12. PhantomLegendary
+ 13. ViciousSupreme
+ 14. SupremeAlpha
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. EclipseSupreme
+ 18. VoidBrutal
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. GlitchySupreme
+ 22. PhantomSynth
+ 23. GhostSupreme
+ 24. GhostSupreme
+
+========== Generation 6/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeVolt
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. SupremeSynth
+  8. GhostSupreme
+  9. GhostSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. SupremeSynth
+ 13. PhantomSupreme
+ 14. SupremeSynth
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. GhostSupreme
+ 19. GhostSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomLegendary
+ 24. SupremeSynth
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomVolt
+  2. SupremeSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. SupremeSynth
+  8. GhostSupreme
+  9. GhostSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. SupremeSynth
+ 13. SupremeSynth
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. GhostSupreme
+ 19. PhantomSupreme
+ 20. GhostSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSynth
+ 24. SupremeLegendary
+
+MUTATION
+[Mutation Info]
+Population Diversity: 5.9203
+Adaptive Mutation Rate: 0.0865
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. PhantomVolt
+  2. SupremeSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. SupremeRelentless
+  8. GhostSupreme
+  9. GhostVelvet
+ 10. PhantomSupreme
+ 11. FocusedSupreme
+ 12. SupremeTwinkly
+ 13. SupremeSynth
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. GhostSupreme
+ 19. PhantomSupreme
+ 20. GhostSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. CrimsonSynth
+ 24. SupremeLegendary
+
+========== Generation 7/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. GhostSupreme
+  2. PhantomSupreme
+  3. SupremeSynth
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. GhostSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. SupremeSynth
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. GhostSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. GhostSupreme
+  2. PhantomSupreme
+  3. SupremeSynth
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. GhostSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSynth
+ 12. SupremeSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. GhostSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 2.9964
+Adaptive Mutation Rate: 0.0932
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. GhostSupreme
+  2. PhantomClutch
+  3. SupremePrime
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSleek
+  8. GhostSupreme
+  9. AlphaSupreme
+ 10. PhantomSupreme
+ 11. PhantomSynth
+ 12. SupremeReactive
+ 13. AdaptiveSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomElectric
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. GhostVirtua
+ 24. PhantomSupreme
+
+========== Generation 8/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomElectric
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. AlphaSupreme
+ 17. PhantomSupreme
+ 18. GhostSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomElectric
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. AlphaSupreme
+ 17. GhostSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.6341
+Adaptive Mutation Rate: 0.0963
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomElectric
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. CleverSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. EpicSupreme
+ 13. DigitalSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. AlphaSupreme
+ 17. GhostSupreme
+ 18. PhantomSupreme
+ 19. PhantomDigital
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomTwinkly
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 9/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomDigital
+ 13. PhantomSupreme
+ 14. PhantomTwinkly
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomDigital
+ 13. PhantomTwinkly
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.1377
+Adaptive Mutation Rate: 0.0974
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomQuantum
+  7. PhantomSupreme
+  8. PhantomPeachy
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomDigital
+ 13. PhantomTwinkly
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomPixelated
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomRuthless
+
+========== Generation 10/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. MethodicalMastermind
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. DreamySupreme
+ 20. PhantomSupreme
+ 21. LethalSupreme
+ 22. PhantomSupreme
+ 23. GeniusSupreme
+ 24. PhantomSupreme
+
+========== Generation 11/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. ObsidianSupreme
+ 13. PhantomUnstoppable
+ 14. PhantomMethodical
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 12/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomDreamy
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomCrimson
+ 11. PeachySupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomPhantom
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. CerebralSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. SoftSupreme
+
+========== Generation 13/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. DigitalSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. FluidSupreme
+  8. PhantomCyber
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. AlphaSupreme
+ 12. VoidSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomLovely
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. AnalyticalSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 14/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. GodlikeSupreme
+  6. PhantomSupreme
+  7. ViciousSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomMellow
+ 11. PhantomSupreme
+ 12. PhantomClever
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. VoltSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. MidnightSupreme
+ 23. ChromePlasma
+ 24. PhantomSupreme
+
+========== Generation 15/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomElite
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. ElectricTechnical
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomFierce
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomRelentless
+ 22. PhantomSupreme
+ 23. VelvetSupreme
+ 24. PhantomSupreme
+
+========== Generation 16/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. SupremeSupreme
+ 16. PhantomSystematic
+ 17. CoordinatedSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. RelentlessSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 17/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 9
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomPhantom
+  4. PhantomSupreme
+  5. MidnightSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSoft
+  9. ApexSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. EliteClean
+ 19. PhantomSupreme
+ 20. PhantomDigital
+ 21. StrategicSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PreciseSupreme
+
+========== Generation 18/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomPhantom
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomDigital
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomPhantom
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomDigital
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.1377
+Adaptive Mutation Rate: 0.0974
+Total Mutations: 1
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomPhantom
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. VelvetSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomDigital
+
+========== Generation 19/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 9
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PixelatedSupreme
+  4. PhantomSupreme
+  5. PhantomSleek
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomDominant
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomFatal
+ 17. PhantomObsidian
+ 18. PhantomSupreme
+ 19. PhantomVolt
+ 20. PhantomSupreme
+ 21. SoftSupreme
+ 22. PhantomPhantom
+ 23. RetroSupreme
+ 24. PhantomSupreme
+
+========== Generation 20/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomObsidian
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomPhantom
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomObsidian
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomPhantom
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.2246
+Adaptive Mutation Rate: 0.0972
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. CyberObsidian
+  2. PhantomPhantom
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. CoordinatedSupreme
+ 13. PhantomSupreme
+ 14. CyberSupreme
+ 15. PhantomPhantom
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomStrategic
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. QuantumSupreme
+ 24. PhantomSupreme
+
+========== Generation 21/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. QuantumSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. QuantumSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.2500
+Adaptive Mutation Rate: 0.0994
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. SoftSupreme
+  6. PhantomPixelated
+  7. QuantumSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSynth
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 22/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomTactical
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. ClutchSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomLethal
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. ReactiveSupreme
+
+========== Generation 23/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomObsidian
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. VoidSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSystematic
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PlasmaRelentless
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. SweetSupreme
+ 20. PhantomSupreme
+ 21. PhantomVicious
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomDigital
+
+========== Generation 24/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. VoidSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. VoidSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5833
+Adaptive Mutation Rate: 0.0987
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. VoidSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. SweetSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. ApexSupreme
+
+========== Generation 25/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomEclipse
+  4. PhantomCoordinated
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomCalculated
+  9. SharpSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. VirtuaSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 26/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomDreamy
+  4. GhostSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomElite
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomDominant
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomCyber
+ 18. PhantomSupreme
+ 19. IntuitiveSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. MellowSupreme
+ 23. PhantomSupreme
+ 24. LethalSupreme
+
+========== Generation 27/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomCyber
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomCyber
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5000
+Adaptive Mutation Rate: 0.0989
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. ChromeSupreme
+  6. PhantomSupreme
+  7. AlphaSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomCyber
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. SavageSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomDominant
+ 23. PhantomSupreme
+ 24. BlushySupreme
+
+========== Generation 28/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. ChromeSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. ChromeSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.4167
+Adaptive Mutation Rate: 0.0991
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. ChromeSupreme
+ 16. PhantomSupreme
+ 17. BlushySupreme
+ 18. ObsidianCalculated
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomVelvet
+
+========== Generation 29/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. SparklySupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomPeachy
+ 14. PhantomSupreme
+ 15. PhantomDynamic
+ 16. PhantomSupreme
+ 17. PhantomPeachy
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 30/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. CleverSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomPhantom
+ 19. PhantomSupreme
+ 20. VenomousSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. AnalyticalSupreme
+ 24. PhantomSupreme
+
+========== Generation 31/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomClever
+  6. PhantomPlasma
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. MethodicalPixelated
+ 14. PhantomSupreme
+ 15. ElectricSupreme
+ 16. MidnightSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. SystematicSupreme
+ 21. PhantomSupreme
+ 22. VirtuaSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 32/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. ElectricSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. ElectricSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5833
+Adaptive Mutation Rate: 0.0987
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomGhost
+  4. PhantomAlpha
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PatientSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. SavageSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. ElectricSupreme
+
+========== Generation 33/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 8
+No Crossover Pairs: 4
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. CrimsonSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomFocused
+ 10. PhantomSupreme
+ 11. CalculatedSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomReactive
+ 20. SleekSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 34/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 9
+
+[New Population after Mutation]
+  1. VelvetSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. DominantSupreme
+  8. PhantomSupreme
+  9. SharpSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. GodlikeAlpha
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. VaporSupreme
+ 17. VelvetSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. CalculatedBinary
+ 24. PhantomSupreme
+
+========== Generation 35/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. DominantSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. DominantSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5833
+Adaptive Mutation Rate: 0.0987
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. IntuitiveSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. BrilliantSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomQuantum
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. DominantSupreme
+ 17. PhantomVoid
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. SleekSupreme
+ 23. MethodicalInvincible
+ 24. PhantomSupreme
+
+========== Generation 36/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomQuantum
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomQuantum
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5000
+Adaptive Mutation Rate: 0.0989
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. SweetSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. SupremeSupreme
+ 10. VirtuaSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomDominant
+ 19. PhantomSupreme
+ 20. PhantomQuantum
+ 21. PhantomSupreme
+ 22. FatalSupreme
+ 23. PhantomSupreme
+ 24. PhantomEpic
+
+========== Generation 37/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomMellow
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. ObsidianSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 38/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. DynamicSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomNeural
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. NoirSupreme
+ 16. PatientSupreme
+ 17. PhantomSupreme
+ 18. PhantomNoir
+ 19. PhantomSupreme
+ 20. PhantomBrilliant
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomDreamy
+ 24. PhantomSupreme
+
+========== Generation 39/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. ReactiveSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomBlushy
+ 19. FatalSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 40/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. SharpSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomNeural
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. LegendarySupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 41/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomChrome
+ 16. PhantomSupreme
+ 17. PhantomGhost
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. SystematicClean
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 42/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. KineticSupreme
+  8. PhantomSharp
+  9. MidnightSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomFluid
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomMidnight
+ 24. PhantomSupreme
+
+========== Generation 43/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. InvincibleSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomVolt
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 44/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. VelvetSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. NoirSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSoft
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. BinarySupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. BinarySupreme
+
+========== Generation 45/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 8
+No Crossover Pairs: 4
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. GhostSupreme
+  2. PhantomAnalytical
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. TechnicalSupreme
+ 10. PhantomSupreme
+ 11. PhantomMastermind
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomReactive
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. LegendarySupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 46/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomBinary
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. ChromeSupreme
+ 15. MellowSupreme
+ 16. PhantomVenomous
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. VoidSupreme
+
+========== Generation 47/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomPlasma
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. FocusedSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomObsidian
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 48/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. TacticalSupreme
+  6. PhantomSupreme
+  7. NoirSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomCrimson
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomRelentless
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomBrutal
+ 18. DominantSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 49/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSharp
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomFatal
+ 10. SystematicSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. DreamySupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 50/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomVirtua
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomAlpha
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PlasmaSupreme
+ 24. PhantomSupreme
+
+========== Generation 51/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. TwinklySupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomPhantom
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomNoir
+ 23. MethodicalSupreme
+ 24. PhantomSupreme
+
+========== Generation 52/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomQuantum
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomNoir
+  8. UnstoppableSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 53/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomUnstoppable
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. BinarySupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomKinetic
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 54/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomVoid
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSoft
+ 12. PhantomSupreme
+ 13. PixelatedSupreme
+ 14. PhantomLovely
+ 15. PhantomSupreme
+ 16. PhantomSoft
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomRetro
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 55/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSynth
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomBrilliant
+ 24. PhantomSupreme
+
+========== Generation 56/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. VaporObsidian
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomEclipse
+ 17. PhantomDreamy
+ 18. PhantomSupreme
+ 19. PhantomEpic
+ 20. PhantomSynth
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 57/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. FocusedSupreme
+  2. ViciousSupreme
+  3. PhantomSupreme
+  4. AlphaSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. CleverSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. CleverAlpha
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. SharpPatient
+
+========== Generation 58/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. BinarySupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. AlphaSupreme
+
+========== Generation 59/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PatientSupreme
+ 12. PhantomCalculated
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. FluidSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 60/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomClean
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. GeniusSupreme
+ 12. BrutalSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. GodlikeSupreme
+ 17. PhantomSupreme
+ 18. KineticSupreme
+ 19. PhantomSavage
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomFluid
+ 23. PhantomSupreme
+ 24. PhantomReactive
+
+========== Generation 61/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. KineticSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. GeniusSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. KineticSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. GeniusSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.9783
+Adaptive Mutation Rate: 0.0978
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. VoidSupreme
+  7. PhantomSupreme
+  8. PhantomMidnight
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. KineticSupreme
+ 12. PhantomSupreme
+ 13. NoirSupreme
+ 14. PhantomSupreme
+ 15. GeniusSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. LovelySupreme
+ 23. PhantomSupreme
+ 24. SupremeSupreme
+
+========== Generation 62/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 9
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. ReactiveSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. GhostSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PrimeSupreme
+ 13. PhantomCalculated
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. TechnicalSupreme
+ 17. IntuitiveSupreme
+ 18. PhantomShadow
+ 19. LegendarySupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSynth
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 63/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomDigital
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. TacticalStrategic
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. VaporSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 64/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. GodlikeSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomBrilliant
+  9. PhantomPrecise
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomDreamy
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. MastermindSupreme
+ 22. SynthSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 65/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 8
+No Crossover Pairs: 4
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. ObsidianSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomVolt
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PlasmaSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. SparklySupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. SupremeSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 66/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. ChromeSupreme
+  2. PhantomSupreme
+  3. EliteSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. GodlikeSupreme
+  8. PhantomSupreme
+  9. PhantomSystematic
+ 10. PhantomSupreme
+ 11. EpicSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. ViciousSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 67/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. EpicSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. EpicSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5833
+Adaptive Mutation Rate: 0.0987
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. EpicSupreme
+  5. EclipseSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PatientSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PrimeSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 68/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 11
+
+[New Population after Mutation]
+  1. PhantomFatal
+  2. PhantomAlpha
+  3. PhantomSupreme
+  4. StrategicSupreme
+  5. RuthlessSupreme
+  6. PhantomSupreme
+  7. PhantomInvincible
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSweet
+ 11. TacticalSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSynth
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomMastermind
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. CalculatedSupreme
+ 22. PhantomSupreme
+ 23. PhantomSynth
+ 24. PhantomSupreme
+
+========== Generation 69/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSynth
+ 11. PhantomSynth
+ 12. PhantomSupreme
+ 13. PhantomSynth
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSynth
+ 11. PhantomSupreme
+ 12. PhantomSynth
+ 13. PhantomSupreme
+ 14. PhantomSynth
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.3696
+Adaptive Mutation Rate: 0.0969
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomEpic
+  7. PhantomAlpha
+  8. PhantomSupreme
+  9. LethalSupreme
+ 10. PhantomSynth
+ 11. PhantomSupreme
+ 12. PhantomSynth
+ 13. PhantomSupreme
+ 14. PhantomSynth
+ 15. PhantomSleek
+ 16. PhantomSupreme
+ 17. PhantomFluid
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomVelvet
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 70/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomAlpha
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomAlpha
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5000
+Adaptive Mutation Rate: 0.0989
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomAlpha
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. SynthSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. ApexSupreme
+ 16. PhantomPrime
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomDominant
+ 22. PhantomVapor
+ 23. PhantomDominant
+ 24. PhantomSupreme
+
+========== Generation 71/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. VelvetSupreme
+  7. PhantomSupreme
+  8. PhantomVelvet
+  9. PhantomSupreme
+ 10. PhantomApex
+ 11. PhantomSupreme
+ 12. TwinklySupreme
+ 13. PhantomApex
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 72/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 1
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSweet
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 73/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 1
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. CrimsonSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 74/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 0
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 75/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomPrecise
+  5. PhantomObsidian
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomCrimson
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. TwinklySupreme
+ 16. PhantomVenomous
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomKinetic
+ 22. PhantomApex
+ 23. MethodicalSupreme
+ 24. PhantomSupreme
+
+========== Generation 76/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomVenomous
+  8. PhantomSupreme
+  9. DynamicSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. AlphaSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. CrimsonSupreme
+ 18. PhantomGlitchy
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. DigitalSupreme
+ 23. DominantSupreme
+ 24. PhantomSupreme
+
+========== Generation 77/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomBinary
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomInvincible
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSweet
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 78/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomBrutal
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. LovelyAnalytical
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomLovely
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. AlphaSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 79/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomAnalytical
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. InvincibleSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. RuthlessSupreme
+ 16. BlushySupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 80/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomAnalytical
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomAnalytical
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.8333
+Adaptive Mutation Rate: 0.0981
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. StrategicSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PrimeSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomShadow
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomAnalytical
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 81/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. FluidSupreme
+  9. PhantomSupreme
+ 10. VaporSupreme
+ 11. SystematicSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 82/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomStrategic
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. EpicSupreme
+ 22. PhantomVirtua
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 83/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. VenomousSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. MidnightSupreme
+ 19. BinarySupreme
+ 20. MellowSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 84/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. GlitchySupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomPixelated
+  8. DigitalSupreme
+  9. PhantomTactical
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSparkly
+ 15. CalculatedSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 85/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomPixelated
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomPixelated
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.6667
+Adaptive Mutation Rate: 0.0985
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. CoordinatedSupreme
+  2. PhantomSupreme
+  3. PhantomPixelated
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. VoltSupreme
+ 13. PhantomSupreme
+ 14. PlasmaCerebral
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomUnstoppable
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. BrutalSupreme
+ 24. PhantomSupreme
+
+========== Generation 86/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomStrategic
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. MastermindSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 87/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomCerebral
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. CoordinatedSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. AlphaSupreme
+ 22. PhantomSupreme
+ 23. PhantomDigital
+ 24. PhantomSupreme
+
+========== Generation 88/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. VelvetSupreme
+  5. PhantomSupreme
+  6. CalculatedSupreme
+  7. CleanSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. CrimsonSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 89/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomPixelated
+ 12. FatalSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomCyber
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. RelentlessSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 90/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 8
+No Crossover Pairs: 4
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. ObsidianSupreme
+ 12. EpicSupreme
+ 13. PhantomTechnical
+ 14. PhantomSupreme
+ 15. GlitchySupreme
+ 16. PhantomSupreme
+ 17. EpicSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. InvincibleSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomMellow
+ 24. PhantomSupreme
+
+========== Generation 91/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSweet
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. IntuitiveSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. DigitalSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. DynamicSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 92/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. DigitalSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. DigitalSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5000
+Adaptive Mutation Rate: 0.0989
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PlasmaAdaptive
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomVenomous
+  6. PhantomSupreme
+  7. MastermindBrilliant
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. DigitalSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 93/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. TwinklySupreme
+  7. GhostSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. TechnicalSupreme
+ 20. PhantomClever
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. ObsidianSupreme
+ 24. PhantomSupreme
+
+========== Generation 94/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. AlphaSupreme
+  6. PhantomSupreme
+  7. AlphaSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. DigitalSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomRelentless
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 95/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. AlphaSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. FierceSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. ElectricSupreme
+
+========== Generation 96/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 1
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. FatalSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 97/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. PhantomVelvet
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. CerebralSupreme
+  8. AlphaSupreme
+  9. PhantomSupreme
+ 10. SavageSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomClean
+ 17. PhantomRelentless
+ 18. CoordinatedSupreme
+ 19. KineticSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 98/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. CerebralSupreme
+  7. PhantomSupreme
+  8. AdaptiveSupreme
+  9. PhantomSupreme
+ 10. CleanSupreme
+ 11. BinarySupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. AnalyticalSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. ShadowSupreme
+
+========== Generation 99/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. PhantomSoft
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. CleanSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomFatal
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. LegendarySupreme
+ 19. PhantomVoid
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomKinetic
+
+========== Generation 100/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. EliteSupreme
+  4. PhantomSupreme
+  5. PhantomFatal
+  6. PhantomSupreme
+  7. PrimeSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomClutch
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomDynamic
+ 16. PhantomSupreme
+ 17. PhantomTwinkly
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. ReactiveSupreme
+
+========================================
+GA PROCESS COMPLETE
+Best Username Found: PhantomSupreme

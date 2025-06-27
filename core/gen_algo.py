@@ -7,7 +7,7 @@ import joblib
 
 # GA parameters
 POPULATION_SIZE = 50
-GENERATIONS = 50
+GENERATIONS = 100
 TOURNAMENT_SIZE = 3
 NUM_PARENTS = 25
 INITIAL_CROSSOVER_RATE = 0.9
@@ -24,7 +24,7 @@ def initialize_word_pool():
     try:
         print("\n[PROCESS] Parsing word_pool.xlsx...")
 
-        df = pd.read_excel('..\data\word_pool.xlsx')
+        df = pd.read_excel('../data/word_pool.xlsx')
         df = df.map(lambda x: str(x).strip().replace('\xa0', '') if pd.notnull(x) else x)
         print("[STATUS] Successfully read word_pool.xlsx")
         word_categories = {}
@@ -42,7 +42,7 @@ def initialize_word_pool():
 # Personality NN output 
 def get_NN_personality():
     traits = ["artista" , "diva", "oa", "wildcard", "achiever", "emo", "gamer", "softie"]
-    chosen_trait = "gamer"
+    chosen_trait = random.choice(traits)
     return chosen_trait
     
 # Initialize Population
@@ -58,24 +58,35 @@ def initialize_population(word_pool, trait):
     for _ in range(POPULATION_SIZE):
         individual = [random.choice(selected_words) for _ in range(2)] 
         population.append(individual)
-    return population
+
+    fitness_pop = fitness(population)
+
+    return population, fitness_pop
 
 # Fitness Function
 def fitness(population):
-    # Return fitness score as basis of selection
+    # Return fitness score as basis of selection    
     # Replace fitness score (creativity score) once Creativity NN is done
     # Import Creativity NN and use its function
     return creativity_nn(population, model, scaler)
 
 # Parent Selection
-def tournament_selection(population):
+def tournament_selection(population, fitness_pop):
     parents = []
     for _ in range(NUM_PARENTS):
         # Select a subset of the population for tournament
         tournament_group = random.sample(population, TOURNAMENT_SIZE)
+        tournament_indices = [population.index(ind) for ind in tournament_group]
 
+        max_val = fitness_pop[tournament_indices[0]]
+        max_index = tournament_indices[0]
+        for indices in tournament_indices:
+            if fitness_pop[indices] > max_val:
+                max_val = fitness_pop[indices]
+                max_index = indices
+        
         # Determine the winner of each tournament_group based on fitness score
-        winner = max(tournament_group, key=fitness)
+        winner = population[max_index]
         parents.append(winner)
     return parents
 
@@ -213,7 +224,7 @@ if __name__ == "__main__":
     trait = get_NN_personality()
 
     # Initialize population
-    population = initialize_population(word_pool, trait)
+    population, fitness_pop = initialize_population(word_pool, trait)
     # population = 100 -> tournament_selection -> 50 parents (OF GEN 1)
     # parents = 50 -> end
 
@@ -241,7 +252,7 @@ if __name__ == "__main__":
             f.write(f"========== Generation {generation + 1}/{GENERATIONS} ==========\n\n")
 
             # [1] Selection
-            parents = tournament_selection(population)
+            parents = tournament_selection(population, fitness_pop)
             f.write("SELECTION\n")
             log_section(f, "Selected Parents", parents)
             
@@ -269,13 +280,23 @@ if __name__ == "__main__":
             f.write(f"Adaptive Mutation Rate: {adaptive_mutation_rate:.4f}\n")
             f.write(f"Total Mutations: {mutation_count}\n\n")
             log_section(f, "New Population after Mutation", population)
+            fitness_pop = fitness(population)
 
         # End the GA loop
         f.write("="*40 + "\n")
         f.write("GA PROCESS COMPLETE\n")
         
         # Find and display the best individual from the final population
-        best_individual = max(population, key=fitness)
+        max_val = fitness_pop[0]
+        max_index = 0
+        for i in range(len(fitness_pop)):
+            if fitness_pop[i] > max_val:
+                max_val = fitness_pop[i]
+                max_index = i
+        
+        # Determine the winner of each tournament_group based on fitness score
+        best_individual = population[max_index]
+
         result_message = f"Best Username Found: {''.join(best_individual)}\n"
         
         f.write(result_message)

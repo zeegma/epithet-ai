@@ -11,29 +11,33 @@ SCALER = "../training/nn_creativity/data/scaler.save"
 
 
 # Main function that takes in the two words and the loaded model
-def creativity_nn(input_username: list, model, scaler):
-    embedded = get_embeddings(input_username)
+def creativity_nn(username_list: list, model, scaler):
+    embedded = get_embeddings(username_list)
     return predict_creativity(embedded, model, scaler)
 
 # Convert raw username into embeddings
-def get_embeddings(input_username: list):
+def get_embeddings(username_list: list):
     
-    word1 = input_username[0].lower().strip()
-    word2 = input_username[1].lower().strip()
-        
-    word_vectors = np.load(WORD_VECTOR_PATH)
+    cosine_score = []
+    embeddings = []
 
-    vec = [word_vectors[word1], word_vectors[word2]]
-    mean_embedding = np.mean([vec[0], vec[1]], axis=0)
+    for username in username_list:
+        word1 = username[0].lower().strip()
+        word2 = username[1].lower().strip()
 
-    #Input features
-    cosine_score = cosine_similarity(vec[0], vec[1])
-    alliteration_score = 1 if word1[0] == word2[0] else 0
+        word_vectors = np.load(WORD_VECTOR_PATH)
+
+        vec = [word_vectors[word1], word_vectors[word2]]
+        embeddings.append(np.mean([vec[0], vec[1]], axis=0))
+
+        #Input features
+        cosine_score.append(cosine_similarity(vec[0], vec[1]))
 
     X = []
-    features = [cosine_score]
-    features.extend(mean_embedding)
-    X.append(features)
+    for i in range(len(username_list)):
+        features = [cosine_score[i]]
+        features.extend(embeddings[i])
+        X.append(features)
 
     return np.array(X)
 
@@ -45,7 +49,6 @@ def predict_creativity(X, model, scaler):
     # Predict and evaluate using the testing split
     prediction = model.predict(x_scaled).flatten()
 
-    print(prediction)
     return prediction
 
 
@@ -56,7 +59,4 @@ def cosine_similarity(vec1, vec2):
 
 if __name__ == "__main__":
     model = load_model(TRAINED_MODEL)
-    creativity_nn(['Baby','Creamy'], model)
-    creativity_nn(['Tinky', 'Blinky'], model)
-    creativity_nn(['Lily', 'Butter'], model)
-    creativity_nn(['Creamy', 'Pixie'], model)
+    creativity_nn([['Baby','Creamy'], ['Pixelated', 'Shadow']], model)

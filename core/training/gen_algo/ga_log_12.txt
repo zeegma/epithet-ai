@@ -1,0 +1,4757 @@
+Epithet AI - Genetic Algorithm Log
+========================================
+
+[Initial Population]
+  1. SparklyFocused
+  2. ElectricGodlike
+  3. CleverRetro
+  4. VoidPlasma
+  5. VenomousAdaptive
+  6. ViciousVapor
+  7. PreciseSystematic
+  8. ViciousTwinkly
+  9. AdaptiveVicious
+ 10. ElectricObsidian
+ 11. PhantomLovely
+ 12. GeniusGlitchy
+ 13. MellowPatient
+ 14. PlasmaChrome
+ 15. FluidPatient
+ 16. GhostSharp
+ 17. BrutalRuthless
+ 18. TechnicalInvincible
+ 19. TechnicalEclipse
+ 20. TechnicalRuthless
+ 21. PixelatedApex
+ 22. GodlikeRuthless
+ 23. PixelatedObsidian
+ 24. CalculatedSparkly
+ 25. BinaryAnalytical
+ 26. BinaryBrutal
+ 27. RelentlessTechnical
+ 28. AnalyticalBlushy
+ 29. FatalQuantum
+ 30. BrutalIntuitive
+ 31. FocusedPatient
+ 32. CrimsonQuantum
+ 33. FocusedSleek
+ 34. SystematicPrecise
+ 35. NoirSleek
+ 36. QuantumCerebral
+ 37. DreamyAnalytical
+ 38. AdaptiveCerebral
+ 39. PreciseClever
+ 40. DominantFatal
+ 41. RelentlessMastermind
+ 42. CoordinatedGenius
+ 43. ClutchClever
+ 44. ClutchVapor
+ 45. PatientNeural
+ 46. IntuitiveAdaptive
+ 47. TechnicalCalculated
+ 48. SleekDominant
+ 49. ApexBinary
+ 50. TechnicalObsidian
+
+========== Generation 1/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. ClutchVapor
+  2. RelentlessTechnical
+  3. PreciseClever
+  4. TechnicalEclipse
+  5. ClutchVapor
+  6. ApexBinary
+  7. PixelatedObsidian
+  8. ClutchVapor
+  9. BinaryBrutal
+ 10. DreamyAnalytical
+ 11. QuantumCerebral
+ 12. ApexBinary
+ 13. PhantomLovely
+ 14. ElectricGodlike
+ 15. SparklyFocused
+ 16. TechnicalEclipse
+ 17. AdaptiveCerebral
+ 18. IntuitiveAdaptive
+ 19. NoirSleek
+ 20. FocusedPatient
+ 21. AdaptiveCerebral
+ 22. ElectricObsidian
+ 23. GhostSharp
+ 24. TechnicalEclipse
+ 25. NoirSleek
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. RelentlessTechnical
+  2. ClutchVapor
+  3. TechnicalClever
+  4. PreciseEclipse
+  5. ApexVapor
+  6. ClutchBinary
+  7. ClutchObsidian
+  8. PixelatedVapor
+  9. DreamyBrutal
+ 10. BinaryAnalytical
+ 11. QuantumBinary
+ 12. ApexCerebral
+ 13. ElectricGodlike
+ 14. PhantomLovely
+ 15. TechnicalEclipse
+ 16. SparklyFocused
+ 17. AdaptiveAdaptive
+ 18. IntuitiveCerebral
+ 19. FocusedPatient
+ 20. NoirSleek
+ 21. ElectricObsidian
+ 22. AdaptiveCerebral
+ 23. TechnicalEclipse
+ 24. GhostSharp
+
+MUTATION
+[Mutation Info]
+Population Diversity: 12.9275
+Adaptive Mutation Rate: 0.0706
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. ChromeTechnical
+  2. ClutchVapor
+  3. SoftClever
+  4. PreciseEclipse
+  5. ApexVapor
+  6. ClutchBinary
+  7. ClutchObsidian
+  8. PixelatedVapor
+  9. DreamyBrutal
+ 10. BinaryAnalytical
+ 11. QuantumBinary
+ 12. ApexCerebral
+ 13. ElectricGodlike
+ 14. PhantomLovely
+ 15. TechnicalEclipse
+ 16. SparklyFocused
+ 17. AdaptiveAdaptive
+ 18. IntuitiveCerebral
+ 19. FocusedPatient
+ 20. NoirSleek
+ 21. ElectricObsidian
+ 22. AdaptiveCerebral
+ 23. TechnicalEclipse
+ 24. GhostSharp
+
+========== Generation 2/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. TechnicalEclipse
+  2. TechnicalEclipse
+  3. GhostSharp
+  4. PreciseEclipse
+  5. NoirSleek
+  6. NoirSleek
+  7. TechnicalEclipse
+  8. PixelatedVapor
+  9. ApexVapor
+ 10. NoirSleek
+ 11. ApexCerebral
+ 12. ApexCerebral
+ 13. ClutchVapor
+ 14. ChromeTechnical
+ 15. ApexCerebral
+ 16. NoirSleek
+ 17. ClutchObsidian
+ 18. TechnicalEclipse
+ 19. PreciseEclipse
+ 20. TechnicalEclipse
+ 21. ClutchObsidian
+ 22. TechnicalEclipse
+ 23. NoirSleek
+ 24. ApexVapor
+ 25. PreciseEclipse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. TechnicalEclipse
+  2. TechnicalEclipse
+  3. GhostEclipse
+  4. PreciseSharp
+  5. NoirSleek
+  6. NoirSleek
+  7. PixelatedVapor
+  8. TechnicalEclipse
+  9. ApexVapor
+ 10. NoirSleek
+ 11. ApexCerebral
+ 12. ApexCerebral
+ 13. ClutchTechnical
+ 14. ChromeVapor
+ 15. ApexCerebral
+ 16. NoirSleek
+ 17. ClutchObsidian
+ 18. TechnicalEclipse
+ 19. PreciseEclipse
+ 20. TechnicalEclipse
+ 21. TechnicalObsidian
+ 22. ClutchEclipse
+ 23. ApexVapor
+ 24. NoirSleek
+
+MUTATION
+[Mutation Info]
+Population Diversity: 10.8478
+Adaptive Mutation Rate: 0.0753
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. TechnicalGenius
+  2. TechnicalEclipse
+  3. GhostSavage
+  4. PreciseSharp
+  5. UnstoppableSleek
+  6. NoirSleek
+  7. PixelatedVapor
+  8. TechnicalEclipse
+  9. ApexVapor
+ 10. NoirSleek
+ 11. ApexCerebral
+ 12. ApexVenomous
+ 13. ClutchTechnical
+ 14. ChromeVapor
+ 15. ApexCerebral
+ 16. NoirSleek
+ 17. ClutchObsidian
+ 18. MellowEclipse
+ 19. CrimsonEclipse
+ 20. TechnicalEclipse
+ 21. TechnicalObsidian
+ 22. ClutchEclipse
+ 23. FluidVapor
+ 24. NoirSleek
+
+========== Generation 3/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. NoirSleek
+  2. MellowEclipse
+  3. NoirSleek
+  4. TechnicalEclipse
+  5. ApexCerebral
+  6. ClutchObsidian
+  7. TechnicalEclipse
+  8. NoirSleek
+  9. NoirSleek
+ 10. ApexVapor
+ 11. NoirSleek
+ 12. NoirSleek
+ 13. TechnicalEclipse
+ 14. NoirSleek
+ 15. ApexCerebral
+ 16. ClutchObsidian
+ 17. TechnicalEclipse
+ 18. NoirSleek
+ 19. NoirSleek
+ 20. NoirSleek
+ 21. CrimsonEclipse
+ 22. NoirSleek
+ 23. NoirSleek
+ 24. TechnicalEclipse
+ 25. MellowEclipse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. MellowSleek
+  2. NoirEclipse
+  3. NoirSleek
+  4. TechnicalEclipse
+  5. ApexObsidian
+  6. ClutchCerebral
+  7. NoirEclipse
+  8. TechnicalSleek
+  9. NoirSleek
+ 10. ApexVapor
+ 11. NoirSleek
+ 12. NoirSleek
+ 13. TechnicalSleek
+ 14. NoirEclipse
+ 15. ClutchObsidian
+ 16. ApexCerebral
+ 17. NoirSleek
+ 18. TechnicalEclipse
+ 19. NoirSleek
+ 20. NoirSleek
+ 21. CrimsonSleek
+ 22. NoirEclipse
+ 23. TechnicalSleek
+ 24. NoirEclipse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 8.7826
+Adaptive Mutation Rate: 0.0800
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. LethalSleek
+  2. NoirEclipse
+  3. NoirSleek
+  4. TechnicalEclipse
+  5. ApexObsidian
+  6. ClutchCerebral
+  7. NoirEclipse
+  8. TechnicalSleek
+  9. NoirSleek
+ 10. ApexVapor
+ 11. NoirSleek
+ 12. AdaptiveSleek
+ 13. TechnicalSleek
+ 14. NoirEclipse
+ 15. ClutchObsidian
+ 16. ApexCerebral
+ 17. NoirSleek
+ 18. TechnicalEclipse
+ 19. NoirSleek
+ 20. RelentlessSleek
+ 21. CleverSleek
+ 22. NoirEclipse
+ 23. TechnicalSleek
+ 24. NoirEclipse
+
+========== Generation 4/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. NoirSleek
+  2. ApexCerebral
+  3. TechnicalEclipse
+  4. NoirSleek
+  5. NoirSleek
+  6. NoirEclipse
+  7. NoirSleek
+  8. NoirSleek
+  9. NoirSleek
+ 10. NoirSleek
+ 11. NoirSleek
+ 12. NoirSleek
+ 13. ApexCerebral
+ 14. ApexVapor
+ 15. NoirSleek
+ 16. ClutchObsidian
+ 17. TechnicalEclipse
+ 18. ApexCerebral
+ 19. NoirSleek
+ 20. TechnicalEclipse
+ 21. NoirSleek
+ 22. NoirSleek
+ 23. NoirSleek
+ 24. NoirSleek
+ 25. NoirSleek
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. ApexSleek
+  2. NoirCerebral
+  3. TechnicalSleek
+  4. NoirEclipse
+  5. NoirSleek
+  6. NoirEclipse
+  7. NoirSleek
+  8. NoirSleek
+  9. NoirSleek
+ 10. NoirSleek
+ 11. NoirSleek
+ 12. NoirSleek
+ 13. ApexVapor
+ 14. ApexCerebral
+ 15. NoirObsidian
+ 16. ClutchSleek
+ 17. ApexCerebral
+ 18. TechnicalEclipse
+ 19. NoirEclipse
+ 20. TechnicalSleek
+ 21. NoirSleek
+ 22. NoirSleek
+ 23. NoirSleek
+ 24. NoirSleek
+
+MUTATION
+[Mutation Info]
+Population Diversity: 6.8986
+Adaptive Mutation Rate: 0.0843
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. ApexSleek
+  2. NoirCerebral
+  3. TechnicalSleek
+  4. NoirEclipse
+  5. NoirSleek
+  6. NoirEclipse
+  7. NeuralSleek
+  8. NoirSleek
+  9. NoirSleek
+ 10. NoirSleek
+ 11. NoirSleek
+ 12. NoirQuantum
+ 13. ApexVapor
+ 14. ApexCerebral
+ 15. NoirObsidian
+ 16. ClutchSleek
+ 17. ApexCerebral
+ 18. TechnicalEclipse
+ 19. NoirEclipse
+ 20. TechnicalSleek
+ 21. NoirSleek
+ 22. NoirSleek
+ 23. NoirSleek
+ 24. NoirSleek
+
+========== Generation 5/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. NoirSleek
+  2. NoirSleek
+  3. NoirSleek
+  4. NoirSleek
+  5. NoirSleek
+  6. NoirSleek
+  7. NoirSleek
+  8. NoirSleek
+  9. NoirSleek
+ 10. NoirSleek
+ 11. NoirSleek
+ 12. NoirSleek
+ 13. NoirSleek
+ 14. NoirSleek
+ 15. NoirSleek
+ 16. NeuralSleek
+ 17. NoirSleek
+ 18. NoirSleek
+ 19. NoirSleek
+ 20. NeuralSleek
+ 21. NoirSleek
+ 22. NeuralSleek
+ 23. NoirSleek
+ 24. NoirSleek
+ 25. ApexCerebral
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. NoirSleek
+  2. NoirSleek
+  3. NoirSleek
+  4. NoirSleek
+  5. NoirSleek
+  6. NoirSleek
+  7. NoirSleek
+  8. NoirSleek
+  9. NoirSleek
+ 10. NoirSleek
+ 11. NoirSleek
+ 12. NoirSleek
+ 13. NoirSleek
+ 14. NoirSleek
+ 15. NoirSleek
+ 16. NeuralSleek
+ 17. NoirSleek
+ 18. NoirSleek
+ 19. NoirSleek
+ 20. NeuralSleek
+ 21. NoirSleek
+ 22. NeuralSleek
+ 23. NoirSleek
+ 24. NoirSleek
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.9130
+Adaptive Mutation Rate: 0.0979
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. NoirSleek
+  2. NoirVolt
+  3. NoirSleek
+  4. NoirSleek
+  5. NoirSleek
+  6. NoirSleek
+  7. NoirSleek
+  8. NoirSleek
+  9. NoirSleek
+ 10. NoirSleek
+ 11. NoirSleek
+ 12. NoirVelvet
+ 13. NoirSleek
+ 14. NoirSleek
+ 15. NoirSleek
+ 16. NeuralSleek
+ 17. NoirSleek
+ 18. NoirSleek
+ 19. NoirSleek
+ 20. NeuralSleek
+ 21. NoirSleek
+ 22. NeuralSleek
+ 23. NoirSleek
+ 24. NoirEclipse
+
+========== Generation 6/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. NoirSleek
+  2. NoirSleek
+  3. NoirSleek
+  4. NoirSleek
+  5. NoirSleek
+  6. NoirSleek
+  7. NoirSleek
+  8. NoirSleek
+  9. NoirSleek
+ 10. NoirSleek
+ 11. NoirSleek
+ 12. NoirSleek
+ 13. NoirSleek
+ 14. NoirSleek
+ 15. NoirSleek
+ 16. NoirSleek
+ 17. NoirSleek
+ 18. NoirSleek
+ 19. NoirSleek
+ 20. NoirSleek
+ 21. NoirSleek
+ 22. NoirSleek
+ 23. NoirSleek
+ 24. NoirSleek
+ 25. NoirSleek
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. NoirSleek
+  2. NoirSleek
+  3. NoirSleek
+  4. NoirSleek
+  5. NoirSleek
+  6. NoirSleek
+  7. NoirSleek
+  8. NoirSleek
+  9. NoirSleek
+ 10. NoirSleek
+ 11. NoirSleek
+ 12. NoirSleek
+ 13. NoirSleek
+ 14. NoirSleek
+ 15. NoirSleek
+ 16. NoirSleek
+ 17. NoirSleek
+ 18. NoirSleek
+ 19. NoirSleek
+ 20. NoirSleek
+ 21. NoirSleek
+ 22. NoirSleek
+ 23. NoirSleek
+ 24. NoirSleek
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. NoirSleek
+  2. NoirSleek
+  3. NoirSleek
+  4. NoirSleek
+  5. NoirSleek
+  6. NoirSleek
+  7. NoirSleek
+  8. NoirTactical
+  9. NoirSleek
+ 10. NoirSleek
+ 11. NoirSleek
+ 12. InvincibleSleek
+ 13. NoirSleek
+ 14. NoirSleek
+ 15. NoirSleek
+ 16. NoirSleek
+ 17. NoirSleek
+ 18. NoirSleek
+ 19. NoirSleek
+ 20. NoirLethal
+ 21. NoirSleek
+ 22. NoirSleek
+ 23. NoirSleek
+ 24. NoirVapor
+
+========== Generation 7/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. NoirSleek
+  2. NoirSleek
+  3. NoirSleek
+  4. NoirSleek
+  5. NoirSleek
+  6. NoirSleek
+  7. NoirSleek
+  8. NoirSleek
+  9. NoirSleek
+ 10. NoirSleek
+ 11. NoirSleek
+ 12. NoirSleek
+ 13. NoirSleek
+ 14. NoirSleek
+ 15. NoirSleek
+ 16. NoirLethal
+ 17. NoirSleek
+ 18. NoirSleek
+ 19. NoirSleek
+ 20. NoirSleek
+ 21. NoirSleek
+ 22. NoirSleek
+ 23. NoirSleek
+ 24. NoirSleek
+ 25. NoirSleek
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. NoirSleek
+  2. NoirSleek
+  3. NoirSleek
+  4. NoirSleek
+  5. NoirSleek
+  6. NoirSleek
+  7. NoirSleek
+  8. NoirSleek
+  9. NoirSleek
+ 10. NoirSleek
+ 11. NoirSleek
+ 12. NoirSleek
+ 13. NoirSleek
+ 14. NoirSleek
+ 15. NoirLethal
+ 16. NoirSleek
+ 17. NoirSleek
+ 18. NoirSleek
+ 19. NoirSleek
+ 20. NoirSleek
+ 21. NoirSleek
+ 22. NoirSleek
+ 23. NoirSleek
+ 24. NoirSleek
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5000
+Adaptive Mutation Rate: 0.0989
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. NoirSleek
+  2. NoirSweet
+  3. NoirSleek
+  4. NoirSleek
+  5. NoirPlasma
+  6. NoirSleek
+  7. NoirSleek
+  8. NoirSleek
+  9. NoirSleek
+ 10. NoirSleek
+ 11. BrutalSleek
+ 12. AdaptiveSleek
+ 13. NoirSleek
+ 14. NoirSleek
+ 15. NoirLethal
+ 16. NoirSleek
+ 17. InvincibleSleek
+ 18. NoirPhantom
+ 19. NoirSleek
+ 20. NoirDynamic
+ 21. NoirSleek
+ 22. NoirSleek
+ 23. NoirSleek
+ 24. NoirSleek
+
+========== Generation 8/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. NoirSleek
+  2. NoirSleek
+  3. NoirSleek
+  4. NoirSleek
+  5. NoirSleek
+  6. NoirSleek
+  7. NoirSleek
+  8. NoirSleek
+  9. NoirSleek
+ 10. NoirSleek
+ 11. NoirSleek
+ 12. NoirSleek
+ 13. NoirSleek
+ 14. NoirSleek
+ 15. NoirSleek
+ 16. NoirSleek
+ 17. NoirSleek
+ 18. NoirSleek
+ 19. NoirSleek
+ 20. NoirSleek
+ 21. NoirSleek
+ 22. AdaptiveSleek
+ 23. NoirSleek
+ 24. NoirSleek
+ 25. NoirSleek
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. NoirSleek
+  2. NoirSleek
+  3. NoirSleek
+  4. NoirSleek
+  5. NoirSleek
+  6. NoirSleek
+  7. NoirSleek
+  8. NoirSleek
+  9. NoirSleek
+ 10. NoirSleek
+ 11. NoirSleek
+ 12. NoirSleek
+ 13. NoirSleek
+ 14. NoirSleek
+ 15. NoirSleek
+ 16. NoirSleek
+ 17. NoirSleek
+ 18. NoirSleek
+ 19. NoirSleek
+ 20. NoirSleek
+ 21. NoirSleek
+ 22. AdaptiveSleek
+ 23. NoirSleek
+ 24. NoirSleek
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5833
+Adaptive Mutation Rate: 0.0987
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. VaporSleek
+  2. NoirSleek
+  3. NoirSleek
+  4. NoirSleek
+  5. StrategicSleek
+  6. NoirSleek
+  7. NoirSleek
+  8. NoirSleek
+  9. NoirSleek
+ 10. NoirSleek
+ 11. NoirSleek
+ 12. NoirSleek
+ 13. NoirSleek
+ 14. NoirSleek
+ 15. NoirSleek
+ 16. NoirSleek
+ 17. NoirSleek
+ 18. NoirElectric
+ 19. NoirTactical
+ 20. NoirSleek
+ 21. NoirMastermind
+ 22. AdaptiveSleek
+ 23. NoirSleek
+ 24. NoirSleek
+
+========== Generation 9/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. NoirSleek
+  2. NoirSleek
+  3. NoirSleek
+  4. NoirSleek
+  5. NoirSleek
+  6. NoirSleek
+  7. NoirSleek
+  8. NoirMastermind
+  9. NoirSleek
+ 10. NoirSleek
+ 11. NoirSleek
+ 12. NoirSleek
+ 13. NoirSleek
+ 14. NoirSleek
+ 15. NoirSleek
+ 16. NoirSleek
+ 17. NoirSleek
+ 18. NoirSleek
+ 19. NoirSleek
+ 20. NoirSleek
+ 21. NoirSleek
+ 22. NoirSleek
+ 23. NoirTactical
+ 24. NoirSleek
+ 25. NoirSleek
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. NoirSleek
+  2. NoirSleek
+  3. NoirSleek
+  4. NoirSleek
+  5. NoirSleek
+  6. NoirSleek
+  7. NoirMastermind
+  8. NoirSleek
+  9. NoirSleek
+ 10. NoirSleek
+ 11. NoirSleek
+ 12. NoirSleek
+ 13. NoirSleek
+ 14. NoirSleek
+ 15. NoirSleek
+ 16. NoirSleek
+ 17. NoirSleek
+ 18. NoirSleek
+ 19. NoirSleek
+ 20. NoirSleek
+ 21. NoirSleek
+ 22. NoirSleek
+ 23. NoirTactical
+ 24. NoirSleek
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.3841
+Adaptive Mutation Rate: 0.0969
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. NoirSleek
+  2. NoirSleek
+  3. NoirSleek
+  4. SavageSleek
+  5. MethodicalSleek
+  6. NoirSleek
+  7. NoirMastermind
+  8. NoirSleek
+  9. NoirSleek
+ 10. NoirSleek
+ 11. NoirSleek
+ 12. NoirSleek
+ 13. SleekSleek
+ 14. NoirUnstoppable
+ 15. NoirSleek
+ 16. NoirSleek
+ 17. NoirStrategic
+ 18. NoirSleek
+ 19. NoirSleek
+ 20. GlitchySleek
+ 21. NoirSleek
+ 22. NoirSleek
+ 23. SavageTactical
+ 24. NoirSleek
+
+========== Generation 10/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. NoirSleek
+  2. NoirSleek
+  3. NoirSleek
+  4. NoirSleek
+  5. NoirSleek
+  6. NoirSleek
+  7. NoirSleek
+  8. NoirSleek
+  9. NoirSleek
+ 10. NoirSleek
+ 11. NoirUnstoppable
+ 12. NoirSleek
+ 13. NoirSleek
+ 14. NoirSleek
+ 15. NoirSleek
+ 16. NoirSleek
+ 17. NoirSleek
+ 18. NoirSleek
+ 19. NoirSleek
+ 20. NoirSleek
+ 21. NoirSleek
+ 22. NoirSleek
+ 23. NoirSleek
+ 24. NoirSleek
+ 25. SleekSleek
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. NoirSleek
+  2. NoirSleek
+  3. NoirSleek
+  4. NoirSleek
+  5. NoirSleek
+  6. NoirSleek
+  7. NoirSleek
+  8. NoirSleek
+  9. NoirSleek
+ 10. NoirSleek
+ 11. NoirUnstoppable
+ 12. NoirSleek
+ 13. NoirSleek
+ 14. NoirSleek
+ 15. NoirSleek
+ 16. NoirSleek
+ 17. NoirSleek
+ 18. NoirSleek
+ 19. NoirSleek
+ 20. NoirSleek
+ 21. NoirSleek
+ 22. NoirSleek
+ 23. NoirSleek
+ 24. NoirSleek
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.9167
+Adaptive Mutation Rate: 0.0979
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. NoirSleek
+  2. NoirSleek
+  3. NoirSleek
+  4. NoirSleek
+  5. NoirSleek
+  6. NoirSleek
+  7. VelvetReactive
+  8. NoirSleek
+  9. NoirSleek
+ 10. NoirSleek
+ 11. NoirUnstoppable
+ 12. NoirSleek
+ 13. NoirSleek
+ 14. NoirSleek
+ 15. NoirSleek
+ 16. NoirSleek
+ 17. NoirSleek
+ 18. NoirSleek
+ 19. NoirSleek
+ 20. NoirSleek
+ 21. NoirSleek
+ 22. NoirSleek
+ 23. NoirKinetic
+ 24. NoirSleek
+
+========== Generation 11/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. NoirSleek
+  2. NoirSleek
+  3. NoirSleek
+  4. NoirSleek
+  5. NoirSleek
+  6. NoirSleek
+  7. NoirSleek
+  8. NoirSleek
+  9. NoirSleek
+ 10. NoirSleek
+ 11. NoirSleek
+ 12. NoirSleek
+ 13. NoirSleek
+ 14. NoirSleek
+ 15. NoirSleek
+ 16. NoirSleek
+ 17. NoirSleek
+ 18. NoirSleek
+ 19. NoirSleek
+ 20. NoirSleek
+ 21. NoirSleek
+ 22. NoirSleek
+ 23. NoirSleek
+ 24. NoirSleek
+ 25. NoirSleek
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. NoirSleek
+  2. NoirSleek
+  3. NoirSleek
+  4. NoirSleek
+  5. NoirSleek
+  6. NoirSleek
+  7. NoirSleek
+  8. NoirSleek
+  9. NoirSleek
+ 10. NoirSleek
+ 11. NoirSleek
+ 12. NoirSleek
+ 13. NoirSleek
+ 14. NoirSleek
+ 15. NoirSleek
+ 16. NoirSleek
+ 17. NoirSleek
+ 18. NoirSleek
+ 19. NoirSleek
+ 20. NoirSleek
+ 21. NoirSleek
+ 22. NoirSleek
+ 23. NoirSleek
+ 24. NoirSleek
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. NoirSleek
+  2. NoirSleek
+  3. NoirSleek
+  4. NoirSynth
+  5. NoirSleek
+  6. NoirSleek
+  7. NoirSleek
+  8. BlushySleek
+  9. NoirSleek
+ 10. NoirSleek
+ 11. NoirSleek
+ 12. LethalSleek
+ 13. NoirSleek
+ 14. NoirSleek
+ 15. NoirSleek
+ 16. NoirSleek
+ 17. NoirSleek
+ 18. NoirSleek
+ 19. NoirSleek
+ 20. NeuralSleek
+ 21. NoirSleek
+ 22. NoirSleek
+ 23. CleanSleek
+ 24. NoirSleek
+
+========== Generation 12/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. NoirSleek
+  2. NoirSleek
+  3. NoirSleek
+  4. NoirSleek
+  5. NoirSleek
+  6. NoirSleek
+  7. NoirSleek
+  8. NoirSleek
+  9. NoirSleek
+ 10. NoirSleek
+ 11. NoirSleek
+ 12. NoirSleek
+ 13. NoirSleek
+ 14. NoirSleek
+ 15. NoirSleek
+ 16. NoirSleek
+ 17. NoirSleek
+ 18. NoirSleek
+ 19. NoirSleek
+ 20. NoirSleek
+ 21. NoirSleek
+ 22. NoirSleek
+ 23. NoirSleek
+ 24. NoirSleek
+ 25. NoirSleek
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. NoirSleek
+  2. NoirSleek
+  3. NoirSleek
+  4. NoirSleek
+  5. NoirSleek
+  6. NoirSleek
+  7. NoirSleek
+  8. NoirSleek
+  9. NoirSleek
+ 10. NoirSleek
+ 11. NoirSleek
+ 12. NoirSleek
+ 13. NoirSleek
+ 14. NoirSleek
+ 15. NoirSleek
+ 16. NoirSleek
+ 17. NoirSleek
+ 18. NoirSleek
+ 19. NoirSleek
+ 20. NoirSleek
+ 21. NoirSleek
+ 22. NoirSleek
+ 23. NoirSleek
+ 24. NoirSleek
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. NoirSleek
+  2. FluidSleek
+  3. StrategicSleek
+  4. PrimeSleek
+  5. NoirSleek
+  6. NoirSupreme
+  7. NoirSleek
+  8. NoirSleek
+  9. NoirSleek
+ 10. NoirSleek
+ 11. InvincibleSleek
+ 12. NoirSleek
+ 13. NoirSleek
+ 14. NoirSleek
+ 15. NoirSleek
+ 16. NoirSleek
+ 17. NoirSleek
+ 18. NoirSleek
+ 19. NoirSleek
+ 20. EpicSleek
+ 21. NoirSleek
+ 22. NoirSleek
+ 23. NoirSleek
+ 24. RelentlessSleek
+
+========== Generation 13/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. NoirSleek
+  2. NoirSleek
+  3. NoirSleek
+  4. NoirSleek
+  5. NoirSleek
+  6. NoirSleek
+  7. NoirSleek
+  8. NoirSleek
+  9. NoirSupreme
+ 10. NoirSleek
+ 11. NoirSleek
+ 12. NoirSleek
+ 13. NoirSleek
+ 14. NoirSleek
+ 15. NoirSleek
+ 16. NoirSleek
+ 17. NoirSleek
+ 18. NoirSleek
+ 19. NoirSleek
+ 20. NoirSleek
+ 21. NoirSleek
+ 22. NoirSleek
+ 23. NoirSleek
+ 24. NoirSleek
+ 25. NoirSleek
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. NoirSleek
+  2. NoirSleek
+  3. NoirSleek
+  4. NoirSleek
+  5. NoirSleek
+  6. NoirSleek
+  7. NoirSleek
+  8. NoirSleek
+  9. NoirSleek
+ 10. NoirSupreme
+ 11. NoirSleek
+ 12. NoirSleek
+ 13. NoirSleek
+ 14. NoirSleek
+ 15. NoirSleek
+ 16. NoirSleek
+ 17. NoirSleek
+ 18. NoirSleek
+ 19. NoirSleek
+ 20. NoirSleek
+ 21. NoirSleek
+ 22. NoirSleek
+ 23. NoirSleek
+ 24. NoirSleek
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.4167
+Adaptive Mutation Rate: 0.0991
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. NoirSleek
+  2. NoirSleek
+  3. NoirSleek
+  4. NoirSleek
+  5. NoirSleek
+  6. NoirSleek
+  7. NoirSleek
+  8. NoirSleek
+  9. NoirSleek
+ 10. NoirSupreme
+ 11. NoirSleek
+ 12. NoirSleek
+ 13. NoirSleek
+ 14. NoirSleek
+ 15. NoirSleek
+ 16. NoirSleek
+ 17. NoirObsidian
+ 18. NoirSleek
+ 19. NoirSleek
+ 20. NoirSleek
+ 21. NoirFluid
+ 22. NoirSleek
+ 23. NoirSleek
+ 24. NoirSleek
+
+========== Generation 14/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. NoirSleek
+  2. NoirSleek
+  3. NoirSupreme
+  4. NoirSleek
+  5. NoirSleek
+  6. NoirSleek
+  7. NoirSupreme
+  8. NoirSleek
+  9. NoirSleek
+ 10. NoirSleek
+ 11. NoirSleek
+ 12. NoirSleek
+ 13. NoirSleek
+ 14. NoirSleek
+ 15. NoirSleek
+ 16. NoirSupreme
+ 17. NoirSleek
+ 18. NoirSleek
+ 19. NoirSleek
+ 20. NoirSupreme
+ 21. NoirSleek
+ 22. NoirSleek
+ 23. NoirSleek
+ 24. NoirSleek
+ 25. NoirSleek
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. NoirSleek
+  2. NoirSleek
+  3. NoirSleek
+  4. NoirSupreme
+  5. NoirSleek
+  6. NoirSleek
+  7. NoirSleek
+  8. NoirSupreme
+  9. NoirSleek
+ 10. NoirSleek
+ 11. NoirSleek
+ 12. NoirSleek
+ 13. NoirSleek
+ 14. NoirSleek
+ 15. NoirSupreme
+ 16. NoirSleek
+ 17. NoirSleek
+ 18. NoirSleek
+ 19. NoirSupreme
+ 20. NoirSleek
+ 21. NoirSleek
+ 22. NoirSleek
+ 23. NoirSleek
+ 24. NoirSleek
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.4493
+Adaptive Mutation Rate: 0.0967
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. NoirVoid
+  2. NoirSleek
+  3. NoirFluid
+  4. NoirSupreme
+  5. NoirSleek
+  6. NoirSleek
+  7. NoirSleek
+  8. NoirSupreme
+  9. NoirSleek
+ 10. NoirSleek
+ 11. NoirSleek
+ 12. CoordinatedSleek
+ 13. NoirSleek
+ 14. NoirSleek
+ 15. NoirSupreme
+ 16. NoirSleek
+ 17. NoirSleek
+ 18. NoirSleek
+ 19. NoirSupreme
+ 20. NoirSleek
+ 21. NoirSleek
+ 22. NoirSynth
+ 23. NoirSleek
+ 24. NoirSleek
+
+========== Generation 15/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. NoirSleek
+  2. NoirSleek
+  3. NoirSleek
+  4. NoirSleek
+  5. NoirSleek
+  6. NoirSupreme
+  7. NoirSleek
+  8. NoirSynth
+  9. NoirSupreme
+ 10. NoirSupreme
+ 11. NoirSupreme
+ 12. NoirSupreme
+ 13. NoirSleek
+ 14. NoirSleek
+ 15. NoirSleek
+ 16. NoirSupreme
+ 17. NoirSleek
+ 18. NoirSleek
+ 19. NoirSleek
+ 20. NoirSleek
+ 21. NoirSleek
+ 22. NoirSupreme
+ 23. NoirSleek
+ 24. NoirSleek
+ 25. NoirSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. NoirSleek
+  2. NoirSleek
+  3. NoirSleek
+  4. NoirSleek
+  5. NoirSupreme
+  6. NoirSleek
+  7. NoirSynth
+  8. NoirSleek
+  9. NoirSupreme
+ 10. NoirSupreme
+ 11. NoirSupreme
+ 12. NoirSupreme
+ 13. NoirSleek
+ 14. NoirSleek
+ 15. NoirSleek
+ 16. NoirSupreme
+ 17. NoirSleek
+ 18. NoirSleek
+ 19. NoirSleek
+ 20. NoirSleek
+ 21. NoirSupreme
+ 22. NoirSleek
+ 23. NoirSleek
+ 24. NoirSleek
+
+MUTATION
+[Mutation Info]
+Population Diversity: 2.4130
+Adaptive Mutation Rate: 0.0945
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. NoirSleek
+  2. NoirSleek
+  3. SweetSleek
+  4. NoirSleek
+  5. NoirSupreme
+  6. NoirSleek
+  7. NoirSynth
+  8. NoirSleek
+  9. NoirSupreme
+ 10. NoirSupreme
+ 11. NoirSupreme
+ 12. NoirSupreme
+ 13. NoirSleek
+ 14. LethalSleek
+ 15. NoirSleek
+ 16. NoirChrome
+ 17. NoirSleek
+ 18. NoirSleek
+ 19. NoirSleek
+ 20. NoirSleek
+ 21. NoirSupreme
+ 22. NoirSleek
+ 23. NoirSleek
+ 24. NoirSleek
+
+========== Generation 16/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. NoirSleek
+  2. NoirSupreme
+  3. NoirSupreme
+  4. NoirSupreme
+  5. NoirSleek
+  6. NoirSupreme
+  7. NoirSupreme
+  8. NoirSupreme
+  9. NoirSleek
+ 10. NoirSupreme
+ 11. NoirSupreme
+ 12. NoirSupreme
+ 13. NoirSupreme
+ 14. NoirSleek
+ 15. NoirSupreme
+ 16. NoirSupreme
+ 17. NoirSleek
+ 18. NoirSleek
+ 19. NoirSleek
+ 20. NoirSleek
+ 21. NoirSleek
+ 22. NoirSupreme
+ 23. NoirSleek
+ 24. NoirSleek
+ 25. NoirSleek
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. NoirSupreme
+  2. NoirSleek
+  3. NoirSupreme
+  4. NoirSupreme
+  5. NoirSleek
+  6. NoirSupreme
+  7. NoirSupreme
+  8. NoirSupreme
+  9. NoirSleek
+ 10. NoirSupreme
+ 11. NoirSupreme
+ 12. NoirSupreme
+ 13. NoirSleek
+ 14. NoirSupreme
+ 15. NoirSupreme
+ 16. NoirSupreme
+ 17. NoirSleek
+ 18. NoirSleek
+ 19. NoirSleek
+ 20. NoirSleek
+ 21. NoirSupreme
+ 22. NoirSleek
+ 23. NoirSleek
+ 24. NoirSleek
+
+MUTATION
+[Mutation Info]
+Population Diversity: 2.5906
+Adaptive Mutation Rate: 0.0941
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. NoirSupreme
+  2. NoirSoft
+  3. NoirTactical
+  4. NoirSupreme
+  5. NoirSleek
+  6. SavageSupreme
+  7. NoirSupreme
+  8. NoirSupreme
+  9. NoirSleek
+ 10. NoirSupreme
+ 11. NoirSupreme
+ 12. NoirSupreme
+ 13. NoirSleek
+ 14. NoirSupreme
+ 15. NoirSupreme
+ 16. NoirSupreme
+ 17. NoirSleek
+ 18. NoirSleek
+ 19. NoirSleek
+ 20. NoirSleek
+ 21. NoirSupreme
+ 22. NoirSleek
+ 23. TacticalSleek
+ 24. NoirSleek
+
+========== Generation 17/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. NoirSupreme
+  2. NoirSupreme
+  3. NoirSupreme
+  4. NoirSupreme
+  5. NoirSleek
+  6. NoirSupreme
+  7. NoirSupreme
+  8. NoirSupreme
+  9. NoirSupreme
+ 10. NoirSupreme
+ 11. NoirSupreme
+ 12. NoirSupreme
+ 13. NoirSupreme
+ 14. NoirSupreme
+ 15. NoirSupreme
+ 16. NoirSupreme
+ 17. NoirSleek
+ 18. NoirSleek
+ 19. NoirSupreme
+ 20. NoirSupreme
+ 21. NoirSupreme
+ 22. NoirSupreme
+ 23. NoirSupreme
+ 24. NoirSupreme
+ 25. NoirSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. NoirSupreme
+  2. NoirSupreme
+  3. NoirSupreme
+  4. NoirSupreme
+  5. NoirSleek
+  6. NoirSupreme
+  7. NoirSupreme
+  8. NoirSupreme
+  9. NoirSupreme
+ 10. NoirSupreme
+ 11. NoirSupreme
+ 12. NoirSupreme
+ 13. NoirSupreme
+ 14. NoirSupreme
+ 15. NoirSupreme
+ 16. NoirSupreme
+ 17. NoirSleek
+ 18. NoirSleek
+ 19. NoirSupreme
+ 20. NoirSupreme
+ 21. NoirSupreme
+ 22. NoirSupreme
+ 23. NoirSupreme
+ 24. NoirSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.1413
+Adaptive Mutation Rate: 0.0974
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. NoirSupreme
+  2. NoirSupreme
+  3. NoirSupreme
+  4. NoirSupreme
+  5. NoirSleek
+  6. NoirSupreme
+  7. NoirSupreme
+  8. PrimeSupreme
+  9. NoirVicious
+ 10. NoirSupreme
+ 11. EliteSupreme
+ 12. NoirPlasma
+ 13. NoirMellow
+ 14. CleverSupreme
+ 15. NoirSupreme
+ 16. NoirSupreme
+ 17. NoirSleek
+ 18. NoirPatient
+ 19. NoirSupreme
+ 20. NoirSupreme
+ 21. NoirSupreme
+ 22. NoirSupreme
+ 23. NoirSupreme
+ 24. NoirSupreme
+
+========== Generation 18/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. NoirSupreme
+  2. NoirSupreme
+  3. NoirSupreme
+  4. NoirSupreme
+  5. NoirSupreme
+  6. NoirSupreme
+  7. NoirSupreme
+  8. NoirSupreme
+  9. NoirSupreme
+ 10. NoirSupreme
+ 11. NoirSupreme
+ 12. NoirSupreme
+ 13. NoirSupreme
+ 14. NoirSupreme
+ 15. NoirSupreme
+ 16. NoirSupreme
+ 17. NoirSupreme
+ 18. NoirSupreme
+ 19. NoirSleek
+ 20. NoirSupreme
+ 21. NoirSupreme
+ 22. NoirSupreme
+ 23. NoirSupreme
+ 24. NoirSupreme
+ 25. NoirSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. NoirSupreme
+  2. NoirSupreme
+  3. NoirSupreme
+  4. NoirSupreme
+  5. NoirSupreme
+  6. NoirSupreme
+  7. NoirSupreme
+  8. NoirSupreme
+  9. NoirSupreme
+ 10. NoirSupreme
+ 11. NoirSupreme
+ 12. NoirSupreme
+ 13. NoirSupreme
+ 14. NoirSupreme
+ 15. NoirSupreme
+ 16. NoirSupreme
+ 17. NoirSupreme
+ 18. NoirSupreme
+ 19. NoirSleek
+ 20. NoirSupreme
+ 21. NoirSupreme
+ 22. NoirSupreme
+ 23. NoirSupreme
+ 24. NoirSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.4167
+Adaptive Mutation Rate: 0.0991
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. NoirSupreme
+  2. NoirSupreme
+  3. NoirSupreme
+  4. NoirSupreme
+  5. NoirSupreme
+  6. NoirSupreme
+  7. NoirSupreme
+  8. NoirSupreme
+  9. NoirSupreme
+ 10. NoirSupreme
+ 11. NoirSupreme
+ 12. NoirSupreme
+ 13. NoirSupreme
+ 14. NoirLegendary
+ 15. NoirSupreme
+ 16. NoirSupreme
+ 17. NoirSupreme
+ 18. NoirSupreme
+ 19. BlushySleek
+ 20. NoirSupreme
+ 21. NoirSupreme
+ 22. SweetSupreme
+ 23. NoirCrimson
+ 24. NoirSupreme
+
+========== Generation 19/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. NoirSupreme
+  2. NoirSupreme
+  3. NoirSupreme
+  4. NoirSupreme
+  5. NoirSupreme
+  6. NoirSupreme
+  7. NoirSupreme
+  8. NoirSupreme
+  9. NoirSupreme
+ 10. NoirSupreme
+ 11. NoirSupreme
+ 12. NoirSupreme
+ 13. NoirSupreme
+ 14. NoirSupreme
+ 15. NoirSupreme
+ 16. NoirSupreme
+ 17. NoirSupreme
+ 18. NoirSupreme
+ 19. NoirSupreme
+ 20. NoirSupreme
+ 21. NoirSupreme
+ 22. NoirSupreme
+ 23. NoirSupreme
+ 24. NoirSupreme
+ 25. NoirSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. NoirSupreme
+  2. NoirSupreme
+  3. NoirSupreme
+  4. NoirSupreme
+  5. NoirSupreme
+  6. NoirSupreme
+  7. NoirSupreme
+  8. NoirSupreme
+  9. NoirSupreme
+ 10. NoirSupreme
+ 11. NoirSupreme
+ 12. NoirSupreme
+ 13. NoirSupreme
+ 14. NoirSupreme
+ 15. NoirSupreme
+ 16. NoirSupreme
+ 17. NoirSupreme
+ 18. NoirSupreme
+ 19. NoirSupreme
+ 20. NoirSupreme
+ 21. NoirSupreme
+ 22. NoirSupreme
+ 23. NoirSupreme
+ 24. NoirSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. NoirSupreme
+  2. NoirSupreme
+  3. NoirSupreme
+  4. NoirSupreme
+  5. NoirPhantom
+  6. NoirSupreme
+  7. NoirEpic
+  8. NoirSupreme
+  9. NoirSupreme
+ 10. NoirSupreme
+ 11. CalculatedSupreme
+ 12. NoirSupreme
+ 13. PixelatedSupreme
+ 14. NoirSupreme
+ 15. NoirSupreme
+ 16. NoirSupreme
+ 17. NoirVapor
+ 18. NoirSupreme
+ 19. NoirSupreme
+ 20. PlasmaSupreme
+ 21. NoirSupreme
+ 22. NoirSupreme
+ 23. NoirSupreme
+ 24. NoirSupreme
+
+========== Generation 20/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. NoirSupreme
+  2. NoirSupreme
+  3. NoirSupreme
+  4. NoirSupreme
+  5. NoirSupreme
+  6. NoirSupreme
+  7. NoirSupreme
+  8. NoirSupreme
+  9. NoirSupreme
+ 10. NoirSupreme
+ 11. NoirSupreme
+ 12. NoirSupreme
+ 13. NoirSupreme
+ 14. NoirSupreme
+ 15. NoirSupreme
+ 16. NoirSupreme
+ 17. NoirSupreme
+ 18. NoirSupreme
+ 19. NoirSupreme
+ 20. NoirSupreme
+ 21. NoirSupreme
+ 22. NoirSupreme
+ 23. NoirSupreme
+ 24. NoirSupreme
+ 25. NoirSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. NoirSupreme
+  2. NoirSupreme
+  3. NoirSupreme
+  4. NoirSupreme
+  5. NoirSupreme
+  6. NoirSupreme
+  7. NoirSupreme
+  8. NoirSupreme
+  9. NoirSupreme
+ 10. NoirSupreme
+ 11. NoirSupreme
+ 12. NoirSupreme
+ 13. NoirSupreme
+ 14. NoirSupreme
+ 15. NoirSupreme
+ 16. NoirSupreme
+ 17. NoirSupreme
+ 18. NoirSupreme
+ 19. NoirSupreme
+ 20. NoirSupreme
+ 21. NoirSupreme
+ 22. NoirSupreme
+ 23. NoirSupreme
+ 24. NoirSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. MidnightSupreme
+  2. NoirSupreme
+  3. NoirSupreme
+  4. NoirSupreme
+  5. NoirSupreme
+  6. NoirRuthless
+  7. NoirSupreme
+  8. NoirSupreme
+  9. NoirSupreme
+ 10. NoirSupreme
+ 11. NoirSupreme
+ 12. NoirSupreme
+ 13. NoirReactive
+ 14. NoirSupreme
+ 15. NoirSupreme
+ 16. PeachySupreme
+ 17. NoirSupreme
+ 18. NoirSupreme
+ 19. NoirSupreme
+ 20. NoirSupreme
+ 21. GeniusSupreme
+ 22. NoirSupreme
+ 23. NoirSupreme
+ 24. NoirSupreme
+
+========== Generation 21/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. NoirSupreme
+  2. NoirSupreme
+  3. NoirSupreme
+  4. NoirSupreme
+  5. NoirSupreme
+  6. MidnightSupreme
+  7. NoirSupreme
+  8. NoirSupreme
+  9. NoirSupreme
+ 10. NoirSupreme
+ 11. NoirSupreme
+ 12. NoirSupreme
+ 13. NoirSupreme
+ 14. NoirSupreme
+ 15. NoirSupreme
+ 16. NoirSupreme
+ 17. NoirSupreme
+ 18. NoirSupreme
+ 19. NoirSupreme
+ 20. NoirSupreme
+ 21. NoirSupreme
+ 22. NoirSupreme
+ 23. NoirSupreme
+ 24. NoirSupreme
+ 25. NoirSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. NoirSupreme
+  2. NoirSupreme
+  3. NoirSupreme
+  4. NoirSupreme
+  5. MidnightSupreme
+  6. NoirSupreme
+  7. NoirSupreme
+  8. NoirSupreme
+  9. NoirSupreme
+ 10. NoirSupreme
+ 11. NoirSupreme
+ 12. NoirSupreme
+ 13. NoirSupreme
+ 14. NoirSupreme
+ 15. NoirSupreme
+ 16. NoirSupreme
+ 17. NoirSupreme
+ 18. NoirSupreme
+ 19. NoirSupreme
+ 20. NoirSupreme
+ 21. NoirSupreme
+ 22. NoirSupreme
+ 23. NoirSupreme
+ 24. NoirSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5833
+Adaptive Mutation Rate: 0.0987
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. NoirSupreme
+  2. PrimeSupreme
+  3. NoirSupreme
+  4. NoirSynth
+  5. MidnightVapor
+  6. NoirSupreme
+  7. NoirSupreme
+  8. NoirSupreme
+  9. NoirSupreme
+ 10. NoirSupreme
+ 11. NoirSupreme
+ 12. NoirSupreme
+ 13. NoirSupreme
+ 14. NoirSupreme
+ 15. NoirCoordinated
+ 16. NoirPhantom
+ 17. NoirSupreme
+ 18. ApexSupreme
+ 19. NoirSupreme
+ 20. NoirSupreme
+ 21. NoirSupreme
+ 22. NoirFierce
+ 23. ElectricSupreme
+ 24. NoirSupreme
+
+========== Generation 22/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. NoirSupreme
+  2. NoirSupreme
+  3. NoirSupreme
+  4. MidnightVapor
+  5. NoirSupreme
+  6. NoirSupreme
+  7. NoirSupreme
+  8. NoirSupreme
+  9. NoirSupreme
+ 10. NoirSupreme
+ 11. NoirSupreme
+ 12. NoirSupreme
+ 13. NoirSupreme
+ 14. NoirSupreme
+ 15. NoirSupreme
+ 16. NoirSupreme
+ 17. NoirSupreme
+ 18. NoirSupreme
+ 19. NoirSupreme
+ 20. NoirSupreme
+ 21. NoirSupreme
+ 22. NoirSupreme
+ 23. NoirSupreme
+ 24. NoirSupreme
+ 25. NoirSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. NoirSupreme
+  2. NoirSupreme
+  3. NoirSupreme
+  4. MidnightVapor
+  5. NoirSupreme
+  6. NoirSupreme
+  7. NoirSupreme
+  8. NoirSupreme
+  9. NoirSupreme
+ 10. NoirSupreme
+ 11. NoirSupreme
+ 12. NoirSupreme
+ 13. NoirSupreme
+ 14. NoirSupreme
+ 15. NoirSupreme
+ 16. NoirSupreme
+ 17. NoirSupreme
+ 18. NoirSupreme
+ 19. NoirSupreme
+ 20. NoirSupreme
+ 21. NoirSupreme
+ 22. NoirSupreme
+ 23. NoirSupreme
+ 24. NoirSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.0000
+Adaptive Mutation Rate: 0.0977
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. MellowSupreme
+  2. NoirSupreme
+  3. NoirSupreme
+  4. MidnightVapor
+  5. NoirSupreme
+  6. NoirSupreme
+  7. NoirSupreme
+  8. NoirSupreme
+  9. NoirSupreme
+ 10. NoirSupreme
+ 11. NoirSupreme
+ 12. NoirSupreme
+ 13. NoirSupreme
+ 14. NoirLovely
+ 15. NoirShadow
+ 16. NoirSupreme
+ 17. NoirSupreme
+ 18. GodlikeSupreme
+ 19. NoirVelvet
+ 20. NoirSupreme
+ 21. DreamyVirtua
+ 22. NoirSupreme
+ 23. NoirSupreme
+ 24. NoirSupreme
+
+========== Generation 23/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. NoirSupreme
+  2. NoirSupreme
+  3. NoirSupreme
+  4. NoirSupreme
+  5. NoirSupreme
+  6. NoirSupreme
+  7. NoirSupreme
+  8. NoirSupreme
+  9. NoirSupreme
+ 10. NoirSupreme
+ 11. NoirSupreme
+ 12. NoirSupreme
+ 13. NoirSupreme
+ 14. NoirSupreme
+ 15. NoirSupreme
+ 16. NoirSupreme
+ 17. NoirSupreme
+ 18. NoirSupreme
+ 19. NoirSupreme
+ 20. NoirSupreme
+ 21. NoirSupreme
+ 22. NoirSupreme
+ 23. NoirSupreme
+ 24. NoirSupreme
+ 25. NoirSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. NoirSupreme
+  2. NoirSupreme
+  3. NoirSupreme
+  4. NoirSupreme
+  5. NoirSupreme
+  6. NoirSupreme
+  7. NoirSupreme
+  8. NoirSupreme
+  9. NoirSupreme
+ 10. NoirSupreme
+ 11. NoirSupreme
+ 12. NoirSupreme
+ 13. NoirSupreme
+ 14. NoirSupreme
+ 15. NoirSupreme
+ 16. NoirSupreme
+ 17. NoirSupreme
+ 18. NoirSupreme
+ 19. NoirSupreme
+ 20. NoirSupreme
+ 21. NoirSupreme
+ 22. NoirSupreme
+ 23. NoirSupreme
+ 24. NoirSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. NoirSupreme
+  2. NoirSupreme
+  3. NoirSupreme
+  4. NoirKinetic
+  5. NoirSupreme
+  6. NoirSupreme
+  7. NoirSupreme
+  8. NoirSupreme
+  9. NoirSupreme
+ 10. NoirSupreme
+ 11. NoirSupreme
+ 12. UnstoppableSupreme
+ 13. NoirSupreme
+ 14. NoirSupreme
+ 15. NoirSupreme
+ 16. NoirSupreme
+ 17. NoirSupreme
+ 18. NoirTechnical
+ 19. NoirSupreme
+ 20. NoirSupreme
+ 21. NoirSupreme
+ 22. NoirSupreme
+ 23. NoirSupreme
+ 24. NoirSupreme
+
+========== Generation 24/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. NoirSupreme
+  2. NoirSupreme
+  3. NoirSupreme
+  4. NoirSupreme
+  5. NoirSupreme
+  6. NoirSupreme
+  7. NoirSupreme
+  8. NoirSupreme
+  9. NoirSupreme
+ 10. NoirSupreme
+ 11. NoirSupreme
+ 12. NoirSupreme
+ 13. NoirSupreme
+ 14. NoirSupreme
+ 15. NoirSupreme
+ 16. NoirSupreme
+ 17. NoirSupreme
+ 18. NoirSupreme
+ 19. NoirSupreme
+ 20. NoirSupreme
+ 21. NoirSupreme
+ 22. NoirSupreme
+ 23. NoirSupreme
+ 24. NoirSupreme
+ 25. NoirSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. NoirSupreme
+  2. NoirSupreme
+  3. NoirSupreme
+  4. NoirSupreme
+  5. NoirSupreme
+  6. NoirSupreme
+  7. NoirSupreme
+  8. NoirSupreme
+  9. NoirSupreme
+ 10. NoirSupreme
+ 11. NoirSupreme
+ 12. NoirSupreme
+ 13. NoirSupreme
+ 14. NoirSupreme
+ 15. NoirSupreme
+ 16. NoirSupreme
+ 17. NoirSupreme
+ 18. NoirSupreme
+ 19. NoirSupreme
+ 20. NoirSupreme
+ 21. NoirSupreme
+ 22. NoirSupreme
+ 23. NoirSupreme
+ 24. NoirSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. NoirSupreme
+  2. NoirAdaptive
+  3. NoirSupreme
+  4. VirtuaSupreme
+  5. NoirSupreme
+  6. NoirSupreme
+  7. NoirSupreme
+  8. NoirSupreme
+  9. NoirSupreme
+ 10. NoirBinary
+ 11. NoirSupreme
+ 12. NoirSupreme
+ 13. ReactiveSupreme
+ 14. NoirSupreme
+ 15. NoirSupreme
+ 16. NoirSupreme
+ 17. NoirSupreme
+ 18. NoirSupreme
+ 19. NoirSupreme
+ 20. NoirSupreme
+ 21. FatalSupreme
+ 22. NoirSupreme
+ 23. NoirSupreme
+ 24. FocusedSupreme
+
+========== Generation 25/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. NoirSupreme
+  2. NoirSupreme
+  3. NoirSupreme
+  4. NoirSupreme
+  5. NoirSupreme
+  6. NoirSupreme
+  7. NoirSupreme
+  8. NoirSupreme
+  9. NoirSupreme
+ 10. NoirSupreme
+ 11. NoirSupreme
+ 12. NoirSupreme
+ 13. NoirSupreme
+ 14. NoirSupreme
+ 15. NoirSupreme
+ 16. NoirSupreme
+ 17. NoirSupreme
+ 18. NoirSupreme
+ 19. NoirSupreme
+ 20. NoirSupreme
+ 21. NoirSupreme
+ 22. NoirSupreme
+ 23. NoirSupreme
+ 24. NoirSupreme
+ 25. NoirSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. NoirSupreme
+  2. NoirSupreme
+  3. NoirSupreme
+  4. NoirSupreme
+  5. NoirSupreme
+  6. NoirSupreme
+  7. NoirSupreme
+  8. NoirSupreme
+  9. NoirSupreme
+ 10. NoirSupreme
+ 11. NoirSupreme
+ 12. NoirSupreme
+ 13. NoirSupreme
+ 14. NoirSupreme
+ 15. NoirSupreme
+ 16. NoirSupreme
+ 17. NoirSupreme
+ 18. NoirSupreme
+ 19. NoirSupreme
+ 20. NoirSupreme
+ 21. NoirSupreme
+ 22. NoirSupreme
+ 23. NoirSupreme
+ 24. NoirSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. NoirSupreme
+  2. NoirSupreme
+  3. NoirSupreme
+  4. NoirSupreme
+  5. NoirVapor
+  6. NoirSupreme
+  7. NoirSupreme
+  8. NoirSupreme
+  9. NoirSupreme
+ 10. NoirSupreme
+ 11. RelentlessSupreme
+ 12. NoirSupreme
+ 13. NoirSupreme
+ 14. NoirSupreme
+ 15. NoirSupreme
+ 16. NoirSharp
+ 17. NoirSupreme
+ 18. NoirSupreme
+ 19. NoirSupreme
+ 20. NoirSupreme
+ 21. NoirSparkly
+ 22. NoirSupreme
+ 23. NoirSupreme
+ 24. NoirSupreme
+
+========== Generation 26/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. NoirSupreme
+  2. NoirSupreme
+  3. NoirSupreme
+  4. NoirSupreme
+  5. NoirSupreme
+  6. NoirSupreme
+  7. NoirSupreme
+  8. NoirSupreme
+  9. NoirSupreme
+ 10. NoirSupreme
+ 11. NoirSupreme
+ 12. NoirSupreme
+ 13. NoirSupreme
+ 14. NoirSupreme
+ 15. NoirSupreme
+ 16. NoirSupreme
+ 17. NoirSupreme
+ 18. NoirSupreme
+ 19. NoirSupreme
+ 20. NoirSupreme
+ 21. NoirSupreme
+ 22. NoirSupreme
+ 23. NoirSupreme
+ 24. NoirSupreme
+ 25. NoirSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. NoirSupreme
+  2. NoirSupreme
+  3. NoirSupreme
+  4. NoirSupreme
+  5. NoirSupreme
+  6. NoirSupreme
+  7. NoirSupreme
+  8. NoirSupreme
+  9. NoirSupreme
+ 10. NoirSupreme
+ 11. NoirSupreme
+ 12. NoirSupreme
+ 13. NoirSupreme
+ 14. NoirSupreme
+ 15. NoirSupreme
+ 16. NoirSupreme
+ 17. NoirSupreme
+ 18. NoirSupreme
+ 19. NoirSupreme
+ 20. NoirSupreme
+ 21. NoirSupreme
+ 22. NoirSupreme
+ 23. NoirSupreme
+ 24. NoirSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. NoirTactical
+  2. NoirSystematic
+  3. NoirSupreme
+  4. NoirSupreme
+  5. NoirSupreme
+  6. NoirSupreme
+  7. NoirSupreme
+  8. NoirSupreme
+  9. NoirSupreme
+ 10. NoirSupreme
+ 11. NoirSupreme
+ 12. NoirSupreme
+ 13. NoirSupreme
+ 14. CerebralSupreme
+ 15. NoirSupreme
+ 16. NoirSupreme
+ 17. NoirSupreme
+ 18. NoirPlasma
+ 19. NoirSupreme
+ 20. PhantomSupreme
+ 21. SoftSupreme
+ 22. NoirBrutal
+ 23. NoirSupreme
+ 24. NoirSupreme
+
+========== Generation 27/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. NoirSupreme
+  2. NoirSupreme
+  3. NoirSupreme
+  4. NoirSupreme
+  5. NoirSupreme
+  6. NoirSupreme
+  7. PhantomSupreme
+  8. NoirSupreme
+  9. NoirSupreme
+ 10. NoirSupreme
+ 11. SoftSupreme
+ 12. NoirSupreme
+ 13. NoirSupreme
+ 14. NoirSupreme
+ 15. NoirSupreme
+ 16. NoirSupreme
+ 17. NoirSupreme
+ 18. NoirSupreme
+ 19. NoirSupreme
+ 20. NoirSupreme
+ 21. NoirSupreme
+ 22. NoirSupreme
+ 23. NoirSupreme
+ 24. PhantomSupreme
+ 25. NoirSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. NoirSupreme
+  2. NoirSupreme
+  3. NoirSupreme
+  4. NoirSupreme
+  5. NoirSupreme
+  6. NoirSupreme
+  7. PhantomSupreme
+  8. NoirSupreme
+  9. NoirSupreme
+ 10. NoirSupreme
+ 11. NoirSupreme
+ 12. SoftSupreme
+ 13. NoirSupreme
+ 14. NoirSupreme
+ 15. NoirSupreme
+ 16. NoirSupreme
+ 17. NoirSupreme
+ 18. NoirSupreme
+ 19. NoirSupreme
+ 20. NoirSupreme
+ 21. NoirSupreme
+ 22. NoirSupreme
+ 23. NoirSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.3370
+Adaptive Mutation Rate: 0.0970
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. NoirSupreme
+  2. NoirSupreme
+  3. NoirSupreme
+  4. NoirSupreme
+  5. NoirSupreme
+  6. NoirPhantom
+  7. PhantomSupreme
+  8. PixelatedSupreme
+  9. NoirSupreme
+ 10. CerebralSupreme
+ 11. NoirSupreme
+ 12. SoftSupreme
+ 13. NoirSupreme
+ 14. LethalSupreme
+ 15. BrutalSupreme
+ 16. NoirPrime
+ 17. NoirSupreme
+ 18. NoirSupreme
+ 19. NoirSupreme
+ 20. NoirSupreme
+ 21. NoirSupreme
+ 22. NoirSupreme
+ 23. NoirSupreme
+ 24. PhantomSupreme
+
+========== Generation 28/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. NoirSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. NoirSupreme
+  5. NoirSupreme
+  6. NoirSupreme
+  7. NoirSupreme
+  8. PhantomSupreme
+  9. NoirSupreme
+ 10. PhantomSupreme
+ 11. NoirSupreme
+ 12. NoirSupreme
+ 13. NoirSupreme
+ 14. PhantomSupreme
+ 15. NoirSupreme
+ 16. NoirSupreme
+ 17. NoirSupreme
+ 18. NoirSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. NoirSupreme
+ 22. NoirSupreme
+ 23. NoirSupreme
+ 24. NoirSupreme
+ 25. NoirSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. NoirSupreme
+  3. NoirSupreme
+  4. PhantomSupreme
+  5. NoirSupreme
+  6. NoirSupreme
+  7. PhantomSupreme
+  8. NoirSupreme
+  9. NoirSupreme
+ 10. PhantomSupreme
+ 11. NoirSupreme
+ 12. NoirSupreme
+ 13. PhantomSupreme
+ 14. NoirSupreme
+ 15. NoirSupreme
+ 16. NoirSupreme
+ 17. NoirSupreme
+ 18. NoirSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. NoirSupreme
+ 22. NoirSupreme
+ 23. NoirSupreme
+ 24. NoirSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 3.0181
+Adaptive Mutation Rate: 0.0931
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. PrimeSupreme
+  2. NoirSupreme
+  3. NoirSupreme
+  4. LegendarySupreme
+  5. NoirSupreme
+  6. NoirSparkly
+  7. PhantomSupreme
+  8. BrutalSupreme
+  9. NoirSupreme
+ 10. PhantomSupreme
+ 11. NoirSupreme
+ 12. TacticalSupreme
+ 13. PhantomSupreme
+ 14. NoirSupreme
+ 15. NoirSupreme
+ 16. NoirSupreme
+ 17. SparklySupreme
+ 18. NoirSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. NoirSupreme
+ 22. NoirSupreme
+ 23. NoirSupreme
+ 24. NoirSupreme
+
+========== Generation 29/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. NoirSupreme
+  2. PhantomSupreme
+  3. NoirSupreme
+  4. PhantomSupreme
+  5. NoirSupreme
+  6. NoirSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. NoirSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. NoirSupreme
+ 15. NoirSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. NoirSupreme
+ 19. NoirSupreme
+ 20. NoirSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. NoirSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. NoirSupreme
+  2. PhantomSupreme
+  3. NoirSupreme
+  4. PhantomSupreme
+  5. NoirSupreme
+  6. NoirSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. NoirSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. NoirSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. NoirSupreme
+ 17. NoirSupreme
+ 18. PhantomSupreme
+ 19. NoirSupreme
+ 20. NoirSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. NoirSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 3.6268
+Adaptive Mutation Rate: 0.0918
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. NoirSupreme
+  2. PhantomSupreme
+  3. NoirSupreme
+  4. PhantomShadow
+  5. NoirSupreme
+  6. NoirSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. ObsidianSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. NoirClean
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. EliteSupreme
+ 17. NoirSupreme
+ 18. PhantomVicious
+ 19. NoirSupreme
+ 20. NoirSupreme
+ 21. AdaptiveSupreme
+ 22. SoftSupreme
+ 23. PhantomSupreme
+ 24. NoirSupreme
+
+========== Generation 30/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. NoirSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. NoirSupreme
+  9. PhantomSupreme
+ 10. NoirSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomShadow
+ 14. NoirSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. NoirSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. NoirSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. NoirSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. NoirSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. NoirSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomShadow
+ 14. NoirSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. NoirSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 2.9094
+Adaptive Mutation Rate: 0.0934
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. NoirKinetic
+  2. PhantomSupreme
+  3. PhantomIntuitive
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. NoirSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. NoirSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomShadow
+ 14. NoirSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. NoirSupreme
+ 20. NoirSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 31/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. NoirSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. NoirSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5833
+Adaptive Mutation Rate: 0.0987
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. MastermindSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. NoirSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomVelvet
+ 12. PhantomSupreme
+ 13. PhantomVelvet
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. NeuralRelentless
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomFluid
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 32/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. NeuralRelentless
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. NeuralSupreme
+  8. PhantomRelentless
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.3297
+Adaptive Mutation Rate: 0.0970
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSynth
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. ShadowPrecise
+  7. NeuralSupreme
+  8. PhantomRelentless
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 33/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 0
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 34/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. SavageSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. LegendarySupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 35/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 8
+No Crossover Pairs: 4
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. CerebralSupreme
+  6. FocusedRuthless
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. IntuitiveSupreme
+ 10. PhantomSupreme
+ 11. PhantomQuantum
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomElite
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. LethalSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomStrategic
+
+========== Generation 36/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomApex
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomApex
+ 19. PhantomBinary
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. LegendarySupreme
+
+========== Generation 37/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. QuantumSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomBinary
+
+========== Generation 38/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 10
+
+[New Population after Mutation]
+  1. PhantomChrome
+  2. PhantomPlasma
+  3. PhantomSupreme
+  4. PhantomBlushy
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomFluid
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. CoordinatedSupreme
+ 12. NoirSupreme
+ 13. PreciseSupreme
+ 14. PhantomEclipse
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomEpic
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomDreamy
+
+========== Generation 39/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomBlushy
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. NoirSupreme
+  9. PhantomSupreme
+ 10. PhantomBlushy
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomChrome
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomDreamy
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomBlushy
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. NoirSupreme
+  9. PhantomSupreme
+ 10. PhantomBlushy
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomChrome
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.9855
+Adaptive Mutation Rate: 0.0955
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomBlushy
+  3. PhantomSparkly
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomRetro
+  8. NoirSupreme
+  9. PhantomSupreme
+ 10. PhantomBlushy
+ 11. PhantomSupreme
+ 12. PhantomLethal
+ 13. PhantomSleek
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomNoir
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomChrome
+ 23. PhantomSupreme
+ 24. NoirSupreme
+
+========== Generation 40/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. PhantomSynth
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomChrome
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomStrategic
+
+========== Generation 41/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. LegendarySupreme
+  3. PhantomSupreme
+  4. PhantomSparkly
+  5. FierceSupreme
+  6. PhantomSupreme
+  7. PhantomTwinkly
+  8. VirtuaSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomKinetic
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomRelentless
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomVicious
+
+========== Generation 42/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomTwinkly
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. AdaptiveSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. RetroReactive
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 43/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. ElectricSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 44/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. MellowSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. VoltSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 45/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSparkly
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. BrutalSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomGenius
+ 16. PhantomCrimson
+ 17. PhantomSupreme
+ 18. CleverClever
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. SupremeSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 46/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. CalculatedSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. GhostSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomPrecise
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomGlitchy
+
+========== Generation 47/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomVicious
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 48/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomBrilliant
+ 10. AlphaSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PreciseFluid
+ 18. PhantomSupreme
+ 19. PhantomAlpha
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 49/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. EpicSoft
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. CyberSupreme
+ 11. PhantomSupreme
+ 12. PhantomReactive
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. BinarySupreme
+ 19. PhantomPlasma
+ 20. VelvetSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+========== Generation 50/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+ 25. PhantomSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. PhantomSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. PhantomSupreme
+  6. PhantomSupreme
+  7. PhantomSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. PhantomSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomSupreme
+ 18. PhantomSupreme
+ 19. PhantomSupreme
+ 20. PhantomSupreme
+ 21. PhantomSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. PhantomSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 9
+
+[New Population after Mutation]
+  1. UnstoppableSupreme
+  2. PhantomSupreme
+  3. PhantomSupreme
+  4. PhantomSupreme
+  5. KineticSupreme
+  6. UnstoppableSupreme
+  7. SystematicSupreme
+  8. PhantomSupreme
+  9. PhantomSupreme
+ 10. RelentlessSupreme
+ 11. PhantomSupreme
+ 12. PhantomSupreme
+ 13. PhantomSupreme
+ 14. PhantomSupreme
+ 15. PhantomSupreme
+ 16. PhantomSupreme
+ 17. PhantomCoordinated
+ 18. PhantomSupreme
+ 19. PhantomRetro
+ 20. PhantomSupreme
+ 21. CyberSupreme
+ 22. PhantomSupreme
+ 23. PhantomSupreme
+ 24. SoftSupreme
+
+========================================
+GA PROCESS COMPLETE
