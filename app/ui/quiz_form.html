@@ -99,15 +99,15 @@
       let currentIndex = 0;
 
       const buttonImages = [
-        "assets/buttons/button_a.png",
-        "assets/buttons/button_b.png",
-        "assets/buttons/button_c.png",
-        "assets/buttons/button_d.png",
+        "../assets/buttons/button_a.png",
+        "../assets/buttons/button_b.png",
+        "../assets/buttons/button_c.png",
+        "../assets/buttons/button_d.png",
       ];
 
       async function loadQuestions() {
         try {
-          const res = await fetch("questions.json");
+          const res = await fetch("../questions.json");
           const data = await res.json();
           questions = data.questions;
           renderQuestion(currentIndex);
