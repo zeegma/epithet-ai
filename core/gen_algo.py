@@ -66,8 +66,6 @@ def initialize_population(word_pool, trait):
 # Fitness Function
 def fitness(population):
     # Return fitness score as basis of selection    
-    # Replace fitness score (creativity score) once Creativity NN is done
-    # Import Creativity NN and use its function
     return creativity_nn(population, model, scaler)
 
 # Parent Selection
@@ -139,15 +137,6 @@ def get_adaptive_mutation_rate(diversity_score, max_possible_distance):
     
     # Ensure the rate is within the defined min/max bounds
     return max(MIN_MUTATION_RATE, min(mutation_rate, MAX_MUTATION_RATE))
-
-# # Crossover Rate decreases each generation
-# def get_adaptive_crossover_rate(current_generation, max_generations):
-
-#     # Calculate how much the crossover rate should decrease based on the current generation
-#     decay = (INITIAL_CROSSOVER_RATE - DECAY_FACTOR) * (current_generation / max_generations)
-    
-#     # Ensure that the crossover rate does not fall below the DECAY_FACTOR
-#     return max(DECAY_FACTOR, INITIAL_CROSSOVER_RATE - decay)
 
 # Crossover Technique
 def uniform_crossover(parents, CROSSOVER_RATE):
@@ -224,9 +213,6 @@ if __name__ == "__main__":
 
     # Initialize population
     population, fitness_pop = initialize_population(word_pool, trait)
-    # population = 100 -> tournament_selection -> 50 parents (OF GEN 1)
-    # parents = 50 -> end
-
     
     # Get the word list for the chosen trait for mutation
     selected_words = word_pool[trait]
@@ -257,11 +243,11 @@ if __name__ == "__main__":
             
             # [2] Crossover
             # Get the adaptive crossover rate
-            adaptive_crossover_rate = INITIAL_CROSSOVER_RATE
-            offsprings, crossover_count, no_crossover_count = uniform_crossover(parents, adaptive_crossover_rate)
+            crossover_rate = INITIAL_CROSSOVER_RATE
+            offsprings, crossover_count, no_crossover_count = uniform_crossover(parents, crossover_rate)
             f.write("CROSSOVER\n")
             f.write("[Crossover Info]\n")
-            f.write(f"Adaptive Crossover Rate: {adaptive_crossover_rate:.4f}\n")
+            f.write(f"Crossover Rate: {crossover_rate:.4f}\n")
             f.write(f"Crossover Pairs: {crossover_count}\n")
             f.write(f"No Crossover Pairs: {no_crossover_count}\n\n")
             log_section(f, "Offspring after Crossover", offsprings)
@@ -302,4 +288,3 @@ if __name__ == "__main__":
         print(f"\n{result_message}")
         print(f"Best Fitness: {fitness_pop[max_index]}")
 
-        
