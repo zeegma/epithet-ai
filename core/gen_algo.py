@@ -2,7 +2,8 @@ import pandas as pd
 import random
 import os
 from keras.models import load_model
-from creativity_nn import creativity_nn
+from core.creativity_nn import creativity_nn
+from core.predict.personality import predict_personality
 import joblib
 
 # GA parameters
@@ -15,15 +16,15 @@ DECAY_FACTOR = 0.5
 MIN_MUTATION_RATE = 0.05
 MAX_MUTATION_RATE = 0.2
 
-model = load_model("../models/creativity_model_final.keras")
-scaler = joblib.load("../training/nn_creativity/data/scaler.save")
+model = load_model("models/creativity_model_final.keras")
+scaler = joblib.load("training/nn_creativity/data/scaler.save")
 
 
 def initialize_word_pool():
     try:
         print("\n[PROCESS] Parsing word_pool.xlsx...")
 
-        df = pd.read_excel('../data/word_pool.xlsx')
+        df = pd.read_excel('data/word_pool.xlsx')
         df = df.map(lambda x: str(x).strip().replace('\xa0', '') if pd.notnull(x) else x)
         print("[STATUS] Successfully read word_pool.xlsx")
         word_categories = {}
@@ -40,8 +41,8 @@ def initialize_word_pool():
 
 # Personality NN output 
 def get_NN_personality():
-    traits = ["artista" , "diva", "oa", "wildcard", "achiever", "emo", "gamer", "softie"]
-    chosen_trait = random.choice(traits)
+    answers = [1, 1, 2, 3, 1, 3, 2, 4, 3, 2, 1, 2, 1, 1, 4]
+    chosen_trait = predict_personality(answers)
     return chosen_trait
     
 # Initialize Population
@@ -300,3 +301,5 @@ if __name__ == "__main__":
         f.write(result_message)
         print(f"\n{result_message}")
         print(f"Best Fitness: {fitness_pop[max_index]}")
+
+        

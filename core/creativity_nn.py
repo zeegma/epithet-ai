@@ -5,9 +5,9 @@ import joblib
 from keras.models import load_model
 
 # Path directories
-TRAINED_MODEL = "../models/creativity_model256.keras"
-WORD_VECTOR_PATH = "../training/nn_creativity/vectors/word_vectors.npz"
-SCALER = "../training/nn_creativity/data/scaler.save"
+TRAINED_MODEL = "models/creativity_model256.keras"
+WORD_VECTOR_PATH = "training/nn_creativity/vectors/word_vectors.npz"
+SCALER = "training/nn_creativity/data/scaler.save"
 
 
 # Main function that takes in the two words and the loaded model
