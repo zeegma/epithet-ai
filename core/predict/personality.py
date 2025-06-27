@@ -1,9 +1,7 @@
 import torch
-import joblib
 import numpy as np
 import os
 from core.models.personality_nn import PersonalityNN
-from training.nn_personality.preprocess import preprocess
 
 
 def predict_personality(answers):
@@ -19,20 +17,14 @@ def predict_personality(answers):
         "Softie",
     ]
 
-    # Load the scaler
-    scaler = joblib.load("models/personality_scaler_best.pkl")
-
-    # Convert and scale input using the saved scaler
+    # Convert input to tensor of ints
     X = np.array([answers])
-
-    # Call preprocess correctly for prediction
-    X_scaled = preprocess(X, scaler)
-    X_tensor = torch.tensor(X_scaled, dtype=torch.float32)
+    X_tensor = torch.tensor(X, dtype=torch.long)
 
     # Load model and weights
     model = PersonalityNN()
     model_path = os.path.join("models", "personality_model_best.pt")
-    model.load_state_dict(torch.load(model_path, weights_only=True))
+    model.load_state_dict(torch.load(model_path))
     model.eval()
 
     # Predict using model
