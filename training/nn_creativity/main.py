@@ -1,4 +1,3 @@
-
 import pandas as pd
 import numpy as np
 
@@ -11,7 +10,6 @@ USERNAME_DATA = "data/username_data.csv"
 
 
 def main():
-    
     # Set X and y initially to None
     X, y = None, None
 
@@ -31,7 +29,6 @@ def main():
 
 # Prepare all training data for training the model
 def get_embedded_data(data):
-
     # Store all the usernames from the training data
     usernames = []
 
@@ -61,12 +58,12 @@ def get_embedded_data(data):
         alliteration_scores.append(1 if word1[0] == word2[0] else 0)
 
         # Append length of the concatenated words
-        length.append(len(word1+word2))
+        length.append(len(word1 + word2))
 
     # Load stored word vectors
     word_vectors = np.load(WORD_VECTOR_PATH)
 
-    # Loop through the usernames and get their 
+    # Loop through the usernames and get their
     # vector embeddings and cosine similarity
     for username in usernames:
         vec = embed_username(username, word_vectors)
@@ -100,8 +97,7 @@ def get_embedded_data(data):
 
 # Parse the main training csv and return a dataframe
 def parser(filename):
-    dataframe = pd.read_csv(filename, index_col=0) 
-
+    dataframe = pd.read_csv(filename, index_col=0)
     return dataframe
 
 
@@ -121,6 +117,6 @@ def embed_username(words, word_vectors):
 
     return vectors
 
+
 if __name__ == "__main__":
     main()
-
