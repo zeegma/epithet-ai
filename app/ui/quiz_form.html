@@ -122,6 +122,13 @@
         transform: scale(0.95);
         box-shadow: 2px 2px 0px #000000;
       }
+
+      .nav-buttons button:disabled {
+        opacity: 0.5;
+        cursor: not-allowed;
+        box-shadow: none;
+        transform: none;
+      }
     </style>
   </head>
   <body>
@@ -211,6 +218,11 @@
         const nextBtn = document.getElementById("nextBtn");
         nextBtn.textContent =
           index === questions.length - 1 ? "SUBMIT" : "NEXT";
+
+        // Disable NEXT if not answered
+        nextBtn.disabled = !answerList[index];
+        nextBtn.style.opacity = answerList[index] ? "1" : "0.5";
+        nextBtn.style.pointerEvents = answerList[index] ? "auto" : "none";
       }
 
       function nextQuestion() {
