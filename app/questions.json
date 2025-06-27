@@ -1,0 +1,109 @@
+{
+  "questions": [
+    {
+      "id": 0,
+      "A": "Hanap ka ng tahimik na spot, observe muna bago makipaghalo-bilo",
+      "B": "Scan mode on — hanap ka ng interesting kausap pang malalimang convo",
+      "C": "Basa muna ng vibes ng room, tapos adjust kung paano eeksena",
+      "D": "'Hi guys! Ako nga pala 'to!' — agad ka nakikipagchikahan at nagpapakilala sa lahat"
+    },
+    {
+      "id": 1,
+      "A": "Movie night with the tropa, netflix and chill lang, snacks at cozy chikahan",
+      "B": "Biglaang lakad, try ng kung ano'ng bago, kaladkarin — YOLO lang!",
+      "C": "Perform sa open mic o ipakita ang creative side mo — Kanta? Tula? Paint? G lang!",
+      "D": "Sumali sa tournament o intense na laro — palaban yarn?"
+    },
+    {
+      "id": 2,
+      "A": "Bahala na si Batman, instincts mode ka, dive in agad!",
+      "B": "Hingi ka ng advice o tulong sa mga pinagkakatiwalaan mo",
+      "C": "Hinihimay-himay mo, planado galaw — strategic queen/king ka d'yan!",
+      "D": "Deep thinker ka, nagsesenti, analyze muna tapos papasabugin mo sila ng kakaibang solusyon"
+    },
+    {
+      "id": 3,
+      "A": "Baby kalma lang — emotional support ng group, soft girl/boy ang atake",
+      "B": "Mysterious, di mahulaan — laging may plot twist ka",
+      "C": "Focus lang sa goal, hardworking — G na G sumakses",
+      "D": "Napaka OA at extra — ikaw yung life of the party, sobrang kalog"
+    },
+    {
+      "id": 4,
+      "A": "Di ko bet 'yung uso, doon ako sa comfy",
+      "B": "Usually pinaplano ko kung saan ang ganap, para swak ang fit",
+      "C": "Wala akong theme, basta trip ko 'to today",
+      "D": "Kahit simpleng lakad lang yan, kailangan mapalingon sila — Laban sa sequins at shades"
+    },
+    {
+      "id": 5,
+      "A": "Kung kailan ako tatamaan ng creativity bug, doon ako gagalaw",
+      "B": "Gusto ko yung gawa ko may connect sa ibang tao or paligid ko. Para relatable siya",
+      "C": "Lahat ng emosyon ko, inaalay ko rito. 'Pag 'di niyo feel, edi wow",
+      "D": "May timeline, may checklist, may Gantt chart, hindi p'wedeng bara-bara"
+    },
+    {
+      "id": 6,
+      "A": "'Chill lang tayo guys, good luck everyone, kaya natin 'to!'",
+      "B": "'Akin na lang task na matira' tapos hindi na magpaparamdam ulit",
+      "C": "'Bale guys ganito yung plan na naisip ko'",
+      "D": "'O guys, eto game plan, ikaw dito, ikaw d'yan'"
+    },
+    {
+      "id": 7,
+      "A": "'Bakit ba kailangan maglaban at mag-compare?'",
+      "B": "'Ang tunay na kalaban… ay ang sarili ko lang'",
+      "C": "Dapat nakapag-prep na 1 week before the contest. Dapat may outfit. Dapat may entrance ",
+      "D": "G na G, kailangan ipapanalo niyo"
+    },
+    {
+      "id": 8,
+      "A": "Solution-focused ka agad — ano ba dapat gawin para matapos 'to?",
+      "B": "Ginagawa mong creative outlet — kanta, sulat, drawing, basta mailabas mo lang",
+      "C": "'Hey Siri, play Overwhelmed by Royal & the Serpent.'",
+      "D": "Mag-i-i-story nalang bigla sa IG ng 'Guys, this is too much na!'"
+    },
+    {
+      "id": 9,
+      "A": "A shoulder to cry on ang atake — laging nand'yan para pakinggan sila",
+      "B": "Tahimik lang sa gedli pero 'pag tinanong mo, bibigyan ka ng 1000 words essay",
+      "C": "You don't help people, you inspire them",
+      "D": "May pa-guide ka lagi, parang walkthrough ng buhay — step 1, step 2, go, go, go!"
+    },
+    {
+      "id": 10,
+      "A": "Very mysterious ang ferson — walang shared post, walang dp",
+      "B": "It's giving tahimik pero estetik — flatlays, journaling, matcha latte at healing era content",
+      "C": "Sabog pero iconic — 'di mo alam kung meme, rant, o life update",
+      "D": "Curated feed, palaging on fleek — best angle, best caption, best life!"
+    },
+    {
+      "id": 11,
+      "A": "Any-any nalang para may thrill",
+      "B": "'Feeling ko ito na 'yun' — full tiwala sa instinct, bahala na!",
+      "C": "Very considerate king/queen, iniisip mo muna lahat ng maapektuhan",
+      "D": "Research galore, pros and cons, spreadsheet pa minsan"
+    },
+    {
+      "id": 12,
+      "A": "Matalo sa isang bagay na sobrang importante sa'yo",
+      "B": "Maging basic o makalimutan lang ng ganon",
+      "C": "Ma-misunderstood o ma-judge ng hindi tama",
+      "D": "Yung mabigo mo yung mga umaasa sa'yo"
+    },
+    {
+      "id": 13,
+      "A": "Kasi sobrang approachable mo, ang dali mong kausap at caring ka pa",
+      "B": "Kasi unpredictable ka—laging may pa-surprise, never boring",
+      "C": "Dahil sobrang talented mo at passionate sa mga hilig mo",
+      "D": "Dahil confident ka AF at hindi ka nagpapakabog"
+    },
+    {
+      "id": 14,
+      "A": "'Spread love, not hate—kindness is power'",
+      "B": "'Wag matakot sa gulo—may ganda sa pagiging random'",
+      "C": "'YOLO, kaya express mo sarili mo 100%'",
+      "D": "Bawal ang average' – laging aim to be the best"
+    }
+  ]
+}

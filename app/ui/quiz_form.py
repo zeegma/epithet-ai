@@ -1,6 +1,20 @@
 import streamlit as st
 import base64
+import json
 from pathlib import Path
+
+def load_questions():
+    """Load questions from JSON file"""
+    try:
+        with open('questions.json', 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        return data['questions']
+    except FileNotFoundError:
+        st.error("questions.json file not found!")
+        return []
+    except json.JSONDecodeError:
+        st.error("Error reading questions.json file!")
+        return []
 
 def set_quiz_background(index):
     bg_files = [f"assets/questions/bg{i+1}.png" for i in range(15)]
@@ -36,6 +50,23 @@ def set_quiz_background(index):
         unsafe_allow_html=True
     )
 
+def get_question_options(question_index):
+    """Returns the options for each question based on the question index"""
+    
+    # Load questions from JSON file
+    all_questions = load_questions()
+    
+    # Return the options for the current question, or default if index is out of range
+    if 0 <= question_index < len(all_questions):
+        return all_questions[question_index]
+    else:
+        return {
+            "A": "Default Option A",
+            "B": "Default Option B", 
+            "C": "Default Option C",
+            "D": "Default Option D"
+        }
+
 def show():
     if "question_index" not in st.session_state:
         st.session_state.question_index = 0
@@ -70,11 +101,14 @@ def show():
     button_c = load_button_base64("button_c.png")
     button_d = load_button_base64("button_d.png")
 
+    # Get the current question's options
+    current_options = get_question_options(st.session_state.question_index)
+    
     option_texts = [
-        "A) Your first option text here",
-        "B) Your second option text here", 
-        "C) Your third option text here",
-        "D) Your fourth option text here"
+        f"A) {current_options['A']}",
+        f"B) {current_options['B']}", 
+        f"C) {current_options['C']}",
+        f"D) {current_options['D']}"
     ]
 
     buttons_html = f"""
@@ -88,19 +122,19 @@ def show():
         align-items: center;
         z-index: 999;
     ">
-        <button class="image-button" onclick="alert('Option A Clicked')" data-option="A">
+        <button class="image-button" onclick="alert('Option A Clicked: {current_options['A']}')" data-option="A">
             <img src="data:image/png;base64,{button_a}" />
             <span class="button-text">{option_texts[0]}</span>
         </button>
-        <button class="image-button" onclick="alert('Option B Clicked')" data-option="B">
+        <button class="image-button" onclick="alert('Option B Clicked: {current_options['B']}')" data-option="B">
             <img src="data:image/png;base64,{button_b}" />
             <span class="button-text">{option_texts[1]}</span>
         </button>
-        <button class="image-button" onclick="alert('Option C Clicked')" data-option="C">
+        <button class="image-button" onclick="alert('Option C Clicked: {current_options['C']}')" data-option="C">
             <img src="data:image/png;base64,{button_c}" />
             <span class="button-text">{option_texts[2]}</span>
         </button>
-        <button class="image-button" onclick="alert('Option D Clicked')" data-option="D">
+        <button class="image-button" onclick="alert('Option D Clicked: {current_options['D']}')" data-option="D">
             <img src="data:image/png;base64,{button_d}" />
             <span class="button-text">{option_texts[3]}</span>
         </button>
