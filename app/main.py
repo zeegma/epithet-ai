@@ -2,29 +2,27 @@ import streamlit as st
 from ui import landing_page, quiz_form, result_display
 
 def main():
-    # Set Streamlit page configuration
     st.set_page_config(
         page_title="Epithet Personality Game",
         page_icon="🎮",
         layout="wide"
     )
 
-    # Initialize navigation state if it doesn't exist yet
-    if 'page' not in st.session_state:
-        st.session_state.page = 'landing'
+    # Use new st.query_params API (recommended way now)
+    page = st.query_params.get("page", "landing")
 
-    # Check query parameters from the URL to determine current page
-    query_params = st.query_params
-    if 'page' in query_params:
-        st.session_state.page = query_params['page'][0]
+    # Save to session_state if needed
+    st.session_state.page = page
 
-    # Render the appropriate UI based on current page state
-    if st.session_state.page == 'landing':
+    # Render based on the page
+    if page == 'landing':
         landing_page.show()
-    elif st.session_state.page == 'quiz':
+    elif page == 'quiz':
         quiz_form.show()
-    elif st.session_state.page == 'results':
+    elif page == 'results':
         result_display.show()
+    else:
+        st.error("Page not found.")
 
 if __name__ == "__main__":
     main()
