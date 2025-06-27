@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Floating Bubble Example</title>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap");
+
+      .stApp {
+        background-image: url("assets/background-photo.png"); /* Replace with your background image path */
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+
+      .main .block-container {
+        padding-top: 0;
+        padding-bottom: 0;
+        max-width: 100%;
+      }
+
+      .floating-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        overflow: hidden;
+      }
+
+      .floating-bubble {
+        position: relative;
+        width: 700px;
+        height: 700px;
+        background-image: url("assets/bubble.png");
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        animation: float 3s ease-in-out infinite;
+        cursor: pointer;
+        transition: transform 0.3s ease;
+      }
+
+      .floating-bubble:hover {
+        transform: scale(1.03);
+      }
+
+      @keyframes float {
+        0%,
+        100% {
+          transform: translateY(0px);
+        }
+        50% {
+          transform: translateY(-20px);
+        }
+      }
+
+      .bubble-text {
+        font-family: "Luckiest Guy", cursive;
+        color: #e72b29;
+        text-align: center;
+        font-size: 4rem;
+        line-height: 1;
+        text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
+        pointer-events: none;
+      }
+
+      @media (max-width: 768px) {
+        .floating-bubble {
+          width: 500px;
+          height: 500px;
+        }
+        .bubble-text {
+          font-size: 2.5rem;
+        }
+      }
+    </style>
+  </head>
+  <body class="stApp">
+    <div class="floating-container">
+      <a href="?page=quiz" target="_self" style="text-decoration: none">
+        <div class="floating-bubble">
+          <div class="bubble-text">
+            EPITHET<br />
+            PERSONALITY<br />
+            GAME
+          </div>
+        </div>
+      </a>
+    </div>
+  </body>
+</html>
