@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Personality Quiz</title>
+    <style>
+      body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+        background-size: cover;
+        background-position: center top 3px;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        animation: fadeIn 1s ease-in-out;
+        overflow-x: hidden;
+      }
+
+      @keyframes fadeIn {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+
+      .quiz-container {
+        position: fixed;
+        top: 60%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        z-index: 999;
+      }
+
+      .image-button {
+        background: none;
+        border: none;
+        padding: 0;
+        margin-bottom: 8px;
+        cursor: pointer;
+        position: relative;
+        transition: transform 0.2s ease;
+      }
+
+      .image-button img {
+        width: 650px;
+        display: block;
+        pointer-events: none;
+      }
+
+      .image-button .button-text {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: #333;
+        font-size: 18px;
+        font-weight: bold;
+        text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.8);
+        pointer-events: none;
+      }
+
+      .image-button.selected {
+        transform: scale(1.03);
+        outline: 4px solid #e72b29;
+        border-radius: 10px;
+      }
+
+      .nav-buttons {
+        position: fixed;
+        bottom: 20px;
+        right: 30px;
+        display: flex;
+        gap: 10px;
+      }
+
+      .nav-buttons button {
+        padding: 10px 20px;
+        font-size: 16px;
+        cursor: pointer;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="quiz-container" id="quiz-container"></div>
+
+    <div class="nav-buttons">
+      <button onclick="prevQuestion()" id="prevBtn">⬅ PREV</button>
+      <button onclick="nextQuestion()" id="nextBtn">NEXT ➡</button>
+    </div>
+
+    <script>
+      let questions = [];
+      const answerList = [];
+      let currentIndex = 0;
+
+      const buttonImages = [
+        "assets/buttons/button_a.png",
+        "assets/buttons/button_b.png",
+        "assets/buttons/button_c.png",
+        "assets/buttons/button_d.png",
+      ];
+
+      async function loadQuestions() {
+        try {
+          const res = await fetch("questions.json");
+          const data = await res.json();
+          questions = data.questions;
+          renderQuestion(currentIndex);
+        } catch (err) {
+          alert("Failed to load questions.json");
+          console.error(err);
+        }
+      }
+
+      function renderQuestion(index) {
+        const container = document.getElementById("quiz-container");
+        container.innerHTML = "";
+
+        const q = questions[index];
+        const options = [q.A, q.B, q.C, q.D];
+
+        // Set background
+        document.body.style.backgroundImage = `url(${q.bg})`;
+
+        options.forEach((text, i) => {
+          const btn = document.createElement("button");
+          btn.className = "image-button";
+          if (answerList[index] === i + 1) {
+            btn.classList.add("selected");
+          }
+
+          btn.onclick = () => {
+            if (answerList[index] === i + 1) {
+              answerList[index] = null;
+            } else {
+              answerList[index] = i + 1;
+            }
+            renderQuestion(index); // Rerender to update selection state
+          };
+
+          const img = document.createElement("img");
+          img.src = buttonImages[i];
+
+          const span = document.createElement("span");
+          span.className = "button-text";
+          span.textContent = `${String.fromCharCode(65 + i)}) ${text}`;
+
+          btn.appendChild(img);
+          btn.appendChild(span);
+          container.appendChild(btn);
+        });
+
+        document.getElementById("prevBtn").style.display =
+          index === 0 ? "none" : "inline-block";
+      }
+
+      function nextQuestion() {
+        if (currentIndex < questions.length - 1) {
+          currentIndex++;
+          renderQuestion(currentIndex);
+        } else {
+          alert("Quiz completed!\nYour answers: " + JSON.stringify(answerList));
+        }
+      }
+
+      function prevQuestion() {
+        if (currentIndex > 0) {
+          currentIndex--;
+          renderQuestion(currentIndex);
+        }
+      }
+
+      loadQuestions();
+    </script>
+  </body>
+</html>
