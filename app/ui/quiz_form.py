@@ -58,7 +58,7 @@ def show():
     buttons_html = f"""
     <div style="
         position: fixed;
-        top: 63%;
+        top: 60%;
         left: 55%;
         transform: translate(-50%, -50%);
         display: flex;
@@ -66,28 +66,60 @@ def show():
         align-items: center;
         z-index: 999;
     ">
-        <img src="data:image/png;base64,{button_a}" style="width: 650px; margin-bottom: 3px;" />
-        <img src="data:image/png;base64,{button_b}" style="width: 650px; margin-bottom: 3px;" />
-        <img src="data:image/png;base64,{button_c}" style="width: 650px; margin-bottom: 3px;" />
-        <img src="data:image/png;base64,{button_d}" style="width: 650px; margin-bottom: 30px;" />
-        <!-- Navigation Buttons -->
-        <div class="quiz-nav-buttons">
-            <button class="quiz-button">PREV</button>
-            <button class="quiz-button">NEXT</button>
-        </div>
+        <button class="image-button" onclick="alert('Option A Clicked')">
+            <img src="data:image/png;base64,{button_a}" />
+        </button>
+        <button class="image-button" onclick="alert('Option B Clicked')">
+            <img src="data:image/png;base64,{button_b}" />
+        </button>
+        <button class="image-button" onclick="alert('Option C Clicked')">
+            <img src="data:image/png;base64,{button_c}" />
+        </button>
+        <button class="image-button" onclick="alert('Option D Clicked')">
+            <img src="data:image/png;base64,{button_d}" />
+        </button>
+    </div>
+
+    <!-- Navigation Buttons outside floating container -->
+    <div class="quiz-nav-buttons">
+        <button class="quiz-button">PREV</button>
+        <button class="quiz-button">NEXT</button>
     </div>
 
     <style>
-    @import url('https://fonts.googleapis.com/css2?family=Samaritan+Antique&display=swap');
+    .image-button {{
+        background: none;
+        border: none;
+        padding: 0;
+        margin-bottom: 3px;
+        cursor: pointer;
+        transition: transform 0.2s ease;
+    }}
+
+    .image-button:hover {{
+        transform: scale(1.02);
+    }}
+
+    .image-button:active {{
+        transform: scale(0.98);
+    }}
+
+    .image-button img {{
+        width: 650px;
+        display: block;
+        pointer-events: none;
+        user-select: none;
+    }}
 
     .quiz-nav-buttons {{
+        position: fixed;
+        bottom: 20px;
+        right: 300px;
         display: flex;
-        justify-content: flex-end;
         gap: 20px;
-        width: 650px;
-        margin-top: -10px;
-        padding-right: 20px;
+        z-index: 999;
     }}
+
 
     .quiz-button {{
         padding: 8px 24px;
@@ -96,9 +128,8 @@ def show():
         background-color: #FF9500;
         color: white;
         border: none;
-        border-radius: 8px;
         cursor: pointer;
-        box-shadow: 0px 4px 8px rgba(0,0,0,0.2);
+        box-shadow: 0px 4px 8px rgba(0,0,0,1);
         transition: transform 0.2s, background-color 0.3s;
     }}
 
@@ -108,5 +139,4 @@ def show():
     }}
     </style>
     """
-
     st.markdown(buttons_html, unsafe_allow_html=True)
