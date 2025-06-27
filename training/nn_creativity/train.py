@@ -5,10 +5,10 @@ from keras.models import Sequential, load_model
 from keras.layers import Dense
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import MinMaxScaler
-from sklearn.metrics import mean_squared_error
+from sklearn.metrics import root_mean_squared_error, mean_absolute_error
 from keras.callbacks import EarlyStopping
 
-TRAINED_MODEL = "../../models/creativity_model256.keras"
+TRAINED_MODEL = "../../models/creativity_model_final.keras"
 
 def train_creativity(X, y):
 
@@ -35,7 +35,9 @@ def train_creativity(X, y):
 
         # Build a basic feedforward neural network
         model = Sequential([
-            Dense(64, input_dim=101, activation='relu'),
+            Dense(256, input_dim=101, activation='relu'),
+            Dense(128, activation='relu'),
+            Dense(64, activation='relu'),
             Dense(32, activation='relu'),
             Dense(1)
         ])
@@ -46,20 +48,22 @@ def train_creativity(X, y):
 
         early_stop = EarlyStopping(
             monitor='val_loss',    
-            patience=100,           
+            patience=300,           
             restore_best_weights=True 
         )
 
         # Train model with the following validation
-        history = model.fit(X_train, y_train, epochs=1000, validation_split=0.1, batch_size=16, callbacks=[early_stop])
+        history = model.fit(X_train, y_train, epochs=2000, validation_split=0.1, batch_size=16, callbacks=[early_stop])
 
         # Save the trained model
         model.save(TRAINED_MODEL)
 
     # Predict and evaluate using the testing split
     predictions = model.predict(X_test).flatten()
-    mse = mean_squared_error(y_test, predictions)
-    print(f"MSE: {mse}")
+    mae = mean_absolute_error(y_test, predictions)
+    rmse = root_mean_squared_error(y_test, predictions)
+    print(f"Test MAE: {mae:.4f}")
+    print(f"Test RMSE: {rmse:.4f}")
 
     if history:
         print("Final training MAE:", history.history['mae'][-1])
