@@ -1,0 +1,4758 @@
+Epithet AI - Genetic Algorithm Log
+========================================
+
+[Initial Population]
+  1. PuffLovefool
+  2. CherrybooMochi
+  3. EepyMochi
+  4. WinkyJellybean
+  5. SupershyCoo
+  6. CuddlyFlan
+  7. WinterNibble
+  8. ToffeeApple
+  9. ButterApple
+ 10. PuffChoowie
+ 11. SupershyBambi
+ 12. WhispyCrybaby
+ 13. WinterSilky
+ 14. SereneSerene
+ 15. ChoochooSnugglebug
+ 16. WubwubSunny
+ 17. AngelcakeApple
+ 18. PlushSilky
+ 19. TeddyhugHoney
+ 20. LolliBaby
+ 21. EepyheadBean
+ 22. LovefoolApple
+ 23. DreamieSisteret
+ 24. PlushSisteret
+ 25. BabyFluff
+ 26. MochiWinky
+ 27. SissyFlan
+ 28. VelvetFluff
+ 29. PetalAngelcake
+ 30. WubwubKitty
+ 31. NibbleBean
+ 32. CupcakeHoney
+ 33. SunnyWubwub
+ 34. CooPeach
+ 35. BabyApple
+ 36. BeanWubwub
+ 37. SakuraApple
+ 38. HanabiJiggly
+ 39. WhimsyPetal
+ 40. CherryLovefool
+ 41. BabypuffToffee
+ 42. WinterLily
+ 43. TinkyLolli
+ 44. PlushCozy
+ 45. ToffeeSupershy
+ 46. BabyCottonball
+ 47. NibbleSugarbumbum
+ 48. AppleGiggly
+ 49. BambiWhispy
+ 50. SisteretCoo
+
+========== Generation 1/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. ToffeeApple
+  2. LovefoolApple
+  3. BambiWhispy
+  4. BabyCottonball
+  5. CooPeach
+  6. CherryLovefool
+  7. MochiWinky
+  8. CupcakeHoney
+  9. EepyheadBean
+ 10. CherrybooMochi
+ 11. EepyMochi
+ 12. AngelcakeApple
+ 13. SereneSerene
+ 14. CherryLovefool
+ 15. BambiWhispy
+ 16. EepyMochi
+ 17. ButterApple
+ 18. SakuraApple
+ 19. TinkyLolli
+ 20. NibbleBean
+ 21. LovefoolApple
+ 22. TeddyhugHoney
+ 23. SupershyBambi
+ 24. SupershyBambi
+ 25. TeddyhugHoney
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. LovefoolApple
+  2. ToffeeApple
+  3. BabyCottonball
+  4. BambiWhispy
+  5. CooPeach
+  6. CherryLovefool
+  7. MochiWinky
+  8. CupcakeHoney
+  9. CherrybooMochi
+ 10. EepyheadBean
+ 11. AngelcakeMochi
+ 12. EepyApple
+ 13. SereneLovefool
+ 14. CherrySerene
+ 15. BambiWhispy
+ 16. EepyMochi
+ 17. ButterApple
+ 18. SakuraApple
+ 19. NibbleLolli
+ 20. TinkyBean
+ 21. LovefoolHoney
+ 22. TeddyhugApple
+ 23. SupershyBambi
+ 24. SupershyBambi
+
+MUTATION
+[Mutation Info]
+Population Diversity: 10.9348
+Adaptive Mutation Rate: 0.0772
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. LovefoolApple
+  2. ToffeeApple
+  3. BabyFluff
+  4. BambiWhispy
+  5. CooPeach
+  6. CherryNibble
+  7. MochiWinky
+  8. CupcakeHoney
+  9. CloudMochi
+ 10. WhispyNibble
+ 11. AngelcakeMochi
+ 12. EepyApple
+ 13. SereneBean
+ 14. CherrySerene
+ 15. BambiWhispy
+ 16. EepyMochi
+ 17. ButterApple
+ 18. SakuraApple
+ 19. NibbleLolli
+ 20. TinkyBean
+ 21. LovefoolHoney
+ 22. TeddyhugApple
+ 23. SupershyBambi
+ 24. SupershyBambi
+
+========== Generation 2/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. LovefoolApple
+  2. AngelcakeMochi
+  3. EepyApple
+  4. AngelcakeMochi
+  5. SakuraApple
+  6. SakuraApple
+  7. SupershyBambi
+  8. SupershyBambi
+  9. SakuraApple
+ 10. TeddyhugApple
+ 11. EepyApple
+ 12. SakuraApple
+ 13. CooPeach
+ 14. EepyApple
+ 15. SakuraApple
+ 16. CooPeach
+ 17. EepyApple
+ 18. LovefoolApple
+ 19. EepyMochi
+ 20. TeddyhugApple
+ 21. BambiWhispy
+ 22. EepyMochi
+ 23. CloudMochi
+ 24. SakuraApple
+ 25. MochiWinky
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AngelcakeMochi
+  2. LovefoolApple
+  3. EepyApple
+  4. AngelcakeMochi
+  5. SakuraApple
+  6. SakuraApple
+  7. SupershyBambi
+  8. SupershyBambi
+  9. TeddyhugApple
+ 10. SakuraApple
+ 11. SakuraApple
+ 12. EepyApple
+ 13. CooPeach
+ 14. EepyApple
+ 15. CooApple
+ 16. SakuraPeach
+ 17. LovefoolApple
+ 18. EepyApple
+ 19. TeddyhugApple
+ 20. EepyMochi
+ 21. BambiWhispy
+ 22. EepyMochi
+ 23. CloudMochi
+ 24. SakuraApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 8.7899
+Adaptive Mutation Rate: 0.0817
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. CozyMochi
+  2. LovefoolHanabi
+  3. EepyApple
+  4. AngelcakeMochi
+  5. SakuraApple
+  6. SakuraApple
+  7. SupershyFlan
+  8. SupershyBambi
+  9. TeddyhugApple
+ 10. SakuraApple
+ 11. SakuraApple
+ 12. EepyApple
+ 13. CooPeach
+ 14. EepyApple
+ 15. CooApple
+ 16. SakuraPeach
+ 17. LovefoolApple
+ 18. EepyApple
+ 19. TeddyhugApple
+ 20. EepyMochi
+ 21. BambiWhispy
+ 22. EepyMochi
+ 23. CloudMochi
+ 24. SakuraApple
+
+========== Generation 3/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SakuraApple
+  2. SakuraApple
+  3. SakuraApple
+  4. EepyApple
+  5. EepyApple
+  6. CooApple
+  7. TeddyhugApple
+  8. SakuraApple
+  9. TeddyhugApple
+ 10. SakuraApple
+ 11. SakuraApple
+ 12. CooApple
+ 13. TeddyhugApple
+ 14. SakuraApple
+ 15. EepyApple
+ 16. TeddyhugApple
+ 17. TeddyhugApple
+ 18. EepyApple
+ 19. SakuraApple
+ 20. SakuraApple
+ 21. EepyApple
+ 22. SakuraApple
+ 23. CooApple
+ 24. EepyMochi
+ 25. SakuraApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SakuraApple
+  2. SakuraApple
+  3. SakuraApple
+  4. EepyApple
+  5. CooApple
+  6. EepyApple
+  7. TeddyhugApple
+  8. SakuraApple
+  9. SakuraApple
+ 10. TeddyhugApple
+ 11. CooApple
+ 12. SakuraApple
+ 13. SakuraApple
+ 14. TeddyhugApple
+ 15. TeddyhugApple
+ 16. EepyApple
+ 17. TeddyhugApple
+ 18. EepyApple
+ 19. SakuraApple
+ 20. SakuraApple
+ 21. SakuraApple
+ 22. EepyApple
+ 23. EepyApple
+ 24. CooMochi
+
+MUTATION
+[Mutation Info]
+Population Diversity: 5.1703
+Adaptive Mutation Rate: 0.0892
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SakuraApple
+  2. PetalApple
+  3. LilyApple
+  4. EepyApple
+  5. CooApple
+  6. EepyBabypuff
+  7. TeddyhugApple
+  8. SakuraApple
+  9. SakuraApple
+ 10. TeddyhugApple
+ 11. CooApple
+ 12. SakuraApple
+ 13. SakuraApple
+ 14. TeddyhugApple
+ 15. TeddyhugApple
+ 16. EepyCherry
+ 17. TeddyhugCupcake
+ 18. EepyApple
+ 19. SakuraApple
+ 20. SakuraApple
+ 21. SakuraApple
+ 22. EepyApple
+ 23. EepyApple
+ 24. CooMochi
+
+========== Generation 4/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CooApple
+  2. EepyApple
+  3. SakuraApple
+  4. SakuraApple
+  5. CooApple
+  6. SakuraApple
+  7. SakuraApple
+  8. SakuraApple
+  9. CooApple
+ 10. TeddyhugApple
+ 11. EepyApple
+ 12. SakuraApple
+ 13. SakuraApple
+ 14. SakuraApple
+ 15. SakuraApple
+ 16. SakuraApple
+ 17. TeddyhugApple
+ 18. CooApple
+ 19. SakuraApple
+ 20. SakuraApple
+ 21. CooApple
+ 22. CooApple
+ 23. TeddyhugApple
+ 24. CooApple
+ 25. SakuraApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. EepyApple
+  2. CooApple
+  3. SakuraApple
+  4. SakuraApple
+  5. SakuraApple
+  6. CooApple
+  7. SakuraApple
+  8. SakuraApple
+  9. CooApple
+ 10. TeddyhugApple
+ 11. EepyApple
+ 12. SakuraApple
+ 13. SakuraApple
+ 14. SakuraApple
+ 15. SakuraApple
+ 16. SakuraApple
+ 17. TeddyhugApple
+ 18. CooApple
+ 19. SakuraApple
+ 20. SakuraApple
+ 21. CooApple
+ 22. CooApple
+ 23. CooApple
+ 24. TeddyhugApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 4.3333
+Adaptive Mutation Rate: 0.0910
+Total Mutations: 1
+
+[New Population after Mutation]
+  1. EepyApple
+  2. CooApple
+  3. SakuraApple
+  4. SakuraApple
+  5. SakuraApple
+  6. CooApple
+  7. SakuraApple
+  8. SakuraApple
+  9. CooApple
+ 10. TeddyhugApple
+ 11. EepyApple
+ 12. CherrybooApple
+ 13. SakuraApple
+ 14. SakuraApple
+ 15. SakuraApple
+ 16. SakuraApple
+ 17. TeddyhugApple
+ 18. CooApple
+ 19. SakuraApple
+ 20. SakuraApple
+ 21. CooApple
+ 22. CooApple
+ 23. CooApple
+ 24. TeddyhugApple
+
+========== Generation 5/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SakuraApple
+  2. SakuraApple
+  3. SakuraApple
+  4. SakuraApple
+  5. SakuraApple
+  6. SakuraApple
+  7. CooApple
+  8. SakuraApple
+  9. SakuraApple
+ 10. CooApple
+ 11. CooApple
+ 12. SakuraApple
+ 13. SakuraApple
+ 14. CooApple
+ 15. CooApple
+ 16. SakuraApple
+ 17. CooApple
+ 18. SakuraApple
+ 19. CooApple
+ 20. CooApple
+ 21. CooApple
+ 22. CooApple
+ 23. CooApple
+ 24. CooApple
+ 25. CooApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SakuraApple
+  2. SakuraApple
+  3. SakuraApple
+  4. SakuraApple
+  5. SakuraApple
+  6. SakuraApple
+  7. SakuraApple
+  8. CooApple
+  9. CooApple
+ 10. SakuraApple
+ 11. CooApple
+ 12. SakuraApple
+ 13. CooApple
+ 14. SakuraApple
+ 15. CooApple
+ 16. SakuraApple
+ 17. CooApple
+ 18. SakuraApple
+ 19. CooApple
+ 20. CooApple
+ 21. CooApple
+ 22. CooApple
+ 23. CooApple
+ 24. CooApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 3.1304
+Adaptive Mutation Rate: 0.0935
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. SakuraApple
+  2. SakuraApple
+  3. SakuraApple
+  4. SakuraApple
+  5. CooApple
+  6. SakuraApple
+  7. SakuraApple
+  8. CooApple
+  9. CooSupershy
+ 10. SakuraApple
+ 11. BlinkyApple
+ 12. SakuraApple
+ 13. BlinkyApple
+ 14. SakuraApple
+ 15. CooNibble
+ 16. SakuraApple
+ 17. CooApple
+ 18. FluffApple
+ 19. CooApple
+ 20. CooApple
+ 21. CooApple
+ 22. CooApple
+ 23. DreamieApple
+ 24. CooApple
+
+========== Generation 6/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CooApple
+  2. CooApple
+  3. CooApple
+  4. CooApple
+  5. CooApple
+  6. CooApple
+  7. CooApple
+  8. CooApple
+  9. SakuraApple
+ 10. CooApple
+ 11. CooApple
+ 12. CooApple
+ 13. SakuraApple
+ 14. SakuraApple
+ 15. CooApple
+ 16. CooApple
+ 17. SakuraApple
+ 18. SakuraApple
+ 19. CooApple
+ 20. CooApple
+ 21. CooApple
+ 22. CooApple
+ 23. SakuraApple
+ 24. CooApple
+ 25. CooApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. CooApple
+  2. CooApple
+  3. CooApple
+  4. CooApple
+  5. CooApple
+  6. CooApple
+  7. CooApple
+  8. CooApple
+  9. SakuraApple
+ 10. CooApple
+ 11. CooApple
+ 12. CooApple
+ 13. SakuraApple
+ 14. SakuraApple
+ 15. CooApple
+ 16. CooApple
+ 17. SakuraApple
+ 18. SakuraApple
+ 19. CooApple
+ 20. CooApple
+ 21. CooApple
+ 22. CooApple
+ 23. SakuraApple
+ 24. CooApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 2.3478
+Adaptive Mutation Rate: 0.0951
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. CooApple
+  2. CooApple
+  3. HoneyApple
+  4. CooApple
+  5. CooApple
+  6. CooApple
+  7. CooApple
+  8. CooApple
+  9. SakuraApple
+ 10. CooApple
+ 11. CooApple
+ 12. HanabiApple
+ 13. SakuraApple
+ 14. SakuraApple
+ 15. CooApple
+ 16. WhispyApple
+ 17. SakuraApple
+ 18. SakuraApple
+ 19. CooApple
+ 20. CooSweetiePie
+ 21. CooApple
+ 22. CooApple
+ 23. SakuraApple
+ 24. CooApple
+
+========== Generation 7/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CooApple
+  2. CooApple
+  3. SakuraApple
+  4. SakuraApple
+  5. CooApple
+  6. CooApple
+  7. CooApple
+  8. CooApple
+  9. CooApple
+ 10. CooApple
+ 11. CooApple
+ 12. CooApple
+ 13. CooApple
+ 14. CooApple
+ 15. CooApple
+ 16. CooApple
+ 17. CooApple
+ 18. CooApple
+ 19. CooApple
+ 20. CooApple
+ 21. CooApple
+ 22. CooApple
+ 23. CooApple
+ 24. CooApple
+ 25. CooApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. CooApple
+  2. CooApple
+  3. SakuraApple
+  4. SakuraApple
+  5. CooApple
+  6. CooApple
+  7. CooApple
+  8. CooApple
+  9. CooApple
+ 10. CooApple
+ 11. CooApple
+ 12. CooApple
+ 13. CooApple
+ 14. CooApple
+ 15. CooApple
+ 16. CooApple
+ 17. CooApple
+ 18. CooApple
+ 19. CooApple
+ 20. CooApple
+ 21. CooApple
+ 22. CooApple
+ 23. CooApple
+ 24. CooApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.9565
+Adaptive Mutation Rate: 0.0980
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. CooApple
+  2. CooApple
+  3. SakuraApple
+  4. SakuraApple
+  5. CooApple
+  6. CooApple
+  7. CooApple
+  8. SweetiePieApple
+  9. CooApple
+ 10. CooApple
+ 11. CooApple
+ 12. CooApple
+ 13. CooApple
+ 14. CooApple
+ 15. CooApple
+ 16. CooApple
+ 17. CooApple
+ 18. CooApple
+ 19. CooApple
+ 20. CooApple
+ 21. CooCuddly
+ 22. CooApple
+ 23. CooVelvet
+ 24. CooPudding
+
+========== Generation 8/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CooApple
+  2. CooApple
+  3. CooApple
+  4. CooApple
+  5. CooApple
+  6. CooApple
+  7. CooApple
+  8. CooApple
+  9. CooApple
+ 10. CooApple
+ 11. CooApple
+ 12. CooApple
+ 13. CooApple
+ 14. CooApple
+ 15. CooApple
+ 16. CooApple
+ 17. CooApple
+ 18. CooApple
+ 19. CooApple
+ 20. CooApple
+ 21. CooApple
+ 22. CooApple
+ 23. CooApple
+ 24. CooApple
+ 25. CooApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. CooApple
+  2. CooApple
+  3. CooApple
+  4. CooApple
+  5. CooApple
+  6. CooApple
+  7. CooApple
+  8. CooApple
+  9. CooApple
+ 10. CooApple
+ 11. CooApple
+ 12. CooApple
+ 13. CooApple
+ 14. CooApple
+ 15. CooApple
+ 16. CooApple
+ 17. CooApple
+ 18. CooApple
+ 19. CooApple
+ 20. CooApple
+ 21. CooApple
+ 22. CooApple
+ 23. CooApple
+ 24. CooApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. CooApple
+  2. CloudApple
+  3. CooApple
+  4. CooApple
+  5. CooApple
+  6. CooApple
+  7. CooApple
+  8. CooApple
+  9. CooApple
+ 10. CooApple
+ 11. CooApple
+ 12. CooSugarplum
+ 13. CooApple
+ 14. CooApple
+ 15. CooApple
+ 16. CooApple
+ 17. CooApple
+ 18. CooApple
+ 19. CooApple
+ 20. CooApple
+ 21. PeachApple
+ 22. CooApple
+ 23. CooApple
+ 24. CooApple
+
+========== Generation 9/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CooApple
+  2. CooApple
+  3. CooApple
+  4. CooApple
+  5. CooApple
+  6. CooApple
+  7. CloudApple
+  8. CooApple
+  9. CooApple
+ 10. CooApple
+ 11. CooApple
+ 12. CooApple
+ 13. CooApple
+ 14. CooApple
+ 15. CooApple
+ 16. CloudApple
+ 17. CooApple
+ 18. CooApple
+ 19. CooApple
+ 20. CooApple
+ 21. CooApple
+ 22. CooApple
+ 23. CooApple
+ 24. CooApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. CooApple
+  2. CooApple
+  3. CooApple
+  4. CooApple
+  5. CooApple
+  6. CooApple
+  7. CloudApple
+  8. CooApple
+  9. CooApple
+ 10. CooApple
+ 11. CooApple
+ 12. CooApple
+ 13. CooApple
+ 14. CooApple
+ 15. CooApple
+ 16. CloudApple
+ 17. CooApple
+ 18. CooApple
+ 19. CooApple
+ 20. CooApple
+ 21. CooApple
+ 22. CooApple
+ 23. CooApple
+ 24. CooApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.4783
+Adaptive Mutation Rate: 0.0990
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. CooApple
+  2. CooApple
+  3. CooApple
+  4. CooApple
+  5. CooApple
+  6. CooApple
+  7. CloudApple
+  8. CooApple
+  9. CooApple
+ 10. GumdropApple
+ 11. CooApple
+ 12. CooAngelcake
+ 13. CooApple
+ 14. CooApple
+ 15. CooApple
+ 16. CloudApple
+ 17. CooApple
+ 18. CooApple
+ 19. PuffApple
+ 20. ShnuggleApple
+ 21. CooCoo
+ 22. CooApple
+ 23. CooApple
+ 24. CooApple
+
+========== Generation 10/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CooApple
+  2. CooApple
+  3. CooApple
+  4. CloudApple
+  5. CloudApple
+  6. CooApple
+  7. CooApple
+  8. CloudApple
+  9. CooApple
+ 10. CooApple
+ 11. CooApple
+ 12. CloudApple
+ 13. CooApple
+ 14. CooApple
+ 15. CooApple
+ 16. CooApple
+ 17. CooApple
+ 18. CooApple
+ 19. CloudApple
+ 20. CooApple
+ 21. CooApple
+ 22. CooApple
+ 23. CloudApple
+ 24. CooApple
+ 25. CooApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. CooApple
+  2. CooApple
+  3. CloudApple
+  4. CooApple
+  5. CloudApple
+  6. CooApple
+  7. CloudApple
+  8. CooApple
+  9. CooApple
+ 10. CooApple
+ 11. CooApple
+ 12. CloudApple
+ 13. CooApple
+ 14. CooApple
+ 15. CooApple
+ 16. CooApple
+ 17. CooApple
+ 18. CooApple
+ 19. CloudApple
+ 20. CooApple
+ 21. CooApple
+ 22. CooApple
+ 23. CloudApple
+ 24. CooApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.1739
+Adaptive Mutation Rate: 0.0976
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. CooApple
+  2. CooApple
+  3. CloudApple
+  4. CooSugarplum
+  5. CloudApple
+  6. CooApple
+  7. CloudApple
+  8. CooApple
+  9. CooApple
+ 10. CooApple
+ 11. CooApple
+ 12. CloudApple
+ 13. CooPudding
+ 14. CooApple
+ 15. CooApple
+ 16. CooApple
+ 17. CooApple
+ 18. CooBambi
+ 19. CloudApple
+ 20. CooApple
+ 21. CooApple
+ 22. CooApple
+ 23. CloudApple
+ 24. CooApple
+
+========== Generation 11/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CooApple
+  3. CooApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CooApple
+ 11. CooApple
+ 12. CloudApple
+ 13. CooApple
+ 14. CloudApple
+ 15. CooApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CooApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CooApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. CooApple
+  2. CloudApple
+  3. CloudApple
+  4. CooApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CooApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CooApple
+ 13. CloudApple
+ 14. CooApple
+ 15. CooApple
+ 16. CloudApple
+ 17. CooApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CooApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.3913
+Adaptive Mutation Rate: 0.0971
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. CooHoneybee
+  2. CloudApple
+  3. CloudApple
+  4. CooApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CooApple
+ 10. CloudApple
+ 11. CuddlyApple
+ 12. CooApple
+ 13. CloudApple
+ 14. CooCherry
+ 15. CooApple
+ 16. CloudApple
+ 17. CooApple
+ 18. CloudApple
+ 19. SupershyApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CooApple
+
+========== Generation 12/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CooApple
+  2. CooApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CooApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CooApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. CooApple
+  2. CooApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CooApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CooApple
+ 23. CloudApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.8696
+Adaptive Mutation Rate: 0.0982
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. CooApple
+  2. CooSprinkle
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CooApple
+  9. CloudApple
+ 10. CloudHoney
+ 11. SakuraApple
+ 12. CloudMelody
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudSupershy
+ 20. CloudApple
+ 21. CloudApple
+ 22. CooApple
+ 23. CloudApple
+ 24. CloudApple
+
+========== Generation 13/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CooApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CooApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.2500
+Adaptive Mutation Rate: 0.0995
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudChoowie
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CottonballApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. PixieApple
+ 20. CloudApple
+ 21. CooApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+========== Generation 14/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudNibble
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudAngelcake
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. SilkyApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. LovefoolCottonball
+
+========== Generation 15/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudStrawberi
+  6. CloudSoftgirl
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CherrybooApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudMochi
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+========== Generation 16/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudStarglow
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. HanabiApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+========== Generation 17/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. PixieApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. ShnuggleApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. FlanAngelcake
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+========== Generation 18/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. DreamieApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. AppleBabypuff
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CherrybooApple
+ 23. CloudApple
+ 24. CloudApple
+
+========== Generation 19/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. NibbleApple
+  6. CloudApple
+  7. CloudApple
+  8. FlanApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. TinkyApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+========== Generation 20/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. CloudApple
+  2. CloudApple
+  3. CozyApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudCuddly
+ 15. CloudApple
+ 16. LolliApple
+ 17. CloudBean
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudSissy
+ 23. CloudCupcake
+ 24. CloudApple
+
+========== Generation 21/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. CloudApple
+  2. CloudApple
+  3. CloudJiggly
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudEepy
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. BabypuffApple
+ 16. HanabiApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudBean
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+========== Generation 22/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. CloudApple
+  2. CloudPastel
+  3. CloudEepyhead
+  4. CloudApple
+  5. CooApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CreamyApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. ToffeeApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudPudding
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+========== Generation 23/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. ToffeeApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. ToffeeApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5000
+Adaptive Mutation Rate: 0.0990
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CooApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. StarglowApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. ToffeeBlinky
+ 24. CloudApple
+
+========== Generation 24/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. CloudApple
+  2. CottonballSissy
+  3. CloudApple
+  4. CottonApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudLily
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudJiggly
+ 16. CloudPixie
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. SunnyApple
+ 23. CloudApple
+ 24. CloudApple
+
+========== Generation 25/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudCoo
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudPixie
+ 17. CloudApple
+ 18. CloudMelody
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudJiggly
+
+========== Generation 26/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. PuffApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. SugarplumWhispy
+ 11. CloudApple
+ 12. SakuraApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudHoneybee
+
+========== Generation 27/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CherrybooApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudLolli
+ 21. CloudApple
+ 22. CherryApple
+ 23. CloudSprinkle
+ 24. CloudApple
+
+========== Generation 28/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. ToffeeApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. SissyApple
+ 13. CloudApple
+ 14. BabypuffApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudPlush
+ 19. CloudApple
+ 20. TeddyhugApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. GumdropApple
+ 24. CloudApple
+
+========== Generation 29/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. TeddyhugApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. TeddyhugApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5833
+Adaptive Mutation Rate: 0.0988
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. CloudApple
+  2. TeddyhugApple
+  3. SugarbumbumApple
+  4. CloudApple
+  5. BabyApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. PuffApple
+ 13. PetalApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. WinterApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudSugarplum
+ 23. CloudApple
+ 24. CloudApple
+
+========== Generation 30/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. WinterApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. WinterApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5000
+Adaptive Mutation Rate: 0.0990
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. VelvetApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudCuddly
+ 10. CloudGiggly
+ 11. CloudApple
+ 12. WinterApple
+ 13. CloudApple
+ 14. CloudFluff
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+========== Generation 31/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 9
+
+[New Population after Mutation]
+  1. CloudApple
+  2. SunnyApple
+  3. CloudApple
+  4. CloudApple
+  5. SilkyApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudSakura
+ 12. CloudApple
+ 13. CloudCoo
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. VelvetApple
+ 19. SupershyAngelcake
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudPudding
+ 24. FlanApple
+
+========== Generation 32/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudSakura
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudSakura
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5000
+Adaptive Mutation Rate: 0.0990
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. ChoowieCherryboo
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CrybabyCottonball
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudHanabi
+
+========== Generation 33/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudSakura
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. ToffeeApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CrybabyApple
+
+========== Generation 34/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. KittyApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudFlan
+ 10. CloudCuddly
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudSugarplum
+ 18. CloudApple
+ 19. CloudApple
+ 20. FluffStrawberi
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudMallow
+ 24. CloudApple
+
+========== Generation 35/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. CloudApple
+  2. CloudApple
+  3. WubwubApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. SnugglebugApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. ToffeeApple
+ 13. CloudVelvet
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. ChoowieApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. SugarbumbumApple
+ 24. CloudApple
+
+========== Generation 36/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. BunSisteret
+  2. LolliApple
+  3. CloudApple
+  4. CloudApple
+  5. NibbleApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudNibble
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+========== Generation 37/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. CloudApple
+  2. CloudApple
+  3. CloudPeach
+  4. CloudApple
+  5. BabyApple
+  6. CloudApple
+  7. CottonballSoftgirl
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. MochiApple
+ 18. CloudApple
+ 19. CloudSupershy
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudMallow
+
+========== Generation 38/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. CloudApple
+  2. CloudApple
+  3. CloudSilky
+  4. CloudStarglow
+  5. CloudApple
+  6. StarglowApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudCozy
+ 16. CloudApple
+ 17. CloudApple
+ 18. WinterApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. StrawberiApple
+ 24. CloudApple
+
+========== Generation 39/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. StrawberiApple
+  2. CloudApple
+  3. CloudApple
+  4. LovefoolApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudMallow
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. BambiApple
+ 24. CloudApple
+
+========== Generation 40/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CherryToffee
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. EepyApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. TeddyhugApple
+ 17. ButterApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. PixieApple
+ 23. CloudApple
+ 24. CloudApple
+
+========== Generation 41/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. TeddyhugApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. TeddyhugApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5833
+Adaptive Mutation Rate: 0.0988
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. MallowApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. TeddyhugSunny
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudPeach
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. ChoowieApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudAngelcake
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+========== Generation 42/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. ChoochooApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudEepyhead
+ 21. CloudApple
+ 22. CloudApple
+ 23. BeanApple
+ 24. CloudApple
+
+========== Generation 43/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. CloudApple
+  2. EepyheadApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudToffee
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CuddlyShnuggle
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CherryApple
+ 24. CloudApple
+
+========== Generation 44/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. FluffApple
+  9. CloudApple
+ 10. CloudFluff
+ 11. SakuraApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudBun
+ 16. CloudApple
+ 17. PastelApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+========== Generation 45/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CinnamonApple
+  5. CloudApple
+  6. CloudWhimsy
+  7. WhispyApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudStarglow
+ 21. CloudSilky
+ 22. CuddlyApple
+ 23. CloudPeach
+ 24. CloudApple
+
+========== Generation 46/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. CloudApple
+  2. CloudApple
+  3. CloudSupershy
+  4. CloudApple
+  5. CloudApple
+  6. PuffApple
+  7. CloudCozy
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CreamyApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. BeanApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudSugarbumbum
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. WinterApple
+ 23. CloudApple
+ 24. CloudApple
+
+========== Generation 47/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. CloudApple
+  2. CottonballChoochoo
+  3. CloudSprinkle
+  4. CloudApple
+  5. CloudPetal
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. BabypuffApple
+ 12. NibbleApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudPuff
+ 20. CloudApple
+ 21. PeachApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+========== Generation 48/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 9
+
+[New Population after Mutation]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. DreamieApple
+  8. SoftgirlApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudMochi
+ 13. CloudPastel
+ 14. CloudApple
+ 15. ChoowieApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. BloomApple
+ 19. CloudApple
+ 20. SisteretApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. LolliApple
+ 24. CloudSerene
+
+========== Generation 49/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. DreamieApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. DreamieApple
+ 17. CloudApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5833
+Adaptive Mutation Rate: 0.0988
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudLovefool
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. PuffApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudBaby
+ 15. CloudApple
+ 16. DreamieApple
+ 17. NibbleApple
+ 18. CloudApple
+ 19. CloudApple
+ 20. CloudTeddyhug
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+========== Generation 50/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. DreamieApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+ 25. CloudApple
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CloudApple
+  7. CloudApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudApple
+ 12. CloudApple
+ 13. CloudApple
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. DreamieApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudApple
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5833
+Adaptive Mutation Rate: 0.0988
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. CloudApple
+  2. CloudApple
+  3. CloudApple
+  4. CloudApple
+  5. CloudApple
+  6. CreamyGiggly
+  7. PlushApple
+  8. CloudApple
+  9. CloudApple
+ 10. CloudApple
+ 11. CloudPastel
+ 12. CloudApple
+ 13. CloudPudding
+ 14. CloudApple
+ 15. CloudApple
+ 16. CloudApple
+ 17. CloudApple
+ 18. DreamieApple
+ 19. CloudApple
+ 20. CloudApple
+ 21. CloudApple
+ 22. CloudApple
+ 23. CloudApple
+ 24. CloudFlan
+
+========================================
+GA PROCESS COMPLETE
+Best Username Found: CloudApple

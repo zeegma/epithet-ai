@@ -15,8 +15,7 @@ DECAY_FACTOR = 0.5
 MIN_MUTATION_RATE = 0.05
 MAX_MUTATION_RATE = 0.1
 
-TRAINED_MODEL = "../models/creativity_model64.keras"
-model = load_model("../models/creativity_model64.keras")
+model = load_model("../models/creativity_model_final.keras")
 scaler = joblib.load("../training/nn_creativity/data/scaler.save")
 
 
@@ -301,3 +300,4 @@ if __name__ == "__main__":
         
         f.write(result_message)
         print(f"\n{result_message}")
+        print(f"Best Fitness: {fitness_pop[max_index]}")

@@ -1,0 +1,9458 @@
+Epithet AI - Genetic Algorithm Log
+========================================
+
+[Initial Population]
+  1. HighnessDrag
+  2. DemureBrat
+  3. VogueMothering
+  4. GrandeBoss
+  5. GnarlyMegastar
+  6. CalmIndependent
+  7. HighnessMamita
+  8. MissGoddess
+  9. HighnessSerene
+ 10. DivaDivine
+ 11. ServingMader
+ 12. ShineBestie
+ 13. ShiningDivine
+ 14. KweenReign
+ 15. QueenServing
+ 16. BoldGnarly
+ 17. PakYassified
+ 18. GrandeurExtra
+ 19. MamitaMadam
+ 20. MegastarAura
+ 21. GrandeurGoddess
+ 22. DemureGurl
+ 23. StunningDazzle
+ 24. GhorlDrag
+ 25. RareServing
+ 26. LakambiniSis
+ 27. ShineMader
+ 28. YassifiedCalm
+ 29. FlawlessGhorl
+ 30. PoppingPurr
+ 31. SisMagnificent
+ 32. ReignFabulous
+ 33. EtherealShimmering
+ 34. GrandeYass
+ 35. MajesticGnarly
+ 36. BoldServing
+ 37. PurrMagnificent
+ 38. GhorlBoss
+ 39. DzaiGnarly
+ 40. PoppingDrag
+ 41. RareBrat
+ 42. UntouchableClassy
+ 43. BratGlamourista
+ 44. GoddessFlawless
+ 45. ServingLatina
+ 46. MamitaServing
+ 47. MythicalDazzle
+ 48. LakambiniSissy
+ 49. DemureUnbothered
+ 50. VogueCalm
+
+========== Generation 1/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. LakambiniSissy
+  2. GrandeYass
+  3. GrandeYass
+  4. QueenServing
+  5. HighnessDrag
+  6. HighnessSerene
+  7. LakambiniSis
+  8. GrandeBoss
+  9. PakYassified
+ 10. LakambiniSissy
+ 11. GrandeBoss
+ 12. DemureGurl
+ 13. GrandeurGoddess
+ 14. GnarlyMegastar
+ 15. GhorlBoss
+ 16. QueenServing
+ 17. BratGlamourista
+ 18. KweenReign
+ 19. HighnessSerene
+ 20. HighnessSerene
+ 21. GhorlBoss
+ 22. DivaDivine
+ 23. GhorlDrag
+ 24. GrandeYass
+ 25. BratGlamourista
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. GrandeYass
+  2. LakambiniSissy
+  3. GrandeServing
+  4. QueenYass
+  5. HighnessSerene
+  6. HighnessDrag
+  7. LakambiniSis
+  8. GrandeBoss
+  9. LakambiniYassified
+ 10. PakSissy
+ 11. DemureGurl
+ 12. GrandeBoss
+ 13. GrandeurMegastar
+ 14. GnarlyGoddess
+ 15. QueenBoss
+ 16. GhorlServing
+ 17. BratGlamourista
+ 18. KweenReign
+ 19. HighnessSerene
+ 20. HighnessSerene
+ 21. GhorlBoss
+ 22. DivaDivine
+ 23. GhorlDrag
+ 24. GrandeYass
+
+MUTATION
+[Mutation Info]
+Population Diversity: 10.4710
+Adaptive Mutation Rate: 0.0762
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. GrandeYass
+  2. StunningSissy
+  3. GrandeServing
+  4. QueenYass
+  5. HighnessSerene
+  6. HighnessDrag
+  7. LakambiniSis
+  8. GrandeBoss
+  9. LakambiniYassified
+ 10. PakSlay
+ 11. DemureGurl
+ 12. GrandeBoss
+ 13. GrandeurLakambini
+ 14. GnarlyGoddess
+ 15. QueenBoss
+ 16. GhorlServing
+ 17. BratGlamourista
+ 18. KweenReign
+ 19. HighnessSerene
+ 20. HighnessSerene
+ 21. GhorlBoss
+ 22. DivaDivine
+ 23. GhorlDrag
+ 24. GrandeYass
+
+========== Generation 2/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. HighnessDrag
+  2. GrandeBoss
+  3. GrandeYass
+  4. GrandeBoss
+  5. GrandeBoss
+  6. GrandeServing
+  7. HighnessSerene
+  8. GrandeServing
+  9. GrandeBoss
+ 10. GrandeBoss
+ 11. GrandeBoss
+ 12. PakSlay
+ 13. GrandeBoss
+ 14. GrandeBoss
+ 15. StunningSissy
+ 16. DivaDivine
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. GhorlBoss
+ 20. GrandeYass
+ 21. HighnessDrag
+ 22. GrandeBoss
+ 23. GrandeYass
+ 24. QueenBoss
+ 25. GrandeYass
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. HighnessDrag
+  2. GrandeBoss
+  3. GrandeYass
+  4. GrandeBoss
+  5. GrandeServing
+  6. GrandeBoss
+  7. GrandeServing
+  8. HighnessSerene
+  9. GrandeBoss
+ 10. GrandeBoss
+ 11. GrandeSlay
+ 12. PakBoss
+ 13. GrandeBoss
+ 14. GrandeBoss
+ 15. StunningDivine
+ 16. DivaSissy
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. GhorlBoss
+ 20. GrandeYass
+ 21. HighnessDrag
+ 22. GrandeBoss
+ 23. QueenYass
+ 24. GrandeBoss
+
+MUTATION
+[Mutation Info]
+Population Diversity: 6.9638
+Adaptive Mutation Rate: 0.0842
+Total Mutations: 1
+
+[New Population after Mutation]
+  1. HighnessDrag
+  2. GrandeBoss
+  3. EtherealYass
+  4. GrandeBoss
+  5. GrandeServing
+  6. GrandeBoss
+  7. GrandeServing
+  8. HighnessSerene
+  9. GrandeBoss
+ 10. GrandeBoss
+ 11. GrandeSlay
+ 12. PakBoss
+ 13. GrandeBoss
+ 14. GrandeBoss
+ 15. StunningDivine
+ 16. DivaSissy
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. GhorlBoss
+ 20. GrandeYass
+ 21. HighnessDrag
+ 22. GrandeBoss
+ 23. QueenYass
+ 24. GrandeBoss
+
+========== Generation 3/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. QueenBoss
+  2. QueenBoss
+  3. GrandeBoss
+  4. GrandeBoss
+  5. GrandeBoss
+  6. GrandeBoss
+  7. HighnessDrag
+  8. GrandeBoss
+  9. GrandeBoss
+ 10. GrandeBoss
+ 11. GrandeBoss
+ 12. GrandeServing
+ 13. GrandeBoss
+ 14. GrandeBoss
+ 15. GrandeBoss
+ 16. GrandeBoss
+ 17. GrandeBoss
+ 18. GrandeBoss
+ 19. HighnessDrag
+ 20. QueenBoss
+ 21. GrandeBoss
+ 22. GrandeBoss
+ 23. QueenBoss
+ 24. GrandeBoss
+ 25. GrandeBoss
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. QueenBoss
+  2. QueenBoss
+  3. GrandeBoss
+  4. GrandeBoss
+  5. GrandeBoss
+  6. GrandeBoss
+  7. HighnessBoss
+  8. GrandeDrag
+  9. GrandeBoss
+ 10. GrandeBoss
+ 11. GrandeBoss
+ 12. GrandeServing
+ 13. GrandeBoss
+ 14. GrandeBoss
+ 15. GrandeBoss
+ 16. GrandeBoss
+ 17. GrandeBoss
+ 18. GrandeBoss
+ 19. HighnessBoss
+ 20. QueenDrag
+ 21. GrandeBoss
+ 22. GrandeBoss
+ 23. QueenBoss
+ 24. GrandeBoss
+
+MUTATION
+[Mutation Info]
+Population Diversity: 3.8188
+Adaptive Mutation Rate: 0.0913
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. QueenBoss
+  2. QueenBoss
+  3. GrandeBoss
+  4. GrandeBoss
+  5. GrandeBoss
+  6. GrandeBoss
+  7. HighnessBoss
+  8. BestieDrag
+  9. GrandeBoss
+ 10. GrandeBoss
+ 11. GrandeurBoss
+ 12. GrandeServing
+ 13. GrandeBoss
+ 14. GrandeGnarly
+ 15. GrandeBoss
+ 16. GrandeBoss
+ 17. GrandeBoss
+ 18. GrandeMader
+ 19. HighnessBoss
+ 20. QueenDrag
+ 21. GrandeMader
+ 22. GrandeBoss
+ 23. QueenBoss
+ 24. CelestialBoss
+
+========== Generation 4/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. GrandeBoss
+  2. QueenBoss
+  3. GrandeBoss
+  4. GrandeBoss
+  5. QueenBoss
+  6. GrandeBoss
+  7. GrandeBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. GrandeMader
+ 11. GrandeBoss
+ 12. QueenBoss
+ 13. GrandeBoss
+ 14. QueenBoss
+ 15. GrandeBoss
+ 16. GrandeBoss
+ 17. QueenBoss
+ 18. GrandeBoss
+ 19. GrandeBoss
+ 20. GrandeBoss
+ 21. GrandeBoss
+ 22. GrandeBoss
+ 23. QueenBoss
+ 24. QueenBoss
+ 25. GrandeBoss
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. GrandeBoss
+  2. QueenBoss
+  3. GrandeBoss
+  4. GrandeBoss
+  5. QueenBoss
+  6. GrandeBoss
+  7. GrandeBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. GrandeMader
+ 11. GrandeBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. GrandeBoss
+ 15. GrandeBoss
+ 16. GrandeBoss
+ 17. GrandeBoss
+ 18. QueenBoss
+ 19. GrandeBoss
+ 20. GrandeBoss
+ 21. GrandeBoss
+ 22. GrandeBoss
+ 23. QueenBoss
+ 24. QueenBoss
+
+MUTATION
+[Mutation Info]
+Population Diversity: 3.3188
+Adaptive Mutation Rate: 0.0925
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. GrandeBoss
+  2. QueenBoss
+  3. GrandeBoss
+  4. GrandeBoss
+  5. QueenGurl
+  6. GrandeBoss
+  7. GrandeBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. GrandeMader
+ 11. GrandeBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. GrandeBoss
+ 15. GrandeBoss
+ 16. GrandeBoss
+ 17. PoppingBoss
+ 18. QueenBoss
+ 19. VogueRare
+ 20. EmpressBoss
+ 21. GrandeShimmering
+ 22. MamitaBoss
+ 23. QueenBoss
+ 24. QueenBoss
+
+========== Generation 5/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. GrandeBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. GrandeBoss
+ 16. GrandeBoss
+ 17. QueenBoss
+ 18. GrandeBoss
+ 19. QueenBoss
+ 20. QueenBoss
+ 21. GrandeBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+ 25. QueenBoss
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. GrandeBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. GrandeBoss
+ 16. GrandeBoss
+ 17. GrandeBoss
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenBoss
+ 21. GrandeBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+
+MUTATION
+[Mutation Info]
+Population Diversity: 2.0652
+Adaptive Mutation Rate: 0.0953
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenFierce
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. GrandeBoss
+ 11. QueenBoss
+ 12. GrandeurBoss
+ 13. RareBoss
+ 14. QueenBoss
+ 15. GrandeBoss
+ 16. GrandeBoss
+ 17. GrandeBoss
+ 18. QueenProtagonist
+ 19. QueenBoss
+ 20. QueenBoss
+ 21. SisBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+
+========== Generation 6/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. GrandeBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenBoss
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+ 25. QueenBoss
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. GrandeBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenBoss
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5000
+Adaptive Mutation Rate: 0.0989
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. GrandeBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenUnbothered
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenBoss
+ 21. QueenVIP
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+
+========== Generation 7/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenBoss
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+ 25. QueenBoss
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenBoss
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. BaddieBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenMegastar
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. DivineBoss
+ 20. QueenBoss
+ 21. QueenShining
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+
+========== Generation 8/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenBoss
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+ 25. QueenBoss
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenBoss
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenKween
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenGrande
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenGrandeur
+ 20. QueenBoss
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+
+========== Generation 9/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenBoss
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+ 25. QueenBoss
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenBoss
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenPopping
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. UntouchableMegastar
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenBoss
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+
+========== Generation 10/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenBoss
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+ 25. QueenBoss
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenBoss
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. EmpressBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. BossBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenBoss
+ 21. PurrBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+
+========== Generation 11/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenBoss
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+ 25. QueenBoss
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenBoss
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. QueenBoss
+  2. QueenGrandeur
+  3. FierceBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. TitaBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenOverness
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenBoss
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+
+========== Generation 12/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenBoss
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+ 25. QueenBoss
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenBoss
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. QueenYassified
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. QueenBoss
+ 11. MagnificentBoss
+ 12. CelestialBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenMiss
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+
+========== Generation 13/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenBoss
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+ 25. QueenBoss
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenBoss
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenHighness
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenGagging
+ 20. QueenBoss
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. EmpressBoss
+ 24. QueenMothering
+
+========== Generation 14/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenBoss
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+ 25. QueenBoss
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenBoss
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 1
+
+[New Population after Mutation]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenGagging
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenBoss
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+
+========== Generation 15/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenBoss
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+ 25. QueenBoss
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenBoss
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. QueenIndependent
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. DivineBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenBoss
+ 21. MagnificentBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+
+========== Generation 16/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenBoss
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+ 25. QueenBoss
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenBoss
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. QueenBoss
+  2. QueenGlamourista
+  3. QueenBoss
+  4. QueenSupreme
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenMadam
+  9. QueenShimmering
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenServing
+ 16. QueenMegastar
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenBoss
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. StunningBoss
+ 24. QueenBoss
+
+========== Generation 17/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenShimmering
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenSupreme
+ 20. QueenBoss
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+ 25. QueenBoss
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenShimmering
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenSupreme
+ 20. QueenBoss
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.3841
+Adaptive Mutation Rate: 0.0969
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenShimmering
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. BaddieUntouchable
+ 19. QueenSupreme
+ 20. QueenBoss
+ 21. BaddieBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+
+========== Generation 18/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenSupreme
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenSupreme
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenBoss
+ 21. QueenSupreme
+ 22. QueenSupreme
+ 23. QueenBoss
+ 24. QueenBoss
+ 25. QueenBoss
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenSupreme
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. QueenSupreme
+ 19. QueenBoss
+ 20. QueenBoss
+ 21. QueenSupreme
+ 22. QueenSupreme
+ 23. QueenBoss
+ 24. QueenBoss
+
+MUTATION
+[Mutation Info]
+Population Diversity: 2.0290
+Adaptive Mutation Rate: 0.0954
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. QueenVIP
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenSupreme
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. EtherealSupreme
+ 19. QueenBoss
+ 20. QueenBoss
+ 21. DivaSupreme
+ 22. VoguingSupreme
+ 23. QueenDemure
+ 24. QueenBoss
+
+========== Generation 19/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenSupreme
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenBoss
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenSupreme
+ 25. QueenBoss
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenSupreme
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenBoss
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. QueenSupreme
+ 24. QueenBoss
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.1159
+Adaptive Mutation Rate: 0.0975
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenGurl
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenDiva
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. GoddessBoss
+ 15. QueenBoss
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenUndisturbed
+ 21. QueenBoss
+ 22. QueenHighness
+ 23. QueenSupreme
+ 24. QueenBoss
+
+========== Generation 20/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenSupreme
+  8. QueenSupreme
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenBoss
+ 16. QueenSupreme
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenSupreme
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+ 25. QueenBoss
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenSupreme
+  8. QueenSupreme
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenSupreme
+ 16. QueenBoss
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenSupreme
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBoss
+
+MUTATION
+[Mutation Info]
+Population Diversity: 2.0290
+Adaptive Mutation Rate: 0.0954
+Total Mutations: 9
+
+[New Population after Mutation]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. OvernessFlawless
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenDior
+  8. QueenSupreme
+  9. AuraBoss
+ 10. QueenTita
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenBoss
+ 15. QueenSupreme
+ 16. QueenShimmering
+ 17. ClassyBoss
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenSupreme
+ 21. QueenBestie
+ 22. QueenBoss
+ 23. QueenBoss
+ 24. QueenBongga
+
+========== Generation 21/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. QueenSupreme
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenSupreme
+ 15. QueenBoss
+ 16. QueenSupreme
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenSupreme
+ 20. QueenSupreme
+ 21. QueenSupreme
+ 22. QueenSupreme
+ 23. QueenBoss
+ 24. QueenBoss
+ 25. QueenBoss
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. QueenBoss
+  2. QueenSupreme
+  3. QueenBoss
+  4. QueenBoss
+  5. QueenBoss
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. QueenBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenSupreme
+ 15. QueenBoss
+ 16. QueenSupreme
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenSupreme
+ 20. QueenSupreme
+ 21. QueenSupreme
+ 22. QueenSupreme
+ 23. QueenBoss
+ 24. QueenBoss
+
+MUTATION
+[Mutation Info]
+Population Diversity: 3.0181
+Adaptive Mutation Rate: 0.0931
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. QueenBoss
+  2. QueenDzai
+  3. TitaBoss
+  4. QueenBoss
+  5. MotheringFlawless
+  6. QueenBoss
+  7. QueenBoss
+  8. QueenBoss
+  9. QueenBoss
+ 10. DemureBoss
+ 11. QueenBoss
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenSupreme
+ 15. DazzleBoss
+ 16. QueenSupreme
+ 17. QueenBoss
+ 18. QueenBoss
+ 19. QueenSupreme
+ 20. QueenSupreme
+ 21. QueenSupreme
+ 22. QueenSupreme
+ 23. QueenBoss
+ 24. BestieBoss
+
+========== Generation 22/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenSupreme
+  4. QueenBoss
+  5. QueenSupreme
+  6. QueenBoss
+  7. QueenSupreme
+  8. QueenSupreme
+  9. QueenBoss
+ 10. QueenSupreme
+ 11. QueenBoss
+ 12. QueenSupreme
+ 13. QueenBoss
+ 14. QueenSupreme
+ 15. QueenSupreme
+ 16. QueenSupreme
+ 17. QueenBoss
+ 18. QueenSupreme
+ 19. QueenSupreme
+ 20. QueenBoss
+ 21. QueenSupreme
+ 22. QueenSupreme
+ 23. QueenBoss
+ 24. QueenSupreme
+ 25. QueenSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenSupreme
+  5. QueenSupreme
+  6. QueenBoss
+  7. QueenSupreme
+  8. QueenSupreme
+  9. QueenBoss
+ 10. QueenSupreme
+ 11. QueenSupreme
+ 12. QueenBoss
+ 13. QueenBoss
+ 14. QueenSupreme
+ 15. QueenSupreme
+ 16. QueenSupreme
+ 17. QueenSupreme
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenSupreme
+ 21. QueenSupreme
+ 22. QueenSupreme
+ 23. QueenSupreme
+ 24. QueenBoss
+
+MUTATION
+[Mutation Info]
+Population Diversity: 3.5507
+Adaptive Mutation Rate: 0.0919
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. QueenBoss
+  2. QueenBoss
+  3. QueenBoss
+  4. QueenSupreme
+  5. GlamouristaSupreme
+  6. BetBoss
+  7. QueenSupreme
+  8. QueenSupreme
+  9. QueenBoss
+ 10. QueenSupreme
+ 11. QueenSupreme
+ 12. QueenBoss
+ 13. QueenRare
+ 14. QueenSupreme
+ 15. QueenSupreme
+ 16. QueenSupreme
+ 17. QueenGrandeur
+ 18. QueenBoss
+ 19. QueenBoss
+ 20. QueenSupreme
+ 21. SisSupreme
+ 22. QueenSupreme
+ 23. QueenSupreme
+ 24. QueenBoss
+
+========== Generation 23/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. QueenSupreme
+  2. QueenSupreme
+  3. QueenSupreme
+  4. QueenSupreme
+  5. QueenSupreme
+  6. QueenSupreme
+  7. QueenSupreme
+  8. QueenSupreme
+  9. QueenSupreme
+ 10. QueenSupreme
+ 11. QueenSupreme
+ 12. QueenSupreme
+ 13. QueenSupreme
+ 14. QueenSupreme
+ 15. QueenSupreme
+ 16. QueenSupreme
+ 17. QueenSupreme
+ 18. QueenSupreme
+ 19. QueenSupreme
+ 20. QueenSupreme
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. QueenSupreme
+ 24. QueenSupreme
+ 25. QueenSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. QueenSupreme
+  2. QueenSupreme
+  3. QueenSupreme
+  4. QueenSupreme
+  5. QueenSupreme
+  6. QueenSupreme
+  7. QueenSupreme
+  8. QueenSupreme
+  9. QueenSupreme
+ 10. QueenSupreme
+ 11. QueenSupreme
+ 12. QueenSupreme
+ 13. QueenSupreme
+ 14. QueenSupreme
+ 15. QueenSupreme
+ 16. QueenSupreme
+ 17. QueenSupreme
+ 18. QueenSupreme
+ 19. QueenSupreme
+ 20. QueenSupreme
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. QueenSupreme
+ 24. QueenSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.1159
+Adaptive Mutation Rate: 0.0975
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. QueenSupreme
+  2. QueenSupreme
+  3. QueenPopping
+  4. QueenSupreme
+  5. QueenSupreme
+  6. ShiningEmpress
+  7. QueenSupreme
+  8. QueenSupreme
+  9. QueenSupreme
+ 10. QueenSupreme
+ 11. FierceBestie
+ 12. QueenSupreme
+ 13. QueenSupreme
+ 14. QueenSupreme
+ 15. QueenSupreme
+ 16. QueenSupreme
+ 17. QueenSupreme
+ 18. QueenSupreme
+ 19. QueenSupreme
+ 20. QueenSupreme
+ 21. QueenBoss
+ 22. QueenBoss
+ 23. QueenSupreme
+ 24. QueenSupreme
+
+========== Generation 24/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. QueenSupreme
+  2. QueenSupreme
+  3. QueenSupreme
+  4. QueenSupreme
+  5. QueenSupreme
+  6. QueenSupreme
+  7. QueenBoss
+  8. QueenSupreme
+  9. QueenSupreme
+ 10. QueenSupreme
+ 11. QueenSupreme
+ 12. QueenSupreme
+ 13. QueenSupreme
+ 14. QueenSupreme
+ 15. QueenSupreme
+ 16. QueenSupreme
+ 17. QueenSupreme
+ 18. QueenSupreme
+ 19. QueenSupreme
+ 20. QueenSupreme
+ 21. QueenSupreme
+ 22. QueenSupreme
+ 23. QueenSupreme
+ 24. QueenSupreme
+ 25. QueenSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. QueenSupreme
+  2. QueenSupreme
+  3. QueenSupreme
+  4. QueenSupreme
+  5. QueenSupreme
+  6. QueenSupreme
+  7. QueenBoss
+  8. QueenSupreme
+  9. QueenSupreme
+ 10. QueenSupreme
+ 11. QueenSupreme
+ 12. QueenSupreme
+ 13. QueenSupreme
+ 14. QueenSupreme
+ 15. QueenSupreme
+ 16. QueenSupreme
+ 17. QueenSupreme
+ 18. QueenSupreme
+ 19. QueenSupreme
+ 20. QueenSupreme
+ 21. QueenSupreme
+ 22. QueenSupreme
+ 23. QueenSupreme
+ 24. QueenSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5833
+Adaptive Mutation Rate: 0.0987
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. QueenSupreme
+  3. QueenSupreme
+  4. QueenSupreme
+  5. QueenSupreme
+  6. QueenSupreme
+  7. QueenBoss
+  8. QueenSupreme
+  9. QueenSupreme
+ 10. QueenSupreme
+ 11. QueenSupreme
+ 12. QueenSupreme
+ 13. ShiningSupreme
+ 14. QueenSupreme
+ 15. KweenUnbothered
+ 16. QueenGem
+ 17. QueenSupreme
+ 18. QueenSupreme
+ 19. QueenSupreme
+ 20. QueenSupreme
+ 21. QueenSupreme
+ 22. QueenSupreme
+ 23. QueenSupreme
+ 24. QueenSupreme
+
+========== Generation 25/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. QueenSupreme
+  2. QueenSupreme
+  3. QueenSupreme
+  4. QueenSupreme
+  5. SupremeSupreme
+  6. QueenSupreme
+  7. QueenSupreme
+  8. QueenSupreme
+  9. QueenSupreme
+ 10. QueenSupreme
+ 11. SupremeSupreme
+ 12. QueenSupreme
+ 13. QueenSupreme
+ 14. QueenSupreme
+ 15. QueenSupreme
+ 16. QueenSupreme
+ 17. QueenSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. QueenSupreme
+ 21. QueenSupreme
+ 22. QueenSupreme
+ 23. QueenSupreme
+ 24. QueenSupreme
+ 25. QueenSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. QueenSupreme
+  2. QueenSupreme
+  3. QueenSupreme
+  4. QueenSupreme
+  5. SupremeSupreme
+  6. QueenSupreme
+  7. QueenSupreme
+  8. QueenSupreme
+  9. QueenSupreme
+ 10. QueenSupreme
+ 11. SupremeSupreme
+ 12. QueenSupreme
+ 13. QueenSupreme
+ 14. QueenSupreme
+ 15. QueenSupreme
+ 16. QueenSupreme
+ 17. SupremeSupreme
+ 18. QueenSupreme
+ 19. QueenSupreme
+ 20. SupremeSupreme
+ 21. QueenSupreme
+ 22. QueenSupreme
+ 23. QueenSupreme
+ 24. QueenSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.4493
+Adaptive Mutation Rate: 0.0967
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. IconicSupreme
+  2. QueenSupreme
+  3. QueenSupreme
+  4. QueenMajestic
+  5. SupremeSupreme
+  6. LakambiniSupreme
+  7. QueenSupreme
+  8. QueenSupreme
+  9. QueenSupreme
+ 10. QueenSupreme
+ 11. GrandeurSupreme
+ 12. QueenSupreme
+ 13. QueenSupreme
+ 14. QueenSupreme
+ 15. QueenGnarly
+ 16. QueenSupreme
+ 17. SupremeSupreme
+ 18. QueenSupreme
+ 19. QueenSupreme
+ 20. SupremeSupreme
+ 21. QueenSupreme
+ 22. QueenSupreme
+ 23. QueenSupreme
+ 24. QueenSupreme
+
+========== Generation 26/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. QueenSupreme
+  2. QueenSupreme
+  3. SupremeSupreme
+  4. QueenSupreme
+  5. SupremeSupreme
+  6. QueenSupreme
+  7. SupremeSupreme
+  8. QueenSupreme
+  9. SupremeSupreme
+ 10. QueenSupreme
+ 11. QueenSupreme
+ 12. QueenSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. QueenSupreme
+ 16. SupremeSupreme
+ 17. QueenSupreme
+ 18. QueenSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. QueenSupreme
+ 22. QueenSupreme
+ 23. QueenSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. QueenSupreme
+  2. QueenSupreme
+  3. QueenSupreme
+  4. SupremeSupreme
+  5. QueenSupreme
+  6. SupremeSupreme
+  7. QueenSupreme
+  8. SupremeSupreme
+  9. QueenSupreme
+ 10. SupremeSupreme
+ 11. QueenSupreme
+ 12. QueenSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. QueenSupreme
+ 16. SupremeSupreme
+ 17. QueenSupreme
+ 18. QueenSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. QueenSupreme
+ 22. QueenSupreme
+ 23. SupremeSupreme
+ 24. QueenSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 2.5362
+Adaptive Mutation Rate: 0.0942
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. QueenSupreme
+  2. QueenSupreme
+  3. QueenSupreme
+  4. SupremeSupreme
+  5. QueenSupreme
+  6. SupremeSupreme
+  7. QueenSupreme
+  8. SupremeSupreme
+  9. QueenSupreme
+ 10. SupremeSupreme
+ 11. QueenSupreme
+ 12. QueenSupreme
+ 13. SupremeSupreme
+ 14. SupremeRare
+ 15. QueenSupreme
+ 16. SupernovaSupreme
+ 17. QueenSupreme
+ 18. QueenSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. QueenSupreme
+ 22. OvernessSupreme
+ 23. SupremeSupreme
+ 24. QueenSupreme
+
+========== Generation 27/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. QueenSupreme
+  8. SupremeSupreme
+  9. QueenSupreme
+ 10. QueenSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. QueenSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. QueenSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. QueenSupreme
+  9. QueenSupreme
+ 10. QueenSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. QueenSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. QueenSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.7210
+Adaptive Mutation Rate: 0.0961
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. QueenSupreme
+  9. QueenSupreme
+ 10. QueenSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. QueenSupreme
+ 15. SupremeSupreme
+ 16. LatinaSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. DivineSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. QueenSupreme
+ 24. ServingSupreme
+
+========== Generation 28/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeLakambini
+  4. SupremeSupreme
+  5. SupremeMamita
+  6. ExtraSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeGoddess
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. BestieSupreme
+ 22. KweenSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 29/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. KweenSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. KweenSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5000
+Adaptive Mutation Rate: 0.0989
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. ShineSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeGem
+ 12. SupremeGhorl
+ 13. GnarlyStunning
+ 14. SupremeSupreme
+ 15. SupremeShimmering
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeLakambini
+ 21. KweenSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 30/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeGhorl
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeGhorl
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5000
+Adaptive Mutation Rate: 0.0989
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. BestieSupreme
+ 13. SupremeSupreme
+ 14. YassifiedSupreme
+ 15. VoguingSupreme
+ 16. SupremeSupreme
+ 17. YassifiedSupreme
+ 18. SupremeYassified
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. ReignGhorl
+
+========== Generation 31/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. BonggaSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. DivaSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeYassified
+
+========== Generation 32/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSissy
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSis
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeOverness
+ 20. SupremeBaddie
+ 21. MagnificentGlamorous
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 33/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. ShineSupreme
+ 13. SupremeSupreme
+ 14. SisSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. EtherealSupreme
+ 20. SupremeMader
+ 21. SupremeUntouchable
+ 22. UntouchableSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 34/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. EtherealSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. EtherealSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5000
+Adaptive Mutation Rate: 0.0989
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. EtherealSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. EtherealSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeDivine
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupernova
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. BaddieMader
+ 24. SupremeSupreme
+
+========== Generation 35/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeGlamorous
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. RareSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeTita
+ 12. SupremeClassy
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeGlamorous
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 36/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. EtherealSupreme
+  2. ExtraSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. BratSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeMothering
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeGrande
+ 22. GaggingSupreme
+ 23. DemureSupreme
+ 24. SupremeSupreme
+
+========== Generation 37/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. EtherealSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. EtherealSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5000
+Adaptive Mutation Rate: 0.0989
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. SupremeTrendsetter
+  2. SupremeSupreme
+  3. SupremeSlay
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeMegastar
+ 10. SupremeSupreme
+ 11. DragSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. LakambiniSupreme
+ 19. EtherealSupreme
+ 20. SupremeSupreme
+ 21. LatinaSupreme
+ 22. SupremeSupreme
+ 23. SupremeUntouchable
+ 24. SupremeSupreme
+
+========== Generation 38/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. VoguingProtagonist
+  7. SupremeSupreme
+  8. UntouchableSupreme
+  9. SupremeSupreme
+ 10. SupremeIconique
+ 11. DzaiSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 39/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. SupremeClassy
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. MotheringSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSerene
+ 12. SupremeBet
+ 13. SupremeSupreme
+ 14. SupremeClassy
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. DragSupreme
+ 24. SupremeSupreme
+
+========== Generation 40/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeVoguing
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. GhorlSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 41/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. MajesticSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. BoldSupreme
+ 14. SupremeFierce
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. StunningSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 42/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. CelestialSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeDemure
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. PurrSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SereneSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 43/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeEmpress
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. GoddessSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSissy
+
+========== Generation 44/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. KweenSupreme
+  5. SupremeSupreme
+  6. IconicSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeDzai
+ 17. ShimmeringSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. GrandeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 45/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. GaggingFabulous
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SereneSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SlaySupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeDzai
+ 20. TitaSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 46/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. LatinaDiva
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. FlawlessSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeOverness
+ 24. SupremeSupreme
+
+========== Generation 47/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. VoguingSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. GlamorousSupreme
+ 10. SupremeMiss
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeDiva
+ 22. BonggaSupreme
+ 23. SupremeSupreme
+ 24. SupremeDior
+
+========== Generation 48/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeGlamourista
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. PakSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 49/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. GrandePopping
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeGhorl
+ 14. SupremeSupreme
+ 15. SupremeGlamorous
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeGoddess
+ 24. SupremeSupreme
+
+========== Generation 50/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. CelestialSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. ReignSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 51/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeFlawless
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeGhorl
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. PakSupreme
+ 13. SupremeSupreme
+ 14. SupremeUnbothered
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. MegastarPurr
+ 18. SupremeSupreme
+ 19. IconiqueSupreme
+ 20. SupremeSupreme
+ 21. SupremeSissy
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 52/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. YassSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. PurrBet
+ 24. SupremeSupreme
+
+========== Generation 53/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeBaddie
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. ShimmeringSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. DemureIndependent
+ 23. SupremeSupreme
+ 24. SupremeSerene
+
+========== Generation 54/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. UndisturbedSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeUntouchable
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 55/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeCalm
+  5. SupremeSupreme
+  6. SupremeYass
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. GhorlVIP
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. YassSupreme
+ 14. SupremeSupreme
+ 15. SupremeBrat
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 56/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeLatina
+  9. SupremeSupreme
+ 10. SupremeBet
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeMothering
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. LakambiniSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 57/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. MissUndisturbed
+ 14. SupremeSupernova
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremePurr
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SisExtra
+ 21. SupremeAura
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeShining
+
+========== Generation 58/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. VoguingSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeVIP
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 59/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. BestieSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSlay
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeGnarly
+ 24. SupremeSupreme
+
+========== Generation 60/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeBoss
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. LakambiniMothering
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. DemureSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 61/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeReign
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. UntouchableSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. IconiqueSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeVoguing
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 62/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeReign
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeReign
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5833
+Adaptive Mutation Rate: 0.0987
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. SupremeUnbothered
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeBet
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeYass
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. DemureSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 63/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. FlawlessGem
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 64/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeFabulous
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeBoss
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeMiss
+ 11. SupremeShining
+ 12. SupremeSupreme
+ 13. TrendsetterSupreme
+ 14. SupremeSerene
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeFabulous
+ 22. SupremeSupreme
+ 23. GlamouristaSupreme
+ 24. SupremeSupreme
+
+========== Generation 65/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. VogueSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeVoguing
+ 24. SupremeSupreme
+
+========== Generation 66/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. MadamSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. VIPSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 67/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeGrande
+  8. SupremeSupreme
+  9. DzaiSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. YassSupreme
+ 18. SupremeSupreme
+ 19. SupremeMagnificent
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. VogueGagging
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 68/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. DzaiSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. ShineFlawless
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeReign
+
+========== Generation 69/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. UnbotheredSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeYass
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. PurrSupreme
+ 19. SupremeEthereal
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 70/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. ShimmeringSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. ClassySupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. MaderSupreme
+ 20. SupremeSupreme
+ 21. SupremeCalm
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 71/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeBestie
+ 11. SupremeGhorl
+ 12. SupremeSupreme
+ 13. SupremeBongga
+ 14. SupremeSupreme
+ 15. SupremeMader
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. CalmSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 72/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupernova
+ 15. SupremeVIP
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 73/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. SupremeMagnificent
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeYass
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. MamitaSupreme
+
+========== Generation 74/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 1
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeCalm
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 75/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. GaggingSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. RareSupreme
+ 10. SupremeSupreme
+ 11. SupremeStunning
+ 12. SupremeSupreme
+ 13. OvernessSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. ExtraSupreme
+ 17. SupremeSupreme
+ 18. SupremeUndisturbed
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 76/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeMader
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. DazzleSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 77/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeDior
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeExtra
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeVogue
+
+========== Generation 78/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 9
+
+[New Population after Mutation]
+  1. DivaSupreme
+  2. SupremeSupreme
+  3. SupremeYass
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. DragSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. ClassySupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeUnbothered
+ 15. SupremeSupreme
+ 16. SupremeMadam
+ 17. DemureSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. MadamSupreme
+ 21. SupremeEmpress
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 79/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. DivaSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. DivaSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5833
+Adaptive Mutation Rate: 0.0987
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. SupremeOverness
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeOverness
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeMajestic
+ 11. DivaSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. MotheringSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 80/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. MamitaBliss
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. TrendsetterSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. QueenSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeCelestial
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeBestie
+ 21. GemSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 81/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeLatina
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. MegastarSupreme
+ 15. GurlSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. ShimmeringMadam
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. UnbotheredSupreme
+
+========== Generation 82/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. GurlSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. GurlSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.4167
+Adaptive Mutation Rate: 0.0991
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. SupremeEmpress
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupernova
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SlaySupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. GurlSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 83/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeDemure
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeAura
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 84/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. GlamouristaSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeDzai
+ 10. SupremePurr
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. DzaiSupreme
+ 16. SupremeSupreme
+ 17. IndependentSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 85/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 1
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. HighnessSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 86/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 1
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. GurlSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 87/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 10
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeGhorl
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. GrandeSupreme
+  8. GlamouristaSupreme
+  9. SupremeClassy
+ 10. TrendsetterSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeVoguing
+ 14. SupremeYassified
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeUndisturbed
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SissySupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 88/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. GrandeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. GrandeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5000
+Adaptive Mutation Rate: 0.0989
+Total Mutations: 1
+
+[New Population after Mutation]
+  1. VIPSupreme
+  2. SupremeSupreme
+  3. GrandeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 89/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. DiorSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. MadamSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSis
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. ProtagonistRare
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 90/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 12
+
+[New Population after Mutation]
+  1. SupremeGurl
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SissyGem
+  7. SupremeSupreme
+  8. SupremeDemure
+  9. SupremePopping
+ 10. SupremeSupreme
+ 11. SupremeBet
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. PoppingSupreme
+ 17. SupremeAura
+ 18. MegastarSupreme
+ 19. ShiningRare
+ 20. SupremeSupreme
+ 21. SupremeShimmering
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 91/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeGurl
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 6
+No Crossover Pairs: 6
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeGurl
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.4167
+Adaptive Mutation Rate: 0.0991
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeBaddie
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeGurl
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeUndisturbed
+ 19. SupremePopping
+ 20. FierceSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 92/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 1
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeShine
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 93/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SupremeDemure
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupernova
+ 14. SupremeSupreme
+ 15. SupremeMythical
+ 16. SupremeShining
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeBliss
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 94/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. ShiningSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. BonggaSupreme
+ 12. DzaiSupreme
+ 13. SupremeSupreme
+ 14. SupremeDemure
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. PakSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. MythicalSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 95/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. ReignSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeAura
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. CalmDior
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 96/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 1
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. GrandeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 97/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. TrendsetterSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. MagnificentSupreme
+ 10. SupremeSupreme
+ 11. BonggaSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. LakambiniFabulous
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 98/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. VIPSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. PoppingSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeGlamourista
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 99/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeFlawless
+  7. SupremeCelestial
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========== Generation 100/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+ 25. SupremeSupreme
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 8
+No Crossover Pairs: 4
+
+[Offspring after Crossover]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeSupreme
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. SupremeSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeSupreme
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. SupremeSupreme
+  2. SupremeSupreme
+  3. SupremeSupreme
+  4. SupremeSupreme
+  5. SupremeVoguing
+  6. SupremeSupreme
+  7. SupremeSupreme
+  8. SupremeSupreme
+  9. SupremeSupreme
+ 10. SupremeSupreme
+ 11. SupremeSupreme
+ 12. SupremeSupreme
+ 13. SupremeSupreme
+ 14. BoldSupreme
+ 15. SupremeSupreme
+ 16. SupremeSupreme
+ 17. SupremeGurl
+ 18. SupremeSupreme
+ 19. SupremeSupreme
+ 20. SupremeSupreme
+ 21. SupremeSupreme
+ 22. SupremeSupreme
+ 23. SupremeSupreme
+ 24. SupremeSupreme
+
+========================================
+GA PROCESS COMPLETE
+Best Username Found: SupremeSupreme

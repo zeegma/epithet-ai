@@ -1,0 +1,9458 @@
+Epithet AI - Genetic Algorithm Log
+========================================
+
+[Initial Population]
+  1. CrimsonFatal
+  2. SweetMidnight
+  3. QuantumLethal
+  4. ApexUnstoppable
+  5. SystematicVolt
+  6. SupremeVicious
+  7. KineticGlitchy
+  8. NeuralPixelated
+  9. StrategicFocused
+ 10. GeniusInvincible
+ 11. ClutchApex
+ 12. TacticalCalculated
+ 13. NoirMastermind
+ 14. SoftDreamy
+ 15. ObsidianPrecise
+ 16. SavageAdaptive
+ 17. IntuitiveVoid
+ 18. ElectricDominant
+ 19. IntuitiveGodlike
+ 20. BlushyPlasma
+ 21. NoirVelvet
+ 22. ObsidianBlushy
+ 23. IntuitiveStrategic
+ 24. VelvetDigital
+ 25. KineticSweet
+ 26. StrategicClean
+ 27. RelentlessSupreme
+ 28. CyberRuthless
+ 29. AdaptiveLegendary
+ 30. VoltVenomous
+ 31. PixelatedVelvet
+ 32. VoidDominant
+ 33. ShadowObsidian
+ 34. BlushySleek
+ 35. ChromeMethodical
+ 36. StrategicLethal
+ 37. FatalEclipse
+ 38. InvinciblePrecise
+ 39. DynamicNoir
+ 40. FocusedFocused
+ 41. VoltBrutal
+ 42. StrategicTechnical
+ 43. CalculatedFierce
+ 44. BlushyMastermind
+ 45. ViciousMellow
+ 46. SupremeKinetic
+ 47. DigitalObsidian
+ 48. PrimeGodlike
+ 49. NeuralEclipse
+ 50. SleekPixelated
+
+========== Generation 1/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. NeuralPixelated
+  2. PixelatedVelvet
+  3. ObsidianBlushy
+  4. StrategicClean
+  5. DynamicNoir
+  6. SupremeKinetic
+  7. VoltVenomous
+  8. NoirMastermind
+  9. IntuitiveGodlike
+ 10. SweetMidnight
+ 11. NeuralPixelated
+ 12. ElectricDominant
+ 13. NeuralPixelated
+ 14. SoftDreamy
+ 15. NeuralEclipse
+ 16. IntuitiveGodlike
+ 17. NeuralEclipse
+ 18. ClutchApex
+ 19. VelvetDigital
+ 20. StrategicFocused
+ 21. NeuralEclipse
+ 22. PixelatedVelvet
+ 23. VelvetDigital
+ 24. SoftDreamy
+ 25. PixelatedVelvet
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. NeuralPixelated
+  2. PixelatedVelvet
+  3. StrategicClean
+  4. ObsidianBlushy
+  5. DynamicNoir
+  6. SupremeKinetic
+  7. NoirVenomous
+  8. VoltMastermind
+  9. IntuitiveGodlike
+ 10. SweetMidnight
+ 11. NeuralPixelated
+ 12. ElectricDominant
+ 13. SoftPixelated
+ 14. NeuralDreamy
+ 15. NeuralGodlike
+ 16. IntuitiveEclipse
+ 17. NeuralEclipse
+ 18. ClutchApex
+ 19. VelvetFocused
+ 20. StrategicDigital
+ 21. PixelatedEclipse
+ 22. NeuralVelvet
+ 23. VelvetDreamy
+ 24. SoftDigital
+
+MUTATION
+[Mutation Info]
+Population Diversity: 11.9094
+Adaptive Mutation Rate: 0.0729
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. NeuralPixelated
+  2. PixelatedVelvet
+  3. StrategicClean
+  4. ObsidianBlushy
+  5. DynamicLethal
+  6. SupremeKinetic
+  7. SharpVenomous
+  8. VoltMastermind
+  9. IntuitiveGodlike
+ 10. SweetMidnight
+ 11. NeuralPixelated
+ 12. ElectricDominant
+ 13. SoftPixelated
+ 14. NeuralDreamy
+ 15. NeuralGodlike
+ 16. IntuitiveEclipse
+ 17. NeuralSleek
+ 18. ClutchApex
+ 19. VelvetFocused
+ 20. CalculatedDigital
+ 21. PixelatedEclipse
+ 22. NeuralVelvet
+ 23. VelvetDreamy
+ 24. SoftDigital
+
+========== Generation 2/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. ElectricDominant
+  2. SoftDigital
+  3. NeuralDreamy
+  4. NeuralDreamy
+  5. NeuralPixelated
+  6. IntuitiveGodlike
+  7. CalculatedDigital
+  8. NeuralPixelated
+  9. ClutchApex
+ 10. NeuralPixelated
+ 11. NeuralPixelated
+ 12. NeuralPixelated
+ 13. NeuralDreamy
+ 14. SoftDigital
+ 15. ElectricDominant
+ 16. SoftDigital
+ 17. SoftPixelated
+ 18. IntuitiveEclipse
+ 19. NeuralPixelated
+ 20. IntuitiveEclipse
+ 21. CalculatedDigital
+ 22. NeuralPixelated
+ 23. IntuitiveGodlike
+ 24. NeuralVelvet
+ 25. SoftDigital
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SoftDigital
+  2. ElectricDominant
+  3. NeuralDreamy
+  4. NeuralDreamy
+  5. NeuralGodlike
+  6. IntuitivePixelated
+  7. NeuralPixelated
+  8. CalculatedDigital
+  9. ClutchApex
+ 10. NeuralPixelated
+ 11. NeuralPixelated
+ 12. NeuralPixelated
+ 13. NeuralDigital
+ 14. SoftDreamy
+ 15. SoftDigital
+ 16. ElectricDominant
+ 17. SoftEclipse
+ 18. IntuitivePixelated
+ 19. NeuralEclipse
+ 20. IntuitivePixelated
+ 21. NeuralPixelated
+ 22. CalculatedDigital
+ 23. NeuralGodlike
+ 24. IntuitiveVelvet
+
+MUTATION
+[Mutation Info]
+Population Diversity: 10.8297
+Adaptive Mutation Rate: 0.0754
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SoftDigital
+  2. ElectricDominant
+  3. NeuralDreamy
+  4. NeuralDreamy
+  5. NeuralGodlike
+  6. IntuitivePixelated
+  7. NeuralPixelated
+  8. CalculatedDigital
+  9. ClutchApex
+ 10. NeuralDreamy
+ 11. NeuralPixelated
+ 12. MastermindPhantom
+ 13. NeuralDigital
+ 14. SoftDreamy
+ 15. SoftDigital
+ 16. ElectricDominant
+ 17. SoftEclipse
+ 18. IntuitivePixelated
+ 19. VoltEclipse
+ 20. IntuitiveClean
+ 21. NeuralPixelated
+ 22. CalculatedDigital
+ 23. NeuralGodlike
+ 24. IntuitiveVelvet
+
+========== Generation 3/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. NeuralDigital
+  2. NeuralDreamy
+  3. NeuralPixelated
+  4. NeuralPixelated
+  5. ClutchApex
+  6. NeuralDreamy
+  7. MastermindPhantom
+  8. NeuralDreamy
+  9. MastermindPhantom
+ 10. NeuralPixelated
+ 11. NeuralPixelated
+ 12. NeuralDigital
+ 13. MastermindPhantom
+ 14. CalculatedDigital
+ 15. MastermindPhantom
+ 16. NeuralDreamy
+ 17. NeuralPixelated
+ 18. SoftEclipse
+ 19. NeuralDigital
+ 20. ClutchApex
+ 21. NeuralDreamy
+ 22. NeuralDreamy
+ 23. NeuralPixelated
+ 24. SoftDigital
+ 25. SoftDigital
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. NeuralDreamy
+  2. NeuralDigital
+  3. NeuralPixelated
+  4. NeuralPixelated
+  5. ClutchDreamy
+  6. NeuralApex
+  7. MastermindPhantom
+  8. NeuralDreamy
+  9. NeuralPixelated
+ 10. MastermindPhantom
+ 11. NeuralDigital
+ 12. NeuralPixelated
+ 13. MastermindPhantom
+ 14. CalculatedDigital
+ 15. MastermindPhantom
+ 16. NeuralDreamy
+ 17. SoftPixelated
+ 18. NeuralEclipse
+ 19. NeuralApex
+ 20. ClutchDigital
+ 21. NeuralDreamy
+ 22. NeuralDreamy
+ 23. NeuralDigital
+ 24. SoftPixelated
+
+MUTATION
+[Mutation Info]
+Population Diversity: 9.5290
+Adaptive Mutation Rate: 0.0783
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. NeuralDreamy
+  2. NeuralDigital
+  3. NeuralPixelated
+  4. NeuralPixelated
+  5. SweetDreamy
+  6. NeuralApex
+  7. MastermindRelentless
+  8. NeuralDreamy
+  9. NeuralPixelated
+ 10. VenomousPhantom
+ 11. NeuralDigital
+ 12. NeuralPixelated
+ 13. MastermindPhantom
+ 14. CalculatedDigital
+ 15. MastermindPhantom
+ 16. NeuralDreamy
+ 17. SoftPixelated
+ 18. NeuralEclipse
+ 19. NeuralApex
+ 20. SoftDigital
+ 21. NeuralGenius
+ 22. NeuralDreamy
+ 23. NeuralDigital
+ 24. SoftPixelated
+
+========== Generation 4/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. NeuralDreamy
+  2. NeuralPixelated
+  3. NeuralDreamy
+  4. NeuralGenius
+  5. NeuralGenius
+  6. NeuralPixelated
+  7. NeuralDreamy
+  8. NeuralGenius
+  9. NeuralApex
+ 10. MastermindPhantom
+ 11. SoftDigital
+ 12. MastermindPhantom
+ 13. NeuralPixelated
+ 14. NeuralPixelated
+ 15. NeuralDreamy
+ 16. MastermindPhantom
+ 17. NeuralDreamy
+ 18. NeuralGenius
+ 19. NeuralDigital
+ 20. MastermindPhantom
+ 21. NeuralDigital
+ 22. NeuralPixelated
+ 23. NeuralDreamy
+ 24. NeuralDreamy
+ 25. NeuralGenius
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 8
+No Crossover Pairs: 4
+
+[Offspring after Crossover]
+  1. NeuralPixelated
+  2. NeuralDreamy
+  3. NeuralDreamy
+  4. NeuralGenius
+  5. NeuralGenius
+  6. NeuralPixelated
+  7. NeuralDreamy
+  8. NeuralGenius
+  9. NeuralPhantom
+ 10. MastermindApex
+ 11. SoftPhantom
+ 12. MastermindDigital
+ 13. NeuralPixelated
+ 14. NeuralPixelated
+ 15. NeuralPhantom
+ 16. MastermindDreamy
+ 17. NeuralDreamy
+ 18. NeuralGenius
+ 19. NeuralDigital
+ 20. MastermindPhantom
+ 21. NeuralDigital
+ 22. NeuralPixelated
+ 23. NeuralDreamy
+ 24. NeuralDreamy
+
+MUTATION
+[Mutation Info]
+Population Diversity: 8.1957
+Adaptive Mutation Rate: 0.0814
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. NeuralSharp
+  2. NeuralDreamy
+  3. NeuralDreamy
+  4. NeuralGenius
+  5. NeuralGenius
+  6. NeuralPixelated
+  7. NeuralDreamy
+  8. NeuralGenius
+  9. NeuralPhantom
+ 10. MastermindApex
+ 11. SoftPhantom
+ 12. MastermindDigital
+ 13. NeuralPixelated
+ 14. NeuralPixelated
+ 15. NeuralTechnical
+ 16. MastermindFierce
+ 17. NeuralDreamy
+ 18. SleekGenius
+ 19. NeuralDigital
+ 20. DreamyPhantom
+ 21. NeuralDigital
+ 22. NeuralPixelated
+ 23. NeuralDreamy
+ 24. NeuralDreamy
+
+========== Generation 5/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SoftPhantom
+  2. SoftPhantom
+  3. NeuralGenius
+  4. DreamyPhantom
+  5. NeuralPhantom
+  6. DreamyPhantom
+  7. NeuralDigital
+  8. NeuralDigital
+  9. NeuralDreamy
+ 10. NeuralDigital
+ 11. NeuralGenius
+ 12. NeuralDreamy
+ 13. NeuralGenius
+ 14. NeuralGenius
+ 15. NeuralDreamy
+ 16. NeuralDigital
+ 17. DreamyPhantom
+ 18. NeuralGenius
+ 19. NeuralPhantom
+ 20. NeuralDigital
+ 21. DreamyPhantom
+ 22. DreamyPhantom
+ 23. NeuralPhantom
+ 24. NeuralDreamy
+ 25. NeuralGenius
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SoftPhantom
+  2. SoftPhantom
+  3. NeuralGenius
+  4. DreamyPhantom
+  5. NeuralPhantom
+  6. DreamyPhantom
+  7. NeuralDigital
+  8. NeuralDigital
+  9. NeuralDigital
+ 10. NeuralDreamy
+ 11. NeuralGenius
+ 12. NeuralDreamy
+ 13. NeuralGenius
+ 14. NeuralGenius
+ 15. NeuralDigital
+ 16. NeuralDreamy
+ 17. DreamyPhantom
+ 18. NeuralGenius
+ 19. NeuralPhantom
+ 20. NeuralDigital
+ 21. DreamyPhantom
+ 22. DreamyPhantom
+ 23. NeuralPhantom
+ 24. NeuralDreamy
+
+MUTATION
+[Mutation Info]
+Population Diversity: 7.1486
+Adaptive Mutation Rate: 0.0838
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. SoftPhantom
+  2. AdaptivePhantom
+  3. NeuralGenius
+  4. DreamyPhantom
+  5. NeuralPhantom
+  6. DreamySoft
+  7. NeuralDigital
+  8. NeuralDigital
+  9. NeuralDigital
+ 10. NeuralDreamy
+ 11. CalculatedGenius
+ 12. NeuralDreamy
+ 13. NeuralGenius
+ 14. NeuralGenius
+ 15. NeuralDigital
+ 16. NeuralDreamy
+ 17. DreamyPhantom
+ 18. NeuralGenius
+ 19. NeuralPhantom
+ 20. NeuralDigital
+ 21. DreamyPhantom
+ 22. DreamyPhantom
+ 23. NeuralPhantom
+ 24. NeuralDreamy
+
+========== Generation 6/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AdaptivePhantom
+  2. NeuralGenius
+  3. DreamyPhantom
+  4. DreamyPhantom
+  5. NeuralGenius
+  6. NeuralDigital
+  7. DreamyPhantom
+  8. NeuralDigital
+  9. DreamyPhantom
+ 10. SoftPhantom
+ 11. DreamyPhantom
+ 12. NeuralGenius
+ 13. DreamyPhantom
+ 14. DreamyPhantom
+ 15. DreamyPhantom
+ 16. DreamyPhantom
+ 17. NeuralDigital
+ 18. NeuralDigital
+ 19. DreamyPhantom
+ 20. DreamyPhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. DreamyPhantom
+ 25. NeuralGenius
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. AdaptiveGenius
+  2. NeuralPhantom
+  3. DreamyPhantom
+  4. DreamyPhantom
+  5. NeuralGenius
+  6. NeuralDigital
+  7. NeuralDigital
+  8. DreamyPhantom
+  9. DreamyPhantom
+ 10. SoftPhantom
+ 11. NeuralGenius
+ 12. DreamyPhantom
+ 13. DreamyPhantom
+ 14. DreamyPhantom
+ 15. DreamyPhantom
+ 16. DreamyPhantom
+ 17. NeuralDigital
+ 18. NeuralDigital
+ 19. DreamyPhantom
+ 20. DreamyPhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. DreamyPhantom
+ 24. AdaptivePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 7.2246
+Adaptive Mutation Rate: 0.0836
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. AdaptiveGenius
+  2. NeuralCyber
+  3. DreamyPhantom
+  4. DreamyPhantom
+  5. NeuralGenius
+  6. NeuralDigital
+  7. NeuralDigital
+  8. DreamyGodlike
+  9. DreamyPhantom
+ 10. SoftPhantom
+ 11. NeuralGenius
+ 12. MellowPhantom
+ 13. DreamyPhantom
+ 14. DreamyPhantom
+ 15. DreamyElite
+ 16. DreamyPhantom
+ 17. NeuralDigital
+ 18. NeuralDigital
+ 19. DreamyPhantom
+ 20. DreamyPhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. DreamyPhantom
+ 24. AdaptiveCalculated
+
+========== Generation 7/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AdaptivePhantom
+  2. DreamyPhantom
+  3. DreamyPhantom
+  4. AdaptivePhantom
+  5. NeuralDigital
+  6. DreamyPhantom
+  7. AdaptivePhantom
+  8. DreamyPhantom
+  9. DreamyPhantom
+ 10. DreamyPhantom
+ 11. DreamyPhantom
+ 12. DreamyPhantom
+ 13. AdaptivePhantom
+ 14. DreamyPhantom
+ 15. DreamyPhantom
+ 16. DreamyElite
+ 17. NeuralGenius
+ 18. DreamyPhantom
+ 19. NeuralDigital
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. DreamyPhantom
+ 23. AdaptivePhantom
+ 24. DreamyPhantom
+ 25. AdaptivePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. DreamyPhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. DreamyPhantom
+  5. DreamyPhantom
+  6. NeuralDigital
+  7. AdaptivePhantom
+  8. DreamyPhantom
+  9. DreamyPhantom
+ 10. DreamyPhantom
+ 11. DreamyPhantom
+ 12. DreamyPhantom
+ 13. DreamyPhantom
+ 14. AdaptivePhantom
+ 15. DreamyPhantom
+ 16. DreamyElite
+ 17. NeuralPhantom
+ 18. DreamyGenius
+ 19. AdaptivePhantom
+ 20. NeuralDigital
+ 21. AdaptivePhantom
+ 22. DreamyPhantom
+ 23. AdaptivePhantom
+ 24. DreamyPhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 6.1594
+Adaptive Mutation Rate: 0.0860
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. CalculatedPhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. DreamyPhantom
+  5. DreamyVoid
+  6. NeuralDigital
+  7. AdaptivePhantom
+  8. DreamyElectric
+  9. DreamyDynamic
+ 10. DreamyPhantom
+ 11. LovelyPhantom
+ 12. DreamyPhantom
+ 13. DreamyPhantom
+ 14. AdaptivePhantom
+ 15. DreamyPhantom
+ 16. DreamyElectric
+ 17. NeuralPhantom
+ 18. DreamySoft
+ 19. AdaptivePhantom
+ 20. NeuralDigital
+ 21. AdaptiveSupreme
+ 22. DreamyPhantom
+ 23. AdaptivePhantom
+ 24. DreamyPhantom
+
+========== Generation 8/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. DreamyPhantom
+  4. DreamyPhantom
+  5. AdaptivePhantom
+  6. DreamyPhantom
+  7. DreamyPhantom
+  8. AdaptivePhantom
+  9. DreamyPhantom
+ 10. AdaptivePhantom
+ 11. DreamyPhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. NeuralDigital
+ 16. DreamyVoid
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. DreamyPhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. DreamyVoid
+ 25. AdaptivePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. DreamyPhantom
+  4. DreamyPhantom
+  5. AdaptivePhantom
+  6. DreamyPhantom
+  7. DreamyPhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. DreamyPhantom
+ 11. AdaptivePhantom
+ 12. DreamyPhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. NeuralDigital
+ 16. DreamyVoid
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. DreamyPhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptiveVoid
+ 24. DreamyPhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 5.6739
+Adaptive Mutation Rate: 0.0871
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. DreamyPhantom
+  4. DreamyPhantom
+  5. AdaptivePhantom
+  6. DreamyPhantom
+  7. DreamyPhantom
+  8. CrimsonPhantom
+  9. PlasmaPhantom
+ 10. DreamyPhantom
+ 11. AdaptivePhantom
+ 12. DreamyPhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. NeuralDigital
+ 16. DreamyVoid
+ 17. AdaptivePhantom
+ 18. AdaptiveApex
+ 19. AdaptivePhantom
+ 20. DreamyPhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptiveVoid
+ 24. MastermindPhantom
+
+========== Generation 9/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. DreamyPhantom
+ 13. MastermindPhantom
+ 14. DreamyPhantom
+ 15. DreamyPhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. MastermindPhantom
+ 20. AdaptivePhantom
+ 21. DreamyPhantom
+ 22. DreamyPhantom
+ 23. DreamyPhantom
+ 24. AdaptivePhantom
+ 25. AdaptivePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. DreamyPhantom
+ 13. MastermindPhantom
+ 14. DreamyPhantom
+ 15. DreamyPhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. MastermindPhantom
+ 20. AdaptivePhantom
+ 21. DreamyPhantom
+ 22. DreamyPhantom
+ 23. AdaptivePhantom
+ 24. DreamyPhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 4.0580
+Adaptive Mutation Rate: 0.0908
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. AdaptiveObsidian
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. PatientPhantom
+  5. AdaptiveDynamic
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. DreamyPhantom
+ 13. MastermindPhantom
+ 14. DreamyPhantom
+ 15. DreamyPhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. MastermindPhantom
+ 20. AdaptivePhantom
+ 21. DreamyPhantom
+ 22. DreamyPhantom
+ 23. AdaptivePhantom
+ 24. DreamyPhantom
+
+========== Generation 10/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. MastermindPhantom
+ 13. MastermindPhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+ 25. AdaptivePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. MastermindPhantom
+ 13. AdaptivePhantom
+ 14. MastermindPhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.2754
+Adaptive Mutation Rate: 0.0971
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. MastermindPhantom
+ 13. SynthPhantom
+ 14. MastermindPhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptiveSynth
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. GodlikePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+
+========== Generation 11/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+ 25. AdaptivePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptiveChrome
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. ChromePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptiveVirtua
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+
+========== Generation 12/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+ 25. AdaptivePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. AdaptivePhantom
+  2. CleanPhantom
+  3. AdaptivePhantom
+  4. SavagePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. MellowPhantom
+ 14. TechnicalPhantom
+ 15. AdaptivePhantom
+ 16. AdaptiveAlpha
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptiveCyber
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+
+========== Generation 13/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+ 25. AdaptivePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. ReactivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptiveSleek
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. QuantumPhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. VelvetPhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+
+========== Generation 14/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+ 25. AdaptivePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. VenomousPhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptiveElite
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. VelvetPhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. VaporPhantom
+ 24. VoidPhantom
+
+========== Generation 15/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+ 25. AdaptivePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. SleekPhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. PeachyPhantom
+ 24. AdaptivePhantom
+
+========== Generation 16/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+ 25. AdaptivePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 11
+
+[New Population after Mutation]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. VirtuaPhantom
+  4. AdaptiveFierce
+  5. AdaptivePhantom
+  6. AdaptiveClean
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePrecise
+ 10. AdaptivePhantom
+ 11. AdaptiveKinetic
+ 12. FocusedPhantom
+ 13. AdaptivePhantom
+ 14. AdaptiveNeural
+ 15. AdaptivePhantom
+ 16. DynamicPhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. MastermindPhantom
+ 23. SoftPhantom
+ 24. AdaptiveDigital
+
+========== Generation 17/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptiveNeural
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptiveNeural
+ 20. AdaptivePhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+ 25. SoftPhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptiveNeural
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. AdaptivePhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. AdaptiveNeural
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.1159
+Adaptive Mutation Rate: 0.0975
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. AdaptivePhantom
+  2. AdaptivePhantom
+  3. AdaptivePhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptiveChrome
+  7. AdaptivePhantom
+  8. DigitalPhantom
+  9. AdaptivePhantom
+ 10. ViciousPhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. VoltPhantom
+ 17. RetroPhantom
+ 18. AdaptiveSharp
+ 19. AdaptivePhantom
+ 20. AdaptiveObsidian
+ 21. AdaptivePhantom
+ 22. AdaptiveAlpha
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+
+========== Generation 18/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AdaptivePhantom
+  2. DigitalPhantom
+  3. DigitalPhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. DigitalPhantom
+  8. AdaptivePhantom
+  9. DigitalPhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. DigitalPhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+ 25. AdaptivePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AdaptivePhantom
+  2. DigitalPhantom
+  3. AdaptivePhantom
+  4. DigitalPhantom
+  5. AdaptivePhantom
+  6. AdaptivePhantom
+  7. DigitalPhantom
+  8. AdaptivePhantom
+  9. DigitalPhantom
+ 10. AdaptivePhantom
+ 11. AdaptivePhantom
+ 12. AdaptivePhantom
+ 13. AdaptivePhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptivePhantom
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. DigitalPhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 2.4094
+Adaptive Mutation Rate: 0.0945
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. AdaptivePhantom
+  2. DigitalPhantom
+  3. AdaptivePhantom
+  4. DigitalPhantom
+  5. AdaptivePhantom
+  6. PlasmaPhantom
+  7. DigitalPhantom
+  8. BinaryPhantom
+  9. DigitalPhantom
+ 10. AdaptivePhantom
+ 11. UnstoppablePhantom
+ 12. AdaptivePhantom
+ 13. AdaptiveDreamy
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. AdaptivePhantom
+ 17. AdaptiveNoir
+ 18. AdaptivePhantom
+ 19. AdaptivePhantom
+ 20. DigitalPhantom
+ 21. AdaptivePhantom
+ 22. AdaptivePhantom
+ 23. AdaptivePhantom
+ 24. AdaptivePhantom
+
+========== Generation 19/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AdaptivePhantom
+  2. DigitalPhantom
+  3. AdaptivePhantom
+  4. DigitalPhantom
+  5. DigitalPhantom
+  6. AdaptivePhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. DigitalPhantom
+ 10. DigitalPhantom
+ 11. DigitalPhantom
+ 12. AdaptivePhantom
+ 13. DigitalPhantom
+ 14. AdaptivePhantom
+ 15. AdaptivePhantom
+ 16. DigitalPhantom
+ 17. AdaptivePhantom
+ 18. DigitalPhantom
+ 19. DigitalPhantom
+ 20. DigitalPhantom
+ 21. AdaptivePhantom
+ 22. DigitalPhantom
+ 23. DigitalPhantom
+ 24. AdaptivePhantom
+ 25. AdaptivePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. DigitalPhantom
+  2. AdaptivePhantom
+  3. DigitalPhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. DigitalPhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. DigitalPhantom
+ 10. DigitalPhantom
+ 11. AdaptivePhantom
+ 12. DigitalPhantom
+ 13. DigitalPhantom
+ 14. AdaptivePhantom
+ 15. DigitalPhantom
+ 16. AdaptivePhantom
+ 17. DigitalPhantom
+ 18. AdaptivePhantom
+ 19. DigitalPhantom
+ 20. DigitalPhantom
+ 21. AdaptivePhantom
+ 22. DigitalPhantom
+ 23. DigitalPhantom
+ 24. AdaptivePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 3.6268
+Adaptive Mutation Rate: 0.0918
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. DigitalPhantom
+  2. AdaptiveCalculated
+  3. TwinklyPhantom
+  4. AdaptivePhantom
+  5. AdaptivePhantom
+  6. DigitalPhantom
+  7. AdaptivePhantom
+  8. AdaptivePhantom
+  9. DigitalPhantom
+ 10. DigitalPhantom
+ 11. AdaptivePhantom
+ 12. DigitalPhantom
+ 13. DigitalPhantom
+ 14. AdaptivePhantom
+ 15. DigitalPhantom
+ 16. AdaptivePhantom
+ 17. DigitalPhantom
+ 18. AdaptivePhantom
+ 19. DigitalTactical
+ 20. DigitalPhantom
+ 21. AdaptivePhantom
+ 22. DigitalPhantom
+ 23. DigitalPhantom
+ 24. AdaptivePhantom
+
+========== Generation 20/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. DigitalPhantom
+  2. TwinklyPhantom
+  3. DigitalPhantom
+  4. DigitalPhantom
+  5. DigitalPhantom
+  6. DigitalPhantom
+  7. DigitalPhantom
+  8. TwinklyPhantom
+  9. DigitalPhantom
+ 10. AdaptivePhantom
+ 11. DigitalPhantom
+ 12. DigitalPhantom
+ 13. TwinklyPhantom
+ 14. DigitalPhantom
+ 15. DigitalPhantom
+ 16. DigitalPhantom
+ 17. DigitalPhantom
+ 18. DigitalPhantom
+ 19. DigitalPhantom
+ 20. DigitalPhantom
+ 21. DigitalPhantom
+ 22. DigitalPhantom
+ 23. DigitalPhantom
+ 24. DigitalPhantom
+ 25. DigitalPhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. DigitalPhantom
+  2. TwinklyPhantom
+  3. DigitalPhantom
+  4. DigitalPhantom
+  5. DigitalPhantom
+  6. DigitalPhantom
+  7. DigitalPhantom
+  8. TwinklyPhantom
+  9. DigitalPhantom
+ 10. AdaptivePhantom
+ 11. DigitalPhantom
+ 12. DigitalPhantom
+ 13. TwinklyPhantom
+ 14. DigitalPhantom
+ 15. DigitalPhantom
+ 16. DigitalPhantom
+ 17. DigitalPhantom
+ 18. DigitalPhantom
+ 19. DigitalPhantom
+ 20. DigitalPhantom
+ 21. DigitalPhantom
+ 22. DigitalPhantom
+ 23. DigitalPhantom
+ 24. DigitalPhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.8986
+Adaptive Mutation Rate: 0.0957
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. DigitalPhantom
+  2. TwinklyPhantom
+  3. DigitalPhantom
+  4. DigitalPhantom
+  5. DigitalPhantom
+  6. DigitalTactical
+  7. SavagePhantom
+  8. TwinklyPatient
+  9. DigitalPhantom
+ 10. AdaptivePhantom
+ 11. DigitalPhantom
+ 12. DigitalPhantom
+ 13. TwinklyPhantom
+ 14. MellowPhantom
+ 15. DigitalPhantom
+ 16. DigitalPhantom
+ 17. DigitalPhantom
+ 18. DigitalPhantom
+ 19. DigitalPhantom
+ 20. DigitalSharp
+ 21. SupremePhantom
+ 22. DigitalPhantom
+ 23. AlphaPhantom
+ 24. DigitalPhantom
+
+========== Generation 21/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. DigitalPhantom
+  2. SupremePhantom
+  3. TwinklyPhantom
+  4. TwinklyPhantom
+  5. SupremePhantom
+  6. DigitalPhantom
+  7. TwinklyPhantom
+  8. SupremePhantom
+  9. DigitalPhantom
+ 10. TwinklyPhantom
+ 11. DigitalPhantom
+ 12. SupremePhantom
+ 13. DigitalPhantom
+ 14. DigitalPhantom
+ 15. DigitalPhantom
+ 16. DigitalPhantom
+ 17. DigitalPhantom
+ 18. DigitalPhantom
+ 19. DigitalPhantom
+ 20. TwinklyPhantom
+ 21. DigitalPhantom
+ 22. DigitalPhantom
+ 23. TwinklyPhantom
+ 24. DigitalPhantom
+ 25. DigitalPhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. DigitalPhantom
+  2. SupremePhantom
+  3. TwinklyPhantom
+  4. TwinklyPhantom
+  5. DigitalPhantom
+  6. SupremePhantom
+  7. TwinklyPhantom
+  8. SupremePhantom
+  9. TwinklyPhantom
+ 10. DigitalPhantom
+ 11. SupremePhantom
+ 12. DigitalPhantom
+ 13. DigitalPhantom
+ 14. DigitalPhantom
+ 15. DigitalPhantom
+ 16. DigitalPhantom
+ 17. DigitalPhantom
+ 18. DigitalPhantom
+ 19. DigitalPhantom
+ 20. TwinklyPhantom
+ 21. DigitalPhantom
+ 22. DigitalPhantom
+ 23. DigitalPhantom
+ 24. TwinklyPhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 3.8551
+Adaptive Mutation Rate: 0.0912
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. DigitalMastermind
+  2. StrategicPhantom
+  3. TwinklyPhantom
+  4. TwinklyPhantom
+  5. DigitalGenius
+  6. SupremePhantom
+  7. SavagePhantom
+  8. SupremePhantom
+  9. TwinklyPhantom
+ 10. ChromePhantom
+ 11. SupremePhantom
+ 12. DigitalPhantom
+ 13. DigitalPhantom
+ 14. DigitalPhantom
+ 15. DigitalBlushy
+ 16. DigitalPhantom
+ 17. DigitalPhantom
+ 18. DigitalPhantom
+ 19. DigitalPhantom
+ 20. FatalPhantom
+ 21. DigitalPhantom
+ 22. DominantPhantom
+ 23. DigitalPhantom
+ 24. TwinklyPhantom
+
+========== Generation 22/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. DigitalPhantom
+  2. DigitalPhantom
+  3. DigitalPhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. DominantPhantom
+  7. SupremePhantom
+  8. TwinklyPhantom
+  9. DigitalPhantom
+ 10. DigitalPhantom
+ 11. DigitalPhantom
+ 12. DigitalPhantom
+ 13. SupremePhantom
+ 14. DigitalPhantom
+ 15. DigitalPhantom
+ 16. DigitalPhantom
+ 17. SupremePhantom
+ 18. TwinklyPhantom
+ 19. SupremePhantom
+ 20. TwinklyPhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. TwinklyPhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. DigitalPhantom
+  2. DigitalPhantom
+  3. DigitalPhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. DominantPhantom
+  7. SupremePhantom
+  8. TwinklyPhantom
+  9. DigitalPhantom
+ 10. DigitalPhantom
+ 11. DigitalPhantom
+ 12. DigitalPhantom
+ 13. DigitalPhantom
+ 14. SupremePhantom
+ 15. DigitalPhantom
+ 16. DigitalPhantom
+ 17. SupremePhantom
+ 18. TwinklyPhantom
+ 19. SupremePhantom
+ 20. TwinklyPhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. TwinklyPhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 4.5942
+Adaptive Mutation Rate: 0.0896
+Total Mutations: 1
+
+[New Population after Mutation]
+  1. DigitalPhantom
+  2. DigitalPhantom
+  3. DigitalPhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. DominantPhantom
+  7. SupremePhantom
+  8. TwinklyPhantom
+  9. DigitalPhantom
+ 10. DigitalPhantom
+ 11. DigitalPhantom
+ 12. DigitalPhantom
+ 13. DigitalPhantom
+ 14. SupremePhantom
+ 15. DigitalPhantom
+ 16. DigitalPhantom
+ 17. SupremePhantom
+ 18. TwinklyPhantom
+ 19. SupremePhantom
+ 20. MastermindPhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. TwinklyPhantom
+ 24. SupremePhantom
+
+========== Generation 23/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. TwinklyPhantom
+  6. TwinklyPhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. DigitalPhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. TwinklyPhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. TwinklyPhantom
+  6. TwinklyPhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. DigitalPhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. TwinklyPhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 2.0942
+Adaptive Mutation Rate: 0.0952
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. MidnightPhantom
+  4. SupremePhantom
+  5. TwinklyPhantom
+  6. NeuralPhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremeClutch
+ 11. SupremePhantom
+ 12. DigitalPhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. AdaptivePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. TwinklyPhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. CerebralPhantom
+ 24. SupremePhantom
+
+========== Generation 24/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SoftPhantom
+  8. SupremePhantom
+  9. UnstoppablePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremeDreamy
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. CerebralPhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. TwinklyPhantom
+ 24. SupremePhantom
+
+========== Generation 25/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremeStrategic
+  3. SupremePhantom
+  4. SupremePhantom
+  5. VoltPhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremeMethodical
+ 16. SupremeGlitchy
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 26/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremeKinetic
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. TechnicalTechnical
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. FluidPhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremeVenomous
+ 23. ElectricPhantom
+ 24. SupremePhantom
+
+========== Generation 27/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. SupremeGodlike
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremeDynamic
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremeFierce
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. PatientPhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremeSharp
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. AnalyticalPhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 28/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. SupremeDominant
+  2. SupremePeachy
+  3. SupremeLovely
+  4. SupremePhantom
+  5. SupremePhantom
+  6. PeachyGodlike
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremeSavage
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremeRuthless
+ 14. SupremePhantom
+ 15. PhantomPhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 29/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. KineticPhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. LovelyPhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremeClutch
+  9. SupremePhantom
+ 10. SupremeNoir
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremeAdaptive
+ 14. SupremePhantom
+ 15. SupremeVirtua
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 30/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremeTwinkly
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremeObsidian
+ 15. SupremeTechnical
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. GhostPhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 31/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. VoidPhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremeGodlike
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. CalculatedPhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. DynamicPhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 32/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. ApexPhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SparklyPhantom
+  9. SupremeDreamy
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. RelentlessPhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. RelentlessPhantom
+ 22. SupremePhantom
+ 23. SupremeMellow
+ 24. SupremePhantom
+
+========== Generation 33/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. ApexPhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. ApexPhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. ApexPhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. ApexPhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.7971
+Adaptive Mutation Rate: 0.0982
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. ApexPhantom
+  8. SupremePixelated
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. ApexPhantom
+ 15. RuthlessPhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremeDreamy
+ 20. SupremePhantom
+ 21. SupremeVenomous
+ 22. SupremePhantom
+ 23. SupremeTwinkly
+ 24. SupremePhantom
+
+========== Generation 34/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. QuantumPhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. ShadowPhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremeElite
+ 15. SupremeTechnical
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SavagePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremeRetro
+ 22. SupremeGlitchy
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 35/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 1
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremeTwinkly
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 36/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SystematicPhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. StrategicPhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 37/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePixelated
+  4. SupremePhantom
+  5. SupremePhantom
+  6. ChromePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremeGenius
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. VelvetSleek
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SharpPhantom
+ 24. SupremePhantom
+
+========== Generation 38/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremeUnstoppable
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. PeachyPhantom
+ 14. SupremePhantom
+ 15. ApexPhantom
+ 16. RetroPhantom
+ 17. SupremePhantom
+ 18. GlitchyPhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. EpicPhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 39/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremeVolt
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremeSupreme
+ 18. SupremeCrimson
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremeVapor
+ 23. SupremeClever
+ 24. SupremePhantom
+
+========== Generation 40/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremeChrome
+  6. SupremePhantom
+  7. SupremePhantom
+  8. ApexPhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. ElectricPhantom
+ 12. SupremePhantom
+ 13. VaporPhantom
+ 14. SupremeStrategic
+ 15. MidnightPhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremeSoft
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremeFierce
+
+========== Generation 41/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. PrecisePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. CrimsonPhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 42/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. PlasmaPhantom
+  6. SupremeFierce
+  7. NeuralPhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. PixelatedPhantom
+ 13. SupremeIntuitive
+ 14. SupremePhantom
+ 15. SupremeGodlike
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremeCoordinated
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 43/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. PixelatedPhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremeFierce
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. NeuralPhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. PixelatedPhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremeFierce
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. NeuralPhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.7246
+Adaptive Mutation Rate: 0.0961
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. CleanPhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. FluidPhantom
+  6. PixelatedPhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremeFierce
+ 12. SupremeInvincible
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SparklySystematic
+ 20. SupremeDigital
+ 21. NeuralPhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 44/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremeDigital
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. PixelatedPhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremeDigital
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. PixelatedPhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.1667
+Adaptive Mutation Rate: 0.0973
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremeVenomous
+  6. SupremePhantom
+  7. ViciousPhantom
+  8. SupremePhantom
+  9. PeachyPhantom
+ 10. SupremePhantom
+ 11. KineticPhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. LegendaryPhantom
+ 20. PixelatedPhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 45/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. PrecisePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremeTechnical
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. CleverPhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. PhantomVolt
+ 24. SupremePhantom
+
+========== Generation 46/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremeCyber
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremeCyber
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. KineticPhantom
+ 19. BrutalPhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. VirtuaPhantom
+
+========== Generation 47/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremeCyber
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremeCyber
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5833
+Adaptive Mutation Rate: 0.0987
+Total Mutations: 1
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremeCyber
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremeMellow
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 48/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. RelentlessPhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. MethodicalPhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 49/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. ElectricPhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. RuthlessPhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremeVirtua
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 50/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremeMellow
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremeGlitchy
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. NoirPhantom
+ 13. SupremePhantom
+ 14. SupremeDigital
+ 15. SupremeFluid
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 51/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. InvinciblePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. PrecisePhantom
+  6. SupremePhantom
+  7. SupremeSparkly
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremeRelentless
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremeAlpha
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. VoidPhantom
+ 24. SupremePhantom
+
+========== Generation 52/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. RuthlessPhantom
+  6. SupremePhantom
+  7. LegendaryPhantom
+  8. SupremePhantom
+  9. SupremeCyber
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SystematicEpic
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremeApex
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 53/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremeRetro
+  3. SupremePhantom
+  4. SupremeMethodical
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremeElite
+ 12. PrecisePhantom
+ 13. SystematicPhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremeRelentless
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 54/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremeAlpha
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. GhostPhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremeSweet
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 55/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. LethalPhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. ElitePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 56/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremeAlpha
+  4. DigitalPhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremeAdaptive
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremeDigital
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. PixelatedPhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. DigitalVoid
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 57/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. BrutalPhantom
+  2. SupremePhantom
+  3. ViciousPhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. CleanPhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. TwinklyPhantom
+ 18. AlphaSystematic
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 58/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SparklyPhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. ElectricPhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SharpMellow
+ 18. FiercePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 59/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremeVicious
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SweetPhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. UnstoppablePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremeObsidian
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. FocusedPhantom
+
+========== Generation 60/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremeSharp
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePrecise
+ 14. SupremeStrategic
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. CrimsonPhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 61/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SystematicPhantom
+  3. SupremePhantom
+  4. FatalApex
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SoftPhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 62/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. InvinciblePhantom
+  5. SupremePhantom
+  6. LovelyPhantom
+  7. SupremeDigital
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremeCyber
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 63/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. FiercePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremeSystematic
+  7. DynamicPhantom
+  8. SupremePhantom
+  9. SupremeFatal
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremeCoordinated
+ 23. MastermindPhantom
+ 24. SupremePhantom
+
+========== Generation 64/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. LovelyPhantom
+  4. UnstoppablePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. VoidPhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. DigitalPhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. VoidPhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 65/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremeVenomous
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. LegendaryPhantom
+ 11. FiercePhantom
+ 12. SupremePhantom
+ 13. SupremeSavage
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremeRuthless
+
+========== Generation 66/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremeBlushy
+  5. SupremeEclipse
+  6. SupremePhantom
+  7. SupremeIntuitive
+  8. SupremePhantom
+  9. PeachyPhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 67/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 1
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. PeachyPhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 68/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremeObsidian
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. NoirPhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. VirtuaPhantom
+
+========== Generation 69/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 1
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 70/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. GeniusPhantom
+  6. SupremePhantom
+  7. SupremePrime
+  8. SupremePhantom
+  9. AnalyticalPhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremeBlushy
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePrecise
+
+========== Generation 71/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SupremeAdaptive
+  2. SupremePhantom
+  3. PrimePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. PeachyPhantom
+  8. SupremePhantom
+  9. SupremeLethal
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremeAnalytical
+ 24. SupremePhantom
+
+========== Generation 72/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SleekPhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SavagePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. BinaryPhantom
+ 17. SupremePlasma
+ 18. SupremePhantom
+ 19. SupremeCyber
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremeTechnical
+ 23. SupremePhantom
+ 24. GeniusPhantom
+
+========== Generation 73/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SleekPhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremeMellow
+ 23. RelentlessReactive
+ 24. SupremePhantom
+
+========== Generation 74/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremeTactical
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. TwinklyPhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremeGhost
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 75/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. BlushyPhantom
+ 12. SupremeDreamy
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremeApex
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. BlushyPhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 76/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremeVoid
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremeTactical
+ 22. SupremeAdaptive
+ 23. SupremePrime
+ 24. SupremePhantom
+
+========== Generation 77/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremeInvincible
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremeVapor
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremeElite
+ 15. SupremePhantom
+ 16. UnstoppablePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremeElite
+ 22. PatientVolt
+ 23. SupremePixelated
+ 24. SupremePhantom
+
+========== Generation 78/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremeElite
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremeElite
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5000
+Adaptive Mutation Rate: 0.0989
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. FiercePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremeReactive
+ 15. MethodicalPhantom
+ 16. ChromePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremeSharp
+
+========== Generation 79/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. PrimePhantom
+ 13. ElectricPhantom
+ 14. GeniusPhantom
+ 15. SupremePhantom
+ 16. ViciousPhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 80/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremeElite
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. ApexPhantom
+ 15. PlasmaPhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremeSparkly
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 81/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. AlphaPhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. PatientPhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. CoordinatedPhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremeStrategic
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremeElite
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 82/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. PatientPhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. PatientPhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5000
+Adaptive Mutation Rate: 0.0989
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremeVirtua
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremeFocused
+ 12. SupremePhantom
+ 13. VoidPhantom
+ 14. PatientPhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePeachy
+ 19. SupremePhantom
+ 20. PatientPhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 83/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. FatalPhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. ViciousPhantom
+  5. VaporPhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremeRuthless
+ 18. SupremePeachy
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremeVenomous
+
+========== Generation 84/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. EpicPhantom
+  3. SupremePhantom
+  4. EclipsePhantom
+  5. SupremePhantom
+  6. ElitePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 85/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremeGenius
+  7. SupremePhantom
+  8. MastermindPhantom
+  9. SupremePhantom
+ 10. SupremeSparkly
+ 11. SupremePhantom
+ 12. PrimePhantom
+ 13. BlushyPhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePixelated
+
+========== Generation 86/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. MastermindPhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. MastermindPhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.6667
+Adaptive Mutation Rate: 0.0985
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremeBinary
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. MastermindPhantom
+ 17. SupremePhantom
+ 18. FluidPhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 87/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremeSystematic
+  5. SupremePhantom
+  6. SupremeUnstoppable
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremeRetro
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. RuthlessPhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. GhostPhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 88/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. EclipseFierce
+  2. SupremePhantom
+  3. SupremeRuthless
+  4. SupremePhantom
+  5. VaporPhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremeDominant
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 89/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePixelated
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. StrategicPhantom
+ 20. SupremeFierce
+ 21. SupremePhantom
+ 22. PrimePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 90/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremeSystematic
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. KineticPhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremeMidnight
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 91/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 1
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. CleverPhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 92/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremeSweet
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremeVirtua
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremeLethal
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 93/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. VoltPhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremeSharp
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. ShadowPhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePrime
+ 23. SupremePhantom
+ 24. LegendaryPhantom
+
+========== Generation 94/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. RuthlessPhantom
+  7. SupremePhantom
+  8. SupremeTwinkly
+  9. SupremePhantom
+ 10. IntuitivePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremeTactical
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. VaporPhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 95/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremeTwinkly
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremeTwinkly
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5000
+Adaptive Mutation Rate: 0.0989
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremeTwinkly
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremeSoft
+ 12. SupremePhantom
+ 13. ElitePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 96/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. PrimePhantom
+  6. BrilliantPhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremeAdaptive
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePlasma
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremeVelvet
+
+========== Generation 97/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremeFierce
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremeQuantum
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 98/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremeTwinkly
+ 19. SupremePhantom
+ 20. SupremeSparkly
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. ViciousPhantom
+
+========== Generation 99/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. PatientPhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. PhantomPhantom
+ 15. SupremePhantom
+ 16. SupremePlasma
+ 17. SupremeMellow
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremeSavage
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========== Generation 100/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+ 25. SupremePhantom
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. SupremePhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremePhantom
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremePhantom
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. SupremePhantom
+  2. SupremePhantom
+  3. PixelatedPhantom
+  4. SupremePhantom
+  5. SupremePhantom
+  6. SupremePhantom
+  7. SupremePhantom
+  8. SupremePhantom
+  9. SupremePhantom
+ 10. SupremePhantom
+ 11. SupremePhantom
+ 12. SupremePhantom
+ 13. SupremePhantom
+ 14. SupremePhantom
+ 15. SupremeMellow
+ 16. SupremePhantom
+ 17. SupremePhantom
+ 18. SupremePhantom
+ 19. SupremePhantom
+ 20. SupremePhantom
+ 21. SupremeClean
+ 22. SupremePhantom
+ 23. SupremePhantom
+ 24. SupremePhantom
+
+========================================
+GA PROCESS COMPLETE
+Best Username Found: SupremePhantom

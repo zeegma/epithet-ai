@@ -1,0 +1,9458 @@
+Epithet AI - Genetic Algorithm Log
+========================================
+
+[Initial Population]
+  1. SelfloatherEargouge
+  2. CryingpogiCryingpogi
+  3. EmoriceDelulu
+  4. DoomjuiceEdgyboi
+  5. AngsticlesDethsnuggle
+  6. AloneagainAngsticles
+  7. DethsnuggleBabyIssues
+  8. YellsnugNoisehug
+  9. DeluluSkullbaby
+ 10. AmpspikedSpikyboi
+ 11. SpikyboiExpiredHope
+ 12. DarksoloHeartbreaker
+ 13. TampururotBrutalhug
+ 14. CryingpogiBabyIssues
+ 15. StagecrawlSelfloather
+ 16. PighowlBlackshirtenergy
+ 17. BlackoutYellsnug
+ 18. EdgyriffzEdgyriffz
+ 19. LoverBurnAmpspiked
+ 20. SadchokerAnxiety
+ 21. MoshedmyheartIyakbaby
+ 22. DistortedangelRottinginbed
+ 23. RaincloudEdgyboi
+ 24. LoverboyloserAkoAngProlema
+ 25. HalfAliveEmotears
+ 26. ChaoticCutieCrymetal
+ 27. ExpiredHopePaincakes
+ 28. EargougeTraumaOnTop
+ 29. RottinginbedLoverboyloser
+ 30. UwuDramatic
+ 31. SoulsellerStagecrawl
+ 32. RaincloudEdgyboi
+ 33. HalfAliveSelfloather
+ 34. DistortedangelPaincakes
+ 35. IyakbabyGuitarsob
+ 36. SpiralingRotting
+ 37. SadchokerAloneagain
+ 38. IyakinAkoAngProlema
+ 39. ExpiredHopePunkishere
+ 40. EmoriceHeartbreaker
+ 41. RottinginbedSpikyboi
+ 42. TampururotCryingpogi
+ 43. RottinginbedGuitarbreakdown
+ 44. BabyIssuesBabyIssues
+ 45. GuitarbreakdownOverthinker
+ 46. DoomwinkAkoAngProlema
+ 47. BlackoutReverbtears
+ 48. HeartbreakerUwu
+ 49. BabyIssuesBabyIssues
+ 50. SoulsellerDethsnuggle
+
+========== Generation 1/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BabyIssuesBabyIssues
+  2. LoverBurnAmpspiked
+  3. DarksoloHeartbreaker
+  4. LoverboyloserAkoAngProlema
+  5. EdgyriffzEdgyriffz
+  6. HeartbreakerUwu
+  7. BlackoutReverbtears
+  8. PighowlBlackshirtenergy
+  9. BlackoutYellsnug
+ 10. HeartbreakerUwu
+ 11. DethsnuggleBabyIssues
+ 12. PighowlBlackshirtenergy
+ 13. HeartbreakerUwu
+ 14. SpikyboiExpiredHope
+ 15. BabyIssuesBabyIssues
+ 16. EmoriceHeartbreaker
+ 17. DeluluSkullbaby
+ 18. GuitarbreakdownOverthinker
+ 19. IyakinAkoAngProlema
+ 20. BlackoutYellsnug
+ 21. BlackoutReverbtears
+ 22. BabyIssuesBabyIssues
+ 23. PighowlBlackshirtenergy
+ 24. GuitarbreakdownOverthinker
+ 25. BabyIssuesBabyIssues
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BabyIssuesAmpspiked
+  2. LoverBurnBabyIssues
+  3. LoverboyloserAkoAngProlema
+  4. DarksoloHeartbreaker
+  5. HeartbreakerUwu
+  6. EdgyriffzEdgyriffz
+  7. BlackoutReverbtears
+  8. PighowlBlackshirtenergy
+  9. BlackoutYellsnug
+ 10. HeartbreakerUwu
+ 11. DethsnuggleBabyIssues
+ 12. PighowlBlackshirtenergy
+ 13. HeartbreakerUwu
+ 14. SpikyboiExpiredHope
+ 15. BabyIssuesBabyIssues
+ 16. EmoriceHeartbreaker
+ 17. DeluluOverthinker
+ 18. GuitarbreakdownSkullbaby
+ 19. BlackoutYellsnug
+ 20. IyakinAkoAngProlema
+ 21. BlackoutReverbtears
+ 22. BabyIssuesBabyIssues
+ 23. PighowlBlackshirtenergy
+ 24. GuitarbreakdownOverthinker
+
+MUTATION
+[Mutation Info]
+Population Diversity: 17.4058
+Adaptive Mutation Rate: 0.0728
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. BabyIssuesAmpspiked
+  2. LoverBurnBabyIssues
+  3. LoverboyloserAkoAngProlema
+  4. DarksoloHeartbreaker
+  5. HeartbreakerUwu
+  6. EdgyriffzEdgyriffz
+  7. BlackoutReverbtears
+  8. BlackoutBlackshirtenergy
+  9. EyelineronfireYellsnug
+ 10. HeartbreakerAloneagain
+ 11. DethsnuggleBabyIssues
+ 12. PighowlBlackshirtenergy
+ 13. HeartbreakerUwu
+ 14. SpikyboiDramatic
+ 15. BabyIssuesBabyIssues
+ 16. EmoriceHeartbreaker
+ 17. DeluluOverthinker
+ 18. GuitarbreakdownSkullbaby
+ 19. BlackoutYellsnug
+ 20. IyakinAkoAngProlema
+ 21. BlackoutReverbtears
+ 22. BabyIssuesBabyIssues
+ 23. PighowlBlackshirtenergy
+ 24. GuitarbreakdownOverthinker
+
+========== Generation 2/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PighowlBlackshirtenergy
+  2. EdgyriffzEdgyriffz
+  3. DarksoloHeartbreaker
+  4. HeartbreakerAloneagain
+  5. HeartbreakerUwu
+  6. HeartbreakerUwu
+  7. BlackoutYellsnug
+  8. BlackoutYellsnug
+  9. EmoriceHeartbreaker
+ 10. BabyIssuesBabyIssues
+ 11. DarksoloHeartbreaker
+ 12. HeartbreakerAloneagain
+ 13. BlackoutReverbtears
+ 14. BlackoutBlackshirtenergy
+ 15. BlackoutReverbtears
+ 16. HeartbreakerUwu
+ 17. BlackoutBlackshirtenergy
+ 18. BlackoutReverbtears
+ 19. HeartbreakerUwu
+ 20. EmoriceHeartbreaker
+ 21. HeartbreakerUwu
+ 22. BlackoutYellsnug
+ 23. HeartbreakerUwu
+ 24. BlackoutReverbtears
+ 25. PighowlBlackshirtenergy
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. EdgyriffzBlackshirtenergy
+  2. PighowlEdgyriffz
+  3. HeartbreakerAloneagain
+  4. DarksoloHeartbreaker
+  5. HeartbreakerUwu
+  6. HeartbreakerUwu
+  7. BlackoutYellsnug
+  8. BlackoutYellsnug
+  9. BabyIssuesBabyIssues
+ 10. EmoriceHeartbreaker
+ 11. DarksoloHeartbreaker
+ 12. HeartbreakerAloneagain
+ 13. BlackoutReverbtears
+ 14. BlackoutBlackshirtenergy
+ 15. HeartbreakerUwu
+ 16. BlackoutReverbtears
+ 17. BlackoutReverbtears
+ 18. BlackoutBlackshirtenergy
+ 19. HeartbreakerUwu
+ 20. EmoriceHeartbreaker
+ 21. HeartbreakerUwu
+ 22. BlackoutYellsnug
+ 23. HeartbreakerReverbtears
+ 24. BlackoutUwu
+
+MUTATION
+[Mutation Info]
+Population Diversity: 14.3007
+Adaptive Mutation Rate: 0.0777
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. EdgyriffzBlackshirtenergy
+  2. MetalfreakEdgyriffz
+  3. HeartbreakerAloneagain
+  4. DarksoloHeartbreaker
+  5. HeartbreakerUwu
+  6. HeartbreakerUwu
+  7. BlackoutYellsnug
+  8. BlackoutYellsnug
+  9. BabyIssuesBabyIssues
+ 10. EmoriceHeartbreaker
+ 11. DarksoloHeartbreaker
+ 12. HeartbreakerAloneagain
+ 13. BlackoutReverbtears
+ 14. BlackoutBlackshirtenergy
+ 15. HeartbreakerUwu
+ 16. BlackoutReverbtears
+ 17. BlackoutReverbtears
+ 18. BlackoutBlackshirtenergy
+ 19. HeartbreakerUwu
+ 20. HalfAliveHeartbreaker
+ 21. HeartbreakerUwu
+ 22. BlackoutYellsnug
+ 23. HeartbreakerReverbtears
+ 24. BlackoutUwu
+
+========== Generation 3/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutReverbtears
+  2. BlackoutReverbtears
+  3. BlackoutYellsnug
+  4. BlackoutYellsnug
+  5. BlackoutYellsnug
+  6. BlackoutReverbtears
+  7. BlackoutReverbtears
+  8. BlackoutReverbtears
+  9. BlackoutReverbtears
+ 10. BlackoutYellsnug
+ 11. EmoriceHeartbreaker
+ 12. BlackoutUwu
+ 13. BlackoutUwu
+ 14. HeartbreakerAloneagain
+ 15. HeartbreakerAloneagain
+ 16. BlackoutReverbtears
+ 17. BlackoutBlackshirtenergy
+ 18. HeartbreakerAloneagain
+ 19. BlackoutYellsnug
+ 20. BlackoutYellsnug
+ 21. BlackoutYellsnug
+ 22. BlackoutUwu
+ 23. BlackoutYellsnug
+ 24. BlackoutYellsnug
+ 25. BlackoutBlackshirtenergy
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. BlackoutReverbtears
+  2. BlackoutReverbtears
+  3. BlackoutYellsnug
+  4. BlackoutYellsnug
+  5. BlackoutYellsnug
+  6. BlackoutReverbtears
+  7. BlackoutReverbtears
+  8. BlackoutReverbtears
+  9. BlackoutReverbtears
+ 10. BlackoutYellsnug
+ 11. EmoriceUwu
+ 12. BlackoutHeartbreaker
+ 13. BlackoutUwu
+ 14. HeartbreakerAloneagain
+ 15. HeartbreakerAloneagain
+ 16. BlackoutReverbtears
+ 17. BlackoutBlackshirtenergy
+ 18. HeartbreakerAloneagain
+ 19. BlackoutYellsnug
+ 20. BlackoutYellsnug
+ 21. BlackoutUwu
+ 22. BlackoutYellsnug
+ 23. BlackoutYellsnug
+ 24. BlackoutYellsnug
+
+MUTATION
+[Mutation Info]
+Population Diversity: 9.9601
+Adaptive Mutation Rate: 0.0844
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. BlackoutSkullbaby
+  2. BlackoutReverbtears
+  3. BlackoutYellsnug
+  4. BlackoutYellsnug
+  5. BlackoutYellsnug
+  6. BlackoutReverbtears
+  7. BlackoutEmo
+  8. BlackoutReverbtears
+  9. BlackoutReverbtears
+ 10. BlackoutYellsnug
+ 11. EmoriceUwu
+ 12. BlackoutHeartbreaker
+ 13. BlackoutUwu
+ 14. HeartbreakerAloneagain
+ 15. HeartbreakerAloneagain
+ 16. BlackoutReverbtears
+ 17. BlackoutBlackshirtenergy
+ 18. HeartbreakerAbandoned
+ 19. BlackoutYellsnug
+ 20. BlackoutLoverboyloser
+ 21. ExpiredHopeUwu
+ 22. BlackoutBrutalhug
+ 23. BlackoutYellsnug
+ 24. BlackoutYellsnug
+
+========== Generation 4/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutUwu
+  4. BlackoutYellsnug
+  5. BlackoutYellsnug
+  6. BlackoutYellsnug
+  7. BlackoutYellsnug
+  8. BlackoutYellsnug
+  9. BlackoutEmo
+ 10. BlackoutYellsnug
+ 11. BlackoutEmo
+ 12. BlackoutHeartbreaker
+ 13. BlackoutHeartbreaker
+ 14. BlackoutYellsnug
+ 15. BlackoutYellsnug
+ 16. BlackoutLoverboyloser
+ 17. BlackoutHeartbreaker
+ 18. BlackoutEmo
+ 19. BlackoutYellsnug
+ 20. BlackoutEmo
+ 21. BlackoutYellsnug
+ 22. BlackoutHeartbreaker
+ 23. BlackoutHeartbreaker
+ 24. BlackoutYellsnug
+ 25. BlackoutSkullbaby
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutUwu
+  4. BlackoutYellsnug
+  5. BlackoutYellsnug
+  6. BlackoutYellsnug
+  7. BlackoutYellsnug
+  8. BlackoutYellsnug
+  9. BlackoutEmo
+ 10. BlackoutYellsnug
+ 11. BlackoutEmo
+ 12. BlackoutHeartbreaker
+ 13. BlackoutYellsnug
+ 14. BlackoutHeartbreaker
+ 15. BlackoutLoverboyloser
+ 16. BlackoutYellsnug
+ 17. BlackoutEmo
+ 18. BlackoutHeartbreaker
+ 19. BlackoutEmo
+ 20. BlackoutYellsnug
+ 21. BlackoutHeartbreaker
+ 22. BlackoutYellsnug
+ 23. BlackoutYellsnug
+ 24. BlackoutHeartbreaker
+
+MUTATION
+[Mutation Info]
+Population Diversity: 6.8986
+Adaptive Mutation Rate: 0.0892
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutUwu
+  4. BlackoutYellsnug
+  5. BlackoutYellsnug
+  6. BlackoutYellsnug
+  7. BlackoutYellsnug
+  8. BlackoutYellsnug
+  9. BlackoutEmotears
+ 10. MoodymosherYellsnug
+ 11. BlackoutEmo
+ 12. BlackoutHeartbreaker
+ 13. BlackoutYellsnug
+ 14. BlackoutHeartbreaker
+ 15. BlackoutLoverboyloser
+ 16. BlackoutYellsnug
+ 17. BlackoutEmo
+ 18. BlackoutHeartbreaker
+ 19. BlackoutEmo
+ 20. BlackoutYellsnug
+ 21. BlackoutHeartbreaker
+ 22. BlackoutYellsnug
+ 23. BlackoutYellsnug
+ 24. BlackoutHeartbreaker
+
+========== Generation 5/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutHeartbreaker
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutHeartbreaker
+  8. BlackoutHeartbreaker
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutHeartbreaker
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmotears
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmotears
+ 24. BlackoutYellsnug
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutHeartbreaker
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutHeartbreaker
+  8. BlackoutHeartbreaker
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutHeartbreaker
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmotears
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutYellsnug
+ 24. BlackoutEmotears
+
+MUTATION
+[Mutation Info]
+Population Diversity: 4.5435
+Adaptive Mutation Rate: 0.0929
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. BlackoutHeartbreaker
+  2. SoulsellerEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutHeartbreaker
+  8. BlackoutHeartbreaker
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutHeartbreaker
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. DumbEmotears
+ 21. SoulsellerEmo
+ 22. BlackoutEmo
+ 23. BlackoutBrutalhug
+ 24. BlackoutEmotears
+
+========== Generation 6/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutHalfAlive
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. SadmosherMyChemical
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 7/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutCrymetal
+  6. HeartbreakerMoshedmyheart
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. AnxietyEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. DarksoloEmo
+ 24. BlackoutEmo
+
+========== Generation 8/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 1
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. ChaoticCutieEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 9/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. BlackoutIyakbaby
+  2. BlackoutEmo
+  3. AloneagainEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutRaincloud
+  8. BlackoutEmo
+  9. BlackoutSelfloather
+ 10. OverthinkerEmo
+ 11. BlackoutYellsnug
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. OverthinkerEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 10/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutRaincloud
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutRaincloud
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.6667
+Adaptive Mutation Rate: 0.0990
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. DeluluEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. DumbEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. TraumaOnTopEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. EargougeEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutRaincloud
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 11/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEdgyriffz
+ 11. BlackoutDoomjuice
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. EyelineronfireEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. DaddyIssuesEmo
+ 22. BlackoutAbandoned
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 12/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutIyakin
+  3. BlackoutEmo
+  4. AbandonedEmo
+  5. BlackoutEmo
+  6. EyelineronfireEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. SpiralingEmo
+ 21. BlackoutEmo
+ 22. BlackoutPighowl
+ 23. BlackoutEmo
+ 24. ScreamcoreEmo
+
+========== Generation 13/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. ChaoticCutieEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BrutalhugEmo
+ 15. MoodymosherEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutAbandoned
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 14/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutBlackshirtenergy
+ 12. BlackoutEmo
+ 13. BlackoutDoomed
+ 14. BlackoutEmo
+ 15. BlackoutYellsnug
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutOverthinker
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 15/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. MoodymosherEmotionalriffs
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutLoverBurn
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutStagecrawl
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 16/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. EmotearsEmo
+  3. BlackoutPunkishere
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. TearshredderEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. YellsnugEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. HalfAliveEmotionalriffs
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 17/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 1
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutLoverBurn
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 18/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutChaoticCutie
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutScreamcore
+ 11. BlackoutEmo
+ 12. RiffslaveEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. FuzzcoreEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BabyIssuesEmo
+ 24. BlackoutEmo
+
+========== Generation 19/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. DoomedEmo
+  4. EmoriceEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutHeartbreaker
+  8. BlackoutNotHealing
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutTearshredder
+ 16. BlackoutEmo
+ 17. BlackoutPunkishere
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutStagecrawl
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 20/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutSniff
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. EyelineronfireEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutGuitarsob
+ 13. BlackoutEmo
+ 14. BlackoutOverthinker
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutIhyak
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 21/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. UwuEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BrokenWifiEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BrutalhugEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutSadboi
+
+========== Generation 22/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. AmpspikedEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutSpikyboi
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 23/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutDethsnuggle
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutScreamqueen
+  8. DoomjuiceEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. IyakbabyEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 24/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. DarksoloDramatic
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BabyIssuesEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. AkoAngProlemaEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. EyelineronfireEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 25/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. DumbEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutUwu
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutAnxiety
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutAngsticles
+ 21. BlackoutTampururot
+ 22. TampururotEmo
+ 23. BlackoutFuzzcore
+ 24. BlackoutEmo
+
+========== Generation 26/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutTampururot
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 0
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 27/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutSadchoker
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. IhyakEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. RottinginbedEmo
+ 21. NoisehugEmo
+ 22. SpiralingTampururot
+ 23. BlackoutDaddyIssues
+ 24. BlackoutEmo
+
+========== Generation 28/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmotionalriffs
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutGhosty
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. AkoAngProlemaEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 29/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. IhyakEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutUwu
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmorice
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. DistortedangelEmo
+ 17. BlackoutBrokenWifi
+ 18. BlackoutEmo
+ 19. GuitarsobEmo
+ 20. BlackoutEmo
+ 21. BlackoutDoomed
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 30/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. AkoAngProlemaEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutMoshedmyheart
+ 12. BlackshirtenergyEmorice
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 31/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. DeluluEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutLoverboyloser
+ 24. BlackoutEmo
+
+========== Generation 32/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 1
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutGuitarbreakdown
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 33/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. IyakbabyEmo
+  3. MalungkutingEmo
+  4. EargougeEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. EdgyboiEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEdgyboi
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutBlackout
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. DoomedEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. DoomedEmo
+
+========== Generation 34/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutBlackout
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutGhosty
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BrokenWifiEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. TraumaOnTopEmo
+
+========== Generation 35/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. AnxietyEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutAnxiety
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutDumb
+ 17. RiffslaveEmo
+ 18. BlackoutEmo
+ 19. BlackoutDumb
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 36/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. AkoAngProlemaEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. SilencerEmo
+ 13. BlackoutSpikyboi
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. HalfAliveEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 37/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. MalungkutingEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutAnxiety
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. StagecrawlEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 38/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. UwuEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutUwu
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 39/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. GhostyEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutDoomjuice
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. EmoEmo
+ 20. BlackoutEmo
+ 21. DoomjuiceEmo
+ 22. DoomedEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 40/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. ExpiredHopeEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutRotting
+ 11. BlackoutEmo
+ 12. BabyIssuesEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutDramatic
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. YellsnugEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 41/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEdgyriffz
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutRaincloud
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 42/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. LoverboyloserGuitarbreakdown
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. MalungkutingEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. MetalfreakEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 43/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutIhyak
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. SadchokerEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 44/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. DistortedangelEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackshirtenergyEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. SadboiEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. DarksoloEmo
+ 21. EmoriceEmo
+ 22. BlackoutMalungkuting
+ 23. BlackoutDelulu
+ 24. BlackoutEmo
+
+========== Generation 45/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. SadboiEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. SadboiEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5000
+Adaptive Mutation Rate: 0.0992
+Total Mutations: 1
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. ScreamqueenEmo
+ 17. BlackoutEmo
+ 18. SadboiEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 46/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. DethsnuggleEmo
+  3. BlackoutDistortedangel
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutAmpspiked
+  8. BlackoutEmo
+  9. MetalfreakEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEyelineronfire
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutSilencer
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 47/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 9
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. MetalfreakEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutBrutalhug
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. AngsticlesEmo
+ 13. BlackoutMalungkuting
+ 14. DethsnuggleEmo
+ 15. EargougeEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutDoomwink
+ 20. BlackoutEmo
+ 21. BlackoutBlackout
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutOverthinker
+
+========== Generation 48/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutDoomwink
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutBlackout
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutDoomwink
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutBlackout
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.1449
+Adaptive Mutation Rate: 0.0982
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. AngsticlesEmo
+  4. CrymetalEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutDoomwink
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. DeluluEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutTraumaOnTop
+ 20. BlackoutBlackout
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 49/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. AngsticlesEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. EyelineronfireEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutNotHealing
+ 24. BlackoutEmo
+
+========== Generation 50/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. SadmosherEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutBrokenWifi
+  6. BlackoutEmo
+  7. MetalheadEmo
+  8. BlackoutEmo
+  9. MoshedmyheartEmo
+ 10. SadboiEmo
+ 11. BlackoutNoisehug
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 51/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 10
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. DarksoloEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. EyelineronfireEmo
+  7. BlackoutBrokenWifi
+  8. DoomjuiceEmo
+  9. BlackoutEmo
+ 10. BlackoutBlackout
+ 11. BlackoutDoomed
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutMalungkuting
+ 19. BlackoutEmo
+ 20. EdgyriffzEmo
+ 21. BlackoutTampururot
+ 22. NoisehugEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 52/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. EyelineronfireEmo
+ 13. BlackoutEmo
+ 14. BlackoutTampururot
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. EyelineronfireEmo
+ 13. BlackoutEmo
+ 14. BlackoutTampururot
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.6558
+Adaptive Mutation Rate: 0.0974
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. EmotearsDoomjuice
+ 11. BlackoutEmo
+ 12. EyelineronfireEmo
+ 13. BlackoutEmo
+ 14. BlackoutTampururot
+ 15. BlackoutEmo
+ 16. PunkishereEmo
+ 17. BlackoutEmo
+ 18. ChaoticCutieMoodymosher
+ 19. DistortedangelEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutLoverBurn
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 53/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. PunkishereEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. PunkishereEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.8333
+Adaptive Mutation Rate: 0.0987
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. SoulsellerEmo
+ 19. BlackoutEmo
+ 20. TraumaOnTopEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. EdgyriffzEmo
+
+========== Generation 54/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutCryingpogi
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. EyelineronfireEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutSelfloather
+ 18. BlackoutEmo
+ 19. BlackoutDaddyIssues
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 55/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. DeluluEmo
+  4. BlackoutRotting
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutDramatic
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 56/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutRiffslave
+  4. BlackoutSniff
+  5. ExpiredHopeEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. TampururotEmo
+ 11. ExpiredHopeEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutStagecrawl
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 57/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutStagecrawl
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 8
+No Crossover Pairs: 4
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutStagecrawl
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.8333
+Adaptive Mutation Rate: 0.0987
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutStagecrawl
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. DaddyIssuesEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. CryingpogiEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmotionalriffs
+ 21. BlackoutEmo
+ 22. BlackoutEdgyboi
+ 23. BlackoutEmo
+ 24. SniffEmo
+
+========== Generation 58/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. DeluluEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutDelulu
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. CryingpogiEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. IyakinEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 59/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. OverthinkerEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. EmotearsEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BrokenWifiEmo
+ 10. BlackoutBlackshirtenergy
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutBrutalhug
+ 19. DarksoloEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutSelfloather
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 60/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutBrutalhug
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. DramaticEmo
+  5. DiscordKittenEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. PighowlEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. YellsnugEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. AloneagainEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEdgyboi
+
+========== Generation 61/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. AloneagainEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. AloneagainEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.7500
+Adaptive Mutation Rate: 0.0988
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutUwu
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmotears
+ 13. BlackoutAloneagain
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. AloneagainEmo
+
+========== Generation 62/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. MetalfreakEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. TearshredderEmo
+ 23. BlackoutEmo
+ 24. BlackoutNoisehug
+
+========== Generation 63/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. SadmosherEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutDoomwink
+ 17. BlackoutGuitarbreakdown
+ 18. BlackoutReverbtears
+ 19. BlackoutEmo
+ 20. IyakbabyEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 64/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutBlackshirtenergy
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutUwu
+  9. BlackoutEmo
+ 10. SpiralingEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutDarksolo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 65/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutAkoAngProlema
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. SadchokerEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. DistortedangelEmo
+ 16. ChaoticCutieEmo
+ 17. BlackoutMetalfreak
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. MoshedmyheartEdgyboi
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 66/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. BlackoutGuitarbreakdown
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. AkoAngProlemaEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 67/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. SadchokerEmo
+  5. ReverbtearsEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 68/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. EdgyboiEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutPunkishere
+ 23. BlackoutMetalhead
+ 24. BlackoutEmo
+
+========== Generation 69/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutIyakin
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. FuzzcoreEmo
+ 21. BlackoutBrokenWifi
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmorice
+
+========== Generation 70/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutBlackout
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. SadmosherUwu
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. EyelineronfireEmo
+ 10. BlackoutEmo
+ 11. BlackoutSkullbaby
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutDelulu
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 71/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. EdgyriffzEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutSadchoker
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. MalungkutingEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutAbandoned
+ 14. BlackoutEmo
+ 15. BlackoutTampururot
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 72/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutTampururot
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutTampururot
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.6667
+Adaptive Mutation Rate: 0.0990
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutNoisehug
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutTampururot
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutBrokenWifi
+ 24. DoomjuiceEmo
+
+========== Generation 73/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutAnxiety
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutReverbtears
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutMetalfreak
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. MetalfreakEmo
+
+========== Generation 74/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. GhostyEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutOverthinker
+ 22. BlackoutEmo
+ 23. BlackoutSpiraling
+ 24. IyakinEmo
+
+========== Generation 75/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. BlackoutTearshredder
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutHalfAlive
+  8. BlackoutGuitarsob
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutTraumaOnTop
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. FuzzcoreEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 76/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutSilencer
+ 13. BlackoutEmo
+ 14. MetalheadEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutIhyak
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 77/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 1
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. MalungkutingEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 78/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SelfloatherEmo
+  2. BlackoutEmo
+  3. HeartbreakerEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutHeartbreaker
+  7. BlackoutDoomjuice
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEdgyboi
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 79/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutOverthinker
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutSadmosher
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 80/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutDistortedangel
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmotionalriffs
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutAmpspiked
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutRotting
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutMetalfreak
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutDoomjuice
+
+========== Generation 81/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. DoomwinkEmo
+  5. BlackoutEmo
+  6. SpiralingLoverBurn
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. DramaticEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutDiscordKitten
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 82/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 1
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutRaincloud
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 83/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 8
+No Crossover Pairs: 4
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. BlackoutBlackout
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutPunkishere
+  8. BlackoutEmo
+  9. BlackoutMetalfreak
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 84/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutDelulu
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutBlackout
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 85/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. LoverboyloserEmo
+ 14. BlackoutTearshredder
+ 15. BlackoutEmo
+ 16. BlackoutRottinginbed
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 86/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutAkoAngProlema
+  4. BlackoutEmo
+  5. BlackoutScreamqueen
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutAnxiety
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutLoverboyloser
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutSelfloather
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 87/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. BlackoutDramatic
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutTraumaOnTop
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. CrymetalEmo
+ 24. BlackoutEmo
+
+========== Generation 88/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmorice
+  5. BlackoutEmo
+  6. IyakinEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutRotting
+ 15. BlackoutEmo
+ 16. BlackoutNoisehug
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutDoomed
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 89/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutIyakbaby
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmotears
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutIhyak
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmotionalriffs
+
+========== Generation 90/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. DoomwinkEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. TampururotUwu
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. DistortedangelEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutSadchoker
+ 24. BlackoutEmo
+
+========== Generation 91/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. DistortedangelEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. DistortedangelEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.0833
+Adaptive Mutation Rate: 0.0983
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEargouge
+  3. NotHealingEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. DoomwinkEmo
+  8. BlackoutEmo
+  9. BlackoutSelfloather
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. DistortedangelEmo
+ 16. BrokenWifiEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutAkoAngProlema
+ 23. BlackoutEargouge
+ 24. BlackoutEmo
+
+========== Generation 92/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEargouge
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. NotHealingEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEargouge
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. NotHealingEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.3297
+Adaptive Mutation Rate: 0.0979
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. IyakinEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutReverbtears
+  9. BlackoutEmo
+ 10. FuzzcoreEmo
+ 11. BlackoutEargouge
+ 12. BlackoutAloneagain
+ 13. BlackoutEmo
+ 14. BlackoutDiscordKitten
+ 15. BlackoutEmo
+ 16. BlackoutGhosty
+ 17. NotHealingEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. NotHealingEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutMetalhead
+
+========== Generation 93/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. StagecrawlEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmotionalriffs
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. PaincakesEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutMetalhead
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 94/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. BlackshirtenergyEmo
+  2. BlackoutEmo
+  3. SkullbabyEmo
+  4. DethsnuggleEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. EmotionalriffsEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutRiffslave
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutScreamqueen
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 95/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutPunkishere
+  8. BlackoutSkullbaby
+  9. RottingEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. SpiralingIyakbaby
+ 13. BlackoutMetalfreak
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 96/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutPunkishere
+ 24. BlackoutPunkishere
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutPunkishere
+ 24. BlackoutPunkishere
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.5942
+Adaptive Mutation Rate: 0.0975
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. BlackoutSilencer
+  2. BlackoutEmo
+  3. BlackoutSpikyboi
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. EargougeEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutYellsnug
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. TampururotEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. LoverBurnEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. MalungkutingEmo
+ 22. BlackoutDumb
+ 23. BlackoutPunkishere
+ 24. BlackoutPunkishere
+
+========== Generation 97/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutYellsnug
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutYellsnug
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.6667
+Adaptive Mutation Rate: 0.0990
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. RottinginbedEyelineronfire
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutGuitarbreakdown
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. DeluluEmo
+ 23. BlackoutEmo
+ 24. BlackoutBlackshirtenergy
+
+========== Generation 98/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. BlackoutSadboi
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutPighowl
+ 19. IhyakEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 99/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutEmo
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. BlackoutEmo
+  2. PighowlEmo
+  3. BlackoutEmo
+  4. DramaticEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutMyChemical
+ 11. BlackoutStagecrawl
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutIhyak
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========== Generation 100/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutIhyak
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+ 25. BlackoutEmo
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. BlackoutEmo
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutEmo
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutIhyak
+ 12. BlackoutEmo
+ 13. BlackoutEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmo
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.4167
+Adaptive Mutation Rate: 0.0993
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. BlackoutBabyIssues
+  2. BlackoutEmo
+  3. BlackoutEmo
+  4. BlackoutEmo
+  5. BlackoutEmo
+  6. BlackoutTearshredder
+  7. BlackoutEmo
+  8. BlackoutEmo
+  9. BlackoutEmo
+ 10. BlackoutEmo
+ 11. BlackoutAkoAngProlema
+ 12. BlackoutEmo
+ 13. SadboiEmo
+ 14. BlackoutEmo
+ 15. BlackoutEmo
+ 16. BlackoutEmo
+ 17. BlackoutEmo
+ 18. BlackoutEmotionalriffs
+ 19. BlackoutEmo
+ 20. BlackoutEmo
+ 21. BlackoutEmo
+ 22. BlackoutEmo
+ 23. BlackoutEmo
+ 24. BlackoutEmo
+
+========================================
+GA PROCESS COMPLETE
+Best Username Found: BlackoutEmo

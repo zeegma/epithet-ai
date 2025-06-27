@@ -1,0 +1,4758 @@
+Epithet AI - Genetic Algorithm Log
+========================================
+
+[Initial Population]
+  1. CertifiedOAColorful
+  2. OnFleedSikat
+  3. EksenaProSnatched
+  4. FabGiddy
+  5. BonggaColorful
+  6. PapansinProLoudestInTheRoom
+  7. MainEventDazzling
+  8. EksenaProKwentoMachine
+  9. KwentoMachineBongga
+ 10. ViralGlitzy
+ 11. PartyPilipinaGlitzy
+ 12. ViralDramaMama
+ 13. FlashyVavavoom
+ 14. TrendingShowbiz
+ 15. PartyPilipinaPowerDresser
+ 16. LoudEntertainer
+ 17. MisisEnergyPowerDresser
+ 18. CertifiedOABusogSaAttention
+ 19. ChismikeraTopCommenter
+ 20. BonggaPapansinKing
+ 21. ChikaQueenSassy
+ 22. SparklyPakNaPak
+ 23. FlashySikat
+ 24. BigatinSuperStarlet
+ 25. GlitzySparkplug
+ 26. VavavoomPrimadonna
+ 27. PasabogDazzler
+ 28. SizzlingSlayin
+ 29. ProudBusogSaAttention
+ 30. KikiModeChismikera
+ 31. PrimeTimeSassy
+ 32. ChismikeraPowerDresser
+ 33. MainEventOnFleed
+ 34. BigatinSizzling
+ 35. SassyGlitzy
+ 36. SikatSparkly
+ 37. EchoChamberGlimmering
+ 38. PakNaPakBongga
+ 39. KabogeraEksenaPro
+ 40. OnFleedKikiMode
+ 41. SassyLoudestInTheRoom
+ 42. KikayPakNaPak
+ 43. EnergeticColorful
+ 44. KwentoMachineMegaStar
+ 45. FeelingFamousPowerDresser
+ 46. ShinyPakNaPak
+ 47. SnatchedProud
+ 48. GroovyLoud
+ 49. BusogSaAttentionPartyStarter
+ 50. FeelingFamousShinyStar
+
+========== Generation 1/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwentoMachineMegaStar
+  2. FeelingFamousShinyStar
+  3. KwentoMachineMegaStar
+  4. VavavoomPrimadonna
+  5. LoudEntertainer
+  6. PrimeTimeSassy
+  7. BusogSaAttentionPartyStarter
+  8. MainEventDazzling
+  9. MisisEnergyPowerDresser
+ 10. FlashyVavavoom
+ 11. VavavoomPrimadonna
+ 12. SparklyPakNaPak
+ 13. PapansinProLoudestInTheRoom
+ 14. EksenaProSnatched
+ 15. SassyLoudestInTheRoom
+ 16. VavavoomPrimadonna
+ 17. EksenaProKwentoMachine
+ 18. LoudEntertainer
+ 19. EksenaProKwentoMachine
+ 20. VavavoomPrimadonna
+ 21. SparklyPakNaPak
+ 22. BigatinSuperStarlet
+ 23. LoudEntertainer
+ 24. SparklyPakNaPak
+ 25. BigatinSuperStarlet
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. FeelingFamousShinyStar
+  2. KwentoMachineMegaStar
+  3. KwentoMachineMegaStar
+  4. VavavoomPrimadonna
+  5. LoudEntertainer
+  6. PrimeTimeSassy
+  7. MainEventDazzling
+  8. BusogSaAttentionPartyStarter
+  9. MisisEnergyPowerDresser
+ 10. FlashyVavavoom
+ 11. SparklyPakNaPak
+ 12. VavavoomPrimadonna
+ 13. EksenaProLoudestInTheRoom
+ 14. PapansinProSnatched
+ 15. VavavoomLoudestInTheRoom
+ 16. SassyPrimadonna
+ 17. EksenaProKwentoMachine
+ 18. LoudEntertainer
+ 19. EksenaProKwentoMachine
+ 20. VavavoomPrimadonna
+ 21. SparklySuperStarlet
+ 22. BigatinPakNaPak
+ 23. LoudEntertainer
+ 24. SparklyPakNaPak
+
+MUTATION
+[Mutation Info]
+Population Diversity: 16.9855
+Adaptive Mutation Rate: 0.0735
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. FeelingFamousShinyStar
+  2. KwentoMachineMegaStar
+  3. KwentoMachineMegaStar
+  4. VavavoomPrimadonna
+  5. LoudEntertainer
+  6. PrimeTimeSassy
+  7. MainEventDazzling
+  8. BusogSaAttentionPartyStarter
+  9. MisisEnergyPowerDresser
+ 10. FlashyVavavoom
+ 11. SparklyPakNaPak
+ 12. VavavoomPrimadonna
+ 13. ShowbizLoudestInTheRoom
+ 14. PapansinProSnatched
+ 15. VavavoomLoudestInTheRoom
+ 16. SassyPrimadonna
+ 17. EksenaProKwentoMachine
+ 18. FierceEntertainer
+ 19. EksenaProKwentoMachine
+ 20. VavavoomPrimadonna
+ 21. SparklySuperStarlet
+ 22. BigatinPakNaPak
+ 23. LoudEntertainer
+ 24. SparklyPakNaPak
+
+========== Generation 2/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. VavavoomLoudestInTheRoom
+  2. KwentoMachineMegaStar
+  3. FierceEntertainer
+  4. SassyPrimadonna
+  5. LoudEntertainer
+  6. VavavoomPrimadonna
+  7. VavavoomPrimadonna
+  8. KwentoMachineMegaStar
+  9. VavavoomPrimadonna
+ 10. VavavoomPrimadonna
+ 11. VavavoomPrimadonna
+ 12. SassyPrimadonna
+ 13. VavavoomPrimadonna
+ 14. VavavoomLoudestInTheRoom
+ 15. KwentoMachineMegaStar
+ 16. VavavoomPrimadonna
+ 17. KwentoMachineMegaStar
+ 18. VavavoomPrimadonna
+ 19. VavavoomPrimadonna
+ 20. VavavoomPrimadonna
+ 21. LoudEntertainer
+ 22. FeelingFamousShinyStar
+ 23. VavavoomPrimadonna
+ 24. PrimeTimeSassy
+ 25. FierceEntertainer
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. VavavoomLoudestInTheRoom
+  2. KwentoMachineMegaStar
+  3. FierceEntertainer
+  4. SassyPrimadonna
+  5. LoudEntertainer
+  6. VavavoomPrimadonna
+  7. KwentoMachineMegaStar
+  8. VavavoomPrimadonna
+  9. VavavoomPrimadonna
+ 10. VavavoomPrimadonna
+ 11. VavavoomPrimadonna
+ 12. SassyPrimadonna
+ 13. VavavoomPrimadonna
+ 14. VavavoomLoudestInTheRoom
+ 15. VavavoomPrimadonna
+ 16. KwentoMachineMegaStar
+ 17. VavavoomPrimadonna
+ 18. KwentoMachineMegaStar
+ 19. VavavoomPrimadonna
+ 20. VavavoomPrimadonna
+ 21. FeelingFamousEntertainer
+ 22. LoudShinyStar
+ 23. VavavoomPrimadonna
+ 24. PrimeTimeSassy
+
+MUTATION
+[Mutation Info]
+Population Diversity: 12.4094
+Adaptive Mutation Rate: 0.0806
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. VavavoomLoudestInTheRoom
+  2. KwentoMachineMegaStar
+  3. FierceEntertainer
+  4. SassyPrimadonna
+  5. LoudEntertainer
+  6. VavavoomPrimadonna
+  7. KwentoMachineMegaStar
+  8. VavavoomPrimadonna
+  9. VavavoomPrimadonna
+ 10. PapansinKingPrimadonna
+ 11. VavavoomPrimadonna
+ 12. SassyPrimadonna
+ 13. VavavoomShowbiz
+ 14. VavavoomLoudestInTheRoom
+ 15. VavavoomPrimadonna
+ 16. KwentoMachineMegaStar
+ 17. VavavoomPrimadonna
+ 18. KwentoMachineMegaStar
+ 19. VavavoomPrimadonna
+ 20. VavavoomPrimadonna
+ 21. ColorfulEntertainer
+ 22. LoudShinyStar
+ 23. VavavoomPrimadonna
+ 24. PrimeTimeSassy
+
+========== Generation 3/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. VavavoomPrimadonna
+  2. PapansinKingPrimadonna
+  3. VavavoomPrimadonna
+  4. VavavoomPrimadonna
+  5. KwentoMachineMegaStar
+  6. PapansinKingPrimadonna
+  7. VavavoomPrimadonna
+  8. VavavoomPrimadonna
+  9. VavavoomPrimadonna
+ 10. VavavoomPrimadonna
+ 11. VavavoomPrimadonna
+ 12. VavavoomPrimadonna
+ 13. VavavoomLoudestInTheRoom
+ 14. VavavoomPrimadonna
+ 15. VavavoomPrimadonna
+ 16. PapansinKingPrimadonna
+ 17. VavavoomPrimadonna
+ 18. VavavoomPrimadonna
+ 19. PapansinKingPrimadonna
+ 20. VavavoomPrimadonna
+ 21. SassyPrimadonna
+ 22. VavavoomPrimadonna
+ 23. PapansinKingPrimadonna
+ 24. VavavoomPrimadonna
+ 25. VavavoomPrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. VavavoomPrimadonna
+  2. PapansinKingPrimadonna
+  3. VavavoomPrimadonna
+  4. VavavoomPrimadonna
+  5. PapansinKingMegaStar
+  6. KwentoMachinePrimadonna
+  7. VavavoomPrimadonna
+  8. VavavoomPrimadonna
+  9. VavavoomPrimadonna
+ 10. VavavoomPrimadonna
+ 11. VavavoomPrimadonna
+ 12. VavavoomPrimadonna
+ 13. VavavoomPrimadonna
+ 14. VavavoomLoudestInTheRoom
+ 15. PapansinKingPrimadonna
+ 16. VavavoomPrimadonna
+ 17. VavavoomPrimadonna
+ 18. VavavoomPrimadonna
+ 19. VavavoomPrimadonna
+ 20. PapansinKingPrimadonna
+ 21. VavavoomPrimadonna
+ 22. SassyPrimadonna
+ 23. PapansinKingPrimadonna
+ 24. VavavoomPrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 6.4384
+Adaptive Mutation Rate: 0.0899
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. VavavoomPrimadonna
+  2. PapansinKingBlinding
+  3. VavavoomPrimadonna
+  4. VavavoomPrimadonna
+  5. PapansinKingMegaStar
+  6. KikayPrimadonna
+  7. VavavoomPrimadonna
+  8. VavavoomPrimadonna
+  9. VavavoomPrimadonna
+ 10. VavavoomPrimadonna
+ 11. VavavoomPrimadonna
+ 12. TopCommenterPrimadonna
+ 13. VavavoomPrimadonna
+ 14. VavavoomLoudestInTheRoom
+ 15. PapansinKingPrimadonna
+ 16. VavavoomPrimadonna
+ 17. VavavoomPrimadonna
+ 18. VavavoomPrimadonna
+ 19. PasabogPrimadonna
+ 20. SuperStarletPrimadonna
+ 21. VavavoomPrimadonna
+ 22. SassyPrimadonna
+ 23. PapansinKingPrimadonna
+ 24. VavavoomPrimadonna
+
+========== Generation 4/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. SuperStarletPrimadonna
+  2. TopCommenterPrimadonna
+  3. SuperStarletPrimadonna
+  4. PapansinKingPrimadonna
+  5. PapansinKingPrimadonna
+  6. VavavoomPrimadonna
+  7. SuperStarletPrimadonna
+  8. PapansinKingPrimadonna
+  9. VavavoomPrimadonna
+ 10. VavavoomPrimadonna
+ 11. PapansinKingPrimadonna
+ 12. VavavoomPrimadonna
+ 13. SuperStarletPrimadonna
+ 14. PapansinKingPrimadonna
+ 15. VavavoomPrimadonna
+ 16. VavavoomPrimadonna
+ 17. PapansinKingPrimadonna
+ 18. KikayPrimadonna
+ 19. PapansinKingPrimadonna
+ 20. VavavoomPrimadonna
+ 21. PapansinKingPrimadonna
+ 22. PapansinKingPrimadonna
+ 23. PapansinKingPrimadonna
+ 24. VavavoomPrimadonna
+ 25. KikayPrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. TopCommenterPrimadonna
+  2. SuperStarletPrimadonna
+  3. SuperStarletPrimadonna
+  4. PapansinKingPrimadonna
+  5. PapansinKingPrimadonna
+  6. VavavoomPrimadonna
+  7. SuperStarletPrimadonna
+  8. PapansinKingPrimadonna
+  9. VavavoomPrimadonna
+ 10. VavavoomPrimadonna
+ 11. PapansinKingPrimadonna
+ 12. VavavoomPrimadonna
+ 13. SuperStarletPrimadonna
+ 14. PapansinKingPrimadonna
+ 15. VavavoomPrimadonna
+ 16. VavavoomPrimadonna
+ 17. PapansinKingPrimadonna
+ 18. KikayPrimadonna
+ 19. PapansinKingPrimadonna
+ 20. VavavoomPrimadonna
+ 21. PapansinKingPrimadonna
+ 22. PapansinKingPrimadonna
+ 23. PapansinKingPrimadonna
+ 24. VavavoomPrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 7.4348
+Adaptive Mutation Rate: 0.0884
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. TopCommenterPrimadonna
+  2. SuperStarletPrimadonna
+  3. SuperStarletPrimadonna
+  4. PapansinKingPrimadonna
+  5. GlamPrimadonna
+  6. VavavoomPrimadonna
+  7. SuperStarletPrimadonna
+  8. RadiantPrimadonna
+  9. VavavoomPrimadonna
+ 10. ChikaQueenDramaMama
+ 11. PapansinKingPrimadonna
+ 12. VavavoomProud
+ 13. SuperStarletPrimadonna
+ 14. PapansinKingPrimadonna
+ 15. VavavoomPrimadonna
+ 16. VavavoomPrimadonna
+ 17. PapansinKingPrimadonna
+ 18. KikayPrimadonna
+ 19. PapansinKingPrimadonna
+ 20. VavavoomDazzler
+ 21. PapansinKingPrimadonna
+ 22. PapansinKingPrimadonna
+ 23. PapansinKingPrimadonna
+ 24. VavavoomGlitzy
+
+========== Generation 5/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PapansinKingPrimadonna
+  2. SuperStarletPrimadonna
+  3. SuperStarletPrimadonna
+  4. PapansinKingPrimadonna
+  5. PapansinKingPrimadonna
+  6. PapansinKingPrimadonna
+  7. PapansinKingPrimadonna
+  8. PapansinKingPrimadonna
+  9. PapansinKingPrimadonna
+ 10. PapansinKingPrimadonna
+ 11. SuperStarletPrimadonna
+ 12. SuperStarletPrimadonna
+ 13. KikayPrimadonna
+ 14. PapansinKingPrimadonna
+ 15. SuperStarletPrimadonna
+ 16. PapansinKingPrimadonna
+ 17. KikayPrimadonna
+ 18. PapansinKingPrimadonna
+ 19. PapansinKingPrimadonna
+ 20. SuperStarletPrimadonna
+ 21. PapansinKingPrimadonna
+ 22. PapansinKingPrimadonna
+ 23. KikayPrimadonna
+ 24. SuperStarletPrimadonna
+ 25. SuperStarletPrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PapansinKingPrimadonna
+  2. SuperStarletPrimadonna
+  3. PapansinKingPrimadonna
+  4. SuperStarletPrimadonna
+  5. PapansinKingPrimadonna
+  6. PapansinKingPrimadonna
+  7. PapansinKingPrimadonna
+  8. PapansinKingPrimadonna
+  9. PapansinKingPrimadonna
+ 10. PapansinKingPrimadonna
+ 11. SuperStarletPrimadonna
+ 12. SuperStarletPrimadonna
+ 13. KikayPrimadonna
+ 14. PapansinKingPrimadonna
+ 15. PapansinKingPrimadonna
+ 16. SuperStarletPrimadonna
+ 17. PapansinKingPrimadonna
+ 18. KikayPrimadonna
+ 19. PapansinKingPrimadonna
+ 20. SuperStarletPrimadonna
+ 21. PapansinKingPrimadonna
+ 22. PapansinKingPrimadonna
+ 23. KikayPrimadonna
+ 24. SuperStarletPrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 6.4167
+Adaptive Mutation Rate: 0.0900
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. PapansinKingPrimadonna
+  2. SuperStarletPrimadonna
+  3. PapansinKingPrimadonna
+  4. SuperStarletPrimadonna
+  5. PapansinKingPrimadonna
+  6. PapansinKingPrimadonna
+  7. KikayPrimadonna
+  8. PapansinKingPrimadonna
+  9. PapansinKingPrimadonna
+ 10. PapansinKingPrimadonna
+ 11. SuperStarletPrimadonna
+ 12. SuperStarletPrimadonna
+ 13. KikayPrimadonna
+ 14. PapansinKingPrimadonna
+ 15. PapansinKingPrimadonna
+ 16. SuperStarletPrimadonna
+ 17. PapansinKingPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. PapansinKingPrimadonna
+ 20. SuperStarletPrimadonna
+ 21. SparklyPrimadonna
+ 22. ShowtimePrimadonna
+ 23. KikayPrimadonna
+ 24. SuperStarletPrimadonna
+
+========== Generation 6/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. DramaMamaPrimadonna
+  2. PapansinKingPrimadonna
+  3. KikayPrimadonna
+  4. SuperStarletPrimadonna
+  5. SuperStarletPrimadonna
+  6. PapansinKingPrimadonna
+  7. KikayPrimadonna
+  8. SuperStarletPrimadonna
+  9. KikayPrimadonna
+ 10. SuperStarletPrimadonna
+ 11. KikayPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. KikayPrimadonna
+ 14. SuperStarletPrimadonna
+ 15. PapansinKingPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. KikayPrimadonna
+ 18. SuperStarletPrimadonna
+ 19. SuperStarletPrimadonna
+ 20. KikayPrimadonna
+ 21. SuperStarletPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. KikayPrimadonna
+ 24. KikayPrimadonna
+ 25. SuperStarletPrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. PapansinKingPrimadonna
+  2. DramaMamaPrimadonna
+  3. KikayPrimadonna
+  4. SuperStarletPrimadonna
+  5. SuperStarletPrimadonna
+  6. PapansinKingPrimadonna
+  7. SuperStarletPrimadonna
+  8. KikayPrimadonna
+  9. KikayPrimadonna
+ 10. SuperStarletPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. KikayPrimadonna
+ 13. KikayPrimadonna
+ 14. SuperStarletPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. PapansinKingPrimadonna
+ 17. KikayPrimadonna
+ 18. SuperStarletPrimadonna
+ 19. SuperStarletPrimadonna
+ 20. KikayPrimadonna
+ 21. SuperStarletPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. KikayPrimadonna
+ 24. KikayPrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 7.5833
+Adaptive Mutation Rate: 0.0882
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. GlimmeringPrimadonna
+  2. DramaMamaPrimadonna
+  3. KikayPrimadonna
+  4. SuperStarletPrimadonna
+  5. SuperStarletPrimadonna
+  6. PapansinKingPrimadonna
+  7. SuperStarletPrimadonna
+  8. KikayPrimadonna
+  9. KikayPrimadonna
+ 10. SuperStarletPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. KikayPrimadonna
+ 13. KikayPrimadonna
+ 14. SuperStarletPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. PapansinKingPrimadonna
+ 17. KikayPrimadonna
+ 18. SuperStarletPrimadonna
+ 19. GlitzyPrimadonna
+ 20. KikayDazzling
+ 21. SuperStarletPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DamingHanashPrimadonna
+ 24. KikayPrimadonna
+
+========== Generation 7/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. DamingHanashPrimadonna
+  2. KikayPrimadonna
+  3. DramaMamaPrimadonna
+  4. SuperStarletPrimadonna
+  5. KikayPrimadonna
+  6. DramaMamaPrimadonna
+  7. KikayPrimadonna
+  8. DramaMamaPrimadonna
+  9. KikayPrimadonna
+ 10. KikayPrimadonna
+ 11. KikayPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. KikayPrimadonna
+ 14. KikayPrimadonna
+ 15. DamingHanashPrimadonna
+ 16. DamingHanashPrimadonna
+ 17. KikayPrimadonna
+ 18. SuperStarletPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. SuperStarletPrimadonna
+ 21. KikayPrimadonna
+ 22. KikayPrimadonna
+ 23. KikayPrimadonna
+ 24. DramaMamaPrimadonna
+ 25. KikayPrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. KikayPrimadonna
+  2. DamingHanashPrimadonna
+  3. SuperStarletPrimadonna
+  4. DramaMamaPrimadonna
+  5. KikayPrimadonna
+  6. DramaMamaPrimadonna
+  7. KikayPrimadonna
+  8. DramaMamaPrimadonna
+  9. KikayPrimadonna
+ 10. KikayPrimadonna
+ 11. KikayPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. KikayPrimadonna
+ 14. KikayPrimadonna
+ 15. DamingHanashPrimadonna
+ 16. DamingHanashPrimadonna
+ 17. SuperStarletPrimadonna
+ 18. KikayPrimadonna
+ 19. SuperStarletPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. KikayPrimadonna
+ 22. KikayPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. KikayPrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 6.3587
+Adaptive Mutation Rate: 0.0901
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. ViralPrimadonna
+  2. DamingHanashPrimadonna
+  3. SuperStarletPrimadonna
+  4. MegaboomPrimadonna
+  5. KikayPrimadonna
+  6. DramaMamaPrimadonna
+  7. KikayPrimadonna
+  8. DramaMamaPrimadonna
+  9. KikayPrimadonna
+ 10. KikayPrimadonna
+ 11. KikayPrimadonna
+ 12. BonggaPrimadonna
+ 13. KikayPrimadonna
+ 14. KikayPrimadonna
+ 15. DamingHanashPrimadonna
+ 16. DamingHanashPrimadonna
+ 17. SuperStarletPrimadonna
+ 18. DazzleMasterPrimadonna
+ 19. SuperStarletPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. PowerDresserPrimadonna
+ 22. KikayPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. KikayPrimadonna
+
+========== Generation 8/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. KikayPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. KikayPrimadonna
+  5. KikayPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. BonggaPrimadonna
+  9. KikayPrimadonna
+ 10. PowerDresserPrimadonna
+ 11. KikayPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. KikayPrimadonna
+ 14. KikayPrimadonna
+ 15. KikayPrimadonna
+ 16. KikayPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. KikayPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. KikayPrimadonna
+ 21. BonggaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. KikayPrimadonna
+ 24. KikayPrimadonna
+ 25. KikayPrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. KikayPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. KikayPrimadonna
+  5. KikayPrimadonna
+  6. DramaMamaPrimadonna
+  7. BonggaPrimadonna
+  8. DramaMamaPrimadonna
+  9. PowerDresserPrimadonna
+ 10. KikayPrimadonna
+ 11. KikayPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. KikayPrimadonna
+ 14. KikayPrimadonna
+ 15. KikayPrimadonna
+ 16. KikayPrimadonna
+ 17. KikayPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. KikayPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. BonggaPrimadonna
+ 23. KikayPrimadonna
+ 24. KikayPrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 5.0072
+Adaptive Mutation Rate: 0.0922
+Total Mutations: 0
+
+[New Population after Mutation]
+  1. KikayPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. KikayPrimadonna
+  5. KikayPrimadonna
+  6. DramaMamaPrimadonna
+  7. BonggaPrimadonna
+  8. DramaMamaPrimadonna
+  9. PowerDresserPrimadonna
+ 10. KikayPrimadonna
+ 11. KikayPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. KikayPrimadonna
+ 14. KikayPrimadonna
+ 15. KikayPrimadonna
+ 16. KikayPrimadonna
+ 17. KikayPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. KikayPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. BonggaPrimadonna
+ 23. KikayPrimadonna
+ 24. KikayPrimadonna
+
+========== Generation 9/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. KikayPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. KikayPrimadonna
+  9. DramaMamaPrimadonna
+ 10. KikayPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. KikayPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. KikayPrimadonna
+ 19. KikayPrimadonna
+ 20. KikayPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. KikayPrimadonna
+ 24. DramaMamaPrimadonna
+ 25. DramaMamaPrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. KikayPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. KikayPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. KikayPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. KikayPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. KikayPrimadonna
+ 19. KikayPrimadonna
+ 20. KikayPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. KikayPrimadonna
+ 24. DramaMamaPrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 3.7101
+Adaptive Mutation Rate: 0.0942
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. KikayPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. KikayPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. KikayPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. KikayPrimadonna
+ 14. DramaticPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. PasikatPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. KikayPrimadonna
+ 19. TopCommenterPrimadonna
+ 20. KikayPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. KikayPrimadonna
+ 24. DramaMamaPrimadonna
+
+========== Generation 10/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. KikayPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+ 25. DramaMamaPrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. KikayPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.6667
+Adaptive Mutation Rate: 0.0990
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. KikayPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaFeelingFamous
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPasabog
+ 19. GlimmeringPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaShiny
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+
+========== Generation 11/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+ 25. DramaMamaPrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaFlashy
+  6. DramaMamaShiny
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. SikatPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. PrimadonnaShowbiz
+ 24. DramaMamaShowbiz
+
+========== Generation 12/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+ 25. DramaMamaPrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. DramaMamaDazzler
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaBongga
+  5. PakganernPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. FiercePrimadonna
+ 12. FiercePrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaBigatin
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+
+========== Generation 13/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+ 25. DramaMamaPrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. DramaMamaSizzling
+  2. DramaMamaPrimadonna
+  3. BigatinPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. LivelyPrimadonna
+  9. DramaMamaDramaMama
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. PapansinProPrimadonna
+ 16. PartyStarterPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. FlashyPrimadonna
+
+========== Generation 14/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+ 25. DramaMamaPrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaDazzleMaster
+ 12. SikatPrimadonna
+ 13. DramaMamaSlayin
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaKikay
+ 24. DramaMamaPrimadonna
+
+========== Generation 15/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+ 25. DramaMamaPrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 9
+
+[New Population after Mutation]
+  1. DramaMamaEntertainer
+  2. DramaMamaPrimadonna
+  3. DramaMamaSuperStarlet
+  4. SuperStarletPrimadonna
+  5. DramaMamaGlimmering
+  6. PowerhousePakganern
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. FlashlightPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. PapansinKingOnFleed
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+
+========== Generation 16/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. SuperStarletPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+ 25. DramaMamaPrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. SuperStarletPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.8333
+Adaptive Mutation Rate: 0.0987
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. FeelingFamousPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. PasiklabPrimadonna
+  9. OnFleedPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. LoudMouthPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. BonggaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaEchoChamber
+ 21. DramaMamaPrimadonna
+ 22. BonggaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. MegaboomPrimadonna
+
+========== Generation 17/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+ 25. DramaMamaPrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. LoudPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaDramatic
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. EksenaProPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaKwela
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+
+========== Generation 18/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+ 25. DramaMamaPrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. DramaMamaPrimadonna
+  2. GlitzyPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. KwentoMachinePrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaLoudestInTheRoom
+ 10. DramaMamaPrimadonna
+ 11. TopCommenterPrimadonna
+ 12. DramaMamaKikay
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaExtra
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. GlitzyExtra
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+
+========== Generation 19/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+ 25. DramaMamaPrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. RadiantPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. SnatchedPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPasabog
+ 21. DramaMamaFlashlight
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+
+========== Generation 20/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+ 25. DramaMamaPrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaStarry
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. ClapbackQueenColorful
+ 23. DramaMamaPrimadonna
+ 24. FeelingFamousPrimadonna
+
+========== Generation 21/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+ 25. DramaMamaPrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. PapansinKingPrimadonna
+  2. DramaMamaPrimadonna
+  3. OnFleedPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. GlitzyPrimadonna
+  8. DramaMamaPrimadonna
+  9. GlitzyPrimadonna
+ 10. PartyStarterPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. KwelaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+
+========== Generation 22/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. OnFleedPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+ 25. DramaMamaPrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. OnFleedPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.7500
+Adaptive Mutation Rate: 0.0988
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaExtra
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. OnFleedPrimadonna
+  8. DramaMamaPrimadonna
+  9. PapansinProPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPasabog
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPasabog
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. EntertainerPrimadonna
+ 24. DramaMamaPrimadonna
+
+========== Generation 23/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+ 25. DramaMamaPrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. DramaMamaPrimadonna
+  2. EchoChamberPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. BlindingPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. StarryPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+
+========== Generation 24/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+ 25. DramaMamaPrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 9
+
+[New Population after Mutation]
+  1. DramaMamaPrimadonna
+  2. PartyStarterPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaLively
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaMegaStar
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DazzleMasterPrimadonna
+ 20. TopCommenterCertifiedOA
+ 21. TrendingSnatched
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DaldalQueenPrimadonna
+
+========== Generation 25/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+ 25. DramaMamaPrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. ExtraPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaChikaQueen
+ 15. DramaMamaPrimadonna
+ 16. GlimmeringPrimadonna
+ 17. PasabogPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. LivelyPrimadonna
+ 24. DramaMamaPrimadonna
+
+========== Generation 26/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+ 25. DramaMamaPrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. BigatinPrimadonna
+  4. ChikaQueenPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaDramatic
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. ShinyPrimadonna
+
+========== Generation 27/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+ 25. DramaMamaPrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaLoudMouth
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. PakNaPakDramaMama
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. PapansinKingFeelingFamous
+ 16. DramaMamaPrimadonna
+ 17. LivelyGlam
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+
+========== Generation 28/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaLoudMouth
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+ 25. DramaMamaPrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaLoudMouth
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.7500
+Adaptive Mutation Rate: 0.0988
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. DamingHanashPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaChismikera
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaLoudMouth
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPartyPilipina
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. KwentoMachinePrimadonna
+ 24. DramaMamaPrimadonna
+
+========== Generation 29/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DamingHanashPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+ 25. DramaMamaPrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DamingHanashPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.6667
+Adaptive Mutation Rate: 0.0990
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaSlayin
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaGlam
+ 13. DramaMamaEksenaPro
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DamingHanashPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+
+========== Generation 30/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+ 25. DramaMamaPrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. MegaboomPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DaldalQueenDazzler
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. FiercePrimadonna
+ 20. ShowtimePrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+
+========== Generation 31/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+ 25. DramaMamaPrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. DramaMamaPrimadonna
+  2. DramaMamaPrimadonna
+  3. DramaMamaPrimadonna
+  4. DramaMamaDamingHanash
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. ChismikeraPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPakNaPak
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. DramaMamaPrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. ProudPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaGlimmering
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. PowerhousePrimadonna
+
+========== Generation 32/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. ChismikeraPrimadonna
+  2. DramaMamaPrimadonna
+  3. ChismikeraPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. PowerhousePrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. PowerhousePrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. PowerhousePrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. PowerhousePrimadonna
+ 24. DramaMamaPrimadonna
+ 25. DramaMamaPrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. ChismikeraPrimadonna
+  2. DramaMamaPrimadonna
+  3. ChismikeraPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. PowerhousePrimadonna
+  9. DramaMamaPrimadonna
+ 10. PowerhousePrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. PowerhousePrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaPrimadonna
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. PowerhousePrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 3.9420
+Adaptive Mutation Rate: 0.0938
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. ChismikeraPrimadonna
+  2. DramaMamaPrimadonna
+  3. ChismikeraPrimadonna
+  4. DramaMamaPrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. PowerhousePrimadonna
+  9. DramaMamaPrimadonna
+ 10. KwelaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. PowerhousePrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. DramaMamaGlimmering
+ 17. DramaMamaPrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaFlashy
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPasabog
+ 23. DramaMamaPrimadonna
+ 24. PowerhousePrimadonna
+
+========== Generation 33/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PowerhousePrimadonna
+  2. PowerhousePrimadonna
+  3. DramaMamaPrimadonna
+  4. PowerhousePrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. PowerhousePrimadonna
+ 13. DramaMamaPrimadonna
+ 14. PowerhousePrimadonna
+ 15. DramaMamaPrimadonna
+ 16. PowerhousePrimadonna
+ 17. PowerhousePrimadonna
+ 18. DramaMamaPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. PowerhousePrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+ 25. PowerhousePrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. PowerhousePrimadonna
+  2. PowerhousePrimadonna
+  3. DramaMamaPrimadonna
+  4. PowerhousePrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. PowerhousePrimadonna
+ 13. PowerhousePrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. PowerhousePrimadonna
+ 17. PowerhousePrimadonna
+ 18. DramaMamaPrimadonna
+ 19. PowerhousePrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. DramaMamaPrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 4.6377
+Adaptive Mutation Rate: 0.0928
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. PowerhousePrimadonna
+  2. PowerhousePrimadonna
+  3. DramaMamaPrimadonna
+  4. PowerhousePrimadonna
+  5. DramaMamaPrimadonna
+  6. DramaMamaPrimadonna
+  7. DramaMamaPrimadonna
+  8. DramaMamaPrimadonna
+  9. DramaMamaPrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaDazzling
+ 12. PowerhousePrimadonna
+ 13. PowerhousePrimadonna
+ 14. DramaMamaPrimadonna
+ 15. DramaMamaPrimadonna
+ 16. PowerhousePrimadonna
+ 17. PowerhousePrimadonna
+ 18. DramaMamaPrimadonna
+ 19. PowerhousePrimadonna
+ 20. DramaMamaPrimadonna
+ 21. DramaMamaPrimadonna
+ 22. DramaMamaPrimadonna
+ 23. DramaMamaPrimadonna
+ 24. LoudestInTheRoomPrimadonna
+
+========== Generation 34/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PowerhousePrimadonna
+  2. PowerhousePrimadonna
+  3. PowerhousePrimadonna
+  4. DramaMamaPrimadonna
+  5. PowerhousePrimadonna
+  6. PowerhousePrimadonna
+  7. PowerhousePrimadonna
+  8. PowerhousePrimadonna
+  9. PowerhousePrimadonna
+ 10. PowerhousePrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. PowerhousePrimadonna
+ 14. DramaMamaPrimadonna
+ 15. PowerhousePrimadonna
+ 16. PowerhousePrimadonna
+ 17. PowerhousePrimadonna
+ 18. PowerhousePrimadonna
+ 19. DramaMamaPrimadonna
+ 20. PowerhousePrimadonna
+ 21. PowerhousePrimadonna
+ 22. DramaMamaPrimadonna
+ 23. PowerhousePrimadonna
+ 24. PowerhousePrimadonna
+ 25. DramaMamaPrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PowerhousePrimadonna
+  2. PowerhousePrimadonna
+  3. PowerhousePrimadonna
+  4. DramaMamaPrimadonna
+  5. PowerhousePrimadonna
+  6. PowerhousePrimadonna
+  7. PowerhousePrimadonna
+  8. PowerhousePrimadonna
+  9. PowerhousePrimadonna
+ 10. PowerhousePrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. PowerhousePrimadonna
+ 14. DramaMamaPrimadonna
+ 15. PowerhousePrimadonna
+ 16. PowerhousePrimadonna
+ 17. PowerhousePrimadonna
+ 18. PowerhousePrimadonna
+ 19. DramaMamaPrimadonna
+ 20. PowerhousePrimadonna
+ 21. DramaMamaPrimadonna
+ 22. PowerhousePrimadonna
+ 23. PowerhousePrimadonna
+ 24. PowerhousePrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 3.9130
+Adaptive Mutation Rate: 0.0939
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. PowerhousePrimadonna
+  2. PowerhousePrimadonna
+  3. ShinyPrimadonna
+  4. EntertainerPrimadonna
+  5. PowerhousePrimadonna
+  6. PowerhousePrimadonna
+  7. PowerhousePrimadonna
+  8. PowerhousePrimadonna
+  9. BonggaPrimadonna
+ 10. CertifiedChikaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. DramaMamaPrimadonna
+ 13. PowerhousePrimadonna
+ 14. LoudestInTheRoomPrimadonna
+ 15. PowerhousePrimadonna
+ 16. PowerhousePrimadonna
+ 17. PowerhousePrimadonna
+ 18. KabogeraPrimadonna
+ 19. DramaMamaPrimadonna
+ 20. PowerhousePrimadonna
+ 21. DramaMamaPrimadonna
+ 22. PowerhousePrimadonna
+ 23. PowerhousePrimadonna
+ 24. PowerhousePrimadonna
+
+========== Generation 35/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PowerhousePrimadonna
+  2. PowerhousePrimadonna
+  3. PowerhousePrimadonna
+  4. KabogeraPrimadonna
+  5. PowerhousePrimadonna
+  6. PowerhousePrimadonna
+  7. PowerhousePrimadonna
+  8. PowerhousePrimadonna
+  9. PowerhousePrimadonna
+ 10. DramaMamaPrimadonna
+ 11. PowerhousePrimadonna
+ 12. DramaMamaPrimadonna
+ 13. PowerhousePrimadonna
+ 14. PowerhousePrimadonna
+ 15. PowerhousePrimadonna
+ 16. PowerhousePrimadonna
+ 17. PowerhousePrimadonna
+ 18. PowerhousePrimadonna
+ 19. PowerhousePrimadonna
+ 20. DramaMamaPrimadonna
+ 21. PowerhousePrimadonna
+ 22. PowerhousePrimadonna
+ 23. PowerhousePrimadonna
+ 24. PowerhousePrimadonna
+ 25. PowerhousePrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PowerhousePrimadonna
+  2. PowerhousePrimadonna
+  3. KabogeraPrimadonna
+  4. PowerhousePrimadonna
+  5. PowerhousePrimadonna
+  6. PowerhousePrimadonna
+  7. PowerhousePrimadonna
+  8. PowerhousePrimadonna
+  9. PowerhousePrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. PowerhousePrimadonna
+ 13. PowerhousePrimadonna
+ 14. PowerhousePrimadonna
+ 15. PowerhousePrimadonna
+ 16. PowerhousePrimadonna
+ 17. PowerhousePrimadonna
+ 18. PowerhousePrimadonna
+ 19. DramaMamaPrimadonna
+ 20. PowerhousePrimadonna
+ 21. PowerhousePrimadonna
+ 22. PowerhousePrimadonna
+ 23. PowerhousePrimadonna
+ 24. PowerhousePrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 2.9022
+Adaptive Mutation Rate: 0.0955
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. PowerhousePrimadonna
+  2. PowerhousePrimadonna
+  3. KabogeraPrimadonna
+  4. PowerhousePrimadonna
+  5. PowerhousePrimadonna
+  6. PowerhousePrimadonna
+  7. PowerhousePrimadonna
+  8. PowerhousePrimadonna
+  9. PowerhousePrimadonna
+ 10. DramaMamaPrimadonna
+ 11. DramaMamaPrimadonna
+ 12. PowerhousePrimadonna
+ 13. PowerhousePrimadonna
+ 14. PowerhousePrimadonna
+ 15. PowerhousePrimadonna
+ 16. PowerhousePrimadonna
+ 17. PowerhousePrimadonna
+ 18. PowerhousePrimadonna
+ 19. DramaMamaPrimadonna
+ 20. PowerhousePrimadonna
+ 21. PowerhousePrimadonna
+ 22. PowerhousePrimadonna
+ 23. PrimeTimePrimadonna
+ 24. PowerhouseSparkly
+
+========== Generation 36/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PowerhousePrimadonna
+  2. PowerhousePrimadonna
+  3. PowerhousePrimadonna
+  4. PowerhousePrimadonna
+  5. DramaMamaPrimadonna
+  6. PowerhousePrimadonna
+  7. PowerhousePrimadonna
+  8. PowerhousePrimadonna
+  9. PowerhousePrimadonna
+ 10. PowerhousePrimadonna
+ 11. PowerhousePrimadonna
+ 12. PowerhousePrimadonna
+ 13. PowerhousePrimadonna
+ 14. PowerhousePrimadonna
+ 15. PowerhousePrimadonna
+ 16. PowerhousePrimadonna
+ 17. PowerhousePrimadonna
+ 18. PowerhousePrimadonna
+ 19. PowerhousePrimadonna
+ 20. PowerhousePrimadonna
+ 21. PowerhousePrimadonna
+ 22. PowerhousePrimadonna
+ 23. DramaMamaPrimadonna
+ 24. PowerhousePrimadonna
+ 25. PowerhousePrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PowerhousePrimadonna
+  2. PowerhousePrimadonna
+  3. PowerhousePrimadonna
+  4. PowerhousePrimadonna
+  5. DramaMamaPrimadonna
+  6. PowerhousePrimadonna
+  7. PowerhousePrimadonna
+  8. PowerhousePrimadonna
+  9. PowerhousePrimadonna
+ 10. PowerhousePrimadonna
+ 11. PowerhousePrimadonna
+ 12. PowerhousePrimadonna
+ 13. PowerhousePrimadonna
+ 14. PowerhousePrimadonna
+ 15. PowerhousePrimadonna
+ 16. PowerhousePrimadonna
+ 17. PowerhousePrimadonna
+ 18. PowerhousePrimadonna
+ 19. PowerhousePrimadonna
+ 20. PowerhousePrimadonna
+ 21. PowerhousePrimadonna
+ 22. PowerhousePrimadonna
+ 23. DramaMamaPrimadonna
+ 24. PowerhousePrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.5942
+Adaptive Mutation Rate: 0.0975
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. PowerhousePrimadonna
+  2. KwentoMachinePrimadonna
+  3. PowerhousePrimadonna
+  4. PowerhousePrimadonna
+  5. SassyPrimadonna
+  6. PowerhousePrimadonna
+  7. PowerhousePrimadonna
+  8. BlazingPrimadonna
+  9. PowerhousePrimadonna
+ 10. PowerhousePrimadonna
+ 11. PowerhousePrimadonna
+ 12. PowerhousePrimadonna
+ 13. PowerhousePrimadonna
+ 14. PowerhousePrimadonna
+ 15. PowerhousePrimadonna
+ 16. PowerhousePrimadonna
+ 17. PowerhousePrimadonna
+ 18. PowerhousePrimadonna
+ 19. PowerhousePrimadonna
+ 20. PasikatPrimadonna
+ 21. PowerhousePrimadonna
+ 22. PowerhousePrimadonna
+ 23. DramaMamaPrimadonna
+ 24. PowerhousePrimadonna
+
+========== Generation 37/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PowerhousePrimadonna
+  2. PowerhousePrimadonna
+  3. PowerhousePrimadonna
+  4. PowerhousePrimadonna
+  5. PowerhousePrimadonna
+  6. PowerhousePrimadonna
+  7. PowerhousePrimadonna
+  8. PowerhousePrimadonna
+  9. PowerhousePrimadonna
+ 10. PowerhousePrimadonna
+ 11. PowerhousePrimadonna
+ 12. PowerhousePrimadonna
+ 13. PowerhousePrimadonna
+ 14. PowerhousePrimadonna
+ 15. PowerhousePrimadonna
+ 16. PowerhousePrimadonna
+ 17. PowerhousePrimadonna
+ 18. PowerhousePrimadonna
+ 19. PowerhousePrimadonna
+ 20. PowerhousePrimadonna
+ 21. PowerhousePrimadonna
+ 22. PowerhousePrimadonna
+ 23. PowerhousePrimadonna
+ 24. PowerhousePrimadonna
+ 25. PowerhousePrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PowerhousePrimadonna
+  2. PowerhousePrimadonna
+  3. PowerhousePrimadonna
+  4. PowerhousePrimadonna
+  5. PowerhousePrimadonna
+  6. PowerhousePrimadonna
+  7. PowerhousePrimadonna
+  8. PowerhousePrimadonna
+  9. PowerhousePrimadonna
+ 10. PowerhousePrimadonna
+ 11. PowerhousePrimadonna
+ 12. PowerhousePrimadonna
+ 13. PowerhousePrimadonna
+ 14. PowerhousePrimadonna
+ 15. PowerhousePrimadonna
+ 16. PowerhousePrimadonna
+ 17. PowerhousePrimadonna
+ 18. PowerhousePrimadonna
+ 19. PowerhousePrimadonna
+ 20. PowerhousePrimadonna
+ 21. PowerhousePrimadonna
+ 22. PowerhousePrimadonna
+ 23. PowerhousePrimadonna
+ 24. PowerhousePrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. PowerhousePrimadonna
+  2. PowerhousePrimadonna
+  3. PowerhousePrimadonna
+  4. PowerhousePrimadonna
+  5. PowerhousePrimadonna
+  6. PowerhousePrimadonna
+  7. PowerhousePapansinPro
+  8. PowerhousePrimadonna
+  9. PowerhousePrimadonna
+ 10. PowerhousePrimadonna
+ 11. PowerhousePrimadonna
+ 12. PowerhousePrimadonna
+ 13. PowerhousePrimadonna
+ 14. PowerhouseFlashy
+ 15. PowerhousePrimadonna
+ 16. PowerhouseChismikera
+ 17. PowerhousePrimadonna
+ 18. PowerhousePrimadonna
+ 19. PowerhousePrimadonna
+ 20. PowerhousePrimadonna
+ 21. PowerhousePrimadonna
+ 22. PowerhouseEnergetic
+ 23. PowerhousePrimadonna
+ 24. PowerhouseSnatched
+
+========== Generation 38/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PowerhousePrimadonna
+  2. PowerhousePrimadonna
+  3. PowerhousePrimadonna
+  4. PowerhousePrimadonna
+  5. PowerhousePrimadonna
+  6. PowerhousePrimadonna
+  7. PowerhousePrimadonna
+  8. PowerhousePrimadonna
+  9. PowerhousePrimadonna
+ 10. PowerhousePrimadonna
+ 11. PowerhousePrimadonna
+ 12. PowerhousePrimadonna
+ 13. PowerhousePrimadonna
+ 14. PowerhousePrimadonna
+ 15. PowerhousePrimadonna
+ 16. PowerhousePrimadonna
+ 17. PowerhousePrimadonna
+ 18. PowerhousePrimadonna
+ 19. PowerhousePrimadonna
+ 20. PowerhousePrimadonna
+ 21. PowerhousePrimadonna
+ 22. PowerhousePrimadonna
+ 23. PowerhousePrimadonna
+ 24. PowerhousePrimadonna
+ 25. PowerhousePapansinPro
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PowerhousePrimadonna
+  2. PowerhousePrimadonna
+  3. PowerhousePrimadonna
+  4. PowerhousePrimadonna
+  5. PowerhousePrimadonna
+  6. PowerhousePrimadonna
+  7. PowerhousePrimadonna
+  8. PowerhousePrimadonna
+  9. PowerhousePrimadonna
+ 10. PowerhousePrimadonna
+ 11. PowerhousePrimadonna
+ 12. PowerhousePrimadonna
+ 13. PowerhousePrimadonna
+ 14. PowerhousePrimadonna
+ 15. PowerhousePrimadonna
+ 16. PowerhousePrimadonna
+ 17. PowerhousePrimadonna
+ 18. PowerhousePrimadonna
+ 19. PowerhousePrimadonna
+ 20. PowerhousePrimadonna
+ 21. PowerhousePrimadonna
+ 22. PowerhousePrimadonna
+ 23. PowerhousePrimadonna
+ 24. PowerhousePrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. PowerhouseLively
+  2. PowerhousePrimadonna
+  3. PowerhousePrimadonna
+  4. PowerhousePrimadonna
+  5. PowerhousePrimadonna
+  6. PowerhousePrimadonna
+  7. PowerhousePrimadonna
+  8. PartyStarterPrimadonna
+  9. PowerhousePrimadonna
+ 10. DazzleMasterPrimadonna
+ 11. PowerhousePrimadonna
+ 12. PowerhousePrimadonna
+ 13. PowerhousePrimadonna
+ 14. PowerhousePrimadonna
+ 15. PowerhousePrimadonna
+ 16. PowerhousePrimadonna
+ 17. PowerhousePrimadonna
+ 18. PowerhousePrimadonna
+ 19. PowerhousePrimadonna
+ 20. PowerhousePrimadonna
+ 21. PowerhousePrimadonna
+ 22. PowerhousePrimadonna
+ 23. PowerhousePrimadonna
+ 24. PowerhousePrimadonna
+
+========== Generation 39/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PowerhousePrimadonna
+  2. PowerhousePrimadonna
+  3. PowerhousePrimadonna
+  4. PowerhousePrimadonna
+  5. PowerhousePrimadonna
+  6. PowerhousePrimadonna
+  7. PowerhousePrimadonna
+  8. PowerhousePrimadonna
+  9. PowerhousePrimadonna
+ 10. PowerhousePrimadonna
+ 11. PowerhousePrimadonna
+ 12. PowerhousePrimadonna
+ 13. PowerhousePrimadonna
+ 14. PowerhousePrimadonna
+ 15. PowerhousePrimadonna
+ 16. PowerhousePrimadonna
+ 17. PowerhousePrimadonna
+ 18. PowerhousePrimadonna
+ 19. PowerhousePrimadonna
+ 20. PowerhousePrimadonna
+ 21. PowerhousePrimadonna
+ 22. PowerhousePrimadonna
+ 23. PowerhousePrimadonna
+ 24. PowerhousePrimadonna
+ 25. PowerhousePrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. PowerhousePrimadonna
+  2. PowerhousePrimadonna
+  3. PowerhousePrimadonna
+  4. PowerhousePrimadonna
+  5. PowerhousePrimadonna
+  6. PowerhousePrimadonna
+  7. PowerhousePrimadonna
+  8. PowerhousePrimadonna
+  9. PowerhousePrimadonna
+ 10. PowerhousePrimadonna
+ 11. PowerhousePrimadonna
+ 12. PowerhousePrimadonna
+ 13. PowerhousePrimadonna
+ 14. PowerhousePrimadonna
+ 15. PowerhousePrimadonna
+ 16. PowerhousePrimadonna
+ 17. PowerhousePrimadonna
+ 18. PowerhousePrimadonna
+ 19. PowerhousePrimadonna
+ 20. PowerhousePrimadonna
+ 21. PowerhousePrimadonna
+ 22. PowerhousePrimadonna
+ 23. PowerhousePrimadonna
+ 24. PowerhousePrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. PowerhousePrimadonna
+  2. PowerhousePrimadonna
+  3. PowerhousePrimadonna
+  4. PowerhousePrimadonna
+  5. PowerhousePrimadonna
+  6. PowerhousePrimadonna
+  7. SuperStarletPrimadonna
+  8. PowerhousePrimadonna
+  9. PowerhousePrimadonna
+ 10. PowerhousePrimadonna
+ 11. PowerhousePrimadonna
+ 12. PowerhousePrimadonna
+ 13. PowerhousePrimadonna
+ 14. PowerhousePrimadonna
+ 15. PowerhousePrimadonna
+ 16. PowerhouseMegaStar
+ 17. PowerhousePrimadonna
+ 18. PowerhousePrimadonna
+ 19. SnatchedPrimadonna
+ 20. PowerhousePrimadonna
+ 21. PowerhousePrimadonna
+ 22. PowerhouseExtra
+ 23. PowerhousePrimadonna
+ 24. MainEventPrimadonna
+
+========== Generation 40/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PowerhousePrimadonna
+  2. PowerhousePrimadonna
+  3. PowerhousePrimadonna
+  4. PowerhousePrimadonna
+  5. PowerhousePrimadonna
+  6. PowerhousePrimadonna
+  7. PowerhousePrimadonna
+  8. PowerhousePrimadonna
+  9. PowerhousePrimadonna
+ 10. PowerhousePrimadonna
+ 11. PowerhousePrimadonna
+ 12. PowerhousePrimadonna
+ 13. PowerhousePrimadonna
+ 14. PowerhousePrimadonna
+ 15. PowerhousePrimadonna
+ 16. PowerhousePrimadonna
+ 17. PowerhousePrimadonna
+ 18. PowerhousePrimadonna
+ 19. PowerhousePrimadonna
+ 20. PowerhousePrimadonna
+ 21. PowerhousePrimadonna
+ 22. PowerhousePrimadonna
+ 23. PowerhousePrimadonna
+ 24. PowerhousePrimadonna
+ 25. PowerhousePrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. PowerhousePrimadonna
+  2. PowerhousePrimadonna
+  3. PowerhousePrimadonna
+  4. PowerhousePrimadonna
+  5. PowerhousePrimadonna
+  6. PowerhousePrimadonna
+  7. PowerhousePrimadonna
+  8. PowerhousePrimadonna
+  9. PowerhousePrimadonna
+ 10. PowerhousePrimadonna
+ 11. PowerhousePrimadonna
+ 12. PowerhousePrimadonna
+ 13. PowerhousePrimadonna
+ 14. PowerhousePrimadonna
+ 15. PowerhousePrimadonna
+ 16. PowerhousePrimadonna
+ 17. PowerhousePrimadonna
+ 18. PowerhousePrimadonna
+ 19. PowerhousePrimadonna
+ 20. PowerhousePrimadonna
+ 21. PowerhousePrimadonna
+ 22. PowerhousePrimadonna
+ 23. PowerhousePrimadonna
+ 24. PowerhousePrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. PowerhousePrimadonna
+  2. PowerhouseShowbiz
+  3. PowerhousePrimadonna
+  4. PowerhouseKwela
+  5. PowerhousePrimadonna
+  6. PowerhousePrimadonna
+  7. PowerhousePrimadonna
+  8. PowerhousePrimadonna
+  9. PowerhousePrimadonna
+ 10. BlindingPrimadonna
+ 11. PowerhousePrimadonna
+ 12. PowerhouseSparkly
+ 13. PowerhousePrimadonna
+ 14. PowerhousePasiklab
+ 15. PowerhousePrimadonna
+ 16. LoudPrimadonna
+ 17. PowerhousePrimadonna
+ 18. PowerhousePrimadonna
+ 19. PowerhouseEnergetic
+ 20. PowerhousePrimadonna
+ 21. FlashyPrimadonna
+ 22. PowerhousePrimadonna
+ 23. PowerhousePrimadonna
+ 24. PowerhousePrimadonna
+
+========== Generation 41/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PowerhousePrimadonna
+  2. PowerhousePrimadonna
+  3. PowerhousePrimadonna
+  4. PowerhousePrimadonna
+  5. PowerhousePrimadonna
+  6. PowerhousePrimadonna
+  7. PowerhousePrimadonna
+  8. PowerhouseKwela
+  9. PowerhousePrimadonna
+ 10. PowerhousePrimadonna
+ 11. PowerhousePrimadonna
+ 12. PowerhousePrimadonna
+ 13. PowerhousePrimadonna
+ 14. PowerhousePrimadonna
+ 15. PowerhousePrimadonna
+ 16. PowerhousePrimadonna
+ 17. PowerhousePrimadonna
+ 18. PowerhousePrimadonna
+ 19. PowerhousePrimadonna
+ 20. PowerhouseKwela
+ 21. PowerhousePrimadonna
+ 22. PowerhousePrimadonna
+ 23. PowerhousePrimadonna
+ 24. PowerhousePrimadonna
+ 25. PowerhousePrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PowerhousePrimadonna
+  2. PowerhousePrimadonna
+  3. PowerhousePrimadonna
+  4. PowerhousePrimadonna
+  5. PowerhousePrimadonna
+  6. PowerhousePrimadonna
+  7. PowerhousePrimadonna
+  8. PowerhouseKwela
+  9. PowerhousePrimadonna
+ 10. PowerhousePrimadonna
+ 11. PowerhousePrimadonna
+ 12. PowerhousePrimadonna
+ 13. PowerhousePrimadonna
+ 14. PowerhousePrimadonna
+ 15. PowerhousePrimadonna
+ 16. PowerhousePrimadonna
+ 17. PowerhousePrimadonna
+ 18. PowerhousePrimadonna
+ 19. PowerhousePrimadonna
+ 20. PowerhouseKwela
+ 21. PowerhousePrimadonna
+ 22. PowerhousePrimadonna
+ 23. PowerhousePrimadonna
+ 24. PowerhousePrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.4348
+Adaptive Mutation Rate: 0.0978
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. PowerhousePrimadonna
+  2. PowerhousePrimadonna
+  3. PowerhousePrimadonna
+  4. PowerhousePrimadonna
+  5. EnergeticKwela
+  6. PowerhousePrimadonna
+  7. PowerhousePrimadonna
+  8. PowerhouseKikiMode
+  9. PowerhousePrimadonna
+ 10. PowerhousePrimadonna
+ 11. PowerhousePrimadonna
+ 12. PowerhousePrimadonna
+ 13. PowerhousePrimadonna
+ 14. PowerhousePrimadonna
+ 15. PowerhousePrimadonna
+ 16. PowerhousePrimadonna
+ 17. PowerhousePrimadonna
+ 18. PowerhousePrimadonna
+ 19. PowerhousePrimadonna
+ 20. PowerhouseKwela
+ 21. PowerhousePrimadonna
+ 22. PowerhousePrimadonna
+ 23. PowerhouseSparkly
+ 24. PowerhousePrimadonna
+
+========== Generation 42/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PowerhousePrimadonna
+  2. PowerhousePrimadonna
+  3. PowerhousePrimadonna
+  4. PowerhousePrimadonna
+  5. PowerhousePrimadonna
+  6. PowerhousePrimadonna
+  7. PowerhousePrimadonna
+  8. PowerhousePrimadonna
+  9. PowerhousePrimadonna
+ 10. PowerhousePrimadonna
+ 11. PowerhouseKwela
+ 12. PowerhousePrimadonna
+ 13. PowerhousePrimadonna
+ 14. PowerhouseKwela
+ 15. PowerhouseKwela
+ 16. PowerhousePrimadonna
+ 17. PowerhousePrimadonna
+ 18. PowerhousePrimadonna
+ 19. PowerhousePrimadonna
+ 20. PowerhousePrimadonna
+ 21. PowerhouseKwela
+ 22. PowerhousePrimadonna
+ 23. PowerhousePrimadonna
+ 24. PowerhousePrimadonna
+ 25. PowerhousePrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. PowerhousePrimadonna
+  2. PowerhousePrimadonna
+  3. PowerhousePrimadonna
+  4. PowerhousePrimadonna
+  5. PowerhousePrimadonna
+  6. PowerhousePrimadonna
+  7. PowerhousePrimadonna
+  8. PowerhousePrimadonna
+  9. PowerhousePrimadonna
+ 10. PowerhousePrimadonna
+ 11. PowerhouseKwela
+ 12. PowerhousePrimadonna
+ 13. PowerhousePrimadonna
+ 14. PowerhouseKwela
+ 15. PowerhouseKwela
+ 16. PowerhousePrimadonna
+ 17. PowerhousePrimadonna
+ 18. PowerhousePrimadonna
+ 19. PowerhousePrimadonna
+ 20. PowerhousePrimadonna
+ 21. PowerhouseKwela
+ 22. PowerhousePrimadonna
+ 23. PowerhousePrimadonna
+ 24. PowerhousePrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 2.6087
+Adaptive Mutation Rate: 0.0959
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. PowerhousePrimadonna
+  2. PowerhousePrimadonna
+  3. PowerhousePrimadonna
+  4. PowerhousePrimadonna
+  5. PowerhousePrimadonna
+  6. SparklyPrimadonna
+  7. MainEventPrimadonna
+  8. ChikaQueenPrimadonna
+  9. PowerhousePrimadonna
+ 10. PowerhouseKwentoMachine
+ 11. ViralKwela
+ 12. PowerhousePrimadonna
+ 13. PowerhousePrimadonna
+ 14. PowerhouseKwela
+ 15. PowerhouseKwela
+ 16. PowerhousePrimadonna
+ 17. PowerhousePrimadonna
+ 18. PowerhousePrimadonna
+ 19. TrendingPrimadonna
+ 20. PowerhousePrimadonna
+ 21. LoudestInTheRoomKwela
+ 22. PowerhousePrimadonna
+ 23. PowerhousePrimadonna
+ 24. PowerhousePrimadonna
+
+========== Generation 43/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PowerhousePrimadonna
+  2. PowerhouseKwela
+  3. PowerhousePrimadonna
+  4. PowerhousePrimadonna
+  5. PowerhousePrimadonna
+  6. PowerhousePrimadonna
+  7. PowerhouseKwela
+  8. PowerhousePrimadonna
+  9. PowerhousePrimadonna
+ 10. PowerhousePrimadonna
+ 11. PowerhousePrimadonna
+ 12. PowerhousePrimadonna
+ 13. PowerhousePrimadonna
+ 14. PowerhousePrimadonna
+ 15. PowerhousePrimadonna
+ 16. PowerhousePrimadonna
+ 17. PowerhousePrimadonna
+ 18. PowerhousePrimadonna
+ 19. PowerhousePrimadonna
+ 20. PowerhouseKwela
+ 21. PowerhousePrimadonna
+ 22. MainEventPrimadonna
+ 23. PowerhousePrimadonna
+ 24. PowerhousePrimadonna
+ 25. PowerhousePrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PowerhouseKwela
+  2. PowerhousePrimadonna
+  3. PowerhousePrimadonna
+  4. PowerhousePrimadonna
+  5. PowerhousePrimadonna
+  6. PowerhousePrimadonna
+  7. PowerhouseKwela
+  8. PowerhousePrimadonna
+  9. PowerhousePrimadonna
+ 10. PowerhousePrimadonna
+ 11. PowerhousePrimadonna
+ 12. PowerhousePrimadonna
+ 13. PowerhousePrimadonna
+ 14. PowerhousePrimadonna
+ 15. PowerhousePrimadonna
+ 16. PowerhousePrimadonna
+ 17. PowerhousePrimadonna
+ 18. PowerhousePrimadonna
+ 19. PowerhouseKwela
+ 20. PowerhousePrimadonna
+ 21. PowerhousePrimadonna
+ 22. MainEventPrimadonna
+ 23. PowerhousePrimadonna
+ 24. PowerhousePrimadonna
+
+MUTATION
+[Mutation Info]
+Population Diversity: 2.8659
+Adaptive Mutation Rate: 0.0955
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. PowerhouseKwela
+  2. PowerhousePrimadonna
+  3. PowerhousePrimadonna
+  4. PowerhousePrimadonna
+  5. PowerhousePrimadonna
+  6. PowerhousePrimadonna
+  7. PowerhouseKwela
+  8. PowerhousePrimadonna
+  9. PowerhousePrimadonna
+ 10. PowerhousePrimadonna
+ 11. DaldalQueenPrimadonna
+ 12. PowerhousePrimadonna
+ 13. PowerhousePrimadonna
+ 14. PowerhousePrimadonna
+ 15. PowerhouseDamingHanash
+ 16. PowerhousePrimadonna
+ 17. PowerhousePrimadonna
+ 18. LoudMouthPrimadonna
+ 19. PowerhouseKwela
+ 20. PowerhousePrimadonna
+ 21. PowerhousePrimadonna
+ 22. MainEventPrimadonna
+ 23. PowerhousePrimadonna
+ 24. PowerhousePrimadonna
+
+========== Generation 44/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PowerhouseKwela
+  2. PowerhouseKwela
+  3. PowerhousePrimadonna
+  4. PowerhouseKwela
+  5. PowerhouseKwela
+  6. PowerhouseKwela
+  7. PowerhousePrimadonna
+  8. PowerhousePrimadonna
+  9. PowerhousePrimadonna
+ 10. PowerhousePrimadonna
+ 11. PowerhouseKwela
+ 12. PowerhousePrimadonna
+ 13. PowerhousePrimadonna
+ 14. PowerhousePrimadonna
+ 15. PowerhouseKwela
+ 16. PowerhousePrimadonna
+ 17. PowerhousePrimadonna
+ 18. PowerhouseKwela
+ 19. PowerhousePrimadonna
+ 20. PowerhouseKwela
+ 21. PowerhousePrimadonna
+ 22. PowerhouseKwela
+ 23. PowerhousePrimadonna
+ 24. PowerhouseKwela
+ 25. PowerhousePrimadonna
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. PowerhouseKwela
+  2. PowerhouseKwela
+  3. PowerhouseKwela
+  4. PowerhousePrimadonna
+  5. PowerhouseKwela
+  6. PowerhouseKwela
+  7. PowerhousePrimadonna
+  8. PowerhousePrimadonna
+  9. PowerhousePrimadonna
+ 10. PowerhousePrimadonna
+ 11. PowerhouseKwela
+ 12. PowerhousePrimadonna
+ 13. PowerhousePrimadonna
+ 14. PowerhousePrimadonna
+ 15. PowerhousePrimadonna
+ 16. PowerhouseKwela
+ 17. PowerhousePrimadonna
+ 18. PowerhouseKwela
+ 19. PowerhousePrimadonna
+ 20. PowerhouseKwela
+ 21. PowerhousePrimadonna
+ 22. PowerhouseKwela
+ 23. PowerhousePrimadonna
+ 24. PowerhouseKwela
+
+MUTATION
+[Mutation Info]
+Population Diversity: 4.6630
+Adaptive Mutation Rate: 0.0927
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. PowerhouseKwela
+  2. SizzlingKwela
+  3. PowerhouseKwela
+  4. PowerhousePrimadonna
+  5. PowerhouseKwela
+  6. PowerhouseKwela
+  7. PowerhousePrimadonna
+  8. PowerhousePrimadonna
+  9. PowerhousePrimadonna
+ 10. PowerhousePrimadonna
+ 11. PowerhouseKwela
+ 12. EntertainerPrimadonna
+ 13. PowerhousePrimadonna
+ 14. PowerhousePrimadonna
+ 15. PowerhousePrimadonna
+ 16. PowerhouseKwela
+ 17. PowerhousePrimadonna
+ 18. PowerhouseKwela
+ 19. PowerhousePrimadonna
+ 20. MisisEnergyKwela
+ 21. PowerhouseExtra
+ 22. TrendingKwela
+ 23. PowerhousePrimadonna
+ 24. PowerhouseKwela
+
+========== Generation 45/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PowerhousePrimadonna
+  2. PowerhousePrimadonna
+  3. PowerhouseKwela
+  4. PowerhouseKwela
+  5. PowerhouseKwela
+  6. PowerhousePrimadonna
+  7. PowerhousePrimadonna
+  8. PowerhouseKwela
+  9. PowerhouseKwela
+ 10. PowerhouseKwela
+ 11. PowerhousePrimadonna
+ 12. PowerhousePrimadonna
+ 13. PowerhouseKwela
+ 14. PowerhousePrimadonna
+ 15. PowerhouseKwela
+ 16. PowerhousePrimadonna
+ 17. PowerhouseKwela
+ 18. PowerhousePrimadonna
+ 19. PowerhouseKwela
+ 20. PowerhouseKwela
+ 21. PowerhouseKwela
+ 22. PowerhouseKwela
+ 23. PowerhouseKwela
+ 24. PowerhouseKwela
+ 25. PowerhouseKwela
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. PowerhousePrimadonna
+  2. PowerhousePrimadonna
+  3. PowerhouseKwela
+  4. PowerhouseKwela
+  5. PowerhouseKwela
+  6. PowerhousePrimadonna
+  7. PowerhousePrimadonna
+  8. PowerhouseKwela
+  9. PowerhouseKwela
+ 10. PowerhouseKwela
+ 11. PowerhousePrimadonna
+ 12. PowerhousePrimadonna
+ 13. PowerhousePrimadonna
+ 14. PowerhouseKwela
+ 15. PowerhousePrimadonna
+ 16. PowerhouseKwela
+ 17. PowerhouseKwela
+ 18. PowerhousePrimadonna
+ 19. PowerhouseKwela
+ 20. PowerhouseKwela
+ 21. PowerhouseKwela
+ 22. PowerhouseKwela
+ 23. PowerhouseKwela
+ 24. PowerhouseKwela
+
+MUTATION
+[Mutation Info]
+Population Diversity: 4.4022
+Adaptive Mutation Rate: 0.0931
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. PowerhouseSnatched
+  2. PowerhousePrimadonna
+  3. PowerhouseKwela
+  4. PowerhouseKwela
+  5. PowerhouseKwela
+  6. PowerhousePrimadonna
+  7. PowerhousePrimadonna
+  8. PowerhouseKwela
+  9. PowerhouseKwela
+ 10. PowerhouseKwela
+ 11. PowerhouseShinyStar
+ 12. PowerhousePrimadonna
+ 13. PowerhousePrimadonna
+ 14. PowerhouseKwela
+ 15. PowerhousePrimadonna
+ 16. PowerhouseKwela
+ 17. PowerhouseKwela
+ 18. PowerhousePrimadonna
+ 19. PowerhouseKwela
+ 20. PowerhouseKwela
+ 21. PowerhouseKwela
+ 22. PowerhouseKwela
+ 23. PowerhouseKwela
+ 24. PowerhouseKwela
+
+========== Generation 46/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PowerhouseKwela
+  2. PowerhouseKwela
+  3. PowerhouseKwela
+  4. PowerhouseKwela
+  5. PowerhouseKwela
+  6. PowerhouseKwela
+  7. PowerhouseKwela
+  8. PowerhouseKwela
+  9. PowerhouseKwela
+ 10. PowerhouseKwela
+ 11. PowerhouseKwela
+ 12. PowerhouseKwela
+ 13. PowerhouseKwela
+ 14. PowerhouseKwela
+ 15. PowerhouseKwela
+ 16. PowerhouseKwela
+ 17. PowerhouseKwela
+ 18. PowerhouseKwela
+ 19. PowerhouseKwela
+ 20. PowerhouseKwela
+ 21. PowerhouseKwela
+ 22. PowerhouseKwela
+ 23. PowerhouseKwela
+ 24. PowerhouseKwela
+ 25. PowerhouseKwela
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PowerhouseKwela
+  2. PowerhouseKwela
+  3. PowerhouseKwela
+  4. PowerhouseKwela
+  5. PowerhouseKwela
+  6. PowerhouseKwela
+  7. PowerhouseKwela
+  8. PowerhouseKwela
+  9. PowerhouseKwela
+ 10. PowerhouseKwela
+ 11. PowerhouseKwela
+ 12. PowerhouseKwela
+ 13. PowerhouseKwela
+ 14. PowerhouseKwela
+ 15. PowerhouseKwela
+ 16. PowerhouseKwela
+ 17. PowerhouseKwela
+ 18. PowerhouseKwela
+ 19. PowerhouseKwela
+ 20. PowerhouseKwela
+ 21. PowerhouseKwela
+ 22. PowerhouseKwela
+ 23. PowerhouseKwela
+ 24. PowerhouseKwela
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. PowerhouseKwela
+  2. PowerhouseKwela
+  3. PowerhouseKwela
+  4. PowerhouseKwela
+  5. PowerhouseBongga
+  6. PowerhouseKwela
+  7. PowerhouseKwela
+  8. PowerhouseKwela
+  9. PowerhouseKwela
+ 10. PowerhouseKwela
+ 11. PowerhouseKwela
+ 12. GlitzySassy
+ 13. KikayKwela
+ 14. PowerhouseKwela
+ 15. PowerhouseKwela
+ 16. PowerhouseKwela
+ 17. PowerhouseKwela
+ 18. PowerhouseKwela
+ 19. PowerhouseSikat
+ 20. PowerhouseKwela
+ 21. PowerhouseKwela
+ 22. PowerhouseKwela
+ 23. PowerhouseKwela
+ 24. PowerhouseKwela
+
+========== Generation 47/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PowerhouseKwela
+  2. PowerhouseKwela
+  3. PowerhouseKwela
+  4. PowerhouseKwela
+  5. PowerhouseKwela
+  6. PowerhouseKwela
+  7. PowerhouseKwela
+  8. PowerhouseKwela
+  9. PowerhouseKwela
+ 10. PowerhouseKwela
+ 11. PowerhouseKwela
+ 12. PowerhouseKwela
+ 13. PowerhouseKwela
+ 14. PowerhouseKwela
+ 15. PowerhouseKwela
+ 16. PowerhouseKwela
+ 17. PowerhouseKwela
+ 18. PowerhouseKwela
+ 19. PowerhouseKwela
+ 20. PowerhouseKwela
+ 21. PowerhouseKwela
+ 22. PowerhouseKwela
+ 23. PowerhouseKwela
+ 24. PowerhouseKwela
+ 25. PowerhouseKwela
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PowerhouseKwela
+  2. PowerhouseKwela
+  3. PowerhouseKwela
+  4. PowerhouseKwela
+  5. PowerhouseKwela
+  6. PowerhouseKwela
+  7. PowerhouseKwela
+  8. PowerhouseKwela
+  9. PowerhouseKwela
+ 10. PowerhouseKwela
+ 11. PowerhouseKwela
+ 12. PowerhouseKwela
+ 13. PowerhouseKwela
+ 14. PowerhouseKwela
+ 15. PowerhouseKwela
+ 16. PowerhouseKwela
+ 17. PowerhouseKwela
+ 18. PowerhouseKwela
+ 19. PowerhouseKwela
+ 20. PowerhouseKwela
+ 21. PowerhouseKwela
+ 22. PowerhouseKwela
+ 23. PowerhouseKwela
+ 24. PowerhouseKwela
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. PowerhouseKwela
+  2. PowerhouseKwela
+  3. PowerhouseKwela
+  4. PowerhouseKwela
+  5. PowerhouseKwela
+  6. PowerhouseKwela
+  7. PowerhouseSparkplug
+  8. PowerhouseKwela
+  9. PowerhouseKwela
+ 10. PowerhouseKwela
+ 11. PowerhouseKwela
+ 12. DamingHanashKwela
+ 13. BigatinKwela
+ 14. PowerhouseCertifiedChika
+ 15. PowerhouseFeelingFamous
+ 16. PowerhouseKwela
+ 17. PowerhouseClapbackQueen
+ 18. PowerhouseKwela
+ 19. PowerhouseKwela
+ 20. PowerhouseKwela
+ 21. PowerhouseKwela
+ 22. PowerhouseKwela
+ 23. PowerhouseKwela
+ 24. PowerhouseKwela
+
+========== Generation 48/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PowerhouseKwela
+  2. PowerhouseKwela
+  3. PowerhouseKwela
+  4. PowerhouseKwela
+  5. PowerhouseKwela
+  6. PowerhouseKwela
+  7. PowerhouseKwela
+  8. PowerhouseKwela
+  9. PowerhouseKwela
+ 10. PowerhouseKwela
+ 11. PowerhouseKwela
+ 12. PowerhouseKwela
+ 13. PowerhouseKwela
+ 14. PowerhouseKwela
+ 15. PowerhouseKwela
+ 16. PowerhouseKwela
+ 17. PowerhouseKwela
+ 18. PowerhouseKwela
+ 19. PowerhouseKwela
+ 20. PowerhouseKwela
+ 21. PowerhouseKwela
+ 22. PowerhouseKwela
+ 23. PowerhouseKwela
+ 24. PowerhouseKwela
+ 25. PowerhouseKwela
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PowerhouseKwela
+  2. PowerhouseKwela
+  3. PowerhouseKwela
+  4. PowerhouseKwela
+  5. PowerhouseKwela
+  6. PowerhouseKwela
+  7. PowerhouseKwela
+  8. PowerhouseKwela
+  9. PowerhouseKwela
+ 10. PowerhouseKwela
+ 11. PowerhouseKwela
+ 12. PowerhouseKwela
+ 13. PowerhouseKwela
+ 14. PowerhouseKwela
+ 15. PowerhouseKwela
+ 16. PowerhouseKwela
+ 17. PowerhouseKwela
+ 18. PowerhouseKwela
+ 19. PowerhouseKwela
+ 20. PowerhouseKwela
+ 21. PowerhouseKwela
+ 22. PowerhouseKwela
+ 23. PowerhouseKwela
+ 24. PowerhouseKwela
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. PowerhouseKwela
+  2. PowerhouseKwela
+  3. PowerhouseKwela
+  4. PowerhouseKwela
+  5. PowerhouseKwela
+  6. PowerhouseCertifiedChika
+  7. PowerhouseKwela
+  8. PowerhouseKwela
+  9. PowerhouseKwela
+ 10. MegaboomKwela
+ 11. PowerhouseKwela
+ 12. PowerhouseKwela
+ 13. PowerhouseKwela
+ 14. PasabogKwela
+ 15. PowerhouseKwela
+ 16. LoudDazzleMaster
+ 17. PowerhouseKwela
+ 18. PowerhouseKwela
+ 19. PowerhouseKwela
+ 20. PowerhouseKwela
+ 21. PowerhouseKwela
+ 22. PowerhouseKwela
+ 23. PowerhouseKwela
+ 24. PowerhouseKwela
+
+========== Generation 49/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PowerhouseKwela
+  2. PowerhouseKwela
+  3. PowerhouseKwela
+  4. PowerhouseKwela
+  5. PowerhouseKwela
+  6. PowerhouseKwela
+  7. PowerhouseKwela
+  8. PowerhouseKwela
+  9. PowerhouseKwela
+ 10. PowerhouseKwela
+ 11. PowerhouseKwela
+ 12. PowerhouseKwela
+ 13. PowerhouseKwela
+ 14. PowerhouseKwela
+ 15. PowerhouseKwela
+ 16. PowerhouseKwela
+ 17. PowerhouseKwela
+ 18. PowerhouseKwela
+ 19. PowerhouseKwela
+ 20. PowerhouseKwela
+ 21. PowerhouseKwela
+ 22. PowerhouseKwela
+ 23. PowerhouseKwela
+ 24. PowerhouseKwela
+ 25. PowerhouseKwela
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PowerhouseKwela
+  2. PowerhouseKwela
+  3. PowerhouseKwela
+  4. PowerhouseKwela
+  5. PowerhouseKwela
+  6. PowerhouseKwela
+  7. PowerhouseKwela
+  8. PowerhouseKwela
+  9. PowerhouseKwela
+ 10. PowerhouseKwela
+ 11. PowerhouseKwela
+ 12. PowerhouseKwela
+ 13. PowerhouseKwela
+ 14. PowerhouseKwela
+ 15. PowerhouseKwela
+ 16. PowerhouseKwela
+ 17. PowerhouseKwela
+ 18. PowerhouseKwela
+ 19. PowerhouseKwela
+ 20. PowerhouseKwela
+ 21. PowerhouseKwela
+ 22. PowerhouseKwela
+ 23. PowerhouseKwela
+ 24. PowerhouseKwela
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. PowerhouseKwela
+  2. PowerhouseKwela
+  3. PowerhouseKwela
+  4. PowerhouseKwela
+  5. PasiklabShowtime
+  6. PowerhouseKwela
+  7. PowerhouseKwela
+  8. PowerhouseKwela
+  9. PowerhouseKwela
+ 10. PowerhouseKwela
+ 11. PowerhouseKwela
+ 12. PowerhouseKwela
+ 13. PowerhouseKwela
+ 14. PowerhouseKwela
+ 15. PowerhouseKwela
+ 16. PowerhouseKwela
+ 17. PowerhouseKwela
+ 18. SikatKwela
+ 19. PowerhouseKwela
+ 20. TrendingKwela
+ 21. PowerhousePakganern
+ 22. PowerhouseKwela
+ 23. PakNaPakKwela
+ 24. PowerhouseKwela
+
+========== Generation 50/50 ==========
+
+SELECTION
+[Selected Parents]
+  1. PowerhouseKwela
+  2. PowerhouseKwela
+  3. PowerhouseKwela
+  4. PowerhouseKwela
+  5. PowerhouseKwela
+  6. PowerhouseKwela
+  7. PowerhouseKwela
+  8. PowerhouseKwela
+  9. PowerhouseKwela
+ 10. PowerhouseKwela
+ 11. PowerhouseKwela
+ 12. PowerhouseKwela
+ 13. PowerhouseKwela
+ 14. PowerhouseKwela
+ 15. PowerhouseKwela
+ 16. PowerhouseKwela
+ 17. PowerhouseKwela
+ 18. PowerhouseKwela
+ 19. PowerhouseKwela
+ 20. PowerhouseKwela
+ 21. PowerhouseKwela
+ 22. PowerhouseKwela
+ 23. PowerhouseKwela
+ 24. PowerhouseKwela
+ 25. PowerhouseKwela
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. PowerhouseKwela
+  2. PowerhouseKwela
+  3. PowerhouseKwela
+  4. PowerhouseKwela
+  5. PowerhouseKwela
+  6. PowerhouseKwela
+  7. PowerhouseKwela
+  8. PowerhouseKwela
+  9. PowerhouseKwela
+ 10. PowerhouseKwela
+ 11. PowerhouseKwela
+ 12. PowerhouseKwela
+ 13. PowerhouseKwela
+ 14. PowerhouseKwela
+ 15. PowerhouseKwela
+ 16. PowerhouseKwela
+ 17. PowerhouseKwela
+ 18. PowerhouseKwela
+ 19. PowerhouseKwela
+ 20. PowerhouseKwela
+ 21. PowerhouseKwela
+ 22. PowerhouseKwela
+ 23. PowerhouseKwela
+ 24. PowerhouseKwela
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. PowerhouseKwela
+  2. PowerhouseKwela
+  3. PowerhouseKwela
+  4. PowerhouseKwela
+  5. PowerhouseLoud
+  6. PowerhouseKwela
+  7. PowerhouseKwela
+  8. PowerhouseKwela
+  9. PowerhouseKwela
+ 10. PowerhouseKikiMode
+ 11. PowerhouseEnergetic
+ 12. PowerhouseKwela
+ 13. PowerhouseKwela
+ 14. PowerhouseKwela
+ 15. PowerhouseKwela
+ 16. PowerhouseKwela
+ 17. PowerhouseShinyStar
+ 18. PowerhouseKwela
+ 19. PowerhouseKwela
+ 20. PowerhouseKwela
+ 21. PowerhouseKwela
+ 22. MegaboomKwela
+ 23. PowerhouseKwela
+ 24. PowerhouseShiny
+
+========================================
+GA PROCESS COMPLETE
+Best Username Found: PowerhouseKwela

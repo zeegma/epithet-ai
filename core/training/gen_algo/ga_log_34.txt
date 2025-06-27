@@ -1,0 +1,9458 @@
+Epithet AI - Genetic Algorithm Log
+========================================
+
+[Initial Population]
+  1. GroovyGroovy
+  2. DamingHanashPapansinPro
+  3. PakNaPakMegaStar
+  4. PapansinKingSassy
+  5. KwentoMachinePakNaPak
+  6. DazzlerBigatin
+  7. LoudMouthBigatin
+  8. DramaticBlinding
+  9. GiddySizzling
+ 10. OverloadLively
+ 11. BlindingEnergetic
+ 12. SparkplugFlashy
+ 13. SassyEchoChamber
+ 14. MegaboomSparkly
+ 15. GlamKabogera
+ 16. LivelyFlashlight
+ 17. TrendingPowerDresser
+ 18. DazzleMasterSikat
+ 19. KwentoMachinePowerhouse
+ 20. GlitzyPrimadonna
+ 21. KwelaKwela
+ 22. DazzlingBigatin
+ 23. RadiantSikat
+ 24. PakNaPakBlazing
+ 25. SuperStarletPrimadonna
+ 26. CertifiedChikaPakganern
+ 27. ShowtimeEchoChamber
+ 28. BusogSaAttentionBlazing
+ 29. PasiklabRadiant
+ 30. DramaMamaBlinding
+ 31. CertifiedChikaSassy
+ 32. VavavoomColorful
+ 33. SparklyKikiMode
+ 34. SikatSuperStarlet
+ 35. EnergeticFab
+ 36. MisisEnergySlayin
+ 37. RadiantSparkplug
+ 38. BlazingSnatched
+ 39. PrimeTimePapansinPro
+ 40. LivelyPasikat
+ 41. LoudMouthProud
+ 42. ShinyStarEnergetic
+ 43. TopCommenterKikay
+ 44. SlayinGlitzy
+ 45. EntertainerPasiklab
+ 46. PrimadonnaTopCommenter
+ 47. DazzlerSizzling
+ 48. ShinyPowerhouse
+ 49. SlayinMegaboom
+ 50. SlayinChismikera
+
+========== Generation 1/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwentoMachinePakNaPak
+  2. EntertainerPasiklab
+  3. CertifiedChikaSassy
+  4. ShinyPowerhouse
+  5. PrimadonnaTopCommenter
+  6. PakNaPakBlazing
+  7. LoudMouthBigatin
+  8. SparkplugFlashy
+  9. LoudMouthBigatin
+ 10. ShinyStarEnergetic
+ 11. BlazingSnatched
+ 12. TopCommenterKikay
+ 13. BlazingSnatched
+ 14. EntertainerPasiklab
+ 15. PakNaPakBlazing
+ 16. PakNaPakBlazing
+ 17. KwentoMachinePakNaPak
+ 18. SuperStarletPrimadonna
+ 19. KwelaKwela
+ 20. KwelaKwela
+ 21. SuperStarletPrimadonna
+ 22. RadiantSparkplug
+ 23. SuperStarletPrimadonna
+ 24. PakNaPakBlazing
+ 25. LoudMouthBigatin
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. KwentoMachinePakNaPak
+  2. EntertainerPasiklab
+  3. ShinySassy
+  4. CertifiedChikaPowerhouse
+  5. PrimadonnaBlazing
+  6. PakNaPakTopCommenter
+  7. LoudMouthBigatin
+  8. SparkplugFlashy
+  9. LoudMouthBigatin
+ 10. ShinyStarEnergetic
+ 11. TopCommenterSnatched
+ 12. BlazingKikay
+ 13. BlazingSnatched
+ 14. EntertainerPasiklab
+ 15. PakNaPakBlazing
+ 16. PakNaPakBlazing
+ 17. SuperStarletPakNaPak
+ 18. KwentoMachinePrimadonna
+ 19. KwelaKwela
+ 20. KwelaKwela
+ 21. RadiantSparkplug
+ 22. SuperStarletPrimadonna
+ 23. PakNaPakPrimadonna
+ 24. SuperStarletBlazing
+
+MUTATION
+[Mutation Info]
+Population Diversity: 15.6920
+Adaptive Mutation Rate: 0.0755
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. KwentoMachinePakNaPak
+  2. EntertainerPasiklab
+  3. ShinySassy
+  4. CertifiedChikaPowerhouse
+  5. PrimadonnaMisisEnergy
+  6. PakNaPakTopCommenter
+  7. ChikaQueenBigatin
+  8. SparkplugFlashy
+  9. LoudMouthBigatin
+ 10. ShinyStarEnergetic
+ 11. TopCommenterSnatched
+ 12. BlazingKikay
+ 13. BlazingSnatched
+ 14. EntertainerPasiklab
+ 15. PakNaPakBlazing
+ 16. PakNaPakBlazing
+ 17. SuperStarletPakNaPak
+ 18. KwentoMachinePrimadonna
+ 19. KwelaKwela
+ 20. KwelaKwela
+ 21. RadiantSparkplug
+ 22. KwentoMachinePrimadonna
+ 23. PakNaPakTrending
+ 24. SuperStarletLoud
+
+========== Generation 2/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. LoudMouthBigatin
+  2. CertifiedChikaPowerhouse
+  3. BlazingKikay
+  4. PakNaPakBlazing
+  5. LoudMouthBigatin
+  6. LoudMouthBigatin
+  7. KwelaKwela
+  8. CertifiedChikaPowerhouse
+  9. PakNaPakBlazing
+ 10. BlazingKikay
+ 11. KwelaKwela
+ 12. EntertainerPasiklab
+ 13. KwelaKwela
+ 14. KwentoMachinePrimadonna
+ 15. KwelaKwela
+ 16. KwelaKwela
+ 17. EntertainerPasiklab
+ 18. KwelaKwela
+ 19. PrimadonnaMisisEnergy
+ 20. PakNaPakBlazing
+ 21. PrimadonnaMisisEnergy
+ 22. KwentoMachinePrimadonna
+ 23. PakNaPakBlazing
+ 24. KwelaKwela
+ 25. LoudMouthBigatin
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. CertifiedChikaPowerhouse
+  2. LoudMouthBigatin
+  3. BlazingKikay
+  4. PakNaPakBlazing
+  5. LoudMouthBigatin
+  6. LoudMouthBigatin
+  7. CertifiedChikaKwela
+  8. KwelaPowerhouse
+  9. PakNaPakBlazing
+ 10. BlazingKikay
+ 11. EntertainerPasiklab
+ 12. KwelaKwela
+ 13. KwelaKwela
+ 14. KwentoMachinePrimadonna
+ 15. KwelaKwela
+ 16. KwelaKwela
+ 17. KwelaKwela
+ 18. EntertainerPasiklab
+ 19. PakNaPakBlazing
+ 20. PrimadonnaMisisEnergy
+ 21. KwentoMachineMisisEnergy
+ 22. PrimadonnaPrimadonna
+ 23. KwelaBlazing
+ 24. PakNaPakKwela
+
+MUTATION
+[Mutation Info]
+Population Diversity: 14.0290
+Adaptive Mutation Rate: 0.0781
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. CertifiedChikaPowerhouse
+  2. EntertainerBigatin
+  3. BlazingKikay
+  4. PakNaPakBlazing
+  5. LoudMouthBigatin
+  6. LoudMouthBigatin
+  7. CertifiedChikaKwela
+  8. KwelaPowerhouse
+  9. PakNaPakBlazing
+ 10. BlazingKikay
+ 11. EntertainerPasiklab
+ 12. KwelaKwela
+ 13. KwelaKwela
+ 14. KwentoMachinePrimadonna
+ 15. KwelaKwela
+ 16. CertifiedChikaKwela
+ 17. MainEventKwela
+ 18. EntertainerPasiklab
+ 19. PakNaPakBlazing
+ 20. PrimadonnaMisisEnergy
+ 21. KwentoMachineMisisEnergy
+ 22. PrimadonnaPrimadonna
+ 23. KwelaBlazing
+ 24. PasabogKwela
+
+========== Generation 3/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. PrimadonnaMisisEnergy
+  2. EntertainerBigatin
+  3. KwelaKwela
+  4. KwelaKwela
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. PrimadonnaPrimadonna
+  8. KwelaPowerhouse
+  9. PrimadonnaPrimadonna
+ 10. KwelaPowerhouse
+ 11. KwelaKwela
+ 12. KwelaPowerhouse
+ 13. BlazingKikay
+ 14. KwelaKwela
+ 15. KwelaPowerhouse
+ 16. KwelaKwela
+ 17. KwelaPowerhouse
+ 18. KwelaKwela
+ 19. KwentoMachinePrimadonna
+ 20. CertifiedChikaPowerhouse
+ 21. CertifiedChikaPowerhouse
+ 22. KwelaPowerhouse
+ 23. CertifiedChikaKwela
+ 24. CertifiedChikaKwela
+ 25. PasabogKwela
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. EntertainerBigatin
+  2. PrimadonnaMisisEnergy
+  3. KwelaKwela
+  4. KwelaKwela
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. PrimadonnaPrimadonna
+  8. KwelaPowerhouse
+  9. KwelaPrimadonna
+ 10. PrimadonnaPowerhouse
+ 11. KwelaKwela
+ 12. KwelaPowerhouse
+ 13. BlazingKikay
+ 14. KwelaKwela
+ 15. KwelaKwela
+ 16. KwelaPowerhouse
+ 17. KwelaKwela
+ 18. KwelaPowerhouse
+ 19. KwentoMachinePrimadonna
+ 20. CertifiedChikaPowerhouse
+ 21. CertifiedChikaPowerhouse
+ 22. KwelaPowerhouse
+ 23. CertifiedChikaKwela
+ 24. CertifiedChikaKwela
+
+MUTATION
+[Mutation Info]
+Population Diversity: 11.6993
+Adaptive Mutation Rate: 0.0817
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. EntertainerBigatin
+  2. PrimadonnaMisisEnergy
+  3. KwelaKwela
+  4. KwelaKwela
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. PrimadonnaPrimadonna
+  8. KwelaPowerhouse
+  9. PrimeTimePrimadonna
+ 10. PrimadonnaPowerhouse
+ 11. KwelaKwela
+ 12. KwelaPowerhouse
+ 13. BlazingKikay
+ 14. KwelaKwela
+ 15. KwelaKwela
+ 16. KwelaPowerhouse
+ 17. FlashyKwela
+ 18. KwelaCertifiedChika
+ 19. KwentoMachineLoudestInTheRoom
+ 20. CertifiedChikaPowerhouse
+ 21. CertifiedChikaPowerhouse
+ 22. KwelaPowerhouse
+ 23. CertifiedChikaKwela
+ 24. CertifiedChikaKwela
+
+========== Generation 4/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaKwela
+  3. KwelaKwela
+  4. KwelaPowerhouse
+  5. KwelaKwela
+  6. PrimadonnaMisisEnergy
+  7. KwelaKwela
+  8. KwelaKwela
+  9. KwelaKwela
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaKwela
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaKwela
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaKwela
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaKwela
+  3. KwelaKwela
+  4. KwelaPowerhouse
+  5. KwelaMisisEnergy
+  6. PrimadonnaKwela
+  7. KwelaKwela
+  8. KwelaKwela
+  9. KwelaPowerhouse
+ 10. KwelaKwela
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaKwela
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaKwela
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 4.8804
+Adaptive Mutation Rate: 0.0924
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaKwela
+  3. KwelaKwela
+  4. KwelaPowerhouse
+  5. KwelaMisisEnergy
+  6. PrimadonnaKwela
+  7. KwelaKwela
+  8. KwelaPowerDresser
+  9. KwelaPowerhouse
+ 10. MainEventKwela
+ 11. KwelaClapbackQueen
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaKwela
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaKwela
+ 20. KwelaPartyPilipina
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 5/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaKwela
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaKwela
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaKwela
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaKwela
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.2754
+Adaptive Mutation Rate: 0.0980
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. ColorfulPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPartyPilipina
+  9. KwelaPowerhouse
+ 10. KwelaKwela
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaKwela
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 6/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaVavavoom
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. ColorfulPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPartyPilipina
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 7/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 8
+No Crossover Pairs: 4
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. MainEventPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. DazzlerPowerhouse
+ 16. KwelaPowerhouse
+ 17. SassyPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaChismikera
+ 23. KwelaPowerhouse
+ 24. MainEventPowerhouse
+
+========== Generation 8/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaBlinding
+  4. CertifiedOAPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. GlimmeringPowerhouse
+ 11. KwelaPowerhouse
+ 12. SnatchedPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. PapansinKingPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 9/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. SassyPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaKikiMode
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. EntertainerPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaSikat
+ 19. PapansinProPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 10/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaGiddy
+ 12. KwelaProud
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. PasikatPowerhouse
+ 18. FeelingFamousPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 11/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaGiddy
+  3. KwelaPowerhouse
+  4. DazzleMasterPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. PowerDresserPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaGlam
+ 21. KwelaDazzleMaster
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 12/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. OnFleedPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. FabPowerhouse
+ 14. ProudPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 13/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. MainEventPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaEksenaPro
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaSizzling
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. ExtraPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPrimeTime
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 14/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPrimeTime
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaBusogSaAttention
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 15/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaDramaMama
+  7. PrimeTimePowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaKwela
+ 16. PasabogPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaFlashlight
+ 23. KwelaKabogera
+ 24. KwelaPowerhouse
+
+========== Generation 16/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaDramaMama
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaDramaMama
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.8333
+Adaptive Mutation Rate: 0.0987
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. KwelaPowerDresser
+  2. KwelaPowerhouse
+  3. PapansinKingPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. ExtraPowerhouse
+ 15. KwelaDramaMama
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaKwentoMachine
+ 23. LoudMouthPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 17/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. PakganernPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaExtra
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. TrendingPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaStarry
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. SassyKwentoMachine
+ 20. KwelaPowerhouse
+ 21. KwelaKabogera
+ 22. KwelaSuperStarlet
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 18/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaSuperStarlet
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaSuperStarlet
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.7500
+Adaptive Mutation Rate: 0.0988
+Total Mutations: 9
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaBongga
+  5. KwelaPowerhouse
+  6. PartyPilipinaPowerhouse
+  7. KwelaPowerhouse
+  8. ShowbizPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaSuperStarlet
+ 12. ColorfulPowerhouse
+ 13. KwelaPowerhouse
+ 14. FlashyPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaSassy
+ 18. TrendingPowerhouse
+ 19. KwelaPowerhouse
+ 20. PasabogPowerhouse
+ 21. KwelaPowerhouse
+ 22. ExtraPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 19/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. PasabogPowerhouse
+  6. KwelaPowerhouse
+  7. PasabogPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. PasabogPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. PasabogPowerhouse
+  6. KwelaPowerhouse
+  7. PasabogPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. PasabogPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.5978
+Adaptive Mutation Rate: 0.0975
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. TrendingPowerhouse
+  5. PasabogPowerhouse
+  6. FabPowerhouse
+  7. SuperStarletPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaSikat
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. PasabogPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. DamingHanashPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 20/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. BlindingPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaEksenaPro
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaDramaMama
+ 23. KwelaPowerhouse
+ 24. BlindingPowerhouse
+
+========== Generation 21/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaDramaMama
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaDramaMama
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.8333
+Adaptive Mutation Rate: 0.0987
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. KwelaProud
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. MainEventPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaDramaMama
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaVavavoom
+ 17. KwelaBusogSaAttention
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 22/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. RadiantPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaChismikera
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. ViralPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. EchoChamberPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. DramaticPowerhouse
+ 18. KwelaPowerhouse
+ 19. SparklyPowerhouse
+ 20. EntertainerPasiklab
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 23/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaMegaStar
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. PapansinProPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. LoudMouthPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. LivelyPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwentoMachinePowerhouse
+
+========== Generation 24/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. BigatinPowerhouse
+  2. KwelaEntertainer
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaShinyStar
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. SlayinPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. EchoChamberPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaChismikera
+
+========== Generation 25/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaBlazing
+  7. KwelaPowerhouse
+  8. KwelaGlimmering
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaDazzleMaster
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 26/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaBongga
+  8. KwelaPowerhouse
+  9. KwelaShowbiz
+ 10. KwelaPowerhouse
+ 11. LoudPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaShinyStar
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaProud
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. GlitzyPowerhouse
+ 23. GlitzyPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 27/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 8
+No Crossover Pairs: 4
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. PrimeTimePowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. ClapbackQueenPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPrimeTime
+ 14. KwelaShinyStar
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. PowerDresserPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 28/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaOnFleed
+  7. KwelaPowerhouse
+  8. KwelaKikay
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. DazzlerPrimeTime
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaBusogSaAttention
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 29/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwentoMachinePowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. SparklyPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. LoudMouthPowerhouse
+ 17. KwelaDamingHanash
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 30/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaFeelingFamous
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. GlamPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaSnatched
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. DramaMamaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 31/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 9
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. PowerhouseSlayin
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaFierce
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPrimeTime
+ 10. KwelaMegaStar
+ 11. KwelaPowerhouse
+ 12. ChismikeraPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPrimadonna
+ 16. OnFleedPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaBigatin
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 32/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPakNaPak
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. LivelyPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. BusogSaAttentionPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 33/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KabogeraPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaBigatin
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. FiercePowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 34/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. KwelaGlimmering
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaDramatic
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. PowerhousePowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 35/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. EnergeticPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. BlazingPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaSizzling
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 36/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaDazzling
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. FiercePowerhouse
+ 12. KwelaShowbiz
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. CertifiedChikaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. SuperStarletPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 37/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 10
+
+[New Population after Mutation]
+  1. SparkplugPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaEksenaPro
+  7. KwelaPowerhouse
+  8. KwelaGiddy
+  9. KwelaSparkly
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaBigatin
+ 13. KwelaPowerhouse
+ 14. BlindingPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. ClapbackQueenPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. BusogSaAttentionPowerhouse
+ 21. SparklyBlazing
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 38/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. BusogSaAttentionPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BusogSaAttentionPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.2500
+Adaptive Mutation Rate: 0.0980
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. BusogSaAttentionPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaEnergetic
+  4. KwelaPowerhouse
+  5. MisisEnergyPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. DramaticPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. GroovyPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaEnergetic
+ 19. KwelaChikaQueen
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 39/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. FeelingFamousPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. BonggaPowerhouse
+ 20. KwelaPowerhouse
+ 21. EchoChamberPowerhouse
+ 22. KwelaMainEvent
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 40/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KikiModePowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPrimeTime
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. DramaMamaPowerhouse
+ 15. KwelaPowerhouse
+ 16. OverloadPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. BlazingSizzling
+ 24. KwelaPowerhouse
+
+========== Generation 41/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 1
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. PasikatPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 42/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaColorful
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerDresser
+  7. KwelaPowerhouse
+  8. KwelaGiddy
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaKikiMode
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaShiny
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 43/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaKikay
+  3. KwelaPowerhouse
+  4. KwelaSlayin
+  5. MisisEnergyPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. BlindingPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaBlazing
+ 15. KwelaShiny
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. SparkplugPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaSikat
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 44/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaSlayin
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. SparkplugPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaSlayin
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. SparkplugPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.5000
+Adaptive Mutation Rate: 0.0977
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaSlayin
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaProud
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaBusogSaAttention
+ 13. SparkplugPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaTopCommenter
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. DazzlerKwentoMachine
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 45/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaLoudestInTheRoom
+  8. KwelaRadiant
+  9. KwelaFlashy
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPrimadonna
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaProud
+ 20. GiddyPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaDramaMama
+
+========== Generation 46/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. KwelaMisisEnergy
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaCertifiedOA
+  5. KwelaPowerhouse
+  6. KwelaLoudestInTheRoom
+  7. KwelaPowerhouse
+  8. TopCommenterPowerhouse
+  9. GlitzySizzling
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaEntertainer
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 47/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaLoudestInTheRoom
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaLoudestInTheRoom
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.0833
+Adaptive Mutation Rate: 0.0983
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPakganern
+  8. KwelaPowerhouse
+  9. FabDazzleMaster
+ 10. KwelaPowerhouse
+ 11. KwelaPasikat
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaLoudestInTheRoom
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. ShowtimePowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 48/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaLoudestInTheRoom
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaLoudestInTheRoom
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.0833
+Adaptive Mutation Rate: 0.0983
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaLoudestInTheRoom
+  7. KwelaKabogera
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. EnergeticPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 49/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. ColorfulPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaEksenaPro
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. TopCommenterPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaShiny
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 50/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. DazzlerPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. SnatchedPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 51/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. FabPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaBlazing
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaColorful
+ 24. KwelaPowerhouse
+
+========== Generation 52/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KikayPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaBlinding
+ 10. PowerDresserPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaSlayin
+ 19. GroovyPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. CertifiedOAPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 53/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KikiModePowerhouse
+  8. KwelaPowerhouse
+  9. SnatchedPowerhouse
+ 10. KwelaChikaQueen
+ 11. MegaStarPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. StarryPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 54/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. ExtraPowerhouse
+  5. FlashlightPowerhouse
+  6. ShowbizPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaDaldalQueen
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 55/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaEnergetic
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaKikiMode
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. PartyPilipinaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaLively
+ 16. DamingHanashPowerhouse
+ 17. BlazingPowerhouse
+ 18. KikayPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. LoudestInTheRoomPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 56/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. PartyPilipinaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. PartyPilipinaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.9167
+Adaptive Mutation Rate: 0.0986
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. VavavoomPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaGlimmering
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaColorful
+ 21. PartyPilipinaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 57/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. KwelaShowbiz
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaVavavoom
+  5. KwelaLoudestInTheRoom
+  6. CertifiedOAPowerhouse
+  7. KwelaPowerhouse
+  8. PasiklabPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaKikiMode
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. ViralPowerhouse
+ 19. KwelaLively
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 58/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. PasiklabPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. PasiklabPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5000
+Adaptive Mutation Rate: 0.0992
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPrimadonna
+ 11. KwelaPowerhouse
+ 12. KwelaSuperStarlet
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. LoudestInTheRoomPowerhouse
+ 16. KwelaPowerhouse
+ 17. PasiklabPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaMainEvent
+ 20. GroovyPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 59/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. ShowtimePowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwentoMachinePowerhouse
+
+========== Generation 60/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaTrending
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaGiddy
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. DamingHanashPowerhouse
+ 23. KwelaPowerhouse
+ 24. PasikatShowtime
+
+========== Generation 61/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. LoudPakNaPak
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. FiercePowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaDazzleMaster
+
+========== Generation 62/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. GiddyPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. ProudPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. MainEventPowerhouse
+
+========== Generation 63/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaVavavoom
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaEksenaPro
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 64/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. SuperStarletPowerhouse
+  6. KwelaKikiMode
+  7. KwelaPowerhouse
+  8. PowerDresserPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaFeelingFamous
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 65/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 9
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. SparklyPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaKikay
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaMegaboom
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. SassyEnergetic
+ 17. KwelaEnergetic
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. FlashyDaldalQueen
+ 24. KwelaPrimeTime
+
+========== Generation 66/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaMegaboom
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. KwelaMegaboom
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.7500
+Adaptive Mutation Rate: 0.0988
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. KwelaMegaboom
+  2. KwelaPowerhouse
+  3. SlayinPowerhouse
+  4. KwelaPowerhouse
+  5. FlashyPowerhouse
+  6. KwelaSassy
+  7. KwelaPowerhouse
+  8. KwelaBigatin
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. ChismikeraPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 67/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. KwelaDazzleMaster
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. PartyPilipinaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. ColorfulPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. PowerDresserPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 68/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaExtra
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. PartyStarterPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. FlashyPowerhouse
+ 13. KwelaSnatched
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 69/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. BlazingPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaDazzling
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. PapansinProPowerhouse
+ 14. KwelaBusogSaAttention
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 70/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. PrimeTimePowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. SlayinPowerhouse
+  7. KwelaPowerhouse
+  8. GroovyPowerhouse
+  9. FeelingFamousLoud
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerDresser
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. MegaboomPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 71/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. KwelaPasikat
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. PakNaPakPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 72/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. SparklyPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaKabogera
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPartyPilipina
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaSassy
+ 19. KwelaPasikat
+ 20. GlamPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 73/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. DaldalQueenPowerhouse
+  2. MainEventPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaSlayin
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPakNaPak
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. VavavoomPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 74/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. PasikatPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. PartyPilipinaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 75/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaKikiMode
+ 14. KwelaSizzling
+ 15. KwelaPowerhouse
+ 16. KwelaDramatic
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. LoudMouthPowerhouse
+ 21. KwelaBongga
+ 22. MegaStarPowerhouse
+ 23. KwelaPakNaPak
+ 24. KwelaPowerhouse
+
+========== Generation 76/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaFlashy
+  5. KwelaPowerhouse
+  6. CertifiedChikaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. EnergeticPowerhouse
+ 16. DaldalQueenPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. SassyPowerhouse
+ 21. VavavoomPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 77/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. VavavoomPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. VavavoomPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.6667
+Adaptive Mutation Rate: 0.0990
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. VavavoomPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. DramaMamaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. SassyRadiant
+ 10. MisisEnergyFlashlight
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. ChikaQueenPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 78/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPartyStarter
+  4. KwelaPowerhouse
+  5. LoudPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 79/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. PowerDresserPowerhouse
+  7. KwelaBongga
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. RadiantPowerhouse
+ 18. KwelaEksenaPro
+ 19. SparklyPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 80/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. LoudMouthPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. BlazingPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaStarry
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 81/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 8
+No Crossover Pairs: 4
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaDazzleMaster
+  4. KwelaBigatin
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. FierceKabogera
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPartyStarter
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. ShinyPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 82/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. DramaMamaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. DazzlerPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 83/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 7
+No Crossover Pairs: 5
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. KwelaBigatin
+  2. CertifiedChikaPowerhouse
+  3. KwelaMisisEnergy
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaTopCommenter
+  8. KwelaOnFleed
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaSparkplug
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaMainEvent
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. CertifiedOAPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 84/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 8
+No Crossover Pairs: 4
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. OnFleedPowerhouse
+  3. KwelaPowerhouse
+  4. LoudPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. CertifiedOAPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPakNaPak
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 85/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaBlazing
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaEnergetic
+ 17. KwelaDazzling
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. ViralPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 86/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KikiModePowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaSizzling
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 87/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaSparkplug
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaDazzling
+  8. KwelaPowerhouse
+  9. SparklyPowerhouse
+ 10. KwelaSizzling
+ 11. KwelaKwela
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. PrimadonnaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. SparklyPowerhouse
+
+========== Generation 88/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. EntertainerPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. SlayinPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. SassyPowerhouse
+ 16. KwelaBusogSaAttention
+ 17. KwelaPowerhouse
+ 18. KwelaDramatic
+ 19. KwelaTrending
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPartyPilipina
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 89/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. KwelaLively
+  2. StarryPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaChismikera
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPakganern
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. OnFleedPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaGroovy
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 90/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. ExtraPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaKikay
+ 21. KwelaPowerhouse
+ 22. KikayPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 91/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. ColorfulPowerhouse
+  3. DramaticPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. VavavoomPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaFierce
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. GiddyPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 92/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. GroovyPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. SuperStarletPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. CertifiedOAPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaFlashlight
+ 24. KwelaPowerhouse
+
+========== Generation 93/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. SparkplugPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KabogeraPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. VavavoomDaldalQueen
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 94/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 11
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaGlimmering
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. RadiantPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPasabog
+ 13. KwelaPasikat
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. SparkplugPowerhouse
+ 19. KwelaPowerhouse
+ 20. KikaySikat
+ 21. GroovyPowerhouse
+ 22. TopCommenterPowerhouse
+ 23. KwelaExtra
+ 24. KwelaPowerhouse
+
+========== Generation 95/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. SparkplugPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. SparkplugPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.6667
+Adaptive Mutation Rate: 0.0990
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. PowerDresserPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. StarryPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaMainEvent
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. DaldalQueenPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. SparkplugPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaShiny
+ 24. KwelaPowerhouse
+
+========== Generation 96/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. ChismikeraPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. GlitzyPowerhouse
+
+========== Generation 97/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. ChismikeraPowerhouse
+  3. KwelaFlashlight
+  4. KwelaPowerhouse
+  5. StarryPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. ChikaQueenPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. DaldalQueenPowerhouse
+
+========== Generation 98/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 0
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 99/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. KwelaPowerhouse
+  2. KwelaPowerhouse
+  3. LivelyPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaDazzleMaster
+  8. KwelaPrimadonna
+  9. KwelaPowerhouse
+ 10. KwelaDazzler
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaCertifiedOA
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaSnatched
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. RadiantPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+========== Generation 100/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. KwelaPowerhouse
+  2. KwelaDazzleMaster
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+ 25. KwelaPowerhouse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. KwelaDazzleMaster
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. KwelaPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaPowerhouse
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. KwelaPowerhouse
+ 24. KwelaPowerhouse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.8333
+Adaptive Mutation Rate: 0.0987
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. LoudestInTheRoomDazzleMaster
+  2. KwelaPowerhouse
+  3. KwelaPowerhouse
+  4. KwelaPowerhouse
+  5. KwelaPowerhouse
+  6. KwelaPowerhouse
+  7. KwelaPowerhouse
+  8. KwelaPowerhouse
+  9. KwelaPowerhouse
+ 10. KwelaPowerhouse
+ 11. GlimmeringPowerhouse
+ 12. KwelaPowerhouse
+ 13. KwelaPowerhouse
+ 14. KwelaPowerhouse
+ 15. KwelaPowerhouse
+ 16. KwelaPowerhouse
+ 17. KwelaChismikera
+ 18. KwelaPowerhouse
+ 19. KwelaPowerhouse
+ 20. KwelaPowerhouse
+ 21. KwelaPowerhouse
+ 22. KwelaPowerhouse
+ 23. PasiklabPowerhouse
+ 24. PasabogPowerhouse
+
+========================================
+GA PROCESS COMPLETE
+Best Username Found: KwelaPowerhouse

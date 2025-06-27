@@ -1,0 +1,9458 @@
+Epithet AI - Genetic Algorithm Log
+========================================
+
+[Initial Population]
+  1. ShowtimeChoreo
+  2. SkyMic
+  3. HarmonyIconic
+  4. PoeticColorful
+  5. TrendishBanger
+  6. BopsicleBeatdrop
+  7. ZoneMic
+  8. DrawerRehearsal
+  9. SpectreScribbles
+ 10. SongbirdCutesy
+ 11. SkyCanvas
+ 12. InspoMicrophone
+ 13. BopsicleMicrophone
+ 14. RunwayHarmonix
+ 15. BreakdanceSpotlight
+ 16. ArtsyScripted
+ 17. StarletBanger
+ 18. BeatdropMoody
+ 19. HarmonySonger
+ 20. TalentishPerformer
+ 21. PlaylistCanvas
+ 22. BopsicleRehearsal
+ 23. TalentishBanger
+ 24. BeatdropTalentish
+ 25. EncoreSnatched
+ 26. FreestyleMelodrama
+ 27. MicrophoneMicrophone
+ 28. HitmakerFeelmaker
+ 29. RunwayRehearsal
+ 30. LightStarlet
+ 31. RainbowFeelmaker
+ 32. SoloistRegine
+ 33. PopBeatdrop
+ 34. HypeScreentime
+ 35. DramaDrama
+ 36. RainbowChoreo
+ 37. CreativeFlows
+ 38. DanceristShowtime
+ 39. ChoreoRegine
+ 40. SkyMuse
+ 41. HarmonyMoodboard
+ 42. RegineLight
+ 43. FeelmakerFlows
+ 44. SpectreShowtime
+ 45. ConfettiRegine
+ 46. ChoreoLyricist
+ 47. ColorfulSnatched
+ 48. ArtsySnatched
+ 49. SongbirdRehearsal
+ 50. ZoneCreative
+
+========== Generation 1/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SkyCanvas
+  2. PopBeatdrop
+  3. SkyMuse
+  4. ShowtimeChoreo
+  5. RainbowChoreo
+  6. TalentishPerformer
+  7. ArtsyScripted
+  8. SkyMic
+  9. SkyCanvas
+ 10. BreakdanceSpotlight
+ 11. HypeScreentime
+ 12. FreestyleMelodrama
+ 13. ZoneMic
+ 14. StarletBanger
+ 15. SkyCanvas
+ 16. SpectreScribbles
+ 17. HypeScreentime
+ 18. HypeScreentime
+ 19. ArtsyScripted
+ 20. SkyCanvas
+ 21. SongbirdCutesy
+ 22. SongbirdRehearsal
+ 23. StarletBanger
+ 24. SongbirdCutesy
+ 25. HypeScreentime
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. PopCanvas
+  2. SkyBeatdrop
+  3. ShowtimeChoreo
+  4. SkyMuse
+  5. RainbowPerformer
+  6. TalentishChoreo
+  7. SkyMic
+  8. ArtsyScripted
+  9. SkyCanvas
+ 10. BreakdanceSpotlight
+ 11. FreestyleScreentime
+ 12. HypeMelodrama
+ 13. ZoneBanger
+ 14. StarletMic
+ 15. SpectreCanvas
+ 16. SkyScribbles
+ 17. HypeScreentime
+ 18. HypeScreentime
+ 19. ArtsyScripted
+ 20. SkyCanvas
+ 21. SongbirdRehearsal
+ 22. SongbirdCutesy
+ 23. StarletCutesy
+ 24. SongbirdBanger
+
+MUTATION
+[Mutation Info]
+Population Diversity: 11.9891
+Adaptive Mutation Rate: 0.0728
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. PopCanvas
+  2. SkyBeatdrop
+  3. ShowtimeSpectre
+  4. SkyMuse
+  5. RainbowPerformer
+  6. TalentishChoreo
+  7. SkyMic
+  8. ArtsyScripted
+  9. SkyCanvas
+ 10. BreakdanceSpotlight
+ 11. FreestyleScreentime
+ 12. HypeFamecore
+ 13. ZoneRainbow
+ 14. StarletMic
+ 15. SpectreCanvas
+ 16. SkyScribbles
+ 17. HypeScreentime
+ 18. HypeArtsy
+ 19. ArtsyScripted
+ 20. SkyCanvas
+ 21. SongbirdRehearsal
+ 22. SongbirdCutesy
+ 23. StarletCutesy
+ 24. SongbirdBanger
+
+========== Generation 2/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SkyCanvas
+  2. SkyCanvas
+  3. StarletCutesy
+  4. SkyMic
+  5. SkyCanvas
+  6. SongbirdRehearsal
+  7. PopCanvas
+  8. SkyCanvas
+  9. SkyMic
+ 10. PopCanvas
+ 11. SkyMuse
+ 12. PopCanvas
+ 13. SkyCanvas
+ 14. SongbirdCutesy
+ 15. SongbirdBanger
+ 16. SpectreCanvas
+ 17. SkyBeatdrop
+ 18. SkyCanvas
+ 19. StarletCutesy
+ 20. SongbirdRehearsal
+ 21. SkyCanvas
+ 22. SongbirdCutesy
+ 23. SongbirdBanger
+ 24. StarletCutesy
+ 25. SkyMic
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. SkyCanvas
+  2. SkyCanvas
+  3. StarletMic
+  4. SkyCutesy
+  5. SkyCanvas
+  6. SongbirdRehearsal
+  7. SkyCanvas
+  8. PopCanvas
+  9. PopMic
+ 10. SkyCanvas
+ 11. SkyCanvas
+ 12. PopMuse
+ 13. SkyCanvas
+ 14. SongbirdCutesy
+ 15. SpectreBanger
+ 16. SongbirdCanvas
+ 17. SkyBeatdrop
+ 18. SkyCanvas
+ 19. SongbirdCutesy
+ 20. StarletRehearsal
+ 21. SkyCanvas
+ 22. SongbirdCutesy
+ 23. StarletCutesy
+ 24. SongbirdBanger
+
+MUTATION
+[Mutation Info]
+Population Diversity: 8.5145
+Adaptive Mutation Rate: 0.0806
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. SkyCanvas
+  2. SkyCanvas
+  3. StarletMic
+  4. SkyCutesy
+  5. SkyCanvas
+  6. SongbirdRehearsal
+  7. SkyCanvas
+  8. PopCanvas
+  9. ColorfulMic
+ 10. SkyNota
+ 11. SkyCanvas
+ 12. RainbowMuse
+ 13. SkyCanvas
+ 14. SongbirdCutesy
+ 15. SpectreBanger
+ 16. SongbirdCanvas
+ 17. SkyDrama
+ 18. SkyCanvas
+ 19. SongbirdCutesy
+ 20. StarletRehearsal
+ 21. SkyCanvas
+ 22. SongbirdCutesy
+ 23. StarletCutesy
+ 24. SongbirdBanger
+
+========== Generation 3/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SkyCanvas
+  2. SkyCanvas
+  3. SkyCanvas
+  4. SkyCanvas
+  5. RainbowMuse
+  6. SongbirdBanger
+  7. SkyCanvas
+  8. RainbowMuse
+  9. SkyCanvas
+ 10. SkyCanvas
+ 11. SkyCanvas
+ 12. RainbowMuse
+ 13. SkyCanvas
+ 14. SkyCanvas
+ 15. SkyDrama
+ 16. SpectreBanger
+ 17. SkyCanvas
+ 18. SkyCanvas
+ 19. SkyCanvas
+ 20. SkyCanvas
+ 21. SkyCanvas
+ 22. SkyCanvas
+ 23. RainbowMuse
+ 24. SongbirdCutesy
+ 25. SkyCanvas
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 8
+No Crossover Pairs: 4
+
+[Offspring after Crossover]
+  1. SkyCanvas
+  2. SkyCanvas
+  3. SkyCanvas
+  4. SkyCanvas
+  5. RainbowMuse
+  6. SongbirdBanger
+  7. SkyCanvas
+  8. RainbowMuse
+  9. SkyCanvas
+ 10. SkyCanvas
+ 11. RainbowCanvas
+ 12. SkyMuse
+ 13. SkyCanvas
+ 14. SkyCanvas
+ 15. SkyDrama
+ 16. SpectreBanger
+ 17. SkyCanvas
+ 18. SkyCanvas
+ 19. SkyCanvas
+ 20. SkyCanvas
+ 21. SkyCanvas
+ 22. SkyCanvas
+ 23. SongbirdCutesy
+ 24. RainbowMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 5.6014
+Adaptive Mutation Rate: 0.0873
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. SkyCanvas
+  2. SkyCanvas
+  3. SkyCanvas
+  4. SkyCanvas
+  5. RainbowMuse
+  6. SongbirdBanger
+  7. SkyCanvas
+  8. RainbowMuse
+  9. BiriteraCanvas
+ 10. FlowsCanvas
+ 11. RainbowCanvas
+ 12. SkyMuse
+ 13. SkyMic
+ 14. SkyCanvas
+ 15. SkyDrama
+ 16. SpectreBanger
+ 17. SkyCanvas
+ 18. CanvasCanvas
+ 19. SkyCanvas
+ 20. SkyCanvas
+ 21. SkyCanvas
+ 22. SkyCanvas
+ 23. RehearsalCutesy
+ 24. DaydreamMuse
+
+========== Generation 4/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. RainbowMuse
+  2. SkyCanvas
+  3. SkyCanvas
+  4. RainbowMuse
+  5. SkyCanvas
+  6. SkyCanvas
+  7. RainbowMuse
+  8. SkyCanvas
+  9. SkyCanvas
+ 10. SkyCanvas
+ 11. SpectreBanger
+ 12. SkyCanvas
+ 13. SkyCanvas
+ 14. SkyMic
+ 15. SkyCanvas
+ 16. RainbowMuse
+ 17. SkyCanvas
+ 18. DaydreamMuse
+ 19. SkyCanvas
+ 20. SkyCanvas
+ 21. SkyCanvas
+ 22. SkyCanvas
+ 23. SkyCanvas
+ 24. SkyMic
+ 25. SkyCanvas
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. SkyMuse
+  2. RainbowCanvas
+  3. RainbowMuse
+  4. SkyCanvas
+  5. SkyCanvas
+  6. SkyCanvas
+  7. SkyCanvas
+  8. RainbowMuse
+  9. SkyCanvas
+ 10. SkyCanvas
+ 11. SkyCanvas
+ 12. SpectreBanger
+ 13. SkyCanvas
+ 14. SkyMic
+ 15. RainbowMuse
+ 16. SkyCanvas
+ 17. DaydreamCanvas
+ 18. SkyMuse
+ 19. SkyCanvas
+ 20. SkyCanvas
+ 21. SkyCanvas
+ 22. SkyCanvas
+ 23. SkyCanvas
+ 24. SkyMic
+
+MUTATION
+[Mutation Info]
+Population Diversity: 5.3551
+Adaptive Mutation Rate: 0.0878
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SkyMuse
+  2. RainbowCanvas
+  3. RainbowMuse
+  4. SkyCanvas
+  5. SkyCanvas
+  6. SkyCanvas
+  7. SkyCanvas
+  8. RainbowMuse
+  9. SpectreCanvas
+ 10. SkyCanvas
+ 11. SkyCanvas
+ 12. SpectreBanger
+ 13. SkyCanvas
+ 14. GlitzInspo
+ 15. RainbowMuse
+ 16. SkyCanvas
+ 17. RunwayCanvas
+ 18. SkyMuse
+ 19. SkyCanvas
+ 20. SkyCanvas
+ 21. SkyCanvas
+ 22. SkyCanvas
+ 23. MuseCanvas
+ 24. SkyMic
+
+========== Generation 5/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SkyCanvas
+  2. SkyCanvas
+  3. SkyCanvas
+  4. SkyCanvas
+  5. RainbowMuse
+  6. SkyCanvas
+  7. SkyCanvas
+  8. SkyCanvas
+  9. RainbowMuse
+ 10. SkyMic
+ 11. RainbowMuse
+ 12. RainbowMuse
+ 13. RainbowMuse
+ 14. SkyCanvas
+ 15. RainbowMuse
+ 16. RainbowMuse
+ 17. RainbowMuse
+ 18. SkyCanvas
+ 19. SkyCanvas
+ 20. SkyCanvas
+ 21. SkyCanvas
+ 22. RainbowMuse
+ 23. SkyCanvas
+ 24. SkyCanvas
+ 25. SkyCanvas
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. SkyCanvas
+  2. SkyCanvas
+  3. SkyCanvas
+  4. SkyCanvas
+  5. SkyCanvas
+  6. RainbowMuse
+  7. SkyCanvas
+  8. SkyCanvas
+  9. SkyMic
+ 10. RainbowMuse
+ 11. RainbowMuse
+ 12. RainbowMuse
+ 13. RainbowCanvas
+ 14. SkyMuse
+ 15. RainbowMuse
+ 16. RainbowMuse
+ 17. SkyMuse
+ 18. RainbowCanvas
+ 19. SkyCanvas
+ 20. SkyCanvas
+ 21. SkyCanvas
+ 22. RainbowMuse
+ 23. SkyCanvas
+ 24. SkyCanvas
+
+MUTATION
+[Mutation Info]
+Population Diversity: 5.6522
+Adaptive Mutation Rate: 0.0872
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. SkyCanvas
+  2. SkyCanvas
+  3. SkyCanvas
+  4. SkyDancerist
+  5. SkyCanvas
+  6. FreestyleMuse
+  7. SkyCanvas
+  8. SkyCanvas
+  9. SkyMic
+ 10. RainbowMuse
+ 11. RainbowMuse
+ 12. RainbowLight
+ 13. RainbowCanvas
+ 14. SkyMuse
+ 15. RainbowMuse
+ 16. RainbowMuse
+ 17. SkyMuse
+ 18. RainbowCanvas
+ 19. SkyCanvas
+ 20. RhythmCanvas
+ 21. SkyCanvas
+ 22. RainbowMuse
+ 23. SkyCanvas
+ 24. SkyCanvas
+
+========== Generation 6/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. SkyCanvas
+  2. SkyCanvas
+  3. SkyCanvas
+  4. RainbowMuse
+  5. SkyMuse
+  6. RainbowMuse
+  7. SkyCanvas
+  8. RainbowMuse
+  9. RainbowMuse
+ 10. RainbowMuse
+ 11. RainbowMuse
+ 12. RainbowMuse
+ 13. SkyCanvas
+ 14. SkyCanvas
+ 15. RainbowMuse
+ 16. RainbowMuse
+ 17. RainbowMuse
+ 18. RainbowMuse
+ 19. RainbowMuse
+ 20. SkyCanvas
+ 21. SkyCanvas
+ 22. RainbowMuse
+ 23. SkyCanvas
+ 24. RainbowMuse
+ 25. SkyCanvas
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. SkyCanvas
+  2. SkyCanvas
+  3. RainbowCanvas
+  4. SkyMuse
+  5. SkyMuse
+  6. RainbowMuse
+  7. SkyMuse
+  8. RainbowCanvas
+  9. RainbowMuse
+ 10. RainbowMuse
+ 11. RainbowMuse
+ 12. RainbowMuse
+ 13. SkyCanvas
+ 14. SkyCanvas
+ 15. RainbowMuse
+ 16. RainbowMuse
+ 17. RainbowMuse
+ 18. RainbowMuse
+ 19. SkyCanvas
+ 20. RainbowMuse
+ 21. SkyCanvas
+ 22. RainbowMuse
+ 23. SkyCanvas
+ 24. RainbowMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 5.5725
+Adaptive Mutation Rate: 0.0873
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SkyCanvas
+  2. SkyCanvas
+  3. RainbowCanvas
+  4. SkyMuse
+  5. SkyMuse
+  6. RainbowFamecore
+  7. SkyMuse
+  8. RainbowCanvas
+  9. RainbowMuse
+ 10. RainbowMuse
+ 11. RainbowMuse
+ 12. DaydreamMuse
+ 13. SkyCanvas
+ 14. SkyCanvas
+ 15. RainbowMuse
+ 16. RainbowMuse
+ 17. DaydreamMuse
+ 18. RainbowTalentadong
+ 19. SkyCanvas
+ 20. RainbowMuse
+ 21. SkyCanvas
+ 22. SoloistMuse
+ 23. SkyCanvas
+ 24. RainbowMuse
+
+========== Generation 7/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. RainbowMuse
+  2. SkyCanvas
+  3. SkyCanvas
+  4. DaydreamMuse
+  5. RainbowMuse
+  6. RainbowMuse
+  7. RainbowMuse
+  8. RainbowMuse
+  9. RainbowMuse
+ 10. SkyCanvas
+ 11. RainbowMuse
+ 12. RainbowMuse
+ 13. SkyCanvas
+ 14. RainbowMuse
+ 15. RainbowMuse
+ 16. RainbowMuse
+ 17. RainbowMuse
+ 18. RainbowMuse
+ 19. RainbowMuse
+ 20. SkyCanvas
+ 21. RainbowMuse
+ 22. SkyMuse
+ 23. RainbowMuse
+ 24. RainbowMuse
+ 25. SkyCanvas
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. RainbowCanvas
+  2. SkyMuse
+  3. DaydreamMuse
+  4. SkyCanvas
+  5. RainbowMuse
+  6. RainbowMuse
+  7. RainbowMuse
+  8. RainbowMuse
+  9. RainbowMuse
+ 10. SkyCanvas
+ 11. RainbowMuse
+ 12. RainbowMuse
+ 13. RainbowCanvas
+ 14. SkyMuse
+ 15. RainbowMuse
+ 16. RainbowMuse
+ 17. RainbowMuse
+ 18. RainbowMuse
+ 19. RainbowCanvas
+ 20. SkyMuse
+ 21. SkyMuse
+ 22. RainbowMuse
+ 23. RainbowMuse
+ 24. RainbowMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 4.8804
+Adaptive Mutation Rate: 0.0889
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. RainbowCanvas
+  2. SkyMuse
+  3. DaydreamMuse
+  4. SkyCanvas
+  5. RainbowMuse
+  6. RainbowMuse
+  7. RainbowMuse
+  8. RainbowMuse
+  9. RainbowMuse
+ 10. SkyCanvas
+ 11. RainbowMuse
+ 12. RainbowInspo
+ 13. TrendishCanvas
+ 14. SkyMuse
+ 15. RainbowMuse
+ 16. RainbowMuse
+ 17. RainbowMuse
+ 18. RainbowMelodrama
+ 19. RainbowCanvas
+ 20. SkyMuse
+ 21. SkyMuse
+ 22. RainbowMuse
+ 23. RainbowMuse
+ 24. RainbowMuse
+
+========== Generation 8/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. RainbowMuse
+  2. RainbowMuse
+  3. RainbowMuse
+  4. RainbowMuse
+  5. RainbowMuse
+  6. RainbowMuse
+  7. SkyCanvas
+  8. DaydreamMuse
+  9. RainbowMuse
+ 10. RainbowMuse
+ 11. RainbowMuse
+ 12. RainbowMuse
+ 13. RainbowMuse
+ 14. RainbowMuse
+ 15. RainbowMuse
+ 16. SkyCanvas
+ 17. RainbowMuse
+ 18. RainbowMuse
+ 19. RainbowMuse
+ 20. RainbowMuse
+ 21. RainbowMuse
+ 22. RainbowMuse
+ 23. RainbowMuse
+ 24. RainbowMuse
+ 25. SkyCanvas
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. RainbowMuse
+  2. RainbowMuse
+  3. RainbowMuse
+  4. RainbowMuse
+  5. RainbowMuse
+  6. RainbowMuse
+  7. SkyCanvas
+  8. DaydreamMuse
+  9. RainbowMuse
+ 10. RainbowMuse
+ 11. RainbowMuse
+ 12. RainbowMuse
+ 13. RainbowMuse
+ 14. RainbowMuse
+ 15. RainbowMuse
+ 16. SkyCanvas
+ 17. RainbowMuse
+ 18. RainbowMuse
+ 19. RainbowMuse
+ 20. RainbowMuse
+ 21. RainbowMuse
+ 22. RainbowMuse
+ 23. RainbowMuse
+ 24. RainbowMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 2.1196
+Adaptive Mutation Rate: 0.0952
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. RainbowMuse
+  2. RainbowMuse
+  3. RainbowMuse
+  4. RainbowMuse
+  5. RainbowMuse
+  6. RainbowFreestyle
+  7. SkyCanvas
+  8. DaydreamMuse
+  9. RainbowMuse
+ 10. RainbowMuse
+ 11. RainbowMuse
+ 12. RainbowMuse
+ 13. RainbowMuse
+ 14. RainbowMuse
+ 15. RainbowMuse
+ 16. SkyCanvas
+ 17. RainbowBoom
+ 18. RainbowMuse
+ 19. RainbowMuse
+ 20. RainbowMuse
+ 21. MelodramaMuse
+ 22. RainbowMuse
+ 23. RainbowMuse
+ 24. RainbowMuse
+
+========== Generation 9/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. RainbowMuse
+  2. RainbowMuse
+  3. RainbowMuse
+  4. RainbowMuse
+  5. RainbowMuse
+  6. RainbowMuse
+  7. RainbowMuse
+  8. RainbowMuse
+  9. RainbowMuse
+ 10. RainbowMuse
+ 11. RainbowMuse
+ 12. RainbowMuse
+ 13. RainbowMuse
+ 14. RainbowMuse
+ 15. RainbowMuse
+ 16. RainbowMuse
+ 17. RainbowMuse
+ 18. RainbowMuse
+ 19. RainbowMuse
+ 20. RainbowMuse
+ 21. RainbowMuse
+ 22. RainbowMuse
+ 23. RainbowMuse
+ 24. RainbowMuse
+ 25. RainbowMuse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. RainbowMuse
+  2. RainbowMuse
+  3. RainbowMuse
+  4. RainbowMuse
+  5. RainbowMuse
+  6. RainbowMuse
+  7. RainbowMuse
+  8. RainbowMuse
+  9. RainbowMuse
+ 10. RainbowMuse
+ 11. RainbowMuse
+ 12. RainbowMuse
+ 13. RainbowMuse
+ 14. RainbowMuse
+ 15. RainbowMuse
+ 16. RainbowMuse
+ 17. RainbowMuse
+ 18. RainbowMuse
+ 19. RainbowMuse
+ 20. RainbowMuse
+ 21. RainbowMuse
+ 22. RainbowMuse
+ 23. RainbowMuse
+ 24. RainbowMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. RainbowMuse
+  2. RainbowMuse
+  3. RainbowMuse
+  4. RainbowMuse
+  5. RainbowMuse
+  6. RainbowMuse
+  7. RainbowMuse
+  8. RainbowMuse
+  9. RainbowGlitz
+ 10. RainbowMuse
+ 11. RainbowMuse
+ 12. RainbowHype
+ 13. RainbowMuse
+ 14. RainbowSingular
+ 15. RainbowMuse
+ 16. RainbowMuse
+ 17. RainbowMuse
+ 18. RainbowMuse
+ 19. RainbowMuse
+ 20. RainbowMuse
+ 21. RainbowMuse
+ 22. RainbowMuse
+ 23. RainbowMuse
+ 24. RainbowMuse
+
+========== Generation 10/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. RainbowMuse
+  2. RainbowMuse
+  3. RainbowMuse
+  4. RainbowMuse
+  5. RainbowMuse
+  6. RainbowMuse
+  7. RainbowMuse
+  8. RainbowMuse
+  9. RainbowMuse
+ 10. RainbowMuse
+ 11. RainbowMuse
+ 12. RainbowMuse
+ 13. RainbowMuse
+ 14. RainbowMuse
+ 15. RainbowMuse
+ 16. RainbowMuse
+ 17. RainbowMuse
+ 18. RainbowMuse
+ 19. RainbowMuse
+ 20. RainbowMuse
+ 21. RainbowMuse
+ 22. RainbowMuse
+ 23. RainbowMuse
+ 24. RainbowMuse
+ 25. RainbowMuse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. RainbowMuse
+  2. RainbowMuse
+  3. RainbowMuse
+  4. RainbowMuse
+  5. RainbowMuse
+  6. RainbowMuse
+  7. RainbowMuse
+  8. RainbowMuse
+  9. RainbowMuse
+ 10. RainbowMuse
+ 11. RainbowMuse
+ 12. RainbowMuse
+ 13. RainbowMuse
+ 14. RainbowMuse
+ 15. RainbowMuse
+ 16. RainbowMuse
+ 17. RainbowMuse
+ 18. RainbowMuse
+ 19. RainbowMuse
+ 20. RainbowMuse
+ 21. RainbowMuse
+ 22. RainbowMuse
+ 23. RainbowMuse
+ 24. RainbowMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. RainbowMuse
+  2. RainbowMuse
+  3. RainbowMuse
+  4. RainbowMuse
+  5. RainbowMuse
+  6. RainbowMuse
+  7. RainbowMuse
+  8. RainbowMuse
+  9. RainbowSnatched
+ 10. RainbowPaintMode
+ 11. RainbowMuse
+ 12. RainbowMuse
+ 13. RainbowVibes
+ 14. RainbowMuse
+ 15. RainbowMuse
+ 16. RainbowMuse
+ 17. RainbowMuse
+ 18. RainbowMuse
+ 19. RainbowMuse
+ 20. RainbowMuse
+ 21. RainbowMuse
+ 22. RainbowMuse
+ 23. RainbowPaintMode
+ 24. RainbowMuse
+
+========== Generation 11/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. RainbowMuse
+  2. RainbowMuse
+  3. RainbowMuse
+  4. RainbowMuse
+  5. RainbowMuse
+  6. RainbowMuse
+  7. RainbowMuse
+  8. RainbowMuse
+  9. RainbowMuse
+ 10. RainbowMuse
+ 11. RainbowMuse
+ 12. RainbowMuse
+ 13. RainbowMuse
+ 14. RainbowMuse
+ 15. RainbowMuse
+ 16. RainbowMuse
+ 17. RainbowMuse
+ 18. RainbowMuse
+ 19. RainbowMuse
+ 20. RainbowMuse
+ 21. RainbowMuse
+ 22. RainbowMuse
+ 23. RainbowMuse
+ 24. RainbowMuse
+ 25. RainbowMuse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. RainbowMuse
+  2. RainbowMuse
+  3. RainbowMuse
+  4. RainbowMuse
+  5. RainbowMuse
+  6. RainbowMuse
+  7. RainbowMuse
+  8. RainbowMuse
+  9. RainbowMuse
+ 10. RainbowMuse
+ 11. RainbowMuse
+ 12. RainbowMuse
+ 13. RainbowMuse
+ 14. RainbowMuse
+ 15. RainbowMuse
+ 16. RainbowMuse
+ 17. RainbowMuse
+ 18. RainbowMuse
+ 19. RainbowMuse
+ 20. RainbowMuse
+ 21. RainbowMuse
+ 22. RainbowMuse
+ 23. RainbowMuse
+ 24. RainbowMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. RainbowMuse
+  2. RainbowMuse
+  3. RainbowMuse
+  4. RainbowMuse
+  5. RainbowMuse
+  6. RunwayMuse
+  7. RainbowMuse
+  8. RainbowMuse
+  9. RainbowMuse
+ 10. BopsicleMuse
+ 11. RainbowMuse
+ 12. RainbowMuse
+ 13. RainbowMuse
+ 14. RainbowMuse
+ 15. RainbowMuse
+ 16. RainbowMuse
+ 17. RainbowMuse
+ 18. RainbowMuse
+ 19. RainbowMuse
+ 20. RainbowMuse
+ 21. RainbowMuse
+ 22. RainbowMuse
+ 23. RainbowMuse
+ 24. RainbowMuse
+
+========== Generation 12/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. RainbowMuse
+  2. RainbowMuse
+  3. RainbowMuse
+  4. RainbowMuse
+  5. RainbowMuse
+  6. RainbowMuse
+  7. RainbowMuse
+  8. RainbowMuse
+  9. RainbowMuse
+ 10. RainbowMuse
+ 11. RainbowMuse
+ 12. RainbowMuse
+ 13. RainbowMuse
+ 14. RainbowMuse
+ 15. RainbowMuse
+ 16. RainbowMuse
+ 17. RainbowMuse
+ 18. RainbowMuse
+ 19. RainbowMuse
+ 20. RainbowMuse
+ 21. RainbowMuse
+ 22. RainbowMuse
+ 23. RainbowMuse
+ 24. RainbowMuse
+ 25. RainbowMuse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 6
+No Crossover Pairs: 6
+
+[Offspring after Crossover]
+  1. RainbowMuse
+  2. RainbowMuse
+  3. RainbowMuse
+  4. RainbowMuse
+  5. RainbowMuse
+  6. RainbowMuse
+  7. RainbowMuse
+  8. RainbowMuse
+  9. RainbowMuse
+ 10. RainbowMuse
+ 11. RainbowMuse
+ 12. RainbowMuse
+ 13. RainbowMuse
+ 14. RainbowMuse
+ 15. RainbowMuse
+ 16. RainbowMuse
+ 17. RainbowMuse
+ 18. RainbowMuse
+ 19. RainbowMuse
+ 20. RainbowMuse
+ 21. RainbowMuse
+ 22. RainbowMuse
+ 23. RainbowMuse
+ 24. RainbowMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. RainbowMuse
+  2. RainbowMuse
+  3. RainbowDancerist
+  4. RainbowMuse
+  5. RainbowMuse
+  6. RainbowMuse
+  7. RehearsalMuse
+  8. RainbowBoom
+  9. RainbowMuse
+ 10. RainbowMuse
+ 11. RainbowMuse
+ 12. RainbowMuse
+ 13. RainbowMuse
+ 14. RainbowMuse
+ 15. RainbowMuse
+ 16. RainbowMuse
+ 17. RainbowMuse
+ 18. RainbowMuse
+ 19. RainbowMuse
+ 20. RainbowMuse
+ 21. RainbowMuse
+ 22. RainbowMuse
+ 23. RainbowMuse
+ 24. RainbowMuse
+
+========== Generation 13/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. RainbowMuse
+  2. RainbowMuse
+  3. RainbowMuse
+  4. RainbowMuse
+  5. RainbowMuse
+  6. RainbowMuse
+  7. RainbowMuse
+  8. RainbowMuse
+  9. RainbowMuse
+ 10. RainbowMuse
+ 11. RainbowMuse
+ 12. RainbowMuse
+ 13. RainbowMuse
+ 14. RainbowMuse
+ 15. RainbowMuse
+ 16. RainbowMuse
+ 17. RainbowMuse
+ 18. RainbowMuse
+ 19. RainbowMuse
+ 20. RainbowMuse
+ 21. RainbowMuse
+ 22. RainbowMuse
+ 23. RainbowMuse
+ 24. RainbowMuse
+ 25. RainbowMuse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. RainbowMuse
+  2. RainbowMuse
+  3. RainbowMuse
+  4. RainbowMuse
+  5. RainbowMuse
+  6. RainbowMuse
+  7. RainbowMuse
+  8. RainbowMuse
+  9. RainbowMuse
+ 10. RainbowMuse
+ 11. RainbowMuse
+ 12. RainbowMuse
+ 13. RainbowMuse
+ 14. RainbowMuse
+ 15. RainbowMuse
+ 16. RainbowMuse
+ 17. RainbowMuse
+ 18. RainbowMuse
+ 19. RainbowMuse
+ 20. RainbowMuse
+ 21. RainbowMuse
+ 22. RainbowMuse
+ 23. RainbowMuse
+ 24. RainbowMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. RainbowMuse
+  2. RainbowMuse
+  3. RainbowTrendish
+  4. RainbowMuse
+  5. RainbowMuse
+  6. RainbowMuse
+  7. RainbowMuse
+  8. RainbowMuse
+  9. ConfettiMuse
+ 10. EncoreMuse
+ 11. RainbowMuse
+ 12. RainbowMuse
+ 13. RainbowMuse
+ 14. RainbowMuse
+ 15. RainbowMuse
+ 16. RainbowMuse
+ 17. RainbowMuse
+ 18. RainbowMuse
+ 19. RainbowMuse
+ 20. RainbowMuse
+ 21. RainbowMuse
+ 22. RainbowMuse
+ 23. RainbowMuse
+ 24. RainbowMuse
+
+========== Generation 14/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. RainbowMuse
+  2. RainbowMuse
+  3. RainbowMuse
+  4. RainbowMuse
+  5. RainbowMuse
+  6. RainbowMuse
+  7. RainbowMuse
+  8. RainbowMuse
+  9. RainbowMuse
+ 10. RainbowMuse
+ 11. RainbowMuse
+ 12. RainbowMuse
+ 13. RainbowMuse
+ 14. RainbowMuse
+ 15. RainbowMuse
+ 16. RainbowMuse
+ 17. RainbowMuse
+ 18. RainbowMuse
+ 19. RainbowMuse
+ 20. RainbowMuse
+ 21. RainbowMuse
+ 22. RainbowMuse
+ 23. RainbowMuse
+ 24. RainbowMuse
+ 25. RainbowMuse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. RainbowMuse
+  2. RainbowMuse
+  3. RainbowMuse
+  4. RainbowMuse
+  5. RainbowMuse
+  6. RainbowMuse
+  7. RainbowMuse
+  8. RainbowMuse
+  9. RainbowMuse
+ 10. RainbowMuse
+ 11. RainbowMuse
+ 12. RainbowMuse
+ 13. RainbowMuse
+ 14. RainbowMuse
+ 15. RainbowMuse
+ 16. RainbowMuse
+ 17. RainbowMuse
+ 18. RainbowMuse
+ 19. RainbowMuse
+ 20. RainbowMuse
+ 21. RainbowMuse
+ 22. RainbowMuse
+ 23. RainbowMuse
+ 24. RainbowMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. RainbowMuse
+  2. RainbowMuse
+  3. RainbowMuse
+  4. RainbowMuse
+  5. RainbowMuse
+  6. RainbowMuse
+  7. RainbowMuse
+  8. RainbowMuse
+  9. RainbowMuse
+ 10. RainbowMuse
+ 11. RainbowMuse
+ 12. RainbowMuse
+ 13. RainbowMuse
+ 14. RainbowMuse
+ 15. RainbowMuse
+ 16. RainbowMuse
+ 17. RainbowMuse
+ 18. RainbowMuse
+ 19. RainbowMuse
+ 20. RainbowScribbles
+ 21. RainbowMuse
+ 22. RainbowMuse
+ 23. RainbowSongbird
+ 24. BiriteraMuse
+
+========== Generation 15/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. RainbowMuse
+  2. RainbowMuse
+  3. RainbowMuse
+  4. RainbowMuse
+  5. RainbowMuse
+  6. RainbowMuse
+  7. RainbowMuse
+  8. BiriteraMuse
+  9. RainbowMuse
+ 10. RainbowMuse
+ 11. RainbowMuse
+ 12. RainbowMuse
+ 13. RainbowMuse
+ 14. RainbowMuse
+ 15. RainbowMuse
+ 16. RainbowMuse
+ 17. RainbowMuse
+ 18. RainbowMuse
+ 19. RainbowMuse
+ 20. RainbowMuse
+ 21. RainbowMuse
+ 22. RainbowMuse
+ 23. RainbowMuse
+ 24. RainbowMuse
+ 25. RainbowMuse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. RainbowMuse
+  2. RainbowMuse
+  3. RainbowMuse
+  4. RainbowMuse
+  5. RainbowMuse
+  6. RainbowMuse
+  7. BiriteraMuse
+  8. RainbowMuse
+  9. RainbowMuse
+ 10. RainbowMuse
+ 11. RainbowMuse
+ 12. RainbowMuse
+ 13. RainbowMuse
+ 14. RainbowMuse
+ 15. RainbowMuse
+ 16. RainbowMuse
+ 17. RainbowMuse
+ 18. RainbowMuse
+ 19. RainbowMuse
+ 20. RainbowMuse
+ 21. RainbowMuse
+ 22. RainbowMuse
+ 23. RainbowMuse
+ 24. RainbowMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5833
+Adaptive Mutation Rate: 0.0987
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. RainbowMuse
+  2. RainbowMuse
+  3. RainbowMuse
+  4. RainbowMuse
+  5. RainbowMuse
+  6. RainbowMuse
+  7. BiriteraMuse
+  8. RainbowMuse
+  9. SlaynoteMuse
+ 10. RainbowMuse
+ 11. RainbowDancerist
+ 12. RainbowMuse
+ 13. RainbowMuse
+ 14. RainbowMuse
+ 15. RainbowMuse
+ 16. RainbowMuse
+ 17. RainbowHeartbeats
+ 18. RainbowMuse
+ 19. RainbowMuse
+ 20. RainbowMuse
+ 21. RainbowMuse
+ 22. RainbowMuse
+ 23. RainbowMuse
+ 24. RainbowMuse
+
+========== Generation 16/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. RainbowMuse
+  2. RainbowMuse
+  3. RainbowMuse
+  4. RainbowMuse
+  5. RainbowMuse
+  6. RainbowMuse
+  7. RainbowMuse
+  8. RainbowMuse
+  9. RainbowMuse
+ 10. RainbowMuse
+ 11. RainbowMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. RainbowMuse
+ 15. RainbowMuse
+ 16. RainbowMuse
+ 17. RainbowMuse
+ 18. RainbowMuse
+ 19. RainbowMuse
+ 20. BiriteraMuse
+ 21. RainbowMuse
+ 22. RainbowMuse
+ 23. RainbowMuse
+ 24. RainbowMuse
+ 25. RainbowMuse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. RainbowMuse
+  2. RainbowMuse
+  3. RainbowMuse
+  4. RainbowMuse
+  5. RainbowMuse
+  6. RainbowMuse
+  7. RainbowMuse
+  8. RainbowMuse
+  9. RainbowMuse
+ 10. RainbowMuse
+ 11. BiriteraMuse
+ 12. RainbowMuse
+ 13. RainbowMuse
+ 14. BiriteraMuse
+ 15. RainbowMuse
+ 16. RainbowMuse
+ 17. RainbowMuse
+ 18. RainbowMuse
+ 19. RainbowMuse
+ 20. BiriteraMuse
+ 21. RainbowMuse
+ 22. RainbowMuse
+ 23. RainbowMuse
+ 24. RainbowMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.5978
+Adaptive Mutation Rate: 0.0964
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. RainbowMuse
+  2. RainbowMuse
+  3. RainbowMuse
+  4. RainbowMuse
+  5. RainbowMuse
+  6. BackstageMuse
+  7. RainbowMuse
+  8. RainbowMuse
+  9. PreshowMuse
+ 10. RainbowMuse
+ 11. FamecoreMuse
+ 12. RainbowMuse
+ 13. RainbowMuse
+ 14. BiriteraBubble
+ 15. RainbowMuse
+ 16. RainbowMuse
+ 17. RainbowMuse
+ 18. RainbowMuse
+ 19. VibesMuse
+ 20. BiriteraMuse
+ 21. MelodramaMuse
+ 22. RainbowMuse
+ 23. RainbowMuse
+ 24. DrawerMuse
+
+========== Generation 17/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BiriteraMuse
+  2. RainbowMuse
+  3. RainbowMuse
+  4. FamecoreMuse
+  5. FamecoreMuse
+  6. FamecoreMuse
+  7. RainbowMuse
+  8. RainbowMuse
+  9. RainbowMuse
+ 10. RainbowMuse
+ 11. RainbowMuse
+ 12. RainbowMuse
+ 13. RainbowMuse
+ 14. RainbowMuse
+ 15. FamecoreMuse
+ 16. BiriteraMuse
+ 17. RainbowMuse
+ 18. FamecoreMuse
+ 19. BiriteraMuse
+ 20. RainbowMuse
+ 21. FamecoreMuse
+ 22. RainbowMuse
+ 23. FamecoreMuse
+ 24. BiriteraMuse
+ 25. RainbowMuse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BiriteraMuse
+  2. RainbowMuse
+  3. FamecoreMuse
+  4. RainbowMuse
+  5. FamecoreMuse
+  6. FamecoreMuse
+  7. RainbowMuse
+  8. RainbowMuse
+  9. RainbowMuse
+ 10. RainbowMuse
+ 11. RainbowMuse
+ 12. RainbowMuse
+ 13. RainbowMuse
+ 14. RainbowMuse
+ 15. FamecoreMuse
+ 16. BiriteraMuse
+ 17. FamecoreMuse
+ 18. RainbowMuse
+ 19. BiriteraMuse
+ 20. RainbowMuse
+ 21. FamecoreMuse
+ 22. RainbowMuse
+ 23. FamecoreMuse
+ 24. BiriteraMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 4.0072
+Adaptive Mutation Rate: 0.0909
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. RainbowMuse
+  2. RainbowMuse
+  3. ChoreoMuse
+  4. RainbowScreentime
+  5. MoodboardMuse
+  6. FamecoreMuse
+  7. RainbowMuse
+  8. RainbowMuse
+  9. RainbowMuse
+ 10. RainbowMuse
+ 11. RainbowMuse
+ 12. AestheticMuse
+ 13. RainbowMuse
+ 14. RainbowMuse
+ 15. FamecoreMuse
+ 16. BiriteraMuse
+ 17. FamecoreMuse
+ 18. RainbowMuse
+ 19. BiriteraMuse
+ 20. RainbowMuse
+ 21. RunwayMuse
+ 22. RainbowMuse
+ 23. FamecoreMuse
+ 24. BiriteraMuse
+
+========== Generation 18/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. FamecoreMuse
+  2. BiriteraMuse
+  3. RainbowMuse
+  4. RainbowMuse
+  5. BiriteraMuse
+  6. RainbowMuse
+  7. BiriteraMuse
+  8. FamecoreMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. MoodboardMuse
+ 12. BiriteraMuse
+ 13. RainbowMuse
+ 14. MoodboardMuse
+ 15. FamecoreMuse
+ 16. BiriteraMuse
+ 17. FamecoreMuse
+ 18. FamecoreMuse
+ 19. FamecoreMuse
+ 20. RainbowMuse
+ 21. BiriteraMuse
+ 22. FamecoreMuse
+ 23. FamecoreMuse
+ 24. BiriteraMuse
+ 25. FamecoreMuse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BiriteraMuse
+  2. FamecoreMuse
+  3. RainbowMuse
+  4. RainbowMuse
+  5. RainbowMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. FamecoreMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. MoodboardMuse
+ 12. BiriteraMuse
+ 13. RainbowMuse
+ 14. MoodboardMuse
+ 15. BiriteraMuse
+ 16. FamecoreMuse
+ 17. FamecoreMuse
+ 18. FamecoreMuse
+ 19. FamecoreMuse
+ 20. RainbowMuse
+ 21. FamecoreMuse
+ 22. BiriteraMuse
+ 23. FamecoreMuse
+ 24. BiriteraMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 5.0181
+Adaptive Mutation Rate: 0.0886
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. BiriteraMuse
+  2. FamecoreMuse
+  3. RainbowMuse
+  4. HarmonixMuse
+  5. RainbowMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. FamecoreMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. MoodboardMuse
+ 12. CanvasMuse
+ 13. RainbowMuse
+ 14. MoodboardMuse
+ 15. BiriteraMuse
+ 16. FamecoreMuse
+ 17. FamecoreMuse
+ 18. FamecoreMuse
+ 19. ArtcrushMuse
+ 20. DramaticMuse
+ 21. ScriptedMuse
+ 22. BiriteraMuse
+ 23. CreativeMuse
+ 24. SnatchedMuse
+
+========== Generation 19/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. RainbowMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. FamecoreMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. CanvasMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. MoodboardMuse
+ 25. BiriteraMuse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. RainbowMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. FamecoreMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. CanvasMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. MoodboardMuse
+ 24. BiriteraMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 2.3188
+Adaptive Mutation Rate: 0.0947
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. RainbowMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. FamecoreMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. CanvasMuse
+ 14. BiriteraMuse
+ 15. BiriteraNoted
+ 16. BiriteraCanvas
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. MoodboardMuse
+ 24. BiriteraMuse
+
+========== Generation 20/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. RainbowMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. RainbowMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+ 25. BiriteraMuse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. RainbowMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. RainbowMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.1159
+Adaptive Mutation Rate: 0.0975
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. RainbowMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. HitmakerMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. LyricistMuse
+ 17. RainbowMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+========== Generation 21/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+ 25. BiriteraMuse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. FeelmakerMuse
+  9. TalentishMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. IconicMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+========== Generation 22/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+ 25. BiriteraMuse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. BiriteraConfetti
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. SpectreMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraHarmonix
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. FamecoreMuse
+ 14. VibesMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+========== Generation 23/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+ 25. BiriteraMuse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. DaydreamVerse
+  4. BiriteraPlaylist
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BubbleMuse
+ 16. BiriteraTrendish
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraBanger
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. HitmakerMuse
+
+========== Generation 24/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+ 25. BiriteraBanger
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. BiriteraMusic
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraTalentish
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. RainbowMuse
+ 18. BiriteraMuse
+ 19. SoloistMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. HarmonixMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+========== Generation 25/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+ 25. BiriteraMuse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. InspoMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. CanvasMuse
+ 16. BiriteraSpotlight
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+========== Generation 26/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+ 25. BiriteraMuse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. BiriteraMuse
+  2. InspoMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. FlowsMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraTalentish
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraRainbow
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. InspoMuse
+
+========== Generation 27/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+ 25. BiriteraMuse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. SoloistMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraNota
+ 14. BiriteraIconic
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. ArtcrushMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraSingular
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+========== Generation 28/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+ 25. BiriteraMuse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraBeatdrop
+ 11. BiriteraEncore
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. ArtcrushMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. ScreentimeMicrophone
+ 24. BiriteraMuse
+
+========== Generation 29/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+ 25. BiriteraMuse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraSpotlight
+ 15. BiriteraMuse
+ 16. BiriteraStarlet
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+========== Generation 30/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+ 25. BiriteraMuse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. BiriteraScripted
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. PerformerMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraBelter
+ 14. CreativeMuse
+ 15. BiriteraPlaylist
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraArtcrush
+ 20. BiriteraMuse
+ 21. BackstageMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. SoloistMuse
+
+========== Generation 31/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraScripted
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+ 25. BiriteraMuse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraScripted
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5833
+Adaptive Mutation Rate: 0.0987
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. HarmonyMuse
+  2. BubbleMuse
+  3. BiriteraMuse
+  4. BiriteraScripted
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. NotaMuse
+  9. BiriteraMuse
+ 10. VibesMuse
+ 11. BiriteraNota
+ 12. BiriteraMuse
+ 13. BiriteraBelter
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BreakdanceMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+========== Generation 32/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraScripted
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+ 25. BiriteraMuse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraScripted
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5833
+Adaptive Mutation Rate: 0.0987
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraScripted
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. HeartbeatsMuse
+ 10. MelodramaMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. RunwayMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. StarletScreentime
+ 24. BiriteraHitmaker
+
+========== Generation 33/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+ 25. BiriteraMuse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. PaintModeMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraSky
+ 19. ScriptedMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+========== Generation 34/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+ 25. BiriteraMuse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. SongbirdMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BoomMuse
+ 11. BiriteraMuse
+ 12. BiriteraRainbow
+ 13. BiriteraMuse
+ 14. BiriteraEncore
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraFamecore
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+========== Generation 35/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+ 25. BiriteraMuse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMelodrama
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraRunway
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraColorful
+ 16. BiriteraMuse
+ 17. FreestyleMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. MicMuse
+ 23. BiriteraScripted
+ 24. BiriteraMuse
+
+========== Generation 36/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+ 25. BiriteraMuse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraPreshow
+  4. BiriteraHarmony
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. GlitzMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraPlaylist
+ 12. BiriteraArtcrush
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraFreestyle
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+========== Generation 37/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+ 25. BiriteraMuse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. ReginePop
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraBanger
+ 20. BiriteraMuse
+ 21. BiriteraVocalist
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+========== Generation 38/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+ 25. BiriteraMuse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraSpotlight
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. LightMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraSlaynote
+ 24. BiriteraRhythm
+
+========== Generation 39/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraRhythm
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraRhythm
+ 18. BiriteraRhythm
+ 19. BiriteraRhythm
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+ 25. BiriteraMuse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraRhythm
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraRhythm
+ 18. BiriteraRhythm
+ 19. BiriteraRhythm
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.7391
+Adaptive Mutation Rate: 0.0960
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. BiriteraMuse
+  2. BiriteraHitmaker
+  3. BiriteraRainbow
+  4. BiriteraBackstage
+  5. BiriteraMuse
+  6. DramaMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraAesthetic
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraRhythm
+ 18. BiriteraRhythm
+ 19. BiriteraHarmony
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+========== Generation 40/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraHarmony
+  5. BiriteraMuse
+  6. BiriteraRhythm
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraRhythm
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraRhythm
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+ 25. BiriteraRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BiriteraMuse
+  2. BiriteraMuse
+  3. BiriteraHarmony
+  4. BiriteraMuse
+  5. BiriteraRhythm
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraRhythm
+ 19. BiriteraRhythm
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.8877
+Adaptive Mutation Rate: 0.0957
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. RunwayMuse
+  2. BiriteraMuse
+  3. BiriteraHarmony
+  4. BiriteraMuse
+  5. CutesyRhythm
+  6. BiriteraMuse
+  7. BiriteraMuse
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraRhythm
+ 19. BiriteraRhythm
+ 20. BubbleMuse
+ 21. BiriteraMuse
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+========== Generation 41/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BiriteraMuse
+  2. BiriteraRhythm
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraRhythm
+  8. BiriteraMuse
+  9. BiriteraRhythm
+ 10. BiriteraMuse
+ 11. BiriteraMuse
+ 12. BiriteraRhythm
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraRhythm
+ 21. BiriteraRhythm
+ 22. BiriteraMuse
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+ 25. BiriteraMuse
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. BiriteraRhythm
+  2. BiriteraMuse
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. BiriteraRhythm
+  8. BiriteraMuse
+  9. BiriteraMuse
+ 10. BiriteraRhythm
+ 11. BiriteraRhythm
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraRhythm
+ 21. BiriteraMuse
+ 22. BiriteraRhythm
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 2.3478
+Adaptive Mutation Rate: 0.0947
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. BiriteraRhythm
+  2. BiriteraSpotlight
+  3. BiriteraMuse
+  4. BiriteraMuse
+  5. BiriteraMuse
+  6. BiriteraMuse
+  7. ArtcrushRhythm
+  8. BiriteraSonger
+  9. SoloistMuse
+ 10. BiriteraRhythm
+ 11. BiriteraRhythm
+ 12. DanceristMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraMuse
+ 20. BiriteraRhythm
+ 21. FreestyleSky
+ 22. BiriteraRhythm
+ 23. ScriptedMuse
+ 24. BiriteraMuse
+
+========== Generation 42/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BiriteraRhythm
+  2. BiriteraMuse
+  3. BiriteraRhythm
+  4. BiriteraMuse
+  5. BiriteraRhythm
+  6. BiriteraRhythm
+  7. BiriteraRhythm
+  8. BiriteraMuse
+  9. BiriteraRhythm
+ 10. BiriteraRhythm
+ 11. BiriteraRhythm
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraRhythm
+ 16. BiriteraMuse
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraRhythm
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraRhythm
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+ 25. BiriteraRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BiriteraMuse
+  2. BiriteraRhythm
+  3. BiriteraRhythm
+  4. BiriteraMuse
+  5. BiriteraRhythm
+  6. BiriteraRhythm
+  7. BiriteraRhythm
+  8. BiriteraMuse
+  9. BiriteraRhythm
+ 10. BiriteraRhythm
+ 11. BiriteraRhythm
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraRhythm
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraRhythm
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraRhythm
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 3.1087
+Adaptive Mutation Rate: 0.0929
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. BiriteraMuse
+  2. BiriteraRhythm
+  3. BiriteraRhythm
+  4. BiriteraMuse
+  5. BiriteraRhythm
+  6. BiriteraRhythm
+  7. BiriteraRhythm
+  8. BiriteraTrendish
+  9. BiriteraScreentime
+ 10. BiriteraRhythm
+ 11. BiriteraRhythm
+ 12. BiriteraMuse
+ 13. BiriteraMuse
+ 14. BiriteraMuse
+ 15. BiriteraMuse
+ 16. BiriteraRhythm
+ 17. BiriteraMuse
+ 18. BiriteraMuse
+ 19. BiriteraRhythm
+ 20. BiriteraMuse
+ 21. BiriteraMuse
+ 22. BiriteraRhythm
+ 23. BiriteraMuse
+ 24. BiriteraMuse
+
+========== Generation 43/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BiriteraMuse
+  2. BiriteraRhythm
+  3. BiriteraRhythm
+  4. BiriteraRhythm
+  5. BiriteraRhythm
+  6. BiriteraRhythm
+  7. BiriteraRhythm
+  8. BiriteraRhythm
+  9. BiriteraRhythm
+ 10. BiriteraRhythm
+ 11. BiriteraRhythm
+ 12. BiriteraRhythm
+ 13. BiriteraRhythm
+ 14. BiriteraRhythm
+ 15. BiriteraRhythm
+ 16. BiriteraRhythm
+ 17. BiriteraRhythm
+ 18. BiriteraRhythm
+ 19. BiriteraRhythm
+ 20. BiriteraMuse
+ 21. BiriteraRhythm
+ 22. BiriteraRhythm
+ 23. BiriteraRhythm
+ 24. BiriteraMuse
+ 25. BiriteraRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BiriteraRhythm
+  2. BiriteraMuse
+  3. BiriteraRhythm
+  4. BiriteraRhythm
+  5. BiriteraRhythm
+  6. BiriteraRhythm
+  7. BiriteraRhythm
+  8. BiriteraRhythm
+  9. BiriteraRhythm
+ 10. BiriteraRhythm
+ 11. BiriteraRhythm
+ 12. BiriteraRhythm
+ 13. BiriteraRhythm
+ 14. BiriteraRhythm
+ 15. BiriteraRhythm
+ 16. BiriteraRhythm
+ 17. BiriteraRhythm
+ 18. BiriteraRhythm
+ 19. BiriteraMuse
+ 20. BiriteraRhythm
+ 21. BiriteraRhythm
+ 22. BiriteraRhythm
+ 23. BiriteraRhythm
+ 24. BiriteraMuse
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.3696
+Adaptive Mutation Rate: 0.0969
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. BiriteraRhythm
+  2. BiriteraMuse
+  3. BiriteraRhythm
+  4. MicRhythm
+  5. BiriteraRhythm
+  6. MusicRhythm
+  7. BiriteraRhythm
+  8. BiriteraRhythm
+  9. BiriteraRhythm
+ 10. BiriteraRhythm
+ 11. BiriteraRhythm
+ 12. BiriteraRhythm
+ 13. BiriteraRhythm
+ 14. BiriteraRhythm
+ 15. BiriteraRhythm
+ 16. BiriteraRhythm
+ 17. BiriteraRhythm
+ 18. BiriteraRhythm
+ 19. BiriteraMuse
+ 20. BiriteraRhythm
+ 21. BiriteraRhythm
+ 22. BiriteraRhythm
+ 23. BiriteraRhythm
+ 24. BiriteraMuse
+
+========== Generation 44/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BiriteraRhythm
+  2. BiriteraRhythm
+  3. BiriteraRhythm
+  4. BiriteraRhythm
+  5. BiriteraRhythm
+  6. BiriteraRhythm
+  7. BiriteraRhythm
+  8. BiriteraRhythm
+  9. BiriteraRhythm
+ 10. BiriteraRhythm
+ 11. BiriteraRhythm
+ 12. BiriteraRhythm
+ 13. BiriteraRhythm
+ 14. BiriteraRhythm
+ 15. BiriteraRhythm
+ 16. BiriteraRhythm
+ 17. BiriteraRhythm
+ 18. BiriteraRhythm
+ 19. BiriteraRhythm
+ 20. BiriteraRhythm
+ 21. BiriteraRhythm
+ 22. BiriteraRhythm
+ 23. BiriteraRhythm
+ 24. BiriteraRhythm
+ 25. BiriteraRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. BiriteraRhythm
+  2. BiriteraRhythm
+  3. BiriteraRhythm
+  4. BiriteraRhythm
+  5. BiriteraRhythm
+  6. BiriteraRhythm
+  7. BiriteraRhythm
+  8. BiriteraRhythm
+  9. BiriteraRhythm
+ 10. BiriteraRhythm
+ 11. BiriteraRhythm
+ 12. BiriteraRhythm
+ 13. BiriteraRhythm
+ 14. BiriteraRhythm
+ 15. BiriteraRhythm
+ 16. BiriteraRhythm
+ 17. BiriteraRhythm
+ 18. BiriteraRhythm
+ 19. BiriteraRhythm
+ 20. BiriteraRhythm
+ 21. BiriteraRhythm
+ 22. BiriteraRhythm
+ 23. BiriteraRhythm
+ 24. BiriteraRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. BiriteraRhythm
+  2. BiriteraRhythm
+  3. BiriteraCutesy
+  4. BiriteraRhythm
+  5. BiriteraRhythm
+  6. BiriteraDancerist
+  7. BiriteraRhythm
+  8. BiriteraRhythm
+  9. BiriteraRhythm
+ 10. BiriteraRhythm
+ 11. BiriteraRhythm
+ 12. BiriteraRhythm
+ 13. BiriteraRhythm
+ 14. BiriteraRhythm
+ 15. BiriteraRhythm
+ 16. BiriteraRhythm
+ 17. BiriteraRhythm
+ 18. MoodyRhythm
+ 19. SongbirdRhythm
+ 20. BiriteraSonger
+ 21. BiriteraRhythm
+ 22. BiriteraRhythm
+ 23. SingularRehearsal
+ 24. BiriteraRhythm
+
+========== Generation 45/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BiriteraRhythm
+  2. BiriteraRhythm
+  3. BiriteraRhythm
+  4. BiriteraRhythm
+  5. BiriteraRhythm
+  6. BiriteraRhythm
+  7. BiriteraRhythm
+  8. BiriteraRhythm
+  9. BiriteraRhythm
+ 10. BiriteraRhythm
+ 11. BiriteraRhythm
+ 12. BiriteraRhythm
+ 13. BiriteraRhythm
+ 14. BiriteraRhythm
+ 15. BiriteraRhythm
+ 16. BiriteraRhythm
+ 17. BiriteraRhythm
+ 18. BiriteraRhythm
+ 19. BiriteraRhythm
+ 20. BiriteraRhythm
+ 21. BiriteraRhythm
+ 22. BiriteraRhythm
+ 23. BiriteraRhythm
+ 24. BiriteraRhythm
+ 25. BiriteraRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. BiriteraRhythm
+  2. BiriteraRhythm
+  3. BiriteraRhythm
+  4. BiriteraRhythm
+  5. BiriteraRhythm
+  6. BiriteraRhythm
+  7. BiriteraRhythm
+  8. BiriteraRhythm
+  9. BiriteraRhythm
+ 10. BiriteraRhythm
+ 11. BiriteraRhythm
+ 12. BiriteraRhythm
+ 13. BiriteraRhythm
+ 14. BiriteraRhythm
+ 15. BiriteraRhythm
+ 16. BiriteraRhythm
+ 17. BiriteraRhythm
+ 18. BiriteraRhythm
+ 19. BiriteraRhythm
+ 20. BiriteraRhythm
+ 21. BiriteraRhythm
+ 22. BiriteraRhythm
+ 23. BiriteraRhythm
+ 24. BiriteraRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. BiriteraRhythm
+  2. BiriteraRhythm
+  3. BiriteraRhythm
+  4. BiriteraRhythm
+  5. BiriteraFlows
+  6. BiriteraRhythm
+  7. BiriteraRhythm
+  8. BiriteraRhythm
+  9. BiriteraRhythm
+ 10. AestheticRhythm
+ 11. BiriteraRhythm
+ 12. BiriteraRhythm
+ 13. BiriteraRhythm
+ 14. BiriteraRegine
+ 15. BiriteraRhythm
+ 16. BiriteraRhythm
+ 17. BiriteraRhythm
+ 18. BiriteraRhythm
+ 19. BiriteraRhythm
+ 20. BiriteraRhythm
+ 21. BiriteraRhythm
+ 22. BiriteraRhythm
+ 23. BiriteraRhythm
+ 24. BiriteraShowtime
+
+========== Generation 46/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BiriteraRhythm
+  2. BiriteraRhythm
+  3. BiriteraRhythm
+  4. BiriteraRhythm
+  5. BiriteraRhythm
+  6. BiriteraRhythm
+  7. BiriteraRhythm
+  8. BiriteraRhythm
+  9. BiriteraRhythm
+ 10. BiriteraRhythm
+ 11. BiriteraRhythm
+ 12. BiriteraRhythm
+ 13. BiriteraRhythm
+ 14. BiriteraRhythm
+ 15. BiriteraRhythm
+ 16. BiriteraRhythm
+ 17. BiriteraRhythm
+ 18. BiriteraRhythm
+ 19. BiriteraRhythm
+ 20. BiriteraRhythm
+ 21. BiriteraRhythm
+ 22. BiriteraRhythm
+ 23. BiriteraRhythm
+ 24. BiriteraRhythm
+ 25. BiriteraRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. BiriteraRhythm
+  2. BiriteraRhythm
+  3. BiriteraRhythm
+  4. BiriteraRhythm
+  5. BiriteraRhythm
+  6. BiriteraRhythm
+  7. BiriteraRhythm
+  8. BiriteraRhythm
+  9. BiriteraRhythm
+ 10. BiriteraRhythm
+ 11. BiriteraRhythm
+ 12. BiriteraRhythm
+ 13. BiriteraRhythm
+ 14. BiriteraRhythm
+ 15. BiriteraRhythm
+ 16. BiriteraRhythm
+ 17. BiriteraRhythm
+ 18. BiriteraRhythm
+ 19. BiriteraRhythm
+ 20. BiriteraRhythm
+ 21. BiriteraRhythm
+ 22. BiriteraRhythm
+ 23. BiriteraRhythm
+ 24. BiriteraRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. BiriteraRhythm
+  2. BiriteraRhythm
+  3. BiriteraRhythm
+  4. BiriteraRhythm
+  5. BiriteraRhythm
+  6. BiriteraRhythm
+  7. SongerRhythm
+  8. BiriteraRhythm
+  9. BiriteraRhythm
+ 10. BiriteraRhythm
+ 11. BiriteraRhythm
+ 12. BiriteraRhythm
+ 13. BiriteraRhythm
+ 14. BiriteraRhythm
+ 15. PreshowRhythm
+ 16. BiriteraRhythm
+ 17. BiriteraRhythm
+ 18. BiriteraRhythm
+ 19. BiriteraMicrophone
+ 20. BiriteraRhythm
+ 21. BiriteraRhythm
+ 22. SkyRunway
+ 23. BiriteraRhythm
+ 24. BiriteraRhythm
+
+========== Generation 47/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BiriteraRhythm
+  2. BiriteraRhythm
+  3. BiriteraRhythm
+  4. BiriteraRhythm
+  5. BiriteraRhythm
+  6. BiriteraRhythm
+  7. BiriteraRhythm
+  8. BiriteraRhythm
+  9. BiriteraRhythm
+ 10. BiriteraRhythm
+ 11. BiriteraRhythm
+ 12. BiriteraRhythm
+ 13. BiriteraRhythm
+ 14. BiriteraRhythm
+ 15. BiriteraRhythm
+ 16. BiriteraRhythm
+ 17. BiriteraRhythm
+ 18. BiriteraRhythm
+ 19. BiriteraRhythm
+ 20. BiriteraRhythm
+ 21. BiriteraRhythm
+ 22. BiriteraRhythm
+ 23. BiriteraRhythm
+ 24. BiriteraRhythm
+ 25. BiriteraRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. BiriteraRhythm
+  2. BiriteraRhythm
+  3. BiriteraRhythm
+  4. BiriteraRhythm
+  5. BiriteraRhythm
+  6. BiriteraRhythm
+  7. BiriteraRhythm
+  8. BiriteraRhythm
+  9. BiriteraRhythm
+ 10. BiriteraRhythm
+ 11. BiriteraRhythm
+ 12. BiriteraRhythm
+ 13. BiriteraRhythm
+ 14. BiriteraRhythm
+ 15. BiriteraRhythm
+ 16. BiriteraRhythm
+ 17. BiriteraRhythm
+ 18. BiriteraRhythm
+ 19. BiriteraRhythm
+ 20. BiriteraRhythm
+ 21. BiriteraRhythm
+ 22. BiriteraRhythm
+ 23. BiriteraRhythm
+ 24. BiriteraRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. BiriteraRhythm
+  2. BiriteraRhythm
+  3. BiriteraRhythm
+  4. BiriteraRhythm
+  5. BiriteraRhythm
+  6. BiriteraRhythm
+  7. NotedRhythm
+  8. BiriteraRhythm
+  9. BiriteraRhythm
+ 10. BiriteraRhythm
+ 11. BiriteraRhythm
+ 12. BiriteraDancerist
+ 13. BiriteraRhythm
+ 14. BiriteraRhythm
+ 15. BiriteraRhythm
+ 16. BiriteraRhythm
+ 17. BiriteraMoody
+ 18. BiriteraRhythm
+ 19. BiriteraRhythm
+ 20. BiriteraRhythm
+ 21. BiriteraRhythm
+ 22. BiriteraRhythm
+ 23. BiriteraRhythm
+ 24. BiriteraRhythm
+
+========== Generation 48/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BiriteraRhythm
+  2. BiriteraRhythm
+  3. BiriteraRhythm
+  4. BiriteraRhythm
+  5. BiriteraRhythm
+  6. BiriteraRhythm
+  7. BiriteraRhythm
+  8. BiriteraRhythm
+  9. BiriteraRhythm
+ 10. BiriteraRhythm
+ 11. BiriteraRhythm
+ 12. BiriteraRhythm
+ 13. BiriteraRhythm
+ 14. BiriteraRhythm
+ 15. BiriteraRhythm
+ 16. BiriteraRhythm
+ 17. BiriteraRhythm
+ 18. BiriteraRhythm
+ 19. BiriteraRhythm
+ 20. BiriteraRhythm
+ 21. BiriteraRhythm
+ 22. BiriteraRhythm
+ 23. BiriteraRhythm
+ 24. BiriteraRhythm
+ 25. BiriteraRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. BiriteraRhythm
+  2. BiriteraRhythm
+  3. BiriteraRhythm
+  4. BiriteraRhythm
+  5. BiriteraRhythm
+  6. BiriteraRhythm
+  7. BiriteraRhythm
+  8. BiriteraRhythm
+  9. BiriteraRhythm
+ 10. BiriteraRhythm
+ 11. BiriteraRhythm
+ 12. BiriteraRhythm
+ 13. BiriteraRhythm
+ 14. BiriteraRhythm
+ 15. BiriteraRhythm
+ 16. BiriteraRhythm
+ 17. BiriteraRhythm
+ 18. BiriteraRhythm
+ 19. BiriteraRhythm
+ 20. BiriteraRhythm
+ 21. BiriteraRhythm
+ 22. BiriteraRhythm
+ 23. BiriteraRhythm
+ 24. BiriteraRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. BiriteraRhythm
+  2. BiriteraRhythm
+  3. BiriteraRhythm
+  4. BiriteraRhythm
+  5. BiriteraRhythm
+  6. BiriteraRhythm
+  7. BiriteraRhythm
+  8. BiriteraVerse
+  9. BiriteraRhythm
+ 10. BiriteraRhythm
+ 11. BiriteraRhythm
+ 12. ScriptedRhythm
+ 13. BiriteraRhythm
+ 14. BiriteraRhythm
+ 15. BiriteraRhythm
+ 16. BiriteraRhythm
+ 17. BiriteraRhythm
+ 18. BiriteraRhythm
+ 19. BiriteraRhythm
+ 20. BiriteraRhythm
+ 21. BiriteraRhythm
+ 22. BiriteraRhythm
+ 23. BiriteraRhythm
+ 24. BiriteraRhythm
+
+========== Generation 49/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BiriteraRhythm
+  2. BiriteraRhythm
+  3. BiriteraRhythm
+  4. BiriteraRhythm
+  5. BiriteraRhythm
+  6. BiriteraRhythm
+  7. BiriteraRhythm
+  8. BiriteraRhythm
+  9. BiriteraRhythm
+ 10. BiriteraRhythm
+ 11. BiriteraRhythm
+ 12. BiriteraRhythm
+ 13. BiriteraRhythm
+ 14. BiriteraRhythm
+ 15. BiriteraRhythm
+ 16. BiriteraRhythm
+ 17. BiriteraRhythm
+ 18. BiriteraRhythm
+ 19. BiriteraRhythm
+ 20. BiriteraRhythm
+ 21. BiriteraRhythm
+ 22. BiriteraRhythm
+ 23. BiriteraRhythm
+ 24. BiriteraRhythm
+ 25. BiriteraRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. BiriteraRhythm
+  2. BiriteraRhythm
+  3. BiriteraRhythm
+  4. BiriteraRhythm
+  5. BiriteraRhythm
+  6. BiriteraRhythm
+  7. BiriteraRhythm
+  8. BiriteraRhythm
+  9. BiriteraRhythm
+ 10. BiriteraRhythm
+ 11. BiriteraRhythm
+ 12. BiriteraRhythm
+ 13. BiriteraRhythm
+ 14. BiriteraRhythm
+ 15. BiriteraRhythm
+ 16. BiriteraRhythm
+ 17. BiriteraRhythm
+ 18. BiriteraRhythm
+ 19. BiriteraRhythm
+ 20. BiriteraRhythm
+ 21. BiriteraRhythm
+ 22. BiriteraRhythm
+ 23. BiriteraRhythm
+ 24. BiriteraRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. CreativeRhythm
+  2. BiriteraRhythm
+  3. ScreentimeRhythm
+  4. BiriteraRhythm
+  5. BiriteraRhythm
+  6. BiriteraRhythm
+  7. BiriteraRhythm
+  8. BiriteraRhythm
+  9. BiriteraRhythm
+ 10. BiriteraRhythm
+ 11. BiriteraRhythm
+ 12. BiriteraRhythm
+ 13. HarmonixRhythm
+ 14. BiriteraRhythm
+ 15. BoomRhythm
+ 16. BiriteraRhythm
+ 17. MuseRhythm
+ 18. BiriteraRhythm
+ 19. TalentishRhythm
+ 20. BiriteraRhythm
+ 21. BiriteraRhythm
+ 22. BiriteraFlows
+ 23. BiriteraRhythm
+ 24. BiriteraRhythm
+
+========== Generation 50/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BiriteraRhythm
+  2. BiriteraRhythm
+  3. BiriteraRhythm
+  4. BiriteraRhythm
+  5. BiriteraRhythm
+  6. BiriteraRhythm
+  7. BiriteraRhythm
+  8. BiriteraRhythm
+  9. BiriteraRhythm
+ 10. BiriteraRhythm
+ 11. BiriteraRhythm
+ 12. BiriteraRhythm
+ 13. BiriteraRhythm
+ 14. BiriteraRhythm
+ 15. BiriteraRhythm
+ 16. MuseRhythm
+ 17. BiriteraRhythm
+ 18. BiriteraRhythm
+ 19. BiriteraRhythm
+ 20. BiriteraRhythm
+ 21. BiriteraRhythm
+ 22. BiriteraRhythm
+ 23. BiriteraRhythm
+ 24. BiriteraRhythm
+ 25. BiriteraRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. BiriteraRhythm
+  2. BiriteraRhythm
+  3. BiriteraRhythm
+  4. BiriteraRhythm
+  5. BiriteraRhythm
+  6. BiriteraRhythm
+  7. BiriteraRhythm
+  8. BiriteraRhythm
+  9. BiriteraRhythm
+ 10. BiriteraRhythm
+ 11. BiriteraRhythm
+ 12. BiriteraRhythm
+ 13. BiriteraRhythm
+ 14. BiriteraRhythm
+ 15. BiriteraRhythm
+ 16. MuseRhythm
+ 17. BiriteraRhythm
+ 18. BiriteraRhythm
+ 19. BiriteraRhythm
+ 20. BiriteraRhythm
+ 21. BiriteraRhythm
+ 22. BiriteraRhythm
+ 23. BiriteraRhythm
+ 24. BiriteraRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5833
+Adaptive Mutation Rate: 0.0987
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. BiriteraRhythm
+  2. BiriteraRhythm
+  3. BiriteraRhythm
+  4. BiriteraRhythm
+  5. BiriteraRhythm
+  6. BiriteraRhythm
+  7. BiriteraRhythm
+  8. BiriteraRhythm
+  9. BiriteraRhythm
+ 10. BiriteraRhythm
+ 11. BiriteraRhythm
+ 12. BiriteraRhythm
+ 13. BiriteraRhythm
+ 14. BiriteraRhythm
+ 15. BiriteraRhythm
+ 16. MuseRhythm
+ 17. BiriteraRhythm
+ 18. BiriteraRhythm
+ 19. MelodramaDreamer
+ 20. BiriteraSpotlight
+ 21. BiriteraRhythm
+ 22. BiriteraRhythm
+ 23. BiriteraRhythm
+ 24. BeatdropRhythm
+
+========== Generation 51/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BiriteraRhythm
+  2. BiriteraRhythm
+  3. BiriteraRhythm
+  4. BiriteraRhythm
+  5. BiriteraRhythm
+  6. BiriteraRhythm
+  7. BiriteraRhythm
+  8. BiriteraRhythm
+  9. BiriteraRhythm
+ 10. BiriteraRhythm
+ 11. BiriteraRhythm
+ 12. BiriteraRhythm
+ 13. BiriteraRhythm
+ 14. BiriteraRhythm
+ 15. BiriteraRhythm
+ 16. BiriteraRhythm
+ 17. BiriteraRhythm
+ 18. BiriteraRhythm
+ 19. BiriteraRhythm
+ 20. BiriteraRhythm
+ 21. BiriteraRhythm
+ 22. BiriteraRhythm
+ 23. BiriteraRhythm
+ 24. BiriteraRhythm
+ 25. BiriteraRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. BiriteraRhythm
+  2. BiriteraRhythm
+  3. BiriteraRhythm
+  4. BiriteraRhythm
+  5. BiriteraRhythm
+  6. BiriteraRhythm
+  7. BiriteraRhythm
+  8. BiriteraRhythm
+  9. BiriteraRhythm
+ 10. BiriteraRhythm
+ 11. BiriteraRhythm
+ 12. BiriteraRhythm
+ 13. BiriteraRhythm
+ 14. BiriteraRhythm
+ 15. BiriteraRhythm
+ 16. BiriteraRhythm
+ 17. BiriteraRhythm
+ 18. BiriteraRhythm
+ 19. BiriteraRhythm
+ 20. BiriteraRhythm
+ 21. BiriteraRhythm
+ 22. BiriteraRhythm
+ 23. BiriteraRhythm
+ 24. BiriteraRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. BiriteraRhythm
+  2. BiriteraRhythm
+  3. BiriteraRhythm
+  4. BiriteraRhythm
+  5. BiriteraRhythm
+  6. BiriteraRhythm
+  7. BiriteraRhythm
+  8. BiriteraRhythm
+  9. BiriteraRhythm
+ 10. BiriteraRhythm
+ 11. BiriteraRhythm
+ 12. BiriteraRhythm
+ 13. BiriteraRhythm
+ 14. BiriteraRhythm
+ 15. FreestyleRhythm
+ 16. BiriteraRhythm
+ 17. RegineRhythm
+ 18. BiriteraRhythm
+ 19. FamecoreRhythm
+ 20. BiriteraRhythm
+ 21. BiriteraRhythm
+ 22. BiriteraRhythm
+ 23. StarletRhythm
+ 24. BiriteraRhythm
+
+========== Generation 52/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. FamecoreRhythm
+  2. BiriteraRhythm
+  3. BiriteraRhythm
+  4. BiriteraRhythm
+  5. BiriteraRhythm
+  6. BiriteraRhythm
+  7. BiriteraRhythm
+  8. BiriteraRhythm
+  9. FamecoreRhythm
+ 10. BiriteraRhythm
+ 11. BiriteraRhythm
+ 12. BiriteraRhythm
+ 13. BiriteraRhythm
+ 14. BiriteraRhythm
+ 15. FamecoreRhythm
+ 16. BiriteraRhythm
+ 17. BiriteraRhythm
+ 18. BiriteraRhythm
+ 19. BiriteraRhythm
+ 20. BiriteraRhythm
+ 21. BiriteraRhythm
+ 22. BiriteraRhythm
+ 23. BiriteraRhythm
+ 24. BiriteraRhythm
+ 25. BiriteraRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. FamecoreRhythm
+  2. BiriteraRhythm
+  3. BiriteraRhythm
+  4. BiriteraRhythm
+  5. BiriteraRhythm
+  6. BiriteraRhythm
+  7. BiriteraRhythm
+  8. BiriteraRhythm
+  9. FamecoreRhythm
+ 10. BiriteraRhythm
+ 11. BiriteraRhythm
+ 12. BiriteraRhythm
+ 13. BiriteraRhythm
+ 14. BiriteraRhythm
+ 15. BiriteraRhythm
+ 16. FamecoreRhythm
+ 17. BiriteraRhythm
+ 18. BiriteraRhythm
+ 19. BiriteraRhythm
+ 20. BiriteraRhythm
+ 21. BiriteraRhythm
+ 22. BiriteraRhythm
+ 23. BiriteraRhythm
+ 24. BiriteraRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.5978
+Adaptive Mutation Rate: 0.0964
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. FamecoreRhythm
+  2. BiriteraRhythm
+  3. BiriteraRhythm
+  4. BiriteraRhythm
+  5. BiriteraRhythm
+  6. BiriteraRhythm
+  7. BiriteraRhythm
+  8. BiriteraRhythm
+  9. FamecoreRhythm
+ 10. BiriteraRhythm
+ 11. BiriteraRhythm
+ 12. BiriteraChoreo
+ 13. BiriteraRhythm
+ 14. BiriteraRhythm
+ 15. BiriteraRhythm
+ 16. FamecoreRhythm
+ 17. BiriteraRhythm
+ 18. BiriteraRhythm
+ 19. BiriteraSoloist
+ 20. BiriteraRhythm
+ 21. FlowsRhythm
+ 22. BiriteraRhythm
+ 23. BiriteraRhythm
+ 24. BiriteraRhythm
+
+========== Generation 53/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. BiriteraRhythm
+  2. BiriteraRhythm
+  3. BiriteraRhythm
+  4. BiriteraRhythm
+  5. FamecoreRhythm
+  6. BiriteraRhythm
+  7. BiriteraRhythm
+  8. FamecoreRhythm
+  9. FamecoreRhythm
+ 10. BiriteraRhythm
+ 11. BiriteraRhythm
+ 12. BiriteraRhythm
+ 13. BiriteraRhythm
+ 14. FamecoreRhythm
+ 15. BiriteraRhythm
+ 16. BiriteraRhythm
+ 17. FamecoreRhythm
+ 18. FamecoreRhythm
+ 19. FamecoreRhythm
+ 20. FamecoreRhythm
+ 21. BiriteraRhythm
+ 22. BiriteraRhythm
+ 23. BiriteraRhythm
+ 24. FamecoreRhythm
+ 25. BiriteraRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. BiriteraRhythm
+  2. BiriteraRhythm
+  3. BiriteraRhythm
+  4. BiriteraRhythm
+  5. FamecoreRhythm
+  6. BiriteraRhythm
+  7. BiriteraRhythm
+  8. FamecoreRhythm
+  9. FamecoreRhythm
+ 10. BiriteraRhythm
+ 11. BiriteraRhythm
+ 12. BiriteraRhythm
+ 13. BiriteraRhythm
+ 14. FamecoreRhythm
+ 15. BiriteraRhythm
+ 16. BiriteraRhythm
+ 17. FamecoreRhythm
+ 18. FamecoreRhythm
+ 19. FamecoreRhythm
+ 20. FamecoreRhythm
+ 21. BiriteraRhythm
+ 22. BiriteraRhythm
+ 23. BiriteraRhythm
+ 24. FamecoreRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 3.4239
+Adaptive Mutation Rate: 0.0922
+Total Mutations: 1
+
+[New Population after Mutation]
+  1. BiriteraRhythm
+  2. BiriteraRhythm
+  3. BiriteraRhythm
+  4. BiriteraRhythm
+  5. FamecoreRhythm
+  6. BiriteraRhythm
+  7. BiriteraRhythm
+  8. FamecoreRhythm
+  9. FamecoreRhythm
+ 10. BiriteraRhythm
+ 11. BiriteraRhythm
+ 12. BiriteraRhythm
+ 13. BiriteraRhythm
+ 14. FamecoreRhythm
+ 15. BiriteraRhythm
+ 16. BiriteraRhythm
+ 17. ScriptedRhythm
+ 18. FamecoreRhythm
+ 19. FamecoreRhythm
+ 20. FamecoreRhythm
+ 21. BiriteraRhythm
+ 22. BiriteraRhythm
+ 23. BiriteraRhythm
+ 24. FamecoreRhythm
+
+========== Generation 54/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. FamecoreRhythm
+  2. FamecoreRhythm
+  3. FamecoreRhythm
+  4. FamecoreRhythm
+  5. FamecoreRhythm
+  6. FamecoreRhythm
+  7. FamecoreRhythm
+  8. FamecoreRhythm
+  9. FamecoreRhythm
+ 10. FamecoreRhythm
+ 11. FamecoreRhythm
+ 12. FamecoreRhythm
+ 13. BiriteraRhythm
+ 14. FamecoreRhythm
+ 15. FamecoreRhythm
+ 16. BiriteraRhythm
+ 17. FamecoreRhythm
+ 18. FamecoreRhythm
+ 19. BiriteraRhythm
+ 20. FamecoreRhythm
+ 21. BiriteraRhythm
+ 22. BiriteraRhythm
+ 23. FamecoreRhythm
+ 24. FamecoreRhythm
+ 25. FamecoreRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. FamecoreRhythm
+  2. FamecoreRhythm
+  3. FamecoreRhythm
+  4. FamecoreRhythm
+  5. FamecoreRhythm
+  6. FamecoreRhythm
+  7. FamecoreRhythm
+  8. FamecoreRhythm
+  9. FamecoreRhythm
+ 10. FamecoreRhythm
+ 11. FamecoreRhythm
+ 12. FamecoreRhythm
+ 13. BiriteraRhythm
+ 14. FamecoreRhythm
+ 15. FamecoreRhythm
+ 16. BiriteraRhythm
+ 17. FamecoreRhythm
+ 18. FamecoreRhythm
+ 19. FamecoreRhythm
+ 20. BiriteraRhythm
+ 21. BiriteraRhythm
+ 22. BiriteraRhythm
+ 23. FamecoreRhythm
+ 24. FamecoreRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 2.4094
+Adaptive Mutation Rate: 0.0945
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. ArtsyRhythm
+  2. FamecoreRhythm
+  3. FamecoreRhythm
+  4. FamecoreRhythm
+  5. FamecoreRhythm
+  6. ScribblesRhythm
+  7. FamecoreConfetti
+  8. FamecoreRhythm
+  9. FamecoreConfetti
+ 10. FamecoreRhythm
+ 11. FamecoreRhythm
+ 12. FamecoreRhythm
+ 13. BiriteraRhythm
+ 14. FamecoreRhythm
+ 15. FamecoreRhythm
+ 16. BiriteraRhythm
+ 17. FamecoreRhythm
+ 18. FamecoreRhythm
+ 19. FamecoreRhythm
+ 20. BiriteraRhythm
+ 21. BiriteraRhythm
+ 22. BiriteraRhythm
+ 23. DramaticRhythm
+ 24. FamecoreRhythm
+
+========== Generation 55/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. FamecoreRhythm
+  2. FamecoreRhythm
+  3. FamecoreRhythm
+  4. FamecoreRhythm
+  5. FamecoreRhythm
+  6. FamecoreRhythm
+  7. FamecoreRhythm
+  8. FamecoreRhythm
+  9. FamecoreRhythm
+ 10. FamecoreRhythm
+ 11. FamecoreRhythm
+ 12. FamecoreRhythm
+ 13. FamecoreRhythm
+ 14. FamecoreRhythm
+ 15. FamecoreRhythm
+ 16. FamecoreRhythm
+ 17. FamecoreRhythm
+ 18. FamecoreRhythm
+ 19. FamecoreRhythm
+ 20. FamecoreRhythm
+ 21. FamecoreRhythm
+ 22. FamecoreRhythm
+ 23. FamecoreRhythm
+ 24. FamecoreRhythm
+ 25. FamecoreRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. FamecoreRhythm
+  2. FamecoreRhythm
+  3. FamecoreRhythm
+  4. FamecoreRhythm
+  5. FamecoreRhythm
+  6. FamecoreRhythm
+  7. FamecoreRhythm
+  8. FamecoreRhythm
+  9. FamecoreRhythm
+ 10. FamecoreRhythm
+ 11. FamecoreRhythm
+ 12. FamecoreRhythm
+ 13. FamecoreRhythm
+ 14. FamecoreRhythm
+ 15. FamecoreRhythm
+ 16. FamecoreRhythm
+ 17. FamecoreRhythm
+ 18. FamecoreRhythm
+ 19. FamecoreRhythm
+ 20. FamecoreRhythm
+ 21. FamecoreRhythm
+ 22. FamecoreRhythm
+ 23. FamecoreRhythm
+ 24. FamecoreRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. FamecoreRhythm
+  2. FamecoreRhythm
+  3. FamecoreRhythm
+  4. LyricistConfetti
+  5. FamecoreRhythm
+  6. FamecoreRhythm
+  7. FamecoreRhythm
+  8. FamecoreRhythm
+  9. FamecoreRhythm
+ 10. FamecoreRhythm
+ 11. FamecoreCanvas
+ 12. FamecoreRhythm
+ 13. FamecoreRhythm
+ 14. FamecoreRhythm
+ 15. FamecoreRhythm
+ 16. FamecoreRhythm
+ 17. FamecoreRhythm
+ 18. FamecoreRhythm
+ 19. FamecoreRhythm
+ 20. FamecoreRhythm
+ 21. FamecoreRhythm
+ 22. FamecoreRhythm
+ 23. ScriptedRhythm
+ 24. FamecoreRhythm
+
+========== Generation 56/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. FamecoreRhythm
+  2. FamecoreRhythm
+  3. FamecoreRhythm
+  4. FamecoreRhythm
+  5. FamecoreRhythm
+  6. FamecoreRhythm
+  7. FamecoreRhythm
+  8. FamecoreRhythm
+  9. FamecoreRhythm
+ 10. FamecoreRhythm
+ 11. FamecoreRhythm
+ 12. FamecoreRhythm
+ 13. FamecoreRhythm
+ 14. FamecoreRhythm
+ 15. FamecoreRhythm
+ 16. FamecoreRhythm
+ 17. FamecoreRhythm
+ 18. FamecoreRhythm
+ 19. FamecoreRhythm
+ 20. FamecoreRhythm
+ 21. FamecoreRhythm
+ 22. FamecoreRhythm
+ 23. FamecoreRhythm
+ 24. FamecoreRhythm
+ 25. FamecoreRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. FamecoreRhythm
+  2. FamecoreRhythm
+  3. FamecoreRhythm
+  4. FamecoreRhythm
+  5. FamecoreRhythm
+  6. FamecoreRhythm
+  7. FamecoreRhythm
+  8. FamecoreRhythm
+  9. FamecoreRhythm
+ 10. FamecoreRhythm
+ 11. FamecoreRhythm
+ 12. FamecoreRhythm
+ 13. FamecoreRhythm
+ 14. FamecoreRhythm
+ 15. FamecoreRhythm
+ 16. FamecoreRhythm
+ 17. FamecoreRhythm
+ 18. FamecoreRhythm
+ 19. FamecoreRhythm
+ 20. FamecoreRhythm
+ 21. FamecoreRhythm
+ 22. FamecoreRhythm
+ 23. FamecoreRhythm
+ 24. FamecoreRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. RegineRhythm
+  2. FamecoreRhythm
+  3. FamecoreLyricist
+  4. FamecoreRunway
+  5. FamecoreRhythm
+  6. FamecoreRhythm
+  7. FamecoreRhythm
+  8. FamecoreRhythm
+  9. FamecoreRhythm
+ 10. DaydreamRhythm
+ 11. FamecoreRhythm
+ 12. FamecoreRhythm
+ 13. ZoneRhythm
+ 14. FamecoreRhythm
+ 15. FamecoreRhythm
+ 16. FamecoreRhythm
+ 17. FamecoreRhythm
+ 18. FamecoreRhythm
+ 19. FamecoreRhythm
+ 20. FamecoreRhythm
+ 21. FamecoreRhythm
+ 22. HypeRhythm
+ 23. FamecoreRhythm
+ 24. FamecoreRhythm
+
+========== Generation 57/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. FamecoreRhythm
+  2. FamecoreRhythm
+  3. FamecoreRhythm
+  4. FamecoreRhythm
+  5. FamecoreRhythm
+  6. FamecoreRhythm
+  7. FamecoreRhythm
+  8. FamecoreRhythm
+  9. FamecoreRhythm
+ 10. FamecoreRhythm
+ 11. FamecoreRhythm
+ 12. FamecoreRhythm
+ 13. FamecoreRhythm
+ 14. FamecoreRhythm
+ 15. FamecoreRhythm
+ 16. FamecoreRhythm
+ 17. FamecoreRhythm
+ 18. DaydreamRhythm
+ 19. FamecoreRhythm
+ 20. FamecoreRhythm
+ 21. FamecoreRhythm
+ 22. FamecoreRhythm
+ 23. FamecoreRhythm
+ 24. FamecoreRhythm
+ 25. FamecoreRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. FamecoreRhythm
+  2. FamecoreRhythm
+  3. FamecoreRhythm
+  4. FamecoreRhythm
+  5. FamecoreRhythm
+  6. FamecoreRhythm
+  7. FamecoreRhythm
+  8. FamecoreRhythm
+  9. FamecoreRhythm
+ 10. FamecoreRhythm
+ 11. FamecoreRhythm
+ 12. FamecoreRhythm
+ 13. FamecoreRhythm
+ 14. FamecoreRhythm
+ 15. FamecoreRhythm
+ 16. FamecoreRhythm
+ 17. FamecoreRhythm
+ 18. DaydreamRhythm
+ 19. FamecoreRhythm
+ 20. FamecoreRhythm
+ 21. FamecoreRhythm
+ 22. FamecoreRhythm
+ 23. FamecoreRhythm
+ 24. FamecoreRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5833
+Adaptive Mutation Rate: 0.0987
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. FamecoreRhythm
+  2. FamecoreRhythm
+  3. FamecoreRhythm
+  4. FamecoreRhythm
+  5. FamecoreRhythm
+  6. FamecoreRhythm
+  7. FamecoreRhythm
+  8. FamecoreRhythm
+  9. FamecoreRhythm
+ 10. FamecoreRhythm
+ 11. FamecoreRehearsal
+ 12. FamecoreRhythm
+ 13. FamecoreRhythm
+ 14. FamecoreRhythm
+ 15. FamecoreRhythm
+ 16. FamecoreRhythm
+ 17. FamecorePerformer
+ 18. DaydreamRhythm
+ 19. FamecoreRhythm
+ 20. FamecoreRhythm
+ 21. FamecoreRhythm
+ 22. FamecoreRhythm
+ 23. FamecoreRhythm
+ 24. FamecoreRhythm
+
+========== Generation 58/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. FamecoreRhythm
+  2. FamecoreRhythm
+  3. FamecoreRhythm
+  4. FamecoreRhythm
+  5. FamecoreRhythm
+  6. FamecoreRhythm
+  7. FamecoreRhythm
+  8. FamecoreRhythm
+  9. FamecoreRhythm
+ 10. FamecoreRhythm
+ 11. FamecoreRhythm
+ 12. FamecoreRhythm
+ 13. FamecoreRhythm
+ 14. FamecoreRhythm
+ 15. FamecoreRhythm
+ 16. FamecoreRhythm
+ 17. FamecoreRhythm
+ 18. FamecoreRhythm
+ 19. FamecoreRhythm
+ 20. FamecoreRhythm
+ 21. FamecoreRhythm
+ 22. FamecoreRhythm
+ 23. FamecoreRhythm
+ 24. FamecoreRhythm
+ 25. FamecoreRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. FamecoreRhythm
+  2. FamecoreRhythm
+  3. FamecoreRhythm
+  4. FamecoreRhythm
+  5. FamecoreRhythm
+  6. FamecoreRhythm
+  7. FamecoreRhythm
+  8. FamecoreRhythm
+  9. FamecoreRhythm
+ 10. FamecoreRhythm
+ 11. FamecoreRhythm
+ 12. FamecoreRhythm
+ 13. FamecoreRhythm
+ 14. FamecoreRhythm
+ 15. FamecoreRhythm
+ 16. FamecoreRhythm
+ 17. FamecoreRhythm
+ 18. FamecoreRhythm
+ 19. FamecoreRhythm
+ 20. FamecoreRhythm
+ 21. FamecoreRhythm
+ 22. FamecoreRhythm
+ 23. FamecoreRhythm
+ 24. FamecoreRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. FamecoreStarlet
+  2. FlowsDrawer
+  3. FamecoreRhythm
+  4. FamecoreRhythm
+  5. ScreentimeRhythm
+  6. FamecoreRhythm
+  7. FamecoreRhythm
+  8. ConfettiRhythm
+  9. FamecoreRhythm
+ 10. FamecoreRhythm
+ 11. FamecoreRhythm
+ 12. FamecoreRhythm
+ 13. FamecoreRhythm
+ 14. FamecoreRhythm
+ 15. RainbowRhythm
+ 16. FamecoreRhythm
+ 17. FamecoreRhythm
+ 18. FamecoreMic
+ 19. FamecoreRhythm
+ 20. FamecoreRhythm
+ 21. FamecoreRhythm
+ 22. FamecoreRhythm
+ 23. FamecoreRhythm
+ 24. FamecoreRhythm
+
+========== Generation 59/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. FamecoreRhythm
+  2. FamecoreRhythm
+  3. FamecoreRhythm
+  4. FamecoreRhythm
+  5. FamecoreRhythm
+  6. FamecoreRhythm
+  7. FamecoreRhythm
+  8. FamecoreRhythm
+  9. FamecoreRhythm
+ 10. FamecoreRhythm
+ 11. FamecoreRhythm
+ 12. FamecoreRhythm
+ 13. ConfettiRhythm
+ 14. FamecoreRhythm
+ 15. FamecoreRhythm
+ 16. FamecoreRhythm
+ 17. FamecoreRhythm
+ 18. FamecoreRhythm
+ 19. FamecoreRhythm
+ 20. FamecoreRhythm
+ 21. FamecoreRhythm
+ 22. FamecoreRhythm
+ 23. FamecoreRhythm
+ 24. FamecoreRhythm
+ 25. FamecoreRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. FamecoreRhythm
+  2. FamecoreRhythm
+  3. FamecoreRhythm
+  4. FamecoreRhythm
+  5. FamecoreRhythm
+  6. FamecoreRhythm
+  7. FamecoreRhythm
+  8. FamecoreRhythm
+  9. FamecoreRhythm
+ 10. FamecoreRhythm
+ 11. FamecoreRhythm
+ 12. FamecoreRhythm
+ 13. FamecoreRhythm
+ 14. ConfettiRhythm
+ 15. FamecoreRhythm
+ 16. FamecoreRhythm
+ 17. FamecoreRhythm
+ 18. FamecoreRhythm
+ 19. FamecoreRhythm
+ 20. FamecoreRhythm
+ 21. FamecoreRhythm
+ 22. FamecoreRhythm
+ 23. FamecoreRhythm
+ 24. FamecoreRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.6667
+Adaptive Mutation Rate: 0.0985
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. FamecoreRhythm
+  2. FamecoreRhythm
+  3. FamecoreRhythm
+  4. BackstageBackstage
+  5. FamecoreRhythm
+  6. FamecoreRhythm
+  7. FamecoreRhythm
+  8. FamecoreRhythm
+  9. DreamerSpectre
+ 10. FamecoreRhythm
+ 11. FamecoreRhythm
+ 12. FamecoreRhythm
+ 13. FamecoreRhythm
+ 14. ConfettiRhythm
+ 15. FamecoreRhythm
+ 16. FamecoreRhythm
+ 17. FamecoreRhythm
+ 18. FamecoreRhythm
+ 19. FamecoreRhythm
+ 20. FamecoreRhythm
+ 21. PlaylistRhythm
+ 22. FamecoreRhythm
+ 23. FamecoreMoodboard
+ 24. FamecoreRhythm
+
+========== Generation 60/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. FamecoreRhythm
+  2. FamecoreRhythm
+  3. FamecoreRhythm
+  4. FamecoreRhythm
+  5. FamecoreRhythm
+  6. FamecoreRhythm
+  7. FamecoreRhythm
+  8. FamecoreRhythm
+  9. FamecoreRhythm
+ 10. FamecoreRhythm
+ 11. FamecoreRhythm
+ 12. FamecoreRhythm
+ 13. FamecoreRhythm
+ 14. FamecoreRhythm
+ 15. FamecoreRhythm
+ 16. FamecoreRhythm
+ 17. FamecoreRhythm
+ 18. FamecoreRhythm
+ 19. FamecoreRhythm
+ 20. FamecoreRhythm
+ 21. FamecoreRhythm
+ 22. FamecoreRhythm
+ 23. FamecoreRhythm
+ 24. FamecoreRhythm
+ 25. FamecoreRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. FamecoreRhythm
+  2. FamecoreRhythm
+  3. FamecoreRhythm
+  4. FamecoreRhythm
+  5. FamecoreRhythm
+  6. FamecoreRhythm
+  7. FamecoreRhythm
+  8. FamecoreRhythm
+  9. FamecoreRhythm
+ 10. FamecoreRhythm
+ 11. FamecoreRhythm
+ 12. FamecoreRhythm
+ 13. FamecoreRhythm
+ 14. FamecoreRhythm
+ 15. FamecoreRhythm
+ 16. FamecoreRhythm
+ 17. FamecoreRhythm
+ 18. FamecoreRhythm
+ 19. FamecoreRhythm
+ 20. FamecoreRhythm
+ 21. FamecoreRhythm
+ 22. FamecoreRhythm
+ 23. FamecoreRhythm
+ 24. FamecoreRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. FamecorePerformer
+  2. FamecoreRhythm
+  3. FamecoreRhythm
+  4. FamecoreTalentadong
+  5. FamecoreRhythm
+  6. FamecoreRhythm
+  7. FamecoreRhythm
+  8. FamecoreRhythm
+  9. FamecoreRhythm
+ 10. FamecoreRhythm
+ 11. FamecoreRhythm
+ 12. CanvasRhythm
+ 13. FamecoreRhythm
+ 14. FamecoreRhythm
+ 15. FamecoreRhythm
+ 16. FamecoreRhythm
+ 17. FamecoreRhythm
+ 18. FamecoreRhythm
+ 19. FamecoreRhythm
+ 20. FamecoreRhythm
+ 21. FamecoreRhythm
+ 22. FamecoreRhythm
+ 23. FamecoreRhythm
+ 24. FamecoreRhythm
+
+========== Generation 61/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. FamecoreRhythm
+  2. FamecoreRhythm
+  3. FamecoreRhythm
+  4. FamecoreRhythm
+  5. FamecoreRhythm
+  6. FamecoreRhythm
+  7. FamecoreRhythm
+  8. FamecoreRhythm
+  9. FamecoreRhythm
+ 10. FamecoreRhythm
+ 11. FamecoreRhythm
+ 12. FamecoreRhythm
+ 13. FamecoreRhythm
+ 14. FamecoreRhythm
+ 15. FamecoreRhythm
+ 16. FamecoreRhythm
+ 17. FamecoreRhythm
+ 18. FamecoreRhythm
+ 19. FamecoreRhythm
+ 20. FamecoreRhythm
+ 21. FamecoreRhythm
+ 22. FamecoreRhythm
+ 23. FamecoreRhythm
+ 24. FamecoreRhythm
+ 25. FamecoreRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. FamecoreRhythm
+  2. FamecoreRhythm
+  3. FamecoreRhythm
+  4. FamecoreRhythm
+  5. FamecoreRhythm
+  6. FamecoreRhythm
+  7. FamecoreRhythm
+  8. FamecoreRhythm
+  9. FamecoreRhythm
+ 10. FamecoreRhythm
+ 11. FamecoreRhythm
+ 12. FamecoreRhythm
+ 13. FamecoreRhythm
+ 14. FamecoreRhythm
+ 15. FamecoreRhythm
+ 16. FamecoreRhythm
+ 17. FamecoreRhythm
+ 18. FamecoreRhythm
+ 19. FamecoreRhythm
+ 20. FamecoreRhythm
+ 21. FamecoreRhythm
+ 22. FamecoreRhythm
+ 23. FamecoreRhythm
+ 24. FamecoreRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. FamecoreRhythm
+  2. FamecoreRhythm
+  3. FamecoreFeelmaker
+  4. HarmonixRhythm
+  5. SpectreRhythm
+  6. FamecoreRhythm
+  7. FamecoreRhythm
+  8. FamecoreRhythm
+  9. FamecoreRhythm
+ 10. FamecoreRhythm
+ 11. FamecoreRhythm
+ 12. FamecoreRhythm
+ 13. FamecoreRhythm
+ 14. FamecoreRhythm
+ 15. FamecoreRhythm
+ 16. MuseRhythm
+ 17. FamecoreRhythm
+ 18. FamecoreVocalist
+ 19. FamecoreRhythm
+ 20. FamecoreRhythm
+ 21. FamecoreRhythm
+ 22. FamecoreRhythm
+ 23. FamecoreRhythm
+ 24. FamecoreRhythm
+
+========== Generation 62/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. FamecoreRhythm
+  2. FamecoreRhythm
+  3. FamecoreRhythm
+  4. FamecoreRhythm
+  5. FamecoreRhythm
+  6. FamecoreRhythm
+  7. FamecoreRhythm
+  8. FamecoreRhythm
+  9. FamecoreRhythm
+ 10. FamecoreRhythm
+ 11. FamecoreRhythm
+ 12. FamecoreRhythm
+ 13. FamecoreRhythm
+ 14. FamecoreRhythm
+ 15. SpectreRhythm
+ 16. FamecoreRhythm
+ 17. FamecoreRhythm
+ 18. FamecoreRhythm
+ 19. FamecoreRhythm
+ 20. FamecoreRhythm
+ 21. FamecoreRhythm
+ 22. FamecoreRhythm
+ 23. FamecoreRhythm
+ 24. FamecoreRhythm
+ 25. FamecoreRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. FamecoreRhythm
+  2. FamecoreRhythm
+  3. FamecoreRhythm
+  4. FamecoreRhythm
+  5. FamecoreRhythm
+  6. FamecoreRhythm
+  7. FamecoreRhythm
+  8. FamecoreRhythm
+  9. FamecoreRhythm
+ 10. FamecoreRhythm
+ 11. FamecoreRhythm
+ 12. FamecoreRhythm
+ 13. FamecoreRhythm
+ 14. FamecoreRhythm
+ 15. FamecoreRhythm
+ 16. SpectreRhythm
+ 17. FamecoreRhythm
+ 18. FamecoreRhythm
+ 19. FamecoreRhythm
+ 20. FamecoreRhythm
+ 21. FamecoreRhythm
+ 22. FamecoreRhythm
+ 23. FamecoreRhythm
+ 24. FamecoreRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.3333
+Adaptive Mutation Rate: 0.0992
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. ArtcrushRhythm
+  2. FamecoreRhythm
+  3. FamecoreRhythm
+  4. FamecoreRhythm
+  5. FamecoreRhythm
+  6. SpotlightRhythm
+  7. FamecoreRhythm
+  8. FamecoreRhythm
+  9. DanceristRhythm
+ 10. FamecoreRhythm
+ 11. FamecoreRhythm
+ 12. FamecoreRhythm
+ 13. FamecoreRhythm
+ 14. FamecoreRhythm
+ 15. ZoneRhythm
+ 16. SpectreRhythm
+ 17. FamecoreRhythm
+ 18. FamecoreRhythm
+ 19. FamecoreRhythm
+ 20. FamecoreRhythm
+ 21. FamecoreRhythm
+ 22. FamecoreRhythm
+ 23. FamecoreRhythm
+ 24. FamecoreRhythm
+
+========== Generation 63/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. FamecoreRhythm
+  2. FamecoreRhythm
+  3. FamecoreRhythm
+  4. FamecoreRhythm
+  5. FamecoreRhythm
+  6. FamecoreRhythm
+  7. FamecoreRhythm
+  8. FamecoreRhythm
+  9. FamecoreRhythm
+ 10. FamecoreRhythm
+ 11. FamecoreRhythm
+ 12. FamecoreRhythm
+ 13. FamecoreRhythm
+ 14. FamecoreRhythm
+ 15. FamecoreRhythm
+ 16. FamecoreRhythm
+ 17. FamecoreRhythm
+ 18. FamecoreRhythm
+ 19. FamecoreRhythm
+ 20. FamecoreRhythm
+ 21. FamecoreRhythm
+ 22. FamecoreRhythm
+ 23. FamecoreRhythm
+ 24. FamecoreRhythm
+ 25. FamecoreRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 8
+No Crossover Pairs: 4
+
+[Offspring after Crossover]
+  1. FamecoreRhythm
+  2. FamecoreRhythm
+  3. FamecoreRhythm
+  4. FamecoreRhythm
+  5. FamecoreRhythm
+  6. FamecoreRhythm
+  7. FamecoreRhythm
+  8. FamecoreRhythm
+  9. FamecoreRhythm
+ 10. FamecoreRhythm
+ 11. FamecoreRhythm
+ 12. FamecoreRhythm
+ 13. FamecoreRhythm
+ 14. FamecoreRhythm
+ 15. FamecoreRhythm
+ 16. FamecoreRhythm
+ 17. FamecoreRhythm
+ 18. FamecoreRhythm
+ 19. FamecoreRhythm
+ 20. FamecoreRhythm
+ 21. FamecoreRhythm
+ 22. FamecoreRhythm
+ 23. FamecoreRhythm
+ 24. FamecoreRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. FamecoreRhythm
+  2. FamecoreRhythm
+  3. FamecoreRhythm
+  4. FamecoreRhythm
+  5. FamecoreRhythm
+  6. FamecoreRhythm
+  7. RunwayRhythm
+  8. FamecoreRhythm
+  9. FamecoreRhythm
+ 10. FamecoreRhythm
+ 11. FamecoreRhythm
+ 12. FamecoreRhythm
+ 13. FamecoreRhythm
+ 14. FamecoreRhythm
+ 15. FamecoreRhythm
+ 16. FamecoreRhythm
+ 17. PerformerRhythm
+ 18. FamecoreRhythm
+ 19. FamecoreRhythm
+ 20. FamecoreCreative
+ 21. DramaticRhythm
+ 22. FamecoreDaydream
+ 23. FamecoreRhythm
+ 24. MoodboardRhythm
+
+========== Generation 64/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. FamecoreRhythm
+  2. FamecoreRhythm
+  3. FamecoreRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. FamecoreRhythm
+  7. FamecoreRhythm
+  8. MoodboardRhythm
+  9. FamecoreRhythm
+ 10. FamecoreRhythm
+ 11. FamecoreRhythm
+ 12. FamecoreRhythm
+ 13. FamecoreRhythm
+ 14. MoodboardRhythm
+ 15. FamecoreRhythm
+ 16. FamecoreRhythm
+ 17. FamecoreRhythm
+ 18. FamecoreRhythm
+ 19. MoodboardRhythm
+ 20. FamecoreRhythm
+ 21. FamecoreRhythm
+ 22. FamecoreRhythm
+ 23. FamecoreRhythm
+ 24. FamecoreRhythm
+ 25. FamecoreRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. FamecoreRhythm
+  2. FamecoreRhythm
+  3. FamecoreRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. FamecoreRhythm
+  7. FamecoreRhythm
+  8. MoodboardRhythm
+  9. FamecoreRhythm
+ 10. FamecoreRhythm
+ 11. FamecoreRhythm
+ 12. FamecoreRhythm
+ 13. FamecoreRhythm
+ 14. MoodboardRhythm
+ 15. FamecoreRhythm
+ 16. FamecoreRhythm
+ 17. FamecoreRhythm
+ 18. FamecoreRhythm
+ 19. MoodboardRhythm
+ 20. FamecoreRhythm
+ 21. FamecoreRhythm
+ 22. FamecoreRhythm
+ 23. FamecoreRhythm
+ 24. FamecoreRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 2.4094
+Adaptive Mutation Rate: 0.0945
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. FamecoreRhythm
+  2. FamecoreRhythm
+  3. FamecoreRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. FamecoreRhythm
+  7. FamecoreRhythm
+  8. MoodboardRhythm
+  9. FamecoreRhythm
+ 10. FamecoreRhythm
+ 11. FamecoreRhythm
+ 12. FamecoreRhythm
+ 13. FamecoreCutesy
+ 14. MoodboardRhythm
+ 15. FamecoreRhythm
+ 16. FamecoreRhythm
+ 17. FamecoreRhythm
+ 18. FamecoreRhythm
+ 19. LyricistRhythm
+ 20. FamecoreRhythm
+ 21. FamecoreRhythm
+ 22. FamecoreRhythm
+ 23. FamecoreRhythm
+ 24. SongerRhythm
+
+========== Generation 65/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. FamecoreRhythm
+  4. FamecoreRhythm
+  5. FamecoreRhythm
+  6. MoodboardRhythm
+  7. SongerRhythm
+  8. MoodboardRhythm
+  9. FamecoreRhythm
+ 10. FamecoreRhythm
+ 11. MoodboardRhythm
+ 12. FamecoreRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. FamecoreRhythm
+ 16. MoodboardRhythm
+ 17. FamecoreRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. FamecoreRhythm
+ 21. FamecoreRhythm
+ 22. FamecoreRhythm
+ 23. FamecoreRhythm
+ 24. MoodboardRhythm
+ 25. FamecoreRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. FamecoreRhythm
+  4. FamecoreRhythm
+  5. MoodboardRhythm
+  6. FamecoreRhythm
+  7. MoodboardRhythm
+  8. SongerRhythm
+  9. FamecoreRhythm
+ 10. FamecoreRhythm
+ 11. FamecoreRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. FamecoreRhythm
+ 16. MoodboardRhythm
+ 17. FamecoreRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. FamecoreRhythm
+ 21. FamecoreRhythm
+ 22. FamecoreRhythm
+ 23. FamecoreRhythm
+ 24. MoodboardRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 3.9312
+Adaptive Mutation Rate: 0.0911
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. FamecoreRhythm
+  4. FamecoreRhythm
+  5. IconicRhythm
+  6. FamecoreRhythm
+  7. MoodboardRhythm
+  8. SongerRhythm
+  9. FamecoreRhythm
+ 10. FamecoreRhythm
+ 11. FamecoreRhythm
+ 12. MoodboardPerformer
+ 13. MoodboardBiritera
+ 14. MoodboardRhythm
+ 15. FamecoreRhythm
+ 16. MoodboardRhythm
+ 17. FamecoreRhythm
+ 18. SongerRhythm
+ 19. MoodboardRhythm
+ 20. FamecoreRhythm
+ 21. FamecoreRhythm
+ 22. FamecoreRhythm
+ 23. FamecoreRhythm
+ 24. MoodboardRhythm
+
+========== Generation 66/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. FamecoreRhythm
+  4. MoodboardRhythm
+  5. FamecoreRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. FamecoreRhythm
+ 10. MoodboardRhythm
+ 11. FamecoreRhythm
+ 12. MoodboardRhythm
+ 13. FamecoreRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. FamecoreRhythm
+ 21. FamecoreRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+ 25. MoodboardRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. FamecoreRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. FamecoreRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. FamecoreRhythm
+ 10. MoodboardRhythm
+ 11. FamecoreRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. FamecoreRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. FamecoreRhythm
+ 21. FamecoreRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 3.0181
+Adaptive Mutation Rate: 0.0931
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. FamecoreRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. FamecoreRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. FamecoreSlaynote
+ 10. MoodboardRhythm
+ 11. FamecoreRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. FamecoreRhythm
+ 15. MoodboardRhythm
+ 16. MicrophoneRainbow
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. FamecoreRhythm
+ 21. FamecoreRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+========== Generation 67/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. FamecoreRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+ 25. MoodboardRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. FamecoreRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5833
+Adaptive Mutation Rate: 0.0987
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. DramaNota
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. ShowtimeRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. BubbleBiritera
+
+========== Generation 68/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+ 25. MoodboardRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. BopsicleRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. EncoreRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+========== Generation 69/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+ 25. MoodboardRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. TrendishRhythm
+ 11. FeelmakerRhythm
+ 12. MoodboardRhythm
+ 13. LyricistRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. PaintModeRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. DaydreamRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+========== Generation 70/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+ 25. MoodboardRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardAesthetic
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardGlitz
+ 18. BackstageRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+========== Generation 71/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+ 25. MoodboardRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. MoodboardMic
+  2. MoodboardRhythm
+  3. MoodboardVerse
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. DrawerRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. RegineRhythm
+ 24. MoodboardRhythm
+
+========== Generation 72/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+ 25. MoodboardRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. DanceristRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardMusic
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardDaydream
+ 22. MoodboardBackstage
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+========== Generation 73/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+ 25. MoodboardRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. MoodboardRehearsal
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardCanvas
+  7. CutesyRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. FeelmakerRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. CutesyRhythm
+ 20. MoodboardRhythm
+ 21. ChoreoRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+========== Generation 74/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+ 25. MoodboardRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardSpectre
+  7. MoodboardCanvas
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardHitmaker
+ 17. MoodboardRhythm
+ 18. MoodboardArtcrush
+ 19. DramaRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+========== Generation 75/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. DramaRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. DramaRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+ 25. MoodboardRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. DramaRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. DramaRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.2754
+Adaptive Mutation Rate: 0.0971
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. CanvasRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. PopRhythm
+  9. MoodboardRhythm
+ 10. DrawerRhythm
+ 11. MoodboardRhythm
+ 12. DramaRhythm
+ 13. MoodboardRhythm
+ 14. DramaRhythm
+ 15. StarletRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. DramaRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+========== Generation 76/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+ 25. MoodboardRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. MoodboardNoted
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardVibes
+  5. MoodboardSongbird
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardEncore
+ 20. FamecoreRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardPaintMode
+
+========== Generation 77/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardEncore
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+ 25. MoodboardRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardEncore
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5000
+Adaptive Mutation Rate: 0.0989
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. MoodboardMicrophone
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardEncore
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardScripted
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardMelodrama
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+========== Generation 78/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+ 25. MoodboardRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. ScreentimeRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. TalentishRhythm
+  9. MoodboardRhythm
+ 10. CreativeRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardFeelmaker
+ 17. MoodboardHeartbeats
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. StarletRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+========== Generation 79/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+ 25. MoodboardRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardIconic
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. RegineRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. ZoneRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardHarmony
+
+========== Generation 80/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+ 25. MoodboardRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. SlaynoteRhythm
+  2. MoodboardRhythm
+  3. MoodboardEncore
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MuseRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardNota
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardPop
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+========== Generation 81/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+ 25. MoodboardRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 7
+No Crossover Pairs: 5
+
+[Offspring after Crossover]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardBanger
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardTalentadong
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. SpotlightRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+========== Generation 82/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+ 25. MoodboardRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. BangerRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRunway
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardScripted
+ 24. RunwayRhythm
+
+========== Generation 83/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+ 25. MoodboardRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardSongbird
+  4. MoodboardRhythm
+  5. RhythmRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. VibesRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+========== Generation 84/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+ 25. MoodboardRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 12
+
+[New Population after Mutation]
+  1. MoodboardMoodboard
+  2. MoodboardPerformer
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardBelter
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. SlaynoteRhythm
+  9. MoodboardRhythm
+ 10. CanvasRhythm
+ 11. MoodboardRegine
+ 12. SlaynoteRhythm
+ 13. InspoRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MusicRhythm
+ 18. MoodboardRhythm
+ 19. BoomScribbles
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardZone
+ 24. MoodboardRhythm
+
+========== Generation 85/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. InspoRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. SlaynoteRhythm
+ 17. SlaynoteRhythm
+ 18. InspoRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardPerformer
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+ 25. MoodboardRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. InspoRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. SlaynoteRhythm
+ 16. MoodboardRhythm
+ 17. SlaynoteRhythm
+ 18. InspoRhythm
+ 19. MoodboardPerformer
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 3.0870
+Adaptive Mutation Rate: 0.0930
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. MoodboardRhythm
+  2. BopsicleRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. InspoRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. CanvasRhythm
+ 15. SlaynoteRhythm
+ 16. MoodboardBiritera
+ 17. SlaynoteRhythm
+ 18. InspoRhythm
+ 19. MoodboardPerformer
+ 20. MicrophoneRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+========== Generation 86/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+ 25. MoodboardRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. MoodboardRhythm
+  2. MoodboardMicrophone
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardDrama
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardFamecore
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardVocalist
+
+========== Generation 87/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+ 25. MoodboardRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. MoodboardScribbles
+  2. MoodboardFeelmaker
+  3. MoodboardRhythm
+  4. VocalistRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardBiritera
+ 11. MoodboardRhythm
+ 12. BeatdropLyricist
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. PerformerRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+========== Generation 88/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. BeatdropLyricist
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+ 25. MoodboardRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardLyricist
+  4. BeatdropRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.3297
+Adaptive Mutation Rate: 0.0970
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. MoodboardRhythm
+  2. MoodboardMoody
+  3. FeelmakerLyricist
+  4. BeatdropRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. TalentishRhythm
+  8. MoodboardRhythm
+  9. MoodboardPoetic
+ 10. SpotlightRhythm
+ 11. MoodboardMelodrama
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardFamecore
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. PoeticRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+========== Generation 89/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+ 25. MoodboardRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardMuse
+  4. MoodboardRhythm
+  5. FeelmakerRhythm
+  6. SnatchedRhythm
+  7. MoodboardRhythm
+  8. MoodboardSonger
+  9. MoodboardRhythm
+ 10. MoodboardDramatic
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. HeartbeatsRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. BackstageRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardDancerist
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+========== Generation 90/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. FeelmakerRhythm
+ 19. MoodboardRhythm
+ 20. FeelmakerRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+ 25. MoodboardRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. FeelmakerRhythm
+ 18. MoodboardRhythm
+ 19. FeelmakerRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.4348
+Adaptive Mutation Rate: 0.0967
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. FreestyleRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. FeelmakerRhythm
+ 18. MoodboardRhythm
+ 19. FeelmakerRhythm
+ 20. SongbirdRhythm
+ 21. MoodboardMoody
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+========== Generation 91/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+ 25. MoodboardRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardNoted
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRehearsal
+ 14. BackstageRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. DanceristRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+========== Generation 92/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+ 25. MoodboardRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardMusic
+  9. MoodboardFlows
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+========== Generation 93/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+ 25. MoodboardRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. MoodboardRhythm
+  2. LyricistRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardFamecore
+  9. MoodboardRhythm
+ 10. ShowtimeRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. BeatdropRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardFeelmaker
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardHeartbeats
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+========== Generation 94/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+ 25. MoodboardRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardSoloist
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardLight
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodyRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+========== Generation 95/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+ 25. MoodboardRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. FlowsRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. LyricistRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. SkyRhythm
+
+========== Generation 96/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+ 25. MoodboardRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardInspo
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardTalentadong
+ 24. MoodboardRhythm
+
+========== Generation 97/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+ 25. MoodboardRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. BreakdanceRhythm
+  2. MoodboardRhythm
+  3. MoodboardSingular
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. HitmakerRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardShowtime
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+========== Generation 98/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+ 25. MoodboardRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. BelterPerformer
+  6. MoodboardRhythm
+  7. MoodboardFlows
+  8. MoodboardRhythm
+  9. MoodboardMuse
+ 10. PoeticRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardPerformer
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+========== Generation 99/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+ 25. MoodboardRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardPoetic
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. ArtsyAesthetic
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardPop
+ 19. MoodboardRehearsal
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardMic
+
+========== Generation 100/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+ 25. MoodboardRhythm
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. MoodboardRhythm
+  4. MoodboardRhythm
+  5. MoodboardRhythm
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MoodboardRhythm
+ 14. MoodboardRhythm
+ 15. MoodboardRhythm
+ 16. MoodboardRhythm
+ 17. MoodboardRhythm
+ 18. MoodboardRhythm
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. MoodboardRhythm
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 11
+
+[New Population after Mutation]
+  1. MoodboardRhythm
+  2. MoodboardRhythm
+  3. HitmakerRhythm
+  4. MoodboardSongbird
+  5. MoodboardDramatic
+  6. MoodboardRhythm
+  7. MoodboardRhythm
+  8. MoodboardRhythm
+  9. MoodboardRhythm
+ 10. MoodboardRhythm
+ 11. MoodboardRhythm
+ 12. MoodboardRhythm
+ 13. MusicRhythm
+ 14. NotedBelter
+ 15. MoodboardRhythm
+ 16. GlitzSingular
+ 17. MusicRhythm
+ 18. MoodboardTalentish
+ 19. MoodboardRhythm
+ 20. MoodboardRhythm
+ 21. MoodboardRhythm
+ 22. MoodboardRhythm
+ 23. MoodboardRhythm
+ 24. SkyRhythm
+
+========================================
+GA PROCESS COMPLETE
+Best Username Found: MoodboardRhythm

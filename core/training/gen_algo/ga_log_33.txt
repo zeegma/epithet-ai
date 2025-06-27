@@ -1,0 +1,9458 @@
+Epithet AI - Genetic Algorithm Log
+========================================
+
+[Initial Population]
+  1. EmoDoomwink
+  2. DarksoloSadchoker
+  3. SadboiPighowl
+  4. SadmosherBabyIssues
+  5. GuitarbreakdownPunkishere
+  6. AnxietyCryingpogi
+  7. AnxietyBlackout
+  8. SkullbabyEmotears
+  9. MoodymosherAloneagain
+ 10. BabyIssuesIyakbaby
+ 11. GhostyAngsticles
+ 12. GuitarbreakdownIyakbaby
+ 13. EmotearsDoomjuice
+ 14. AkoAngProlemaMoodymosher
+ 15. RottingPaincakes
+ 16. EmoriceOverthinker
+ 17. MetalheadAmpspiked
+ 18. AbandonedAngsticles
+ 19. MalungkutingBrutalhug
+ 20. ScreamcoreLoverBurn
+ 21. CryingpogiEmotears
+ 22. SoulsellerSniff
+ 23. MetalheadStagecrawl
+ 24. SilencerOverthinker
+ 25. DoomedEargouge
+ 26. EmotionalriffsMoshedmyheart
+ 27. FuzzcoreEmotears
+ 28. DistortedangelCrymetal
+ 29. MoshedmyheartDramatic
+ 30. EmotearsAnxiety
+ 31. DumbBlackout
+ 32. DoomedTraumaOnTop
+ 33. AngsticlesDaddyIssues
+ 34. NotHealingSoulseller
+ 35. DethsnuggleYellsnug
+ 36. BlackoutTampururot
+ 37. FuzzcorePighowl
+ 38. ChaoticCutieDoomwink
+ 39. ChaoticCutieNoisehug
+ 40. PunkishereDaddyIssues
+ 41. OverthinkerBrutalhug
+ 42. SpiralingAmpspiked
+ 43. BabyIssuesOverthinker
+ 44. OverthinkerRotting
+ 45. EdgyriffzAmpspiked
+ 46. BlackshirtenergyCrymetal
+ 47. SoulsellerDethsnuggle
+ 48. SadboiEmorice
+ 49. SoulsellerDoomed
+ 50. MetalfreakSadchoker
+
+========== Generation 1/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyBlackout
+  2. CryingpogiEmotears
+  3. MoodymosherAloneagain
+  4. MetalheadStagecrawl
+  5. BabyIssuesOverthinker
+  6. EmotearsAnxiety
+  7. SkullbabyEmotears
+  8. MoodymosherAloneagain
+  9. RottingPaincakes
+ 10. AnxietyCryingpogi
+ 11. EmotearsAnxiety
+ 12. SadmosherBabyIssues
+ 13. AnxietyBlackout
+ 14. GuitarbreakdownPunkishere
+ 15. GuitarbreakdownPunkishere
+ 16. EdgyriffzAmpspiked
+ 17. EdgyriffzAmpspiked
+ 18. EmotearsAnxiety
+ 19. AngsticlesDaddyIssues
+ 20. GuitarbreakdownPunkishere
+ 21. EmotearsAnxiety
+ 22. AnxietyCryingpogi
+ 23. EmoriceOverthinker
+ 24. RottingPaincakes
+ 25. AbandonedAngsticles
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. AnxietyBlackout
+  2. CryingpogiEmotears
+  3. MetalheadAloneagain
+  4. MoodymosherStagecrawl
+  5. BabyIssuesOverthinker
+  6. EmotearsAnxiety
+  7. SkullbabyEmotears
+  8. MoodymosherAloneagain
+  9. AnxietyCryingpogi
+ 10. RottingPaincakes
+ 11. EmotearsBabyIssues
+ 12. SadmosherAnxiety
+ 13. AnxietyPunkishere
+ 14. GuitarbreakdownBlackout
+ 15. GuitarbreakdownPunkishere
+ 16. EdgyriffzAmpspiked
+ 17. EdgyriffzAnxiety
+ 18. EmotearsAmpspiked
+ 19. AngsticlesPunkishere
+ 20. GuitarbreakdownDaddyIssues
+ 21. AnxietyCryingpogi
+ 22. EmotearsAnxiety
+ 23. EmoriceOverthinker
+ 24. RottingPaincakes
+
+MUTATION
+[Mutation Info]
+Population Diversity: 16.4384
+Adaptive Mutation Rate: 0.0743
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. AnxietyBlackout
+  2. CryingpogiEmotears
+  3. MetalheadAloneagain
+  4. MoodymosherStagecrawl
+  5. BabyIssuesOverthinker
+  6. EmotearsAnxiety
+  7. SkullbabyEmotears
+  8. MoodymosherAloneagain
+  9. AnxietyCryingpogi
+ 10. RottingPaincakes
+ 11. EmotearsBabyIssues
+ 12. SadmosherScreamcore
+ 13. AnxietyPunkishere
+ 14. LoverboyloserBlackout
+ 15. GuitarbreakdownPunkishere
+ 16. EdgyriffzAmpspiked
+ 17. SoulsellerBlackout
+ 18. EmotearsAmpspiked
+ 19. AngsticlesBlackshirtenergy
+ 20. GuitarbreakdownDaddyIssues
+ 21. AnxietyCryingpogi
+ 22. EmotearsAnxiety
+ 23. EmoriceOverthinker
+ 24. RottingPaincakes
+
+========== Generation 2/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. EdgyriffzAmpspiked
+  2. EmotearsAnxiety
+  3. SoulsellerBlackout
+  4. AnxietyCryingpogi
+  5. LoverboyloserBlackout
+  6. AnxietyCryingpogi
+  7. RottingPaincakes
+  8. AnxietyCryingpogi
+  9. AnxietyPunkishere
+ 10. EmotearsBabyIssues
+ 11. RottingPaincakes
+ 12. RottingPaincakes
+ 13. RottingPaincakes
+ 14. EdgyriffzAmpspiked
+ 15. AnxietyCryingpogi
+ 16. AnxietyPunkishere
+ 17. AnxietyCryingpogi
+ 18. EmotearsAnxiety
+ 19. AnxietyCryingpogi
+ 20. RottingPaincakes
+ 21. SoulsellerBlackout
+ 22. AnxietyCryingpogi
+ 23. MetalheadAloneagain
+ 24. AnxietyCryingpogi
+ 25. EmotearsAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. EmotearsAnxiety
+  2. EdgyriffzAmpspiked
+  3. SoulsellerBlackout
+  4. AnxietyCryingpogi
+  5. AnxietyCryingpogi
+  6. LoverboyloserBlackout
+  7. AnxietyCryingpogi
+  8. RottingPaincakes
+  9. AnxietyBabyIssues
+ 10. EmotearsPunkishere
+ 11. RottingPaincakes
+ 12. RottingPaincakes
+ 13. EdgyriffzAmpspiked
+ 14. RottingPaincakes
+ 15. AnxietyPunkishere
+ 16. AnxietyCryingpogi
+ 17. EmotearsCryingpogi
+ 18. AnxietyAnxiety
+ 19. RottingPaincakes
+ 20. AnxietyCryingpogi
+ 21. SoulsellerBlackout
+ 22. AnxietyCryingpogi
+ 23. AnxietyAloneagain
+ 24. MetalheadCryingpogi
+
+MUTATION
+[Mutation Info]
+Population Diversity: 12.9601
+Adaptive Mutation Rate: 0.0797
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. EmotearsAnxiety
+  2. EdgyriffzAmpspiked
+  3. SoulsellerBlackout
+  4. AnxietyCryingpogi
+  5. AnxietyCryingpogi
+  6. LoverboyloserEyelineronfire
+  7. AnxietyCryingpogi
+  8. RottingPaincakes
+  9. AnxietyBabyIssues
+ 10. EmotearsPunkishere
+ 11. RottingPaincakes
+ 12. RottingPaincakes
+ 13. EdgyriffzAmpspiked
+ 14. RottingPaincakes
+ 15. AnxietyPunkishere
+ 16. AnxietyCryingpogi
+ 17. EmotearsCryingpogi
+ 18. AnxietyAnxiety
+ 19. RottingPaincakes
+ 20. AnxietyCryingpogi
+ 21. SoulsellerBlackout
+ 22. IhyakCryingpogi
+ 23. AnxietyAloneagain
+ 24. MetalheadCryingpogi
+
+========== Generation 3/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyCryingpogi
+  3. RottingPaincakes
+  4. AnxietyCryingpogi
+  5. EmotearsAnxiety
+  6. EdgyriffzAmpspiked
+  7. RottingPaincakes
+  8. AnxietyCryingpogi
+  9. AnxietyCryingpogi
+ 10. AnxietyAnxiety
+ 11. AnxietyCryingpogi
+ 12. AnxietyBabyIssues
+ 13. AnxietyCryingpogi
+ 14. SoulsellerBlackout
+ 15. EmotearsAnxiety
+ 16. AnxietyCryingpogi
+ 17. AnxietyCryingpogi
+ 18. AnxietyCryingpogi
+ 19. AnxietyCryingpogi
+ 20. AnxietyCryingpogi
+ 21. AnxietyCryingpogi
+ 22. AnxietyBabyIssues
+ 23. AnxietyCryingpogi
+ 24. AnxietyCryingpogi
+ 25. AnxietyCryingpogi
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AnxietyCryingpogi
+  2. AnxietyAnxiety
+  3. AnxietyCryingpogi
+  4. RottingPaincakes
+  5. EdgyriffzAnxiety
+  6. EmotearsAmpspiked
+  7. AnxietyPaincakes
+  8. RottingCryingpogi
+  9. AnxietyAnxiety
+ 10. AnxietyCryingpogi
+ 11. AnxietyCryingpogi
+ 12. AnxietyBabyIssues
+ 13. AnxietyBlackout
+ 14. SoulsellerCryingpogi
+ 15. EmotearsCryingpogi
+ 16. AnxietyAnxiety
+ 17. AnxietyCryingpogi
+ 18. AnxietyCryingpogi
+ 19. AnxietyCryingpogi
+ 20. AnxietyCryingpogi
+ 21. AnxietyBabyIssues
+ 22. AnxietyCryingpogi
+ 23. AnxietyCryingpogi
+ 24. AnxietyCryingpogi
+
+MUTATION
+[Mutation Info]
+Population Diversity: 8.8261
+Adaptive Mutation Rate: 0.0862
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. AnxietyCryingpogi
+  2. AnxietyAnxiety
+  3. AnxietyCryingpogi
+  4. RottingPaincakes
+  5. EdgyriffzAnxiety
+  6. EmotearsAmpspiked
+  7. AnxietyAkoAngProlema
+  8. RottingCryingpogi
+  9. AnxietyNoisehug
+ 10. AnxietyCryingpogi
+ 11. EmotionalriffsCryingpogi
+ 12. AnxietyBabyIssues
+ 13. AnxietyNoisehug
+ 14. SoulsellerCryingpogi
+ 15. EmotearsCryingpogi
+ 16. AnxietyHeartbreaker
+ 17. AnxietyCryingpogi
+ 18. AnxietyCryingpogi
+ 19. AnxietyCryingpogi
+ 20. AnxietyCryingpogi
+ 21. AnxietyBabyIssues
+ 22. AnxietyCryingpogi
+ 23. AnxietyCryingpogi
+ 24. AnxietyCryingpogi
+
+========== Generation 4/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyCryingpogi
+  2. AnxietyCryingpogi
+  3. AnxietyCryingpogi
+  4. AnxietyCryingpogi
+  5. AnxietyCryingpogi
+  6. AnxietyCryingpogi
+  7. AnxietyCryingpogi
+  8. AnxietyAnxiety
+  9. AnxietyBabyIssues
+ 10. AnxietyCryingpogi
+ 11. AnxietyCryingpogi
+ 12. AnxietyCryingpogi
+ 13. AnxietyCryingpogi
+ 14. AnxietyAkoAngProlema
+ 15. AnxietyCryingpogi
+ 16. AnxietyCryingpogi
+ 17. AnxietyBabyIssues
+ 18. AnxietyHeartbreaker
+ 19. AnxietyCryingpogi
+ 20. AnxietyBabyIssues
+ 21. AnxietyCryingpogi
+ 22. AnxietyCryingpogi
+ 23. AnxietyCryingpogi
+ 24. AnxietyCryingpogi
+ 25. AnxietyCryingpogi
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AnxietyCryingpogi
+  2. AnxietyCryingpogi
+  3. AnxietyCryingpogi
+  4. AnxietyCryingpogi
+  5. AnxietyCryingpogi
+  6. AnxietyCryingpogi
+  7. AnxietyAnxiety
+  8. AnxietyCryingpogi
+  9. AnxietyCryingpogi
+ 10. AnxietyBabyIssues
+ 11. AnxietyCryingpogi
+ 12. AnxietyCryingpogi
+ 13. AnxietyAkoAngProlema
+ 14. AnxietyCryingpogi
+ 15. AnxietyCryingpogi
+ 16. AnxietyCryingpogi
+ 17. AnxietyBabyIssues
+ 18. AnxietyHeartbreaker
+ 19. AnxietyCryingpogi
+ 20. AnxietyBabyIssues
+ 21. AnxietyCryingpogi
+ 22. AnxietyCryingpogi
+ 23. AnxietyCryingpogi
+ 24. AnxietyCryingpogi
+
+MUTATION
+[Mutation Info]
+Population Diversity: 4.3804
+Adaptive Mutation Rate: 0.0932
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. AnxietyCryingpogi
+  2. AnxietyCryingpogi
+  3. AnxietyCryingpogi
+  4. AnxietyCryingpogi
+  5. CryingpogiCryingpogi
+  6. AnxietyCryingpogi
+  7. AnxietyAnxiety
+  8. AnxietyAngsticles
+  9. EmotionalriffsCryingpogi
+ 10. AnxietyBabyIssues
+ 11. AnxietyCryingpogi
+ 12. AnxietyCryingpogi
+ 13. AnxietyDiscordKitten
+ 14. AnxietyCryingpogi
+ 15. AnxietyDramatic
+ 16. AnxietyCryingpogi
+ 17. AnxietyBabyIssues
+ 18. AnxietyHeartbreaker
+ 19. AnxietyAbandoned
+ 20. AnxietyPighowl
+ 21. AnxietyCryingpogi
+ 22. SoulsellerCryingpogi
+ 23. AnxietyCryingpogi
+ 24. AnxietyCryingpogi
+
+========== Generation 5/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyCryingpogi
+  2. AnxietyCryingpogi
+  3. AnxietyCryingpogi
+  4. AnxietyBabyIssues
+  5. AnxietyAnxiety
+  6. AnxietyCryingpogi
+  7. AnxietyCryingpogi
+  8. AnxietyCryingpogi
+  9. AnxietyDiscordKitten
+ 10. AnxietyBabyIssues
+ 11. AnxietyAnxiety
+ 12. AnxietyCryingpogi
+ 13. AnxietyCryingpogi
+ 14. AnxietyCryingpogi
+ 15. AnxietyBabyIssues
+ 16. AnxietyAnxiety
+ 17. AnxietyCryingpogi
+ 18. AnxietyCryingpogi
+ 19. AnxietyBabyIssues
+ 20. AnxietyAnxiety
+ 21. AnxietyBabyIssues
+ 22. AnxietyCryingpogi
+ 23. AnxietyCryingpogi
+ 24. AnxietyCryingpogi
+ 25. AnxietyBabyIssues
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AnxietyCryingpogi
+  2. AnxietyCryingpogi
+  3. AnxietyCryingpogi
+  4. AnxietyBabyIssues
+  5. AnxietyCryingpogi
+  6. AnxietyAnxiety
+  7. AnxietyCryingpogi
+  8. AnxietyCryingpogi
+  9. AnxietyBabyIssues
+ 10. AnxietyDiscordKitten
+ 11. AnxietyAnxiety
+ 12. AnxietyCryingpogi
+ 13. AnxietyCryingpogi
+ 14. AnxietyCryingpogi
+ 15. AnxietyBabyIssues
+ 16. AnxietyAnxiety
+ 17. AnxietyCryingpogi
+ 18. AnxietyCryingpogi
+ 19. AnxietyBabyIssues
+ 20. AnxietyAnxiety
+ 21. AnxietyBabyIssues
+ 22. AnxietyCryingpogi
+ 23. AnxietyCryingpogi
+ 24. AnxietyCryingpogi
+
+MUTATION
+[Mutation Info]
+Population Diversity: 6.1232
+Adaptive Mutation Rate: 0.0904
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. AnxietyBlackout
+  2. AnxietyCryingpogi
+  3. AnxietyCrymetal
+  4. AnxietyBabyIssues
+  5. AnxietyCryingpogi
+  6. AnxietyAnxiety
+  7. AnxietyCryingpogi
+  8. AnxietyCryingpogi
+  9. AnxietyBabyIssues
+ 10. AnxietyDiscordKitten
+ 11. AnxietyAnxiety
+ 12. AnxietyCryingpogi
+ 13. AnxietyCryingpogi
+ 14. AnxietyAnxiety
+ 15. AnxietyBabyIssues
+ 16. AnxietyAnxiety
+ 17. AnxietyCryingpogi
+ 18. AnxietyCryingpogi
+ 19. ScreamcoreSadchoker
+ 20. RiffslaveAnxiety
+ 21. AnxietyBabyIssues
+ 22. AnxietyCryingpogi
+ 23. AnxietyEdgyriffz
+ 24. AnxietyCryingpogi
+
+========== Generation 6/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyBabyIssues
+  5. AnxietyAnxiety
+  6. AnxietyBabyIssues
+  7. AnxietyBabyIssues
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyBabyIssues
+ 12. AnxietyBabyIssues
+ 13. AnxietyBabyIssues
+ 14. AnxietyBabyIssues
+ 15. AnxietyCryingpogi
+ 16. AnxietyBabyIssues
+ 17. AnxietyCryingpogi
+ 18. AnxietyCryingpogi
+ 19. AnxietyBabyIssues
+ 20. AnxietyBabyIssues
+ 21. AnxietyCryingpogi
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyBabyIssues
+  5. AnxietyBabyIssues
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyBabyIssues
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyBabyIssues
+ 12. AnxietyBabyIssues
+ 13. AnxietyBabyIssues
+ 14. AnxietyBabyIssues
+ 15. AnxietyCryingpogi
+ 16. AnxietyBabyIssues
+ 17. AnxietyCryingpogi
+ 18. AnxietyCryingpogi
+ 19. AnxietyBabyIssues
+ 20. AnxietyBabyIssues
+ 21. AnxietyCryingpogi
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 6.3768
+Adaptive Mutation Rate: 0.0900
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyBabyIssues
+  5. AnxietyBabyIssues
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyBabyIssues
+  9. AnxietyAnxiety
+ 10. AnxietyPaincakes
+ 11. AnxietyBabyIssues
+ 12. AnxietyBabyIssues
+ 13. AnxietyScreamqueen
+ 14. AnxietyBabyIssues
+ 15. AnxietyCryingpogi
+ 16. AnxietyBabyIssues
+ 17. AnxietyCryingpogi
+ 18. AnxietyCryingpogi
+ 19. AnxietyBabyIssues
+ 20. AnxietyReverbtears
+ 21. EdgyriffzCryingpogi
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 7/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyBabyIssues
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyBabyIssues
+ 12. AnxietyAnxiety
+ 13. AnxietyBabyIssues
+ 14. AnxietyAnxiety
+ 15. AnxietyBabyIssues
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyBabyIssues
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyBabyIssues
+ 13. AnxietyBabyIssues
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyBabyIssues
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 2.8986
+Adaptive Mutation Rate: 0.0955
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyBabyIssues
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietySilencer
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyBabyIssues
+ 13. AnxietyBabyIssues
+ 14. AnxietyDistortedangel
+ 15. AnxietyAnxiety
+ 16. AnxietyBabyIssues
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 8/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietySoulseller
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. IyakbabyAnxiety
+
+========== Generation 9/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. MoodymosherAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyGhosty
+ 13. AnxietyAnxiety
+ 14. AnxietyBrokenWifi
+ 15. AnxietyAnxiety
+ 16. AnxietyDoomwink
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 10/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyBrokenWifi
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyBrokenWifi
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.7500
+Adaptive Mutation Rate: 0.0988
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAkoAngProlema
+  7. AnxietyAnxiety
+  8. AnxietyCryingpogi
+  9. AnxietySkullbaby
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyBrokenWifi
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyIyakbaby
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyEyelineronfire
+ 24. AnxietyAnxiety
+
+========== Generation 11/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietySpikyboi
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. SadchokerAnxiety
+ 18. AnxietySadchoker
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 12/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. RiffslaveAnxiety
+  9. AnxietyEmotionalriffs
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. IyakinAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAmpspiked
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 13/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. DethsnuggleAnxiety
+  2. AnxietyAnxiety
+  3. MoshedmyheartAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. RottingAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietySilencer
+ 24. AnxietyAnxiety
+
+========== Generation 14/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyEmotionalriffs
+  6. AnxietyCrymetal
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. LoverboyloserAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 15/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyScreamcore
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. PunkishereAnxiety
+ 13. SoulsellerAnxiety
+ 14. AnxietyMetalfreak
+ 15. AnxietyMalungkuting
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. DoomwinkAnxiety
+
+========== Generation 16/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. NoisehugAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyDoomed
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyDethsnuggle
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. UwuAnxiety
+
+========== Generation 17/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. CrymetalAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. BrutalhugAnxiety
+ 12. AnxietyDelulu
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAmpspiked
+ 19. AnxietyAnxiety
+ 20. AnxietySelfloather
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyExpiredHope
+
+========== Generation 18/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyPighowl
+  8. AnxietySadboi
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyDoomwink
+ 17. AnxietyAnxiety
+ 18. AnxietySpikyboi
+ 19. AnxietyMalungkuting
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyYellsnug
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 19/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietySadmosher
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyEmo
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. RottingAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. SkullbabyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 20/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. DumbIyakbaby
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. EdgyboiAloneagain
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. SniffAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyGuitarsob
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 21/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 1
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyMalungkuting
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 22/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. BrokenWifiAnxiety
+  6. AnxietyChaoticCutie
+  7. AnxietyAnxiety
+  8. DaddyIssuesAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyTraumaOnTop
+ 14. LoverBurnAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 23/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. SniffAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. MoshedmyheartAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyMetalhead
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyRottinginbed
+ 23. AnxietyAnxiety
+ 24. DistortedangelAnxiety
+
+========== Generation 24/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. ExpiredHopeAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. HalfAliveAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyMalungkuting
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 25/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyBlackout
+  6. AnxietyAnxiety
+  7. NoisehugAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyExpiredHope
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. TampururotAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyNotHealing
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 26/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. NoisehugAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. NoisehugAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5833
+Adaptive Mutation Rate: 0.0991
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. NoisehugAnxiety
+ 14. AnxietyIyakin
+ 15. AnxietyAngsticles
+ 16. AnxietyAnxiety
+ 17. SadmosherAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 27/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. EargougeAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. DramaticAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. BlackshirtenergyAnxiety
+
+========== Generation 28/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. AnxietyFuzzcore
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 29/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 8
+No Crossover Pairs: 4
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. SkullbabyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyEdgyboi
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyMyChemical
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. DaddyIssuesAnxiety
+ 21. AnxietySniff
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietySpiraling
+
+========== Generation 30/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyEdgyboi
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyEdgyboi
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5833
+Adaptive Mutation Rate: 0.0991
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. LoverBurnAnxiety
+ 11. MalungkutingAnxiety
+ 12. StagecrawlAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyEdgyboi
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 31/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. AnxietyUwu
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyBrokenWifi
+  7. AnxietyAnxiety
+  8. AkoAngProlemaAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. DaddyIssuesPunkishere
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. SilencerAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AmpspikedAnxiety
+
+========== Generation 32/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietySpikyboi
+  4. GhostyIhyak
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. NoisehugAnxiety
+ 10. MoshedmyheartAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietySpiraling
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. MoodymosherAnxiety
+
+========== Generation 33/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyIyakbaby
+  6. AnxietyAnxiety
+  7. AnxietyRotting
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. ScreamqueenAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 34/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 9
+
+[New Population after Mutation]
+  1. AnxietyTearshredder
+  2. AnxietyReverbtears
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. ReverbtearsAnxiety
+  6. AnxietyAnxiety
+  7. SpikyboiAnxiety
+  8. FuzzcoreAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. RiffslaveAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAngsticles
+ 21. AnxietyAnxiety
+ 22. AnxietyOverthinker
+ 23. AnxietyNoisehug
+ 24. AnxietyAnxiety
+
+========== Generation 35/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. ReverbtearsAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. ReverbtearsAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.8333
+Adaptive Mutation Rate: 0.0987
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. RaincloudAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. ReverbtearsAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyEargouge
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. TraumaOnTopAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. EdgyboiTampururot
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 36/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyDarksolo
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyHeartbreaker
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. CrymetalAnxiety
+ 16. AnxietyDistortedangel
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. EmoAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyEmotionalriffs
+ 22. AnxietyTraumaOnTop
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 37/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. SelfloatherAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyBlackshirtenergy
+ 11. AnxietyAnxiety
+ 12. SpiralingAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. SniffAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 38/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyIyakbaby
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyMetalhead
+ 11. MetalheadAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyEdgyboi
+ 19. SilencerAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 39/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. DoomjuiceAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietySadchoker
+ 11. AnxietyAnxiety
+ 12. ScreamcoreAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. EargougeAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 40/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. MoshedmyheartAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. NoisehugAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 41/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. DoomwinkAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. OverthinkerAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyBlackout
+ 21. AnxietyAnxiety
+ 22. AnxietySadmosher
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 42/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. AnxietySniff
+  2. AnxietyCryingpogi
+  3. AnxietyChaoticCutie
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. IhyakAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AmpspikedAnxiety
+ 22. PaincakesAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 43/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. IhyakAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyMetalfreak
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyBlackout
+  8. AnxietyScreamcore
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAkoAngProlema
+ 12. AnxietyAngsticles
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. SadchokerAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 44/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyMetalfreak
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyMetalfreak
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.7500
+Adaptive Mutation Rate: 0.0988
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. GuitarsobAnxiety
+ 13. AnxietyMetalfreak
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyTraumaOnTop
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 45/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. AnxietyEmotionalriffs
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. EdgyboiAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. EargougeAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 46/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AkoAngProlemaAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyPunkishere
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyEmo
+ 15. AnxietyAnxiety
+ 16. OverthinkerAnxiety
+ 17. NotHealingAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. PighowlAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 47/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. LoverboyloserAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. HalfAliveAnxiety
+ 10. AnxietyAnxiety
+ 11. IyakbabyAnxiety
+ 12. AnxietySadchoker
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. SkullbabyAnxiety
+ 19. AnxietyScreamqueen
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 48/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. IyakbabyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. IyakbabyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5833
+Adaptive Mutation Rate: 0.0991
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyDumb
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyIhyak
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. IyakbabyAnxiety
+ 18. TearshredderRottinginbed
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. MetalheadAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 49/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyBlackout
+ 17. AnxietyAnxiety
+ 18. DeluluAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. NotHealingAnxiety
+ 22. AnxietyDiscordKitten
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 50/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyGuitarbreakdown
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AmpspikedAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyIyakbaby
+ 15. AnxietyAnxiety
+ 16. MalungkutingAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. EmoAnxiety
+
+========== Generation 51/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. SadchokerAnxiety
+  3. SadmosherAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AmpspikedAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAkoAngProlema
+ 15. AnxietyRottinginbed
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 52/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyEdgyriffz
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AkoAngProlemaAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 53/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 9
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. DethsnuggleEyelineronfire
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. ReverbtearsIhyak
+  9. AnxietyAnxiety
+ 10. AnxietySpiraling
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyEdgyriffz
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyBabyIssues
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. MetalfreakDarksolo
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 54/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyTraumaOnTop
+  4. SniffAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyDistortedangel
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietySilencer
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. EdgyboiNotHealing
+
+========== Generation 55/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 0
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 56/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. EmotearsAnxiety
+  2. IhyakAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAbandoned
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyPaincakes
+  9. AnxietyAnxiety
+ 10. DoomedAnxiety
+ 11. AnxietyIyakin
+ 12. AnxietyAnxiety
+ 13. ReverbtearsAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 57/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. DoomedAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. DoomedAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5000
+Adaptive Mutation Rate: 0.0992
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. AnxietyIhyak
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. SelfloatherAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. DoomedAnxiety
+ 12. AnxietyGuitarbreakdown
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. DoomjuiceAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 58/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. ScreamcoreEyelineronfire
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. SkullbabyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyIhyak
+ 12. AnxietyAnxiety
+ 13. AnxietyPunkishere
+ 14. AnxietyAnxiety
+ 15. LoverBurnAnxiety
+ 16. AnxietySelfloather
+ 17. AnxietyIyakin
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 59/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietySilencer
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAbandoned
+
+========== Generation 60/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. CrymetalAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyOverthinker
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 61/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyDumb
+  4. AnxietyChaoticCutie
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyRaincloud
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyIyakin
+ 22. AnxietyAnxiety
+ 23. RiffslaveMoshedmyheart
+ 24. AnxietyAnxiety
+
+========== Generation 62/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. RottinginbedAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyScreamcore
+ 17. AnxietyAnxiety
+ 18. AnxietyAmpspiked
+ 19. RottingAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyNotHealing
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 63/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. StagecrawlAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. DoomedAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 64/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyEdgyboi
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. GhostyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. ScreamcoreAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyMetalhead
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. SniffAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 65/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. AnxietyGuitarbreakdown
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyDoomwink
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. DoomjuiceMetalfreak
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyCryingpogi
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyDoomed
+ 24. DumbAnxiety
+
+========== Generation 66/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyPighowl
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyGhosty
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. CryingpogiAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyPunkishere
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. EmoMoshedmyheart
+ 24. AnxietyAnxiety
+
+========== Generation 67/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. EmotearsNoisehug
+  8. AnxietyAnxiety
+  9. AnxietyDiscordKitten
+ 10. AnxietyUwu
+ 11. AnxietyAnxiety
+ 12. EdgyboiAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietySkullbaby
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyChaoticCutie
+
+========== Generation 68/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietySniff
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyMoshedmyheart
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyScreamqueen
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. SelfloatherAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 69/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietySpikyboi
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. IyakbabyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyBrokenWifi
+ 13. AnxietyDiscordKitten
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. EmoriceAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 70/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 9
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietySadboi
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyDumb
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyMetalfreak
+ 16. AnxietyAnxiety
+ 17. AnxietyPighowl
+ 18. HeartbreakerAnxiety
+ 19. YellsnugAnxiety
+ 20. EdgyboiAnxiety
+ 21. FuzzcoreAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyRiffslave
+ 24. AnxietyAnxiety
+
+========== Generation 71/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. YellsnugAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. YellsnugAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyDumb
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. YellsnugAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. YellsnugAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyDumb
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.8370
+Adaptive Mutation Rate: 0.0971
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. YellsnugStagecrawl
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. SelfloatherAnxiety
+  5. AnxietyAnxiety
+  6. YellsnugAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyDumb
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. DoomjuiceAnxiety
+ 15. IhyakAnxiety
+ 16. AnxietyBabyIssues
+ 17. AnxietyAnxiety
+ 18. ScreamcoreAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 72/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. DoomjuiceAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. DoomjuiceAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.7500
+Adaptive Mutation Rate: 0.0988
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. EmoGhosty
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. DoomedAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyOverthinker
+ 14. AnxietyAnxiety
+ 15. TraumaOnTopSkullbaby
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. DoomjuiceAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 73/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. EmotionalriffsAnxiety
+  3. AnxietyEdgyriffz
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyHalfAlive
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. LoverboyloserAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AkoAngProlemaAnxiety
+ 20. AnxietyGuitarsob
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyMyChemical
+ 24. AnxietyAnxiety
+
+========== Generation 74/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. DiscordKittenAnxiety
+  2. HalfAliveAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. DumbAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyBabyIssues
+  9. AnxietyAnxiety
+ 10. AnxietyMyChemical
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyLoverboyloser
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. DaddyIssuesAnxiety
+
+========== Generation 75/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. AnxietyFuzzcore
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. BabyIssuesAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyStagecrawl
+ 12. AnxietyAnxiety
+ 13. YellsnugAnxiety
+ 14. AnxietyAnxiety
+ 15. BabyIssuesAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyDumb
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. DoomedAnxiety
+
+========== Generation 76/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. BabyIssuesAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. BabyIssuesAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. BabyIssuesAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. BabyIssuesAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.5942
+Adaptive Mutation Rate: 0.0975
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. BabyIssuesAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyDaddyIssues
+ 14. AnxietyAnxiety
+ 15. DramaticAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. BabyIssuesAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. MetalheadAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 77/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. AnxietyNotHealing
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyCryingpogi
+  8. AnxietyDumb
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 78/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyLoverBurn
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. ScreamcoreDiscordKitten
+ 16. AnxietyAnxiety
+ 17. AnxietyEdgyriffz
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 79/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. AnxietyAmpspiked
+  2. AnxietyAnxiety
+  3. BrutalhugDiscordKitten
+  4. AnxietyAnxiety
+  5. YellsnugAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. DiscordKittenAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyEyelineronfire
+ 14. AnxietyRaincloud
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. LoverboyloserAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 80/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyEmorice
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. DaddyIssuesAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyIyakin
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyRiffslave
+ 24. AnxietyAnxiety
+
+========== Generation 81/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. MyChemicalIhyak
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietySkullbaby
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyPaincakes
+ 13. AnxietyAnxiety
+ 14. AnxietyDumb
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. DaddyIssuesAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 82/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 8
+No Crossover Pairs: 4
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyBlackout
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyEmo
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyCrymetal
+ 22. LoverboyloserAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 83/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyCrymetal
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyCrymetal
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5000
+Adaptive Mutation Rate: 0.0992
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. MalungkutingAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyDoomwink
+  8. AnxietySpikyboi
+  9. AnxietyAnxiety
+ 10. AnxietyNotHealing
+ 11. AnxietyEyelineronfire
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyCrymetal
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. TearshredderAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 84/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyCrymetal
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyCrymetal
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.5000
+Adaptive Mutation Rate: 0.0992
+Total Mutations: 7
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. SniffAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyDarksolo
+ 10. AnxietyCrymetal
+ 11. AnxietyStagecrawl
+ 12. AnxietyAnxiety
+ 13. ScreamqueenAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyMoodymosher
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietySniff
+ 23. AnxietyBabyIssues
+ 24. AnxietyAnxiety
+
+========== Generation 85/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 6
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyGuitarbreakdown
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. StagecrawlAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyEmotionalriffs
+ 14. AnxietyAnxiety
+ 15. AnxietySoulseller
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. NotHealingAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyEmo
+ 24. AnxietyAnxiety
+
+========== Generation 86/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. NotHealingAnxiety
+  5. AnxietyEmo
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. NotHealingAnxiety
+  5. AnxietyEmo
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.3225
+Adaptive Mutation Rate: 0.0979
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AngsticlesAnxiety
+  3. AnxietyAnxiety
+  4. NotHealingAnxiety
+  5. AnxietyEmo
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. MyChemicalAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyHeartbreaker
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 87/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. NotHealingAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. NotHealingAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.7500
+Adaptive Mutation Rate: 0.0988
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. NotHealingAnxiety
+  3. AnxietyMoodymosher
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyTearshredder
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyGuitarsob
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 88/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 8
+
+[New Population after Mutation]
+  1. StagecrawlAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. StagecrawlAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyMyChemical
+ 12. AnxietySilencer
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. LoverBurnAnxiety
+ 16. AnxietyAnxiety
+ 17. DethsnuggleAnxiety
+ 18. AnxietyChaoticCutie
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAkoAngProlema
+
+========== Generation 89/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. DoomwinkAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AmpspikedAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 90/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyDoomjuice
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietySilencer
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 91/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyDistortedangel
+  8. AnxietyAnxiety
+  9. AnxietyGuitarbreakdown
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 92/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 9
+No Crossover Pairs: 3
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 0
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 93/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyMyChemical
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietySoulseller
+  7. AnxietyAnxiety
+  8. AnxietyEmotears
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyEyelineronfire
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 94/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 8
+No Crossover Pairs: 4
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 10
+
+[New Population after Mutation]
+  1. ExpiredHopeAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. MetalfreakAnxiety
+  5. MoshedmyheartAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. DramaticAnxiety
+  9. AnxietyDelulu
+ 10. SilencerAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAngsticles
+ 13. AnxietyAnxiety
+ 14. ScreamqueenEdgyboi
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. ReverbtearsAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 95/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. MetalfreakAnxiety
+ 21. ExpiredHopeAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 10
+No Crossover Pairs: 2
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. MetalfreakAnxiety
+ 21. AnxietyAnxiety
+ 22. ExpiredHopeAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 1.4746
+Adaptive Mutation Rate: 0.0977
+Total Mutations: 2
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietySadboi
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. PighowlAnxiety
+ 19. AnxietyAnxiety
+ 20. MetalfreakAnxiety
+ 21. AnxietyAnxiety
+ 22. ExpiredHopeAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 96/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. SpikyboiAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyEmo
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyRotting
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyPighowl
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 97/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyDumb
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyEmotears
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. EmoriceAnxiety
+
+========== Generation 98/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 5
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyDarksolo
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyEmotionalriffs
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyFuzzcore
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. GhostyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. YellsnugAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 99/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 12
+No Crossover Pairs: 0
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 4
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. DistortedangelAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyHeartbreaker
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyMetalhead
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAmpspiked
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========== Generation 100/100 ==========
+
+SELECTION
+[Selected Parents]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+ 25. AnxietyAnxiety
+
+CROSSOVER
+[Crossover Info]
+Adaptive Crossover Rate: 0.9000
+Crossover Pairs: 11
+No Crossover Pairs: 1
+
+[Offspring after Crossover]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. AnxietyAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. AnxietyAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. AnxietyAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+MUTATION
+[Mutation Info]
+Population Diversity: 0.0000
+Adaptive Mutation Rate: 0.1000
+Total Mutations: 3
+
+[New Population after Mutation]
+  1. AnxietyAnxiety
+  2. AnxietyAnxiety
+  3. AnxietyAnxiety
+  4. AnxietyAnxiety
+  5. AnxietyAnxiety
+  6. AnxietyAnxiety
+  7. AnxietyAnxiety
+  8. AnxietyAnxiety
+  9. AnxietyAnxiety
+ 10. AnxietyAnxiety
+ 11. AnxietyAnxiety
+ 12. MoodymosherAnxiety
+ 13. AnxietyAnxiety
+ 14. AnxietyAnxiety
+ 15. AnxietyAnxiety
+ 16. AnxietyAnxiety
+ 17. AnxietyAnxiety
+ 18. ScreamcoreAnxiety
+ 19. AnxietyAnxiety
+ 20. AnxietyAnxiety
+ 21. AnxietyAnxiety
+ 22. IhyakAnxiety
+ 23. AnxietyAnxiety
+ 24. AnxietyAnxiety
+
+========================================
+GA PROCESS COMPLETE
+Best Username Found: AnxietyAnxiety
