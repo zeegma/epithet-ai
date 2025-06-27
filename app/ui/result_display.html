@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Personality Result</title>
+    <style>
+        @font-face {
+            font-family: 'SamaritanBold';
+            src: url('../assets/fonts/SamaritanBold.ttf') format('truetype');
+        }
+
+        @font-face {
+            font-family: 'SamaritanRegular';
+            src: url('../assets/fonts/SamaritanRegular.ttf') format('truetype');
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-size: cover;
+            background-position: center center;
+            background-repeat: no-repeat;
+            min-height: 100vh;
+        }
+
+        .username-container {
+            position: fixed;
+            text-align: center;
+            top: 27%;
+            left: 32%;
+            width: 675px;
+        }
+
+        .result-container {
+            position: fixed;
+            top: 57%;
+            left: 38%;
+            width: 550px;
+            color: white;
+        }
+
+        #username-display {
+            font-family: 'SamaritanBold', sans-serif;
+            text-transform: uppercase;
+            font-size: 2.5em;
+            color: black;
+        }
+
+        #result-display {
+            font-family: 'SamaritanRegular', sans-serif;
+            text-transform: uppercase;
+            font-size: 1.4em;
+            line-height: 1.5;
+            
+        }
+
+        .return-button {
+            position: fixed;
+            bottom: 100px;
+            left: 55%;
+            transform: translateX(-50%);
+            background-color: #FF9500;
+            color: black;
+            padding: 16px 28px;
+            border: none;
+            font-family: 'SamaritanBold', sans-serif;
+            font-size: 1.4em;
+            cursor: pointer;
+            box-shadow: -14px 14Px 0px black;
+            text-transform: uppercase;
+            text-decoration: none;
+        }
+
+        .return-button:hover {
+            background-color: #da8003;
+        }
+    </style>
+</head>
+<body>
+    <div class="username-container">
+        <h1 id="username-display">Loading...</h1>
+    </div>
+    <div class="result-container">
+        <p id="result-display">Loading description...</p>
+    </div>
+
+    <!-- Return Button -->
+    <a href="index.html" class="return-button">RETAKE QUIZ</a>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', async () => {
+            const usernameDisplay = document.getElementById('username-display');
+            const resultDisplay = document.getElementById('result-display');
+            const bodyElement = document.body;
+
+            let username;
+            let personality_type;
+            let description;
+
+            try {
+                const urlParams = new URLSearchParams(window.location.search);
+                const urlUsername = urlParams.get('username');
+                const urlType = urlParams.get('type');
+
+                if (urlUsername && urlType) {
+                    console.log("Live Mode");
+                    username = urlUsername;
+                    personality_type = urlType;
+
+                    const descriptionsResponse = await fetch('../descriptions.json');
+                    if (!descriptionsResponse.ok) {
+                        throw new Error("Could not load descriptions file.");
+                    }
+                    const descriptions = await descriptionsResponse.json();
+                    description = descriptions[personality_type];
+
+                } else {
+                    // for testing purposes
+                    console.log("Testing Mode");
+                    username = "dramaticachismikera";
+                    personality_type = "OA";
+
+                    const descriptionsResponse = await fetch('../descriptions.json');
+                    if (!descriptionsResponse.ok) {
+                        throw new Error("Could not load descriptions file.");
+                    }
+                    const descriptions = await descriptionsResponse.json();
+                    description = descriptions[personality_type];
+                }
+
+                const imagePath = `../assets/results/${personality_type}.png`;
+                bodyElement.style.backgroundImage = `url('${imagePath}')`;
+                usernameDisplay.textContent = username;
+
+                const article = /^[aeiou]/i.test(personality_type) ? "an" : "a";
+                resultDisplay.textContent = `You are ${article} ${personality_type}! ${description}`;
+
+            } catch (error) {
+                console.error("Error displaying result:", error);
+                usernameDisplay.textContent = "Error";
+                resultDisplay.textContent = error.message;
+                bodyElement.style.backgroundColor = "#222";
+            }
+        });
+    </script>
+</body>
+</html>
