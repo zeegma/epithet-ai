@@ -1,28 +1,30 @@
 import pandas as pd
 import random
 import os
-
+from keras.models import load_model
+from core.models.creativity_nn import creativity_nn
+from core.predict.personality import predict_personality
+import joblib
 
 # GA parameters
-POPULATION_SIZE = 100
-GENERATIONS = 100
+POPULATION_SIZE = 50
+GENERATIONS = 50
 TOURNAMENT_SIZE = 3
-NUM_PARENTS = 50
+NUM_PARENTS = 25
 INITIAL_CROSSOVER_RATE = 0.9
 DECAY_FACTOR = 0.5
 MIN_MUTATION_RATE = 0.05
-MAX_MUTATION_RATE = 0.1
+MAX_MUTATION_RATE = 0.2
 
-
-# MIN_CROSSOVER_RATE = 0.4 (For Levenshtein)
-# MAX_CROSSOVER_RATE = 0.9
+model = load_model("models/creativity_model_final.keras")
+scaler = joblib.load("training/nn_creativity/data/scaler.save")
 
 
 def initialize_word_pool():
     try:
         print("\n[PROCESS] Parsing word_pool.xlsx...")
 
-        df = pd.read_excel("data\word_pool.xlsx")
+        df = pd.read_excel("data/word_pool.xlsx")
         df = df.map(
             lambda x: str(x).strip().replace("\xa0", "") if pd.notnull(x) else x
         )
@@ -40,10 +42,10 @@ def initialize_word_pool():
         raise FileNotFoundError("[ERROR] word_pool.xlsx not found.")
 
 
-# NN output (For checking only)
+# Personality NN output
 def get_NN_personality():
-    traits = ["artista", "diva", "oa", "wildcard", "achiever", "emo", "gamer", "softie"]
-    chosen_trait = random.choice(traits)
+    answers = [1, 1, 2, 3, 1, 3, 2, 4, 3, 2, 1, 2, 1, 1, 4]
+    chosen_trait = predict_personality(answers)
     return chosen_trait
 
 
@@ -60,27 +62,35 @@ def initialize_population(word_pool, trait):
     for _ in range(POPULATION_SIZE):
         individual = [random.choice(selected_words) for _ in range(2)]
         population.append(individual)
-    return population
+
+    fitness_pop = fitness(population)
+
+    return population, fitness_pop
 
 
 # Fitness Function
-def fitness(individual):
+def fitness(population):
     # Return fitness score as basis of selection
-    # Replace fitness score (creativity score) once Creativity NN is done
-    # Import Creativity NN and use its function
-    return random.random()
+    return creativity_nn(population, model, scaler)
 
 
 # Parent Selection
-def tournament_selection(population):
+def tournament_selection(population, fitness_pop):
     parents = []
     for _ in range(NUM_PARENTS):
-        # Select a subset of the population for tournament
         tournament_group = random.sample(population, TOURNAMENT_SIZE)
+        tournament_indices = [population.index(ind) for ind in tournament_group]
 
-        # Determine the winner of each tournament_group based on fitness score
-        winner = max(tournament_group, key=fitness)
+        max_val = fitness_pop[tournament_indices[0]]
+        max_index = tournament_indices[0]
+        for indices in tournament_indices:
+            if fitness_pop[indices] > max_val:
+                max_val = fitness_pop[indices]
+                max_index = indices
+
+        winner = population[max_index]
         parents.append(winner)
+
     return parents
 
 
@@ -139,46 +149,34 @@ def get_adaptive_mutation_rate(diversity_score, max_possible_distance):
     return max(MIN_MUTATION_RATE, min(mutation_rate, MAX_MUTATION_RATE))
 
 
-# Crossover Rate decreases each generation
-def get_adaptive_crossover_rate(current_generation, max_generations):
-
-    # Calculate how much the crossover rate should decrease based on the current generation
-    decay = (INITIAL_CROSSOVER_RATE - DECAY_FACTOR) * (
-        current_generation / max_generations
-    )
-
-    # Ensure that the crossover rate does not fall below the DECAY_FACTOR
-    return max(DECAY_FACTOR, INITIAL_CROSSOVER_RATE - decay)
-
-
 # Crossover Technique
 def uniform_crossover(parents, CROSSOVER_RATE):
     offsprings = []
     crossover_count = 0
     no_crossover_count = 0
 
-    for i in range(0, len(parents), 2):
-        parent1 = parents[i]
-        # Ensure there is a second parent to pair with
-        if i + 1 < len(parents):
-            parent2 = parents[i + 1]
+    while len(offsprings) < POPULATION_SIZE:
+        parent1 = random.choice(parents)
+        parent2 = random.choice(parents)
 
-            if random.random() < CROSSOVER_RATE:
-                child1 = []
-                child2 = []
-                for gene1, gene2 in zip(parent1, parent2):
-                    if random.random() < 0.5:
-                        child1.append(gene1)
-                        child2.append(gene2)
-                    else:
-                        child1.append(gene2)
-                        child2.append(gene1)
-                crossover_count += 1
-            else:
-                child1, child2 = parent1[:], parent2[:]
-                no_crossover_count += 1
+        if random.random() < CROSSOVER_RATE:
+            child1 = []
+            child2 = []
+            for gene1, gene2 in zip(parent1, parent2):
+                if random.random() < 0.5:
+                    child1.append(gene1)
+                    child2.append(gene2)
+                else:
+                    child1.append(gene2)
+                    child2.append(gene1)
+            crossover_count += 1
+        else:
+            child1, child2 = parent1[:], parent2[:]
+            no_crossover_count += 1
 
-            offsprings.extend([child1, child2])
+        offsprings.append(child1)
+        if len(offsprings) < POPULATION_SIZE:
+            offsprings.append(child2)
 
     return offsprings, crossover_count, no_crossover_count
 
@@ -229,7 +227,7 @@ if __name__ == "__main__":
     trait = get_NN_personality()
 
     # Initialize population
-    population = initialize_population(word_pool, trait)
+    population, fitness_pop = initialize_population(word_pool, trait)
 
     # Get the word list for the chosen trait for mutation
     selected_words = word_pool[trait]
@@ -249,26 +247,26 @@ if __name__ == "__main__":
 
         # Enter the main GA loop
         for generation in range(GENERATIONS):
+            print(f"Generation {generation+1}")
+            print("=" * 80)
             f.write(
                 f"========== Generation {generation + 1}/{GENERATIONS} ==========\n\n"
             )
 
             # [1] Selection
-            parents = tournament_selection(population)
+            parents = tournament_selection(population, fitness_pop)
             f.write("SELECTION\n")
             log_section(f, "Selected Parents", parents)
 
             # [2] Crossover
             # Get the adaptive crossover rate
-            adaptive_crossover_rate = get_adaptive_crossover_rate(
-                generation, GENERATIONS
-            )
+            crossover_rate = INITIAL_CROSSOVER_RATE
             offsprings, crossover_count, no_crossover_count = uniform_crossover(
-                parents, adaptive_crossover_rate
+                parents, crossover_rate
             )
             f.write("CROSSOVER\n")
             f.write("[Crossover Info]\n")
-            f.write(f"Adaptive Crossover Rate: {adaptive_crossover_rate:.4f}\n")
+            f.write(f"Crossover Rate: {crossover_rate:.4f}\n")
             f.write(f"Crossover Pairs: {crossover_count}\n")
             f.write(f"No Crossover Pairs: {no_crossover_count}\n\n")
             log_section(f, "Offspring after Crossover", offsprings)
@@ -290,14 +288,25 @@ if __name__ == "__main__":
             f.write(f"Adaptive Mutation Rate: {adaptive_mutation_rate:.4f}\n")
             f.write(f"Total Mutations: {mutation_count}\n\n")
             log_section(f, "New Population after Mutation", population)
+            fitness_pop = fitness(population)
 
         # End the GA loop
         f.write("=" * 40 + "\n")
         f.write("GA PROCESS COMPLETE\n")
 
         # Find and display the best individual from the final population
-        best_individual = max(population, key=fitness)
+        max_val = fitness_pop[0]
+        max_index = 0
+        for i in range(len(fitness_pop)):
+            if fitness_pop[i] > max_val:
+                max_val = fitness_pop[i]
+                max_index = i
+
+        # Determine the winner of each tournament_group based on fitness score
+        best_individual = population[max_index]
+
         result_message = f"Best Username Found: {''.join(best_individual)}\n"
 
         f.write(result_message)
         print(f"\n{result_message}")
+        print(f"Best Fitness: {fitness_pop[max_index]}")
