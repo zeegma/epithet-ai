@@ -43,8 +43,10 @@ def initialize_word_pool():
 
 
 # Personality NN output
-def get_NN_personality():
-    answers = [1, 1, 2, 3, 1, 3, 2, 4, 3, 2, 1, 2, 1, 1, 4]
+def get_NN_personality(answers=None):
+    if answers is None:
+        # Default for standlone use
+        answers = [1, 1, 2, 3, 1, 3, 2, 4, 3, 2, 1, 2, 1, 1, 4]
     chosen_trait = predict_personality(answers)
     return chosen_trait
 
@@ -214,6 +216,62 @@ def log_section(file, title, items):
     for i, item in enumerate(items):
         file.write(f"{i + 1: >3}. {''.join(item)}\n")
     file.write("\n")
+
+
+def run_ga(answers=None):
+    # Load word pool
+    word_pool = initialize_word_pool()
+
+    # Get the personality trait
+    trait = get_NN_personality(answers)
+
+    # Initialize population
+    population, fitness_pop = initialize_population(word_pool, trait)
+
+    # Get the word list for the chosen trait for mutation
+    selected_words = word_pool[trait]
+
+    # Calculate the max possible Levenshtein distance for normalization
+    longest_word_len = len(max(selected_words, key=len))
+
+    # Usernames are two words long
+    max_possible_distance = longest_word_len * 2
+
+    # Main GA loop
+    for generation in range(GENERATIONS):
+        # Step 1: Selection
+        parents = tournament_selection(population, fitness_pop)
+
+        # Step 2: Crossover
+        crossover_rate = INITIAL_CROSSOVER_RATE
+        offsprings, crossover_count, no_crossover_count = uniform_crossover(
+            parents, crossover_rate
+        )
+
+        # Step 3: Mutation
+        diversity = population_diversity(offsprings)
+        adaptive_mutation_rate = get_adaptive_mutation_rate(
+            diversity, max_possible_distance
+        )
+
+        population, mutation_count = mutate(
+            offsprings, selected_words, adaptive_mutation_rate
+        )
+        fitness_pop = fitness(population)
+
+    # Find and return the best individual from the final population
+    max_val = fitness_pop[0]
+    max_index = 0
+    for i in range(len(fitness_pop)):
+        if fitness_pop[i] > max_val:
+            max_val = fitness_pop[i]
+            max_index = i
+
+    best_individual = population[max_index]
+    best_username = "".join(best_individual)
+
+    # Return both the trait and the best username for BE usecase
+    return trait, best_username
 
 
 if __name__ == "__main__":
