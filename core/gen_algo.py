@@ -7,13 +7,13 @@ import joblib
 
 # GA parameters
 POPULATION_SIZE = 50
-GENERATIONS = 100
+GENERATIONS = 50
 TOURNAMENT_SIZE = 3
 NUM_PARENTS = 25
 INITIAL_CROSSOVER_RATE = 0.9
 DECAY_FACTOR = 0.5
 MIN_MUTATION_RATE = 0.05
-MAX_MUTATION_RATE = 0.1
+MAX_MUTATION_RATE = 0.2
 
 model = load_model("../models/creativity_model_final.keras")
 scaler = joblib.load("../training/nn_creativity/data/scaler.save")
@@ -41,7 +41,7 @@ def initialize_word_pool():
 # Personality NN output 
 def get_NN_personality():
     traits = ["artista" , "diva", "oa", "wildcard", "achiever", "emo", "gamer", "softie"]
-    chosen_trait = random.choice(traits)
+    chosen_trait = "artista"
     return chosen_trait
     
 # Initialize Population
@@ -73,7 +73,6 @@ def fitness(population):
 def tournament_selection(population, fitness_pop):
     parents = []
     for _ in range(NUM_PARENTS):
-        # Select a subset of the population for tournament
         tournament_group = random.sample(population, TOURNAMENT_SIZE)
         tournament_indices = [population.index(ind) for ind in tournament_group]
 
@@ -83,11 +82,11 @@ def tournament_selection(population, fitness_pop):
             if fitness_pop[indices] > max_val:
                 max_val = fitness_pop[indices]
                 max_index = indices
-        
-        # Determine the winner of each tournament_group based on fitness score
+
         winner = population[max_index]
         parents.append(winner)
-    return parents
+    
+    return parents 
 
 # Levenshtein Distance: Measures the difference between two strings
 def levenshtein_distance(s1, s2):
@@ -155,29 +154,29 @@ def uniform_crossover(parents, CROSSOVER_RATE):
     crossover_count = 0
     no_crossover_count = 0
 
-    for i in range(0, len(parents), 2):
-        parent1 = parents[i]
-        # Ensure there is a second parent to pair with
-        if i + 1 < len(parents):
-            parent2 = parents[i + 1]
-            
-            if random.random() < CROSSOVER_RATE:
-                child1 = []
-                child2 = []
-                for gene1, gene2 in zip(parent1, parent2):
-                    if random.random() < 0.5:
-                        child1.append(gene1)
-                        child2.append(gene2)
-                    else:
-                        child1.append(gene2)
-                        child2.append(gene1)
-                crossover_count += 1
-            else:
-                child1, child2 = parent1[:], parent2[:]
-                no_crossover_count += 1
+    while len(offsprings) < POPULATION_SIZE:
+        parent1 = random.choice(parents)
+        parent2 = random.choice(parents)
 
-            offsprings.extend([child1, child2])
-    
+        if random.random() < CROSSOVER_RATE:
+            child1 = []
+            child2 = []
+            for gene1, gene2 in zip(parent1, parent2):
+                if random.random() < 0.5:
+                    child1.append(gene1)
+                    child2.append(gene2)
+                else:
+                    child1.append(gene2)
+                    child2.append(gene1)
+            crossover_count += 1
+        else:
+            child1, child2 = parent1[:], parent2[:]
+            no_crossover_count += 1
+
+        offsprings.append(child1)
+        if len(offsprings) < POPULATION_SIZE:
+            offsprings.append(child2)
+
     return offsprings, crossover_count, no_crossover_count
 
 # Mutation Technique
