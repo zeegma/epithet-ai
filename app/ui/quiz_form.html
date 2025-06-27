@@ -12,7 +12,6 @@
         background-position: center top 3px;
         background-repeat: no-repeat;
         background-attachment: fixed;
-        animation: fadeIn 1s ease-in-out;
         overflow-x: hidden;
       }
 
@@ -28,22 +27,30 @@
       .quiz-container {
         position: fixed;
         top: 60%;
-        left: 50%;
-        transform: translate(-50%, -50%);
+        left: 55%;
+        transform: translate(-40%, -50%);
         display: flex;
         flex-direction: column;
         align-items: center;
         z-index: 999;
+        animation: fadeIn 0.5s ease-in-out;
+      }
+
+      .fade-in {
+        animation: fadeIn 0.3s ease-in-out forwards;
       }
 
       .image-button {
         background: none;
         border: none;
         padding: 0;
-        margin-bottom: 8px;
+        margin-bottom: 12px;
         cursor: pointer;
         position: relative;
-        transition: transform 0.2s ease;
+        display: inline-block;
+        transition: transform 0.15s ease;
+        width: 650px;
+        height: auto;
       }
 
       .image-button img {
@@ -64,9 +71,18 @@
         pointer-events: none;
       }
 
+      .image-button:hover {
+        transform: scale(1.02);
+      }
+
+      .image-button:active {
+        transform: scale(0.98);
+      }
+
       .image-button.selected {
-        transform: scale(1.03);
+        transform: scale(0.97);
         outline: 4px solid #e72b29;
+        outline-offset: -4px;
         border-radius: 10px;
       }
 
@@ -82,6 +98,15 @@
         padding: 10px 20px;
         font-size: 16px;
         cursor: pointer;
+        transition: transform 0.15s ease;
+      }
+
+      .nav-buttons button:hover {
+        transform: scale(1.05);
+      }
+
+      .nav-buttons button:active {
+        transform: scale(0.95);
       }
     </style>
   </head>
@@ -110,21 +135,36 @@
           const res = await fetch("../questions.json");
           const data = await res.json();
           questions = data.questions;
-          renderQuestion(currentIndex);
+          renderQuestion(currentIndex, true);
         } catch (err) {
           alert("Failed to load questions.json");
           console.error(err);
         }
       }
 
-      function renderQuestion(index) {
+      function renderQuestion(index, skipAnimation = false) {
+        const container = document.getElementById("quiz-container");
+
+        if (!skipAnimation) {
+          container.classList.add("fade-out");
+          setTimeout(() => {
+            container.classList.remove("fade-out");
+            container.classList.add("fade-in");
+            actuallyRender(index);
+            setTimeout(() => container.classList.remove("fade-in"), 300);
+          }, 300);
+        } else {
+          actuallyRender(index);
+        }
+      }
+
+      function actuallyRender(index) {
         const container = document.getElementById("quiz-container");
         container.innerHTML = "";
 
         const q = questions[index];
         const options = [q.A, q.B, q.C, q.D];
 
-        // Set background
         document.body.style.backgroundImage = `url(${q.bg})`;
 
         options.forEach((text, i) => {
@@ -135,12 +175,8 @@
           }
 
           btn.onclick = () => {
-            if (answerList[index] === i + 1) {
-              answerList[index] = null;
-            } else {
-              answerList[index] = i + 1;
-            }
-            renderQuestion(index); // Rerender to update selection state
+            answerList[index] = answerList[index] === i + 1 ? null : i + 1;
+            renderQuestion(index);
           };
 
           const img = document.createElement("img");
@@ -157,6 +193,10 @@
 
         document.getElementById("prevBtn").style.display =
           index === 0 ? "none" : "inline-block";
+
+        const nextBtn = document.getElementById("nextBtn");
+        nextBtn.textContent =
+          index === questions.length - 1 ? "SUBMIT" : "NEXT ➡";
       }
 
       function nextQuestion() {
@@ -164,7 +204,22 @@
           currentIndex++;
           renderQuestion(currentIndex);
         } else {
-          alert("Quiz completed!\nYour answers: " + JSON.stringify(answerList));
+          fetch("http://127.0.0.1:8000/generate-username", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ answers: answerList }),
+          })
+            .then((res) => {
+              if (!res.ok) throw new Error("Failed to submit answers.");
+              return res.json();
+            })
+            .then((data) => {
+              alert("Username generated: " + data.username);
+            })
+            .catch((err) => {
+              console.error(err);
+              alert("Error submitting answers.");
+            });
         }
       }
 
