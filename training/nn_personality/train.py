@@ -3,6 +3,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report, confusion_matrix
 from core.models.personality_nn import PersonalityNN
 from training.nn_personality.load_data import load_data
+from training.nn_personality.chart import TrainingVisualizer
 
 
 def print_section(title, width=60):
@@ -63,6 +64,9 @@ def train():
         optimizer, patience=3, factor=0.5
     )
 
+    # Initialize visualizer
+    visualizer = TrainingVisualizer()
+
     # Define target
     target_epochs = 100000
 
@@ -88,16 +92,33 @@ def train():
         # Step 4: Update parameters
         optimizer.step()
 
-        # Then just print validation tracking every 1000 epochs
-        if (epoch + 1) % 1000 == 0:
+        # Then just print validation tracking every 100 epochs
+        if (epoch + 1) % 100 == 0:
             model.eval()
             with torch.no_grad():
                 val_pred = model(X_val)
                 val_loss = loss_fn(val_pred, y_val)
+
+                # Calculate accuracies for visualization
+                train_pred = model(X_train)
+                train_acc = (
+                    (torch.argmax(train_pred, dim=1) == y_train).float().mean().item()
+                )
+                val_acc = (torch.argmax(val_pred, dim=1) == y_val).float().mean().item()
+
             model.train()
 
+            # Get current learning rate
+            current_lr = optimizer.param_groups[0]["lr"]
+
+            # Update visualizer
+            visualizer.update_metrics(
+                epoch + 1, loss.item(), val_loss.item(), current_lr, train_acc, val_acc
+            )
+
             print(
-                f"Epoch {epoch + 1} - Train Loss: {loss.item():.4f}, Val Loss: {val_loss.item():.4f}"
+                f"Epoch {epoch + 1} - Train Loss: {loss.item():.4f}, Val Loss: {val_loss.item():.4f}, "
+                f"Train Acc: {train_acc:.4f}, Val Acc: {val_acc:.4f}"
             )
 
             # Learning rate scheduling
@@ -130,7 +151,15 @@ def train():
     print(f"Best Validation Loss: {best_val_loss:.4f}")
     print(f"Training epochs: {epoch + 1}")
 
-    # Evaluate all sets
+    # Generate all visualizations
+    print("\nGenerating training visualizations...")
+    visualizer.plot_training_summary()
+    visualizer.plot_loss_convergence()
+    visualizer.plot_accuracy_progression()
+    visualizer.save_metrics_to_file()
+    visualizer.print_final_summary()
+
+    # Final evaluation (your existing code)
     print("\n" + "=" * 60)
     print("MODEL EVALUATION SUMMARY".center(60))
     print("=" * 60)
