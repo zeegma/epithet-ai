@@ -2,12 +2,20 @@ import streamlit as st
 import base64
 from pathlib import Path
 
-def set_quiz_background():
-    bg_path = Path("assets/questions/bg1.png")
-    if not bg_path.exists():
-        st.error("Background image not found at assets/question/bg1.png")
+def set_quiz_background(index):
+    bg_files = [f"assets/questions/bg{i+1}.png" for i in range(15)]
+
+    if index < 0 or index >= len(bg_files):
+        st.error("Invalid question index for background.")
         return
+
+    bg_path = Path(bg_files[index])
+    if not bg_path.exists():
+        st.error(f"Background image not found at {bg_path}")
+        return
+
     bg_encoded = base64.b64encode(bg_path.read_bytes()).decode()
+
     st.markdown(
         f"""
         <style>
@@ -23,42 +31,52 @@ def set_quiz_background():
             from {{ opacity: 0; }}
             to {{ opacity: 1; }}
         }}
-        .main .block-container {{
-            padding-top: 2rem;
-            padding-bottom: 2rem;
-            background-color: rgba(255, 255, 255, 0.75); 
-            border-radius: 20px;
-            margin: 2rem auto;
-            max-width: 800px;
-        }}
         </style>
         """,
         unsafe_allow_html=True
     )
 
 def show():
-    set_quiz_background()
-    
+    if "question_index" not in st.session_state:
+        st.session_state.question_index = 0
+
+    # Add vertical space to push buttons downward
+    st.markdown("<div style='height: 560px;'></div>", unsafe_allow_html=True)
+
+    # Navigation buttons at bottom
+    nav1, nav2 = st.columns([1, 1])
+    with nav1:
+        pass  
+    with nav2:
+        col_prev, col_next = st.columns([1, 1])
+        with col_prev:
+            if st.button("⬅ PREV") and st.session_state.question_index > 0:
+                st.session_state.question_index -= 1
+        with col_next:
+            if st.button("NEXT ➡") and st.session_state.question_index < 14:
+                st.session_state.question_index += 1
+
+    set_quiz_background(st.session_state.question_index)
+
     def load_button_base64(filename):
         path = Path(f"assets/buttons/{filename}")
         if not path.exists():
             st.error(f"Image not found: {filename}")
             return ""
         return base64.b64encode(path.read_bytes()).decode()
-    
+
     button_a = load_button_base64("button_a.png")
     button_b = load_button_base64("button_b.png")
     button_c = load_button_base64("button_c.png")
     button_d = load_button_base64("button_d.png")
-    
-    # Your quiz options text
+
     option_texts = [
         "A) Your first option text here",
         "B) Your second option text here", 
         "C) Your third option text here",
         "D) Your fourth option text here"
     ]
-    
+
     buttons_html = f"""
     <div style="
         position: fixed;
@@ -87,14 +105,16 @@ def show():
             <span class="button-text">{option_texts[3]}</span>
         </button>
     </div>
-    
-    <!-- Navigation Buttons outside floating container -->
-    <div class="quiz-nav-buttons">
-        <button class="quiz-button">PREV</button>
-        <button class="quiz-button">NEXT</button>
-    </div>
-    
+
     <style>
+        div[data-testid="column"]:has(button) {{
+        position: fixed !important;
+        bottom: 20px;
+        right: 30px;
+        display: flex !important;
+        gap: 5px !important;
+        z-index: 10000;
+    }}
     .image-button {{
         background: none;
         border: none;
@@ -102,25 +122,25 @@ def show():
         margin-bottom: 3px;
         cursor: pointer;
         transition: transform 0.2s ease;
-        position: relative; /* Important for absolute positioning of text */
+        position: relative;
         display: inline-block;
     }}
-    
+
     .image-button:hover {{
         transform: scale(1.02);
     }}
-    
+
     .image-button:active {{
         transform: scale(0.98);
     }}
-    
+
     .image-button img {{
         width: 650px;
         display: block;
         pointer-events: none;
         user-select: none;
     }}
-    
+
     .button-text {{
         position: absolute;
         top: 50%;
@@ -138,33 +158,7 @@ def show():
         line-height: 1.2;
         z-index: 1;
     }}
-    
-    .quiz-nav-buttons {{
-        position: fixed;
-        bottom: 20px;
-        right: 300px;
-        display: flex;
-        gap: 20px;
-        z-index: 999;
-    }}
-    
-    .quiz-button {{
-        padding: 8px 24px;
-        font-size: 16px;
-        font-family: 'Samaritan Antique', cursive;
-        background-color: #FF9500;
-        color: white;
-        border: none;
-        cursor: pointer;
-        box-shadow: 0px 4px 8px rgba(0,0,0,1);
-        transition: transform 0.2s, background-color 0.3s;
-    }}
-    
-    .quiz-button:hover {{
-        background-color: #e57f00;
-        transform: scale(1.05);
-    }}
     </style>
     """
-    
+
     st.markdown(buttons_html, unsafe_allow_html=True)
