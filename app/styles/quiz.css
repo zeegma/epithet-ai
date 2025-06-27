@@ -5,6 +5,7 @@ body {
   background-position: center top 3px;
   background-repeat: no-repeat;
   background-attachment: fixed;
+  transition: background-image 0.3s ease-in-out;
   overflow-x: hidden;
 }
 

@@ -9,11 +9,19 @@ const buttonImages = [
   "assets/buttons/button_d.png",
 ];
 
+function preloadBackgroundImages() {
+  questions.forEach((q) => {
+    const img = new Image();
+    img.src = q.bg;
+  });
+}
+
 async function loadQuestions() {
   try {
     const res = await fetch("data/questions.json");
     const data = await res.json();
     questions = data.questions;
+    preloadBackgroundImages();
     renderQuestion(currentIndex, true);
   } catch (err) {
     alert("Failed to load questions.json");
@@ -44,7 +52,11 @@ function actuallyRender(index) {
   const q = questions[index];
   const options = [q.A, q.B, q.C, q.D];
 
-  document.body.style.backgroundImage = `url(${q.bg})`;
+  const bg = new Image();
+  bg.src = q.bg;
+  bg.onload = () => {
+    document.body.style.backgroundImage = `url(${q.bg})`;
+  };
 
   options.forEach((text, i) => {
     const btn = document.createElement("button");
