@@ -1,22 +1,30 @@
 import pandas as pd
 import random
 import os
+from keras.models import load_model
+from creativity_nn import creativity_nn
+import joblib
 
 # GA parameters
-POPULATION_SIZE = 100
-GENERATIONS = 100
+POPULATION_SIZE = 50
+GENERATIONS = 50
 TOURNAMENT_SIZE = 3
-NUM_PARENTS = 50
+NUM_PARENTS = 25
 INITIAL_CROSSOVER_RATE = 0.9
 DECAY_FACTOR = 0.5
 MIN_MUTATION_RATE = 0.05
 MAX_MUTATION_RATE = 0.1
 
+TRAINED_MODEL = "../models/creativity_model64.keras"
+model = load_model("../models/creativity_model64.keras")
+scaler = joblib.load("../training/nn_creativity/data/scaler.save")
+
+
 def initialize_word_pool():
     try:
         print("\n[PROCESS] Parsing word_pool.xlsx...")
 
-        df = pd.read_excel('data\word_pool.xlsx')
+        df = pd.read_excel('..\data\word_pool.xlsx')
         df = df.map(lambda x: str(x).strip().replace('\xa0', '') if pd.notnull(x) else x)
         print("[STATUS] Successfully read word_pool.xlsx")
         word_categories = {}
@@ -34,7 +42,7 @@ def initialize_word_pool():
 # Personality NN output 
 def get_NN_personality():
     traits = ["artista" , "diva", "oa", "wildcard", "achiever", "emo", "gamer", "softie"]
-    chosen_trait = random.choice(traits)
+    chosen_trait = "gamer"
     return chosen_trait
     
 # Initialize Population
@@ -53,11 +61,11 @@ def initialize_population(word_pool, trait):
     return population
 
 # Fitness Function
-def fitness(individual):
+def fitness(population):
     # Return fitness score as basis of selection
     # Replace fitness score (creativity score) once Creativity NN is done
     # Import Creativity NN and use its function
-    return random.random()
+    return creativity_nn(population, model, scaler)
 
 # Parent Selection
 def tournament_selection(population):
@@ -122,14 +130,14 @@ def get_adaptive_mutation_rate(diversity_score, max_possible_distance):
     # Ensure the rate is within the defined min/max bounds
     return max(MIN_MUTATION_RATE, min(mutation_rate, MAX_MUTATION_RATE))
 
-# Crossover Rate decreases each generation
-def get_adaptive_crossover_rate(current_generation, max_generations):
+# # Crossover Rate decreases each generation
+# def get_adaptive_crossover_rate(current_generation, max_generations):
 
-    # Calculate how much the crossover rate should decrease based on the current generation
-    decay = (INITIAL_CROSSOVER_RATE - DECAY_FACTOR) * (current_generation / max_generations)
+#     # Calculate how much the crossover rate should decrease based on the current generation
+#     decay = (INITIAL_CROSSOVER_RATE - DECAY_FACTOR) * (current_generation / max_generations)
     
-    # Ensure that the crossover rate does not fall below the DECAY_FACTOR
-    return max(DECAY_FACTOR, INITIAL_CROSSOVER_RATE - decay)
+#     # Ensure that the crossover rate does not fall below the DECAY_FACTOR
+#     return max(DECAY_FACTOR, INITIAL_CROSSOVER_RATE - decay)
 
 # Crossover Technique
 def uniform_crossover(parents, CROSSOVER_RATE):
@@ -206,6 +214,9 @@ if __name__ == "__main__":
 
     # Initialize population
     population = initialize_population(word_pool, trait)
+    # population = 100 -> tournament_selection -> 50 parents (OF GEN 1)
+    # parents = 50 -> end
+
     
     # Get the word list for the chosen trait for mutation
     selected_words = word_pool[trait]
@@ -225,6 +236,8 @@ if __name__ == "__main__":
 
         # Enter the main GA loop
         for generation in range(GENERATIONS):
+            print(f"Generation {generation+1}")
+            print("="*80)
             f.write(f"========== Generation {generation + 1}/{GENERATIONS} ==========\n\n")
 
             # [1] Selection
@@ -234,7 +247,7 @@ if __name__ == "__main__":
             
             # [2] Crossover
             # Get the adaptive crossover rate
-            adaptive_crossover_rate = get_adaptive_crossover_rate(generation, GENERATIONS)
+            adaptive_crossover_rate = INITIAL_CROSSOVER_RATE
             offsprings, crossover_count, no_crossover_count = uniform_crossover(parents, adaptive_crossover_rate)
             f.write("CROSSOVER\n")
             f.write("[Crossover Info]\n")

@@ -11,9 +11,9 @@ SCALER = "../training/nn_creativity/data/scaler.save"
 
 
 # Main function that takes in the two words and the loaded model
-def creativity_nn(input_username: list, model):
+def creativity_nn(input_username: list, model, scaler):
     embedded = get_embeddings(input_username)
-    return predict_creativity(embedded, model)
+    return predict_creativity(embedded, model, scaler)
 
 # Convert raw username into embeddings
 def get_embeddings(input_username: list):
@@ -38,9 +38,8 @@ def get_embeddings(input_username: list):
     return np.array(X)
 
 # Predicts the username's creativity
-def predict_creativity(X, model):
+def predict_creativity(X, model, scaler):
 
-    scaler = joblib.load(SCALER)
     x_scaled = scaler.transform(X)
 
     # Predict and evaluate using the testing split
