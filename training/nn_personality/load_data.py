@@ -14,7 +14,7 @@ def load_data():
     df = df.dropna()
 
     # Inputs: Q1 to Q15 answers
-    X = df[[f"Q{i}" for i in range(1, 16)]].values
+    X = df[[f"Q{i}" for i in range(1, 16)]].values.astype(int)
 
     y = LabelEncoder().fit_transform(df["Personality"])
 
