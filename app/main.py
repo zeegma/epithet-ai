@@ -8,7 +8,7 @@ def main():
         layout="wide"
     )
 
-    # Use new st.query_params API (recommended way now)
+    # Use new st.query_params API
     page = st.query_params.get("page", "landing")
 
     # Save to session_state if needed
@@ -18,6 +18,7 @@ def main():
     if page == 'landing':
         landing_page.show()
     elif page == 'quiz':
+        
         quiz_form.show()
     elif page == 'results':
         result_display.show()
