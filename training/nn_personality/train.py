@@ -1,10 +1,8 @@
 import torch
-import joblib
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report, confusion_matrix
 from core.models.personality_nn import PersonalityNN
 from training.nn_personality.load_data import load_data
-from training.nn_personality.preprocess import preprocess
 
 
 def print_section(title, width=60):
@@ -38,11 +36,10 @@ def evaluate_model(model, loss_fn, X, y, set_name=""):
 def train():
     # Load and preprocess data
     X, y = load_data()
-    X_scaled, scaler = preprocess(X)
 
     # Split into train (60%), temp (40%) i.e. val + test
     X_train, X_temp, y_train, y_temp = train_test_split(
-        X_scaled, y, test_size=0.4, random_state=42, stratify=y
+        X, y, test_size=0.4, random_state=42, stratify=y
     )
 
     # Then split 40% temp into 50% val & 50% test (20% each in actuality)
@@ -50,25 +47,28 @@ def train():
         X_temp, y_temp, test_size=0.5, random_state=42, stratify=y_temp
     )
 
-    # Convert to PyTorch tensors
-    X_train = torch.tensor(X_train, dtype=torch.float32)
+    # Convert to PyTorch tensors (as integer input for embedding layers)
+    X_train = torch.tensor(X_train, dtype=torch.long)
     y_train = torch.tensor(y_train, dtype=torch.long)
-    X_test = torch.tensor(X_test, dtype=torch.float32)
+    X_test = torch.tensor(X_test, dtype=torch.long)
     y_test = torch.tensor(y_test, dtype=torch.long)
-    X_val = torch.tensor(X_val, dtype=torch.float32)
+    X_val = torch.tensor(X_val, dtype=torch.long)
     y_val = torch.tensor(y_val, dtype=torch.long)
 
     # Initialize model
     model = PersonalityNN()
     loss_fn = torch.nn.CrossEntropyLoss()
-    optimizer = torch.optim.Adam(model.parameters(), lr=0.0001, weight_decay=1e-4)
+    optimizer = torch.optim.Adam(model.parameters(), lr=0.00005, weight_decay=1e-3)
+    scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(
+        optimizer, patience=3, factor=0.5
+    )
 
     # Define target
     target_epochs = 100000
 
     # Early stopping variables
     best_val_loss = float("inf")
-    patience = 10
+    patience = 5
     patience_counter = 0
 
     # Main training loop
@@ -97,8 +97,11 @@ def train():
             model.train()
 
             print(
-                f"Epoch {epoch+1} - Train Loss: {loss.item():.4f}, Val Loss: {val_loss.item():.4f}"
+                f"Epoch {epoch + 1} - Train Loss: {loss.item():.4f}, Val Loss: {val_loss.item():.4f}"
             )
+
+            # Learning rate scheduling
+            scheduler.step(val_loss.item())
 
             # Early stopping logic
             if val_loss.item() < best_val_loss:
@@ -106,7 +109,6 @@ def train():
                 patience_counter = 0
                 # Save the best model and scaler
                 torch.save(model.state_dict(), "models/personality_model_best.pt")
-                joblib.dump(scaler, "models/personality_scaler_best.pkl")
                 print(f"> New best model saved >>> Val Loss: {best_val_loss:.4f}")
             else:
                 patience_counter += 1
@@ -117,9 +119,11 @@ def train():
                 )
                 break
 
-    # Save final model and scaler (in case early stopping didn't trigger)
+    # Load best model before evaluation
+    model.load_state_dict(torch.load("models/personality_model_best.pt"))
+
+    # Save final model (in case early stopping didn't trigger)
     torch.save(model.state_dict(), "models/personality_model_final.pt")
-    joblib.dump(scaler, "models/personality_scaler_final.pkl")
 
     # Final evaluation flow
     print_section("TRAINING COMPLETE")
