@@ -1,4 +1,5 @@
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from typing import List
 import uvicorn
@@ -12,6 +13,16 @@ from core.models.gen_algo import run_ga
 
 
 app = FastAPI(title="Epithet AI API", version="1.0.0")
+
+
+# Add CORS middleware to allow all frontend requests
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 
 class AnswersRequest(BaseModel):
