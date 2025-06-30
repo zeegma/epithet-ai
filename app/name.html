@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/x-icon" href="./assets/favicon.ico">
+    <link rel="stylesheet" href="./styles/name.css" />
+    <title>Epithet AI: Submit Name</title>
+  </head>
+  <body>
+    <div class="form-container">
+      <input
+        type="text"
+        class="name-input"
+        placeholder="Enter name (max 8 letters, no symbols)"
+        maxlength="8"
+        pattern="[A-Za-z\s]*"
+      />
+
+      <div class="nav-buttons">
+        <button type="submit" onclick="submitName()">SUBMIT</button>
+      </div>
+    </div>
+    <script src="./scripts/name.js"></script>
+  </body>
+</html>

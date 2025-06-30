@@ -1,0 +1,73 @@
+@font-face {
+  font-family: "SamaritanBold";
+  src: url("../assets/fonts/SamaritanBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "SamaritanRegular";
+  src: url("../assets/fonts/SamaritanRegular.ttf") format("truetype");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
+
+.username-container {
+  position: fixed;
+  text-align: center;
+  top: 22.5%;
+  left: 32%;
+  width: 675px;
+}
+
+.result-container {
+  position: fixed;
+  top: 57%;
+  left: 38%;
+  width: 550px;
+  color: white;
+}
+
+#username-display {
+  font-family: "SamaritanBold", sans-serif;
+  text-transform: uppercase;
+  font-size: 2.5em;
+  color: black;
+}
+
+#result-display {
+  font-family: "SamaritanRegular", sans-serif;
+  text-transform: uppercase;
+  font-size: 1.4em;
+  line-height: 1.5;
+}
+
+.return-button {
+  position: fixed;
+  bottom: 100px;
+  left: 55%;
+  transform: translateX(-50%);
+  background-color: #ff9500;
+  color: black;
+  padding: 16px 28px;
+  border: none;
+  font-family: "SamaritanBold", sans-serif;
+  font-size: 1.4em;
+  cursor: pointer;
+  box-shadow: -14px 14px 0px black;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.return-button:hover {
+  background-color: #da8003;
+}
