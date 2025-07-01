@@ -45,6 +45,9 @@ This project integrates a neural network and genetic algorithm to generate perso
     <a href="#application-snapshots">Application Snapshots</a>
   </li>
   <li>
+    <a href="#folder-structure">Folder Structure</a>
+  </li>
+  <li>
     <a href="#contributors">Contributors</a>
   </li>
   <li>
@@ -247,3 +250,9 @@ epithet/
     </tbody>
   </table>
 </section>
+
+<!-- LICENSE -->
+## License
+Distributed under the [Creative Commons Attribution-NoDerivatives 4.0 International](https://github.com/vitorsr/cc/blob/master/CC-BY-ND-4.0.md) License. See [LICENSE](LICENSE) for more information.
+
+<p align="right">[<a href="#readme-top">Back to top</a>]</p>
