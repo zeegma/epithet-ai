@@ -69,7 +69,7 @@ This project integrates a neural network and genetic algorithm to generate perso
 - **[Python](https://www.python.org/)** – Core language for backend logic, neural network, and genetic algorithm implementation.
 - **[FastAPI](https://fastapi.tiangolo.com/)** – Web framework for building and handling REST API endpoints.
 - **[Keras](https://keras.io/)** / **[TensorFlow](https://www.tensorflow.org/)** – Deep learning libraries used to train and run the personality-to-username neural network model.
-- **[DEAP](https://deap.readthedocs.io/)** – Evolutionary algorithm framework used to implement the genetic algorithm for optimizing usernames.
+- **[PyTorch](https://pytorch.org/)** – Deep learning framework used to train and deploy the neural networks for personality and creativity modeling.
 
 ### Frontend
 - **[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)** – Markup language for structuring the UI of the landing page, quiz, and results.
@@ -79,7 +79,6 @@ This project integrates a neural network and genetic algorithm to generate perso
 ### Development Tools
 - **[Git](https://git-scm.com/)** & **[GitHub](https://github.com/)** – Version control and collaborative development.
 - **[pipenv](https://pipenv.pypa.io/)** or `requirements.txt` – Dependency management for consistent environments.
-- **[pytest](https://docs.pytest.org/)** – Python testing framework used for unit and integration testing.
 
 <!-- APPLICATION SNAPSHOTS -->
 ## Application Snapshots
